@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500780",
+  "GAMEDATE": "2026-02-11",
+  "teams": [
+    "NYK",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "NYK",
+  "gameEt": "2026-02-11T19:30:00Z",
+  "gameTimeUTC": "2026-02-12T00:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-phi-0022500780",
+  "fetched_at_utc": "2026-10-21T07:01:38.693231+00:00",
+  "html_sha256": "8927faf7376bbfa7c78430b3a2849dbcee21db89f726d35df3c83dbd8ee7ce18"
+}

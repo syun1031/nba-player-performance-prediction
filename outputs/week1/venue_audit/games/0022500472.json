@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500472",
+  "GAMEDATE": "2026-01-01",
+  "teams": [
+    "DET",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "MIA",
+  "gameEt": "2026-01-01T19:00:00Z",
+  "gameTimeUTC": "2026-01-02T00:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-mia-0022500472",
+  "fetched_at_utc": "2026-10-21T06:59:36.173435+00:00",
+  "html_sha256": "46d5d6168e4821e9d1be549ea96c54b1b679723df1a97f0414a767fe6a965986"
+}

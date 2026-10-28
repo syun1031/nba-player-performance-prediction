@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500141",
+  "GAMEDATE": "2025-10-30",
+  "teams": [
+    "MIA",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "MIA",
+  "gameEt": "2025-10-30T20:30:00Z",
+  "gameTimeUTC": "2025-10-31T00:30:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-sas-0022500141",
+  "fetched_at_utc": "2026-10-21T06:57:25.354332+00:00",
+  "html_sha256": "a750b00262e3901a4e649665ddedc09efefd57e7dd483622bffb7fbfb9c3a0b6"
+}

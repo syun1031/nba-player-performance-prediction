@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500207",
+  "GAMEDATE": "2025-11-11",
+  "teams": [
+    "BKN",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "TOR",
+  "gameEt": "2025-11-11T19:30:00Z",
+  "gameTimeUTC": "2025-11-12T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-tor-0022500207",
+  "fetched_at_utc": "2026-10-21T06:57:49.929519+00:00",
+  "html_sha256": "93b8224d11ce870b54f2cea0692d6a3fe296a759339f62466961cca9c6d21bc6"
+}

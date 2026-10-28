@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500374",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "MIL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "TOR",
+  "gameEt": "2025-12-18T20:00:00Z",
+  "gameTimeUTC": "2025-12-19T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-tor-0022500374",
+  "fetched_at_utc": "2026-10-21T06:58:55.566072+00:00",
+  "html_sha256": "d12bb6d2062deb1f4cbac94a7d82695d99011cbd513247caafb0535c5b5f8f02"
+}

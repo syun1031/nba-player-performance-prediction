@@ -1,0 +1,67 @@
+{
+  "status": "locked_for_future_test_not_tested",
+  "selection_basis": "February MAE then RMSE; original tie rules",
+  "result": {
+    "model": "xgboost",
+    "features": "starter",
+    "parameter_id": "xgboost_02",
+    "split": "validation",
+    "n": 3462,
+    "mae": 4.611462583265023,
+    "rmse": 5.971036372030776
+  },
+  "params": {
+    "n_estimators": 150,
+    "max_depth": 2,
+    "learning_rate": 0.05,
+    "min_child_weight": 10,
+    "subsample": 1.0,
+    "colsample_bytree": 1.0,
+    "reg_alpha": 0.0,
+    "reg_lambda": 1.0,
+    "objective": "reg:squarederror",
+    "tree_method": "hist",
+    "device": "cpu",
+    "n_jobs": 2,
+    "random_state": 42
+  },
+  "feature_columns": [
+    "pts_mean_5",
+    "pts_mean_10",
+    "min_mean_5",
+    "reb_mean_5",
+    "ast_mean_5",
+    "is_home",
+    "is_neutral_site",
+    "rest_days",
+    "is_starter"
+  ],
+  "model_file": "models\\xgboost_starter.joblib",
+  "model_sha256": "b26947a50af74f02f726d34d9445d3a18cda841d29a51644e9a7c68fadb3eb51",
+  "encoder_file": null,
+  "encoder_sha256": null,
+  "training_samples": 13281,
+  "fit_through": "2026-01-31",
+  "validation_samples": 3462,
+  "validation_sample_manifest": "predictions_february.csv",
+  "validation_manifest_sha256": "a711efaceff5fea05ab93fda1bd7ede4197179b6b0f8a24d825b788e4e800714",
+  "source_sha256": {
+    "outputs\\week1\\team_lineup_features\\train.csv": "4c20d4e32a5c74cda7506c216c04d9f1c9272c0a35df9d909195fbfa1dd3096e",
+    "outputs\\week1\\team_lineup_features\\validation.csv": "62038b51346eb2e049df30f50109711b3e45dfa9b5c67cdf7a32438b69456151",
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_game_rosters.csv": "b110fd023c73c98af5fa459141210e37be43cd305d197baf60752c389d39c08c",
+    "outputs\\week1\\teammate_encoding\\teammate_encoder.json": "ea877f64a64c4cbc93832194b478824a2f6c69573137d3d2df9930023d9e0aa2"
+  },
+  "test_evaluated": false,
+  "information_policy": "Historical postgame lineup; hypothetical date-isolated backtest",
+  "versions": {
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "matplotlib": "3.11.2",
+    "joblib": "1.6.0"
+  },
+  "experiment_config": "experiment_config.json",
+  "experiment_config_sha256": "89e2537711c21a59e7ca7ecd5bf32c4fedc81044928b32f5176743efdb076b15",
+  "training_sample_manifest": "training_sample_manifest.csv",
+  "training_manifest_sha256": "981df88b00d442cc510f05a81f2cf2e2585209ec5b4c217ff0878b6252962dd7"
+}

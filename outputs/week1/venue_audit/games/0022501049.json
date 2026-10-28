@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501049",
+  "GAMEDATE": "2026-03-24",
+  "teams": [
+    "CLE",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "ORL",
+  "gameEt": "2026-03-24T20:00:00Z",
+  "gameTimeUTC": "2026-03-25T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-orl-0022501049",
+  "fetched_at_utc": "2026-10-21T07:03:21.539398+00:00",
+  "html_sha256": "7cf545f3295b34f1ff0d68c30217e8c88e0a80fb7adbc1f218b1da245f228242"
+}

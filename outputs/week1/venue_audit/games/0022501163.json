@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501163",
+  "GAMEDATE": "2026-04-08",
+  "teams": [
+    "LAC",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "OKC",
+  "gameEt": "2026-04-08T22:00:00Z",
+  "gameTimeUTC": "2026-04-09T02:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-okc-0022501163",
+  "fetched_at_utc": "2026-10-21T07:04:08.706116+00:00",
+  "html_sha256": "d1092eab1b8dfbcfd5eeb723b5e996c530bdc2bace184bcc989e7f08001b30f2"
+}

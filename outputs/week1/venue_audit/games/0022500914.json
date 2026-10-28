@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500914",
+  "GAMEDATE": "2026-03-06",
+  "teams": [
+    "IND",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "IND",
+  "gameEt": "2026-03-06T22:30:00Z",
+  "gameTimeUTC": "2026-03-07T03:30:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-lal-0022500914",
+  "fetched_at_utc": "2026-10-21T07:02:34.061437+00:00",
+  "html_sha256": "8cac4f393899e1abe12c7bee1e5ce1edb01628d3c8ec1e3a1c4245e609ef3113"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500031",
+  "GAMEDATE": "2025-11-07",
+  "teams": [
+    "BKN",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "DET",
+  "gameEt": "2025-11-07T19:30:00Z",
+  "gameTimeUTC": "2025-11-08T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-det-0022500031",
+  "fetched_at_utc": "2026-10-21T06:56:42.146439+00:00",
+  "html_sha256": "df2bcf756ce146c6c924c6a8dec2da4e77c68e7d1b2b8791ee37dc504ddf21f6"
+}

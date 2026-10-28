@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500495",
+  "GAMEDATE": "2026-01-04",
+  "teams": [
+    "IND",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "IND",
+  "gameEt": "2026-01-04T15:00:00Z",
+  "gameTimeUTC": "2026-01-04T20:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-orl-0022500495",
+  "fetched_at_utc": "2026-10-21T06:59:44.266792+00:00",
+  "html_sha256": "7c91f8b5f1bc50a5948d22a3d4cc00fab3834c19a175c1f08fc9eac422dcf941"
+}

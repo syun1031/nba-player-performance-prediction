@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501188",
+  "GAMEDATE": "2026-04-12",
+  "teams": [
+    "DET",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "DET",
+  "gameEt": "2026-04-12T18:00:00Z",
+  "gameTimeUTC": "2026-04-12T22:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-ind-0022501188",
+  "fetched_at_utc": "2026-10-21T07:04:20.247526+00:00",
+  "html_sha256": "9ed48983fc8d40def294388cb31a9cd91bca4a39f766379bab0948907979cd68"
+}

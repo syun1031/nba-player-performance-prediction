@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501083",
+  "GAMEDATE": "2026-03-29",
+  "teams": [
+    "IND",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "MIA",
+  "gameEt": "2026-03-29T17:00:00Z",
+  "gameTimeUTC": "2026-03-29T21:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-mia-0022501083",
+  "fetched_at_utc": "2026-10-21T07:03:33.868458+00:00",
+  "html_sha256": "4ee6be1d2fe7403b7e44e82d7884fbd65af7e4f49f03e7b87718481c4781e809"
+}

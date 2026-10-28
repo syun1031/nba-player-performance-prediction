@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500307",
+  "GAMEDATE": "2025-11-30",
+  "teams": [
+    "MEM",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "MEM",
+  "gameEt": "2025-11-30T21:00:00Z",
+  "gameTimeUTC": "2025-12-01T02:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-sac-0022500307",
+  "fetched_at_utc": "2026-10-21T06:58:30.404421+00:00",
+  "html_sha256": "0afefb1f3960bf02bc2bc5d6b3d6671628e24e5f99f15e082f6c26a73ecff378"
+}

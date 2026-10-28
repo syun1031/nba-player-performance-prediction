@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500504",
+  "GAMEDATE": "2026-01-05",
+  "teams": [
+    "ATL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "ATL",
+  "gameEt": "2026-01-05T19:30:00Z",
+  "gameTimeUTC": "2026-01-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-tor-0022500504",
+  "fetched_at_utc": "2026-10-21T06:59:47.715505+00:00",
+  "html_sha256": "961676b396b4a3337e199985e72f062b8faf146924d4437db2e30cdd5308552b"
+}

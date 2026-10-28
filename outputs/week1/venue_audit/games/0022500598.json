@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500598",
+  "GAMEDATE": "2026-01-17",
+  "teams": [
+    "MIN",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "MIN",
+  "gameEt": "2026-01-17T20:00:00Z",
+  "gameTimeUTC": "2026-01-18T01:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-sas-0022500598",
+  "fetched_at_utc": "2026-10-21T07:00:23.529677+00:00",
+  "html_sha256": "23a1041c9b836a6277219648a0614c8b18b6b35a846b6998bfb646827b27d7ad"
+}

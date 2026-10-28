@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500045",
+  "GAMEDATE": "2025-11-14",
+  "teams": [
+    "LAL",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "LAL",
+  "gameEt": "2025-11-14T20:00:00Z",
+  "gameTimeUTC": "2025-11-15T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-nop-0022500045",
+  "fetched_at_utc": "2026-10-21T06:56:48.538831+00:00",
+  "html_sha256": "65f3df1ed1a6e4f448a06458f068642552dabb0449a962c699b972bb1c44571d"
+}

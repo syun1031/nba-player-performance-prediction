@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500180",
+  "GAMEDATE": "2025-11-05",
+  "teams": [
+    "OKC",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "OKC",
+  "gameEt": "2025-11-05T22:00:00Z",
+  "gameTimeUTC": "2025-11-06T03:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-por-0022500180",
+  "fetched_at_utc": "2026-10-21T06:57:40.162084+00:00",
+  "html_sha256": "732d53884bb76857bb1e7d4b93291897c00fbbe90da223af0b85420c75a680a4"
+}

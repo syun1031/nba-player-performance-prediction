@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500163",
+  "GAMEDATE": "2025-11-03",
+  "teams": [
+    "LAL",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "LAL",
+  "gameEt": "2025-11-03T22:00:00Z",
+  "gameTimeUTC": "2025-11-04T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-por-0022500163",
+  "fetched_at_utc": "2026-10-21T06:57:33.762846+00:00",
+  "html_sha256": "03995dc624d89da82daad7879fbc776870d4a244f250b174539925f557cfa5f1"
+}

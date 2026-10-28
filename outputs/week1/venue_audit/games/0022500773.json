@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500773",
+  "GAMEDATE": "2026-02-10",
+  "teams": [
+    "DAL",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "DAL",
+  "gameEt": "2026-02-10T21:00:00Z",
+  "gameTimeUTC": "2026-02-11T02:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-phx-0022500773",
+  "fetched_at_utc": "2026-10-21T07:01:36.201405+00:00",
+  "html_sha256": "fbda6e51939dd786034fe9fdb4061233d20f8dca7c3fc770816057650dc18e91"
+}

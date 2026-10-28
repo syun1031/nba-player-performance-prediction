@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500372",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "IND",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "NYK",
+  "gameEt": "2025-12-18T19:00:00Z",
+  "gameTimeUTC": "2025-12-19T00:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-nyk-0022500372",
+  "fetched_at_utc": "2026-10-21T06:58:55.169050+00:00",
+  "html_sha256": "c627cc63115969794403e19403bc5761df760f269b743b5619b22da0f0c78232"
+}

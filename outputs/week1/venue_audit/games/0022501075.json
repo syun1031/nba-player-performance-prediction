@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501075",
+  "GAMEDATE": "2026-03-27",
+  "teams": [
+    "BKN",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "BKN",
+  "gameEt": "2026-03-27T22:30:00Z",
+  "gameTimeUTC": "2026-03-28T02:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-lal-0022501075",
+  "fetched_at_utc": "2026-10-21T07:03:30.989483+00:00",
+  "html_sha256": "a745af0218b1deccb448adc787b45b739fc35f8e45f40371d1a8738d1f07b13b"
+}

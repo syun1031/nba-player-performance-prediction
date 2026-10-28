@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500085",
+  "GAMEDATE": "2025-10-22",
+  "teams": [
+    "MEM",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "NOP",
+  "gameEt": "2025-10-22T20:00:00Z",
+  "gameTimeUTC": "2025-10-23T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-nop-0022500085",
+  "fetched_at_utc": "2026-10-21T06:57:03.657264+00:00",
+  "html_sha256": "f2c4acd5d315d8b3f8187bf6ce7df1008a452a9ab9f951ff184cc52da8ec78e4"
+}

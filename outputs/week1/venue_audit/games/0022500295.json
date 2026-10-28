@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500295",
+  "GAMEDATE": "2025-11-29",
+  "teams": [
+    "CHI",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "CHI",
+  "gameEt": "2025-11-29T19:30:00Z",
+  "gameTimeUTC": "2025-11-30T00:30:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-ind-0022500295",
+  "fetched_at_utc": "2026-10-21T06:58:25.705299+00:00",
+  "html_sha256": "9b1d610ac9d43789c9d296232ed7ef516922a0b5ed25089c4ce8d2941e5f3d8f"
+}

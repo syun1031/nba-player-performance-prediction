@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500465",
+  "GAMEDATE": "2025-12-31",
+  "teams": [
+    "CLE",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "PHX",
+  "gameEt": "2025-12-31T15:30:00Z",
+  "gameTimeUTC": "2025-12-31T20:30:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-phx-0022500465",
+  "fetched_at_utc": "2026-10-21T06:59:33.707817+00:00",
+  "html_sha256": "338305b5f10b436a76d7e50718c22b1287743d329bbf5fad6a277b262231a198"
+}

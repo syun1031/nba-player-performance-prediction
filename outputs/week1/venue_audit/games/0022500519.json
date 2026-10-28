@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500519",
+  "GAMEDATE": "2026-01-07",
+  "teams": [
+    "ATL",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "NOP",
+  "gameEt": "2026-01-07T19:30:00Z",
+  "gameTimeUTC": "2026-01-08T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-nop-0022500519",
+  "fetched_at_utc": "2026-10-21T06:59:53.822928+00:00",
+  "html_sha256": "21e65dff7451bd18fc8abd5c0fbf1035d530eddce248aa8e02b235ffd54cbde3"
+}

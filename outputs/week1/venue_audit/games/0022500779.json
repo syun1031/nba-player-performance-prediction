@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500779",
+  "GAMEDATE": "2026-02-11",
+  "teams": [
+    "BKN",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "IND",
+  "gameEt": "2026-02-11T19:30:00Z",
+  "gameTimeUTC": "2026-02-12T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-ind-0022500779",
+  "fetched_at_utc": "2026-10-21T07:01:38.139308+00:00",
+  "html_sha256": "521c34014cedac4e931c38567ee42a3435b2f75f232dedace5298e123f35d6af"
+}

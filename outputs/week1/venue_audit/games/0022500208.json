@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500208",
+  "GAMEDATE": "2025-11-11",
+  "teams": [
+    "MEM",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "MEM",
+  "gameEt": "2025-11-11T19:30:00Z",
+  "gameTimeUTC": "2025-11-12T00:30:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-nyk-0022500208",
+  "fetched_at_utc": "2026-10-21T06:57:51.393009+00:00",
+  "html_sha256": "bc95c2b7fd23d85d04502d0f1343b3434ac6482fe57b8b9dd461bff88f617ee6"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500151",
+  "GAMEDATE": "2025-11-02",
+  "teams": [
+    "ATL",
+    "CLE"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "ATL",
+  "gameEt": "2025-11-02T18:00:00Z",
+  "gameTimeUTC": "2025-11-02T23:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-cle-0022500151",
+  "fetched_at_utc": "2026-10-21T06:57:29.887000+00:00",
+  "html_sha256": "b52c5195314fd76ae9ce20e5c635894e5dc231f1620f0853540a4afece16df84"
+}

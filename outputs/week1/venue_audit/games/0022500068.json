@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500068",
+  "GAMEDATE": "2025-11-26",
+  "teams": [
+    "PHX",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "PHX",
+  "gameEt": "2025-11-26T22:00:00Z",
+  "gameTimeUTC": "2025-11-27T03:00:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-sac-0022500068",
+  "fetched_at_utc": "2026-10-21T06:56:57.164911+00:00",
+  "html_sha256": "9758baead5a391b7c0fe371467505eab8525ada02c4a96e13ad9b98318f87548"
+}

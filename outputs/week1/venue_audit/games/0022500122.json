@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500122",
+  "GAMEDATE": "2025-10-27",
+  "teams": [
+    "LAL",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "POR",
+  "gameEt": "2025-10-27T22:30:00Z",
+  "gameTimeUTC": "2025-10-28T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-por-0022500122",
+  "fetched_at_utc": "2026-10-21T06:57:18.127535+00:00",
+  "html_sha256": "b18e7758b04d5ab324ac1fddb1faf183538d4411766a4ddf0dbed0a31beee6a9"
+}

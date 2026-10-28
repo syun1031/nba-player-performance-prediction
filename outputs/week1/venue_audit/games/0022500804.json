@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500804",
+  "GAMEDATE": "2026-02-20",
+  "teams": [
+    "MEM",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "UTA",
+  "gameEt": "2026-02-20T19:00:00Z",
+  "gameTimeUTC": "2026-02-21T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-uta-0022500804",
+  "fetched_at_utc": "2026-10-21T07:01:47.769452+00:00",
+  "html_sha256": "b2ba643c49296dda1e23d367e7bff080f1bfc3c3c5f6f5fac6582ad30abd0b5d"
+}

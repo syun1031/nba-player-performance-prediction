@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500107",
+  "GAMEDATE": "2025-10-26",
+  "teams": [
+    "CLE",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "MIL",
+  "gameEt": "2025-10-26T18:00:00Z",
+  "gameTimeUTC": "2025-10-26T22:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-mil-0022500107",
+  "fetched_at_utc": "2026-10-21T06:57:13.149005+00:00",
+  "html_sha256": "c4ee12a3a2faeb5e8452568300f5a18bffd069aad3b182206227c2314d04025d"
+}

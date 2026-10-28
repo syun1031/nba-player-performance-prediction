@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500401",
+  "GAMEDATE": "2025-12-21",
+  "teams": [
+    "HOU",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "HOU",
+  "gameEt": "2025-12-21T22:00:00Z",
+  "gameTimeUTC": "2025-12-22T03:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-sac-0022500401",
+  "fetched_at_utc": "2026-10-21T06:59:05.509347+00:00",
+  "html_sha256": "0a90511217ab5d7da9c68c4d2b60d0166c48477989387acb288a5da664041639"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500735",
+  "GAMEDATE": "2026-02-05",
+  "teams": [
+    "ATL",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "UTA",
+  "gameEt": "2026-02-05T19:30:00Z",
+  "gameTimeUTC": "2026-02-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-uta-0022500735",
+  "fetched_at_utc": "2026-10-21T07:01:20.001395+00:00",
+  "html_sha256": "baf21a6bca6267562169363964bc18d28748a6d4f84c34c2918bcc47bf1e53b8"
+}

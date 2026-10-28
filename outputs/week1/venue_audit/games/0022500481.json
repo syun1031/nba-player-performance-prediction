@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500481",
+  "GAMEDATE": "2026-01-02",
+  "teams": [
+    "CHA",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "CHA",
+  "gameEt": "2026-01-02T20:00:00Z",
+  "gameTimeUTC": "2026-01-03T01:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-mil-0022500481",
+  "fetched_at_utc": "2026-10-21T06:59:39.414453+00:00",
+  "html_sha256": "21ff4f7ce66a045367450c0c260401cbda3cca1af89ab54253c2bdd878569ef1"
+}

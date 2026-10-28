@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501219",
+  "GAMEDATE": "2025-12-14",
+  "teams": [
+    "BKN",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "MIL",
+  "gameEt": "2025-12-14T18:00:00Z",
+  "gameTimeUTC": "2025-12-14T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-mil-0022501219",
+  "fetched_at_utc": "2026-10-21T07:04:32.506097+00:00",
+  "html_sha256": "3506632d7f774402fa6d887c21f49a8ca7aab9abcb8fd5d8dac1e45977d00136"
+}

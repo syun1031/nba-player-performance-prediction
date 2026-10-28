@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500123",
+  "GAMEDATE": "2025-10-28",
+  "teams": [
+    "PHI",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "PHI",
+  "gameEt": "2025-10-28T19:00:00Z",
+  "gameTimeUTC": "2025-10-28T23:00:00Z",
+  "source_url": "https://www.nba.com/game/phi-vs-was-0022500123",
+  "fetched_at_utc": "2026-10-21T06:57:18.248982+00:00",
+  "html_sha256": "0630d7dcf8db65ed93033750b4aea686c950dd00b67f443c972862dc34d9611f"
+}

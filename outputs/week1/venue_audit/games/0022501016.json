@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501016",
+  "GAMEDATE": "2026-03-20",
+  "teams": [
+    "BKN",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "NYK",
+  "gameEt": "2026-03-20T19:30:00Z",
+  "gameTimeUTC": "2026-03-20T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-nyk-0022501016",
+  "fetched_at_utc": "2026-10-21T07:03:09.464698+00:00",
+  "html_sha256": "4701848da55e5dff7d0d87681cbda4f4e76bdec648fcff331acfc42e2535bb07"
+}

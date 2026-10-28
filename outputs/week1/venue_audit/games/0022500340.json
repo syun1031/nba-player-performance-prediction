@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500340",
+  "GAMEDATE": "2025-12-05",
+  "teams": [
+    "ATL",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "DEN",
+  "gameEt": "2025-12-05T19:30:00Z",
+  "gameTimeUTC": "2025-12-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-den-0022500340",
+  "fetched_at_utc": "2026-10-21T06:58:42.331128+00:00",
+  "html_sha256": "cf906d30948e8beb66bd59bba91fcd0ea157b50247ecf22196b36a8c1e5a8869"
+}

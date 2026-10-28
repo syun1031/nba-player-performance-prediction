@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500936",
+  "GAMEDATE": "2026-03-10",
+  "teams": [
+    "MEM",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "MEM",
+  "gameEt": "2026-03-10T19:00:00Z",
+  "gameTimeUTC": "2026-03-10T23:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-phi-0022500936",
+  "fetched_at_utc": "2026-10-21T07:02:42.679778+00:00",
+  "html_sha256": "185ee209c4bafd913f31fcd925b6192fd90b0e98d6cf0e04badd3ec751b77b71"
+}

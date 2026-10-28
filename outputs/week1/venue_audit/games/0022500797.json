@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500797",
+  "GAMEDATE": "2026-02-19",
+  "teams": [
+    "CHI",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "TOR",
+  "gameEt": "2026-02-19T20:00:00Z",
+  "gameTimeUTC": "2026-02-20T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-tor-0022500797",
+  "fetched_at_utc": "2026-10-21T07:01:45.704201+00:00",
+  "html_sha256": "f5d780ecae69a6b1d116a011192f92bb611a6bc40ef82f8edbf9825f6783d48c"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500792",
+  "GAMEDATE": "2026-02-19",
+  "teams": [
+    "CHA",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "HOU",
+  "gameEt": "2026-02-19T19:00:00Z",
+  "gameTimeUTC": "2026-02-20T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-hou-0022500792",
+  "fetched_at_utc": "2026-10-21T07:01:43.611994+00:00",
+  "html_sha256": "488ccf24d95a5138a12fd9b0ad4dc73a8f2ec46d5d3bb7bc6a6a3ef7b8a1a208"
+}

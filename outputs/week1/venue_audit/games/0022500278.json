@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500278",
+  "GAMEDATE": "2025-11-23",
+  "teams": [
+    "CLE",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "LAC",
+  "gameEt": "2025-11-23T18:00:00Z",
+  "gameTimeUTC": "2025-11-23T23:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-lac-0022500278",
+  "fetched_at_utc": "2026-10-21T06:58:18.999121+00:00",
+  "html_sha256": "7a13d83da4c532237a19ef33e429cde9640fb99d536361527de3cfe68ebaa39c"
+}

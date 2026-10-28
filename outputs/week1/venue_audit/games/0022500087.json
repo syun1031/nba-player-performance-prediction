@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500087",
+  "GAMEDATE": "2025-10-22",
+  "teams": [
+    "LAC",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "LAC",
+  "gameEt": "2025-10-22T21:00:00Z",
+  "gameTimeUTC": "2025-10-23T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-uta-0022500087",
+  "fetched_at_utc": "2026-10-21T06:57:04.221359+00:00",
+  "html_sha256": "413ea2f45c209d5fa61b75163d43468c23158e30bb214e1b9b3cd494cf548fc7"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501068",
+  "GAMEDATE": "2026-03-27",
+  "teams": [
+    "CLE",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "MIA",
+  "gameEt": "2026-03-27T19:30:00Z",
+  "gameTimeUTC": "2026-03-27T23:30:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-mia-0022501068",
+  "fetched_at_utc": "2026-10-21T07:03:28.257019+00:00",
+  "html_sha256": "30fdc64681bb0b1c0b2d39cbbcd84057dd55164f7e2099508ed7271faf0a9850"
+}

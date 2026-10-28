@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500926",
+  "GAMEDATE": "2026-03-08",
+  "teams": [
+    "MIL",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "ORL",
+  "gameEt": "2026-03-08T20:00:00Z",
+  "gameTimeUTC": "2026-03-09T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-orl-0022500926",
+  "fetched_at_utc": "2026-10-21T07:02:37.994776+00:00",
+  "html_sha256": "5ccd68609d16653b8003c8c67804d27458899ede86967cfbe637e2610e5ab168"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500036",
+  "GAMEDATE": "2025-11-07",
+  "teams": [
+    "MIN",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "UTA",
+  "gameEt": "2025-11-07T20:00:00Z",
+  "gameTimeUTC": "2025-11-08T01:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-uta-0022500036",
+  "fetched_at_utc": "2026-10-21T06:56:44.154862+00:00",
+  "html_sha256": "265ecc4f119a88231170dafba832bdebe22761f51da1d2de0870abe841edcd18"
+}

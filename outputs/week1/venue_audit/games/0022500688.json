@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500688",
+  "GAMEDATE": "2026-01-30",
+  "teams": [
+    "LAL",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "LAL",
+  "gameEt": "2026-01-30T19:00:00Z",
+  "gameTimeUTC": "2026-01-31T00:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-was-0022500688",
+  "fetched_at_utc": "2026-10-21T07:00:59.279438+00:00",
+  "html_sha256": "194a13f22bc6815aa57e896e8d6ee71e75eac0ea4f41f71564655f705c1c080f"
+}

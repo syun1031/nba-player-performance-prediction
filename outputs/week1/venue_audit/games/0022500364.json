@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500364",
+  "GAMEDATE": "2025-12-08",
+  "teams": [
+    "IND",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "SAC",
+  "gameEt": "2025-12-08T19:00:00Z",
+  "gameTimeUTC": "2025-12-09T00:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-sac-0022500364",
+  "fetched_at_utc": "2026-10-21T06:58:51.736247+00:00",
+  "html_sha256": "6085dd5cdbd9c2e21b0d9063bebfdce351ededecbe866381bd3bf50905bf96d8"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501078",
+  "GAMEDATE": "2026-03-28",
+  "teams": [
+    "ATL",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "SAC",
+  "gameEt": "2026-03-28T19:30:00Z",
+  "gameTimeUTC": "2026-03-28T23:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-sac-0022501078",
+  "fetched_at_utc": "2026-10-21T07:03:32.011078+00:00",
+  "html_sha256": "527d87849786aa911c68b863286e263bbd55e0815095fa30c5105411a7998a7f"
+}

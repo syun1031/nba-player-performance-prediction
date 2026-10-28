@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501022",
+  "GAMEDATE": "2026-03-21",
+  "teams": [
+    "OKC",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "OKC",
+  "gameEt": "2026-03-21T17:00:00Z",
+  "gameTimeUTC": "2026-03-21T21:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-was-0022501022",
+  "fetched_at_utc": "2026-10-21T07:03:11.553439+00:00",
+  "html_sha256": "924662213c13e2015feb7e0b222e636ba7c077ea46273ea4c70888f6f3cf6d0b"
+}

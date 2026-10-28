@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500563",
+  "GAMEDATE": "2026-01-12",
+  "teams": [
+    "CHA",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "CHA",
+  "gameEt": "2026-01-12T22:30:00Z",
+  "gameTimeUTC": "2026-01-13T03:30:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-lac-0022500563",
+  "fetched_at_utc": "2026-10-21T07:00:10.434896+00:00",
+  "html_sha256": "0079b26ddc45d08847f955558c6481d0bc8fee823038e1446ab8fe3e78559d5d"
+}

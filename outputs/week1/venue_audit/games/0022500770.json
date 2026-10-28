@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500770",
+  "GAMEDATE": "2026-02-09",
+  "teams": [
+    "PHI",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "PHI",
+  "gameEt": "2026-02-09T22:00:00Z",
+  "gameTimeUTC": "2026-02-10T03:00:00Z",
+  "source_url": "https://www.nba.com/game/phi-vs-por-0022500770",
+  "fetched_at_utc": "2026-10-21T07:01:34.519324+00:00",
+  "html_sha256": "708c53055205cbfddb359a69ca65cae30ce7d5916367a1b403b53de15fefa4e1"
+}

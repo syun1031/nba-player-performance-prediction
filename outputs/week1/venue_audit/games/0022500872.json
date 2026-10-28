@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500872",
+  "GAMEDATE": "2026-03-01",
+  "teams": [
+    "IND",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "MEM",
+  "gameEt": "2026-03-01T17:00:00Z",
+  "gameTimeUTC": "2026-03-01T22:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-mem-0022500872",
+  "fetched_at_utc": "2026-10-21T07:02:16.642668+00:00",
+  "html_sha256": "9c77e74604a99b782bb924a7ad5765cc77a6d2e2b1d25d0a5000ef2ae058fb6f"
+}

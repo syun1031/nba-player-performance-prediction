@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500726",
+  "GAMEDATE": "2026-02-04",
+  "teams": [
+    "DEN",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "DEN",
+  "gameEt": "2026-02-04T19:00:00Z",
+  "gameTimeUTC": "2026-02-05T00:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-nyk-0022500726",
+  "fetched_at_utc": "2026-10-21T07:01:16.439473+00:00",
+  "html_sha256": "1469954156eb7d8a178bb560c2451a1940d1e8e57a6339c1c9c2da2275876da5"
+}

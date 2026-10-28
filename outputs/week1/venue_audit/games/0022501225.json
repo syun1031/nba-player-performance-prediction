@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501225",
+  "GAMEDATE": "2025-12-15",
+  "teams": [
+    "DEN",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "HOU",
+  "gameEt": "2025-12-15T21:30:00Z",
+  "gameTimeUTC": "2025-12-16T02:30:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-hou-0022501225",
+  "fetched_at_utc": "2026-10-21T07:04:34.617467+00:00",
+  "html_sha256": "6efc078253a41effe989bfda79d008d526a43d5bf15e6577728b4c5450d2bd50"
+}

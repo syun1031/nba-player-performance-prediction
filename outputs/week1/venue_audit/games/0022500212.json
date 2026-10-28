@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500212",
+  "GAMEDATE": "2025-11-11",
+  "teams": [
+    "DEN",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "DEN",
+  "gameEt": "2025-11-11T23:00:00Z",
+  "gameTimeUTC": "2025-11-12T04:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-sac-0022500212",
+  "fetched_at_utc": "2026-10-21T06:57:52.613462+00:00",
+  "html_sha256": "69c3b43c1768975b24ec69aa82ddbb4189a7bdd938815715e2604410b13d21ff"
+}

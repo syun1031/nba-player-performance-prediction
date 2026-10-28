@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500455",
+  "GAMEDATE": "2025-12-29",
+  "teams": [
+    "ATL",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "ATL",
+  "gameEt": "2025-12-29T20:00:00Z",
+  "gameTimeUTC": "2025-12-30T01:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-okc-0022500455",
+  "fetched_at_utc": "2026-10-21T06:59:29.823174+00:00",
+  "html_sha256": "bcd8562f9ea992a1f4a2185973ee0ca1da9c67f3605ae76afba0ce713b7ae8fc"
+}

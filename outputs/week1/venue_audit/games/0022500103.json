@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500103",
+  "GAMEDATE": "2025-10-25",
+  "teams": [
+    "IND",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "IND",
+  "gameEt": "2025-10-25T20:00:00Z",
+  "gameTimeUTC": "2025-10-26T00:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-mem-0022500103",
+  "fetched_at_utc": "2026-10-21T06:57:10.972371+00:00",
+  "html_sha256": "c0c54b7affdfac25180ff4d39b11729e74dfba1a9c121d2f4ba1ca0b6e9daa33"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500474",
+  "GAMEDATE": "2026-01-01",
+  "teams": [
+    "BOS",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "BOS",
+  "gameEt": "2026-01-01T22:00:00Z",
+  "gameTimeUTC": "2026-01-02T03:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-sac-0022500474",
+  "fetched_at_utc": "2026-10-21T06:59:36.581346+00:00",
+  "html_sha256": "7f3a34dcd21e54460160d8b5fe7ea2cc8e8484aeef822d83adecdf3f3198a5bd"
+}

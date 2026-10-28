@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500159",
+  "GAMEDATE": "2025-11-03",
+  "teams": [
+    "NYK",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "WAS",
+  "gameEt": "2025-11-03T19:30:00Z",
+  "gameTimeUTC": "2025-11-04T00:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-was-0022500159",
+  "fetched_at_utc": "2026-10-21T06:57:32.429744+00:00",
+  "html_sha256": "ec1022773fa25e94284c87157fb2a5a286c86110d5fc409c5e8b3e15e6230d9d"
+}

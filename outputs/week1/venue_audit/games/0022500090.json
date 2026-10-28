@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500090",
+  "GAMEDATE": "2025-10-24",
+  "teams": [
+    "ATL",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "ATL",
+  "gameEt": "2025-10-24T19:00:00Z",
+  "gameTimeUTC": "2025-10-24T23:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-orl-0022500090",
+  "fetched_at_utc": "2026-10-21T06:57:04.927115+00:00",
+  "html_sha256": "a68f65a1fcb55da09b2a8f9cb92e0d3857103e6b414972034756cc0de1b155f0"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500649",
+  "GAMEDATE": "2026-01-24",
+  "teams": [
+    "MIA",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "MIA",
+  "gameEt": "2026-01-24T21:30:00Z",
+  "gameTimeUTC": "2026-01-25T02:30:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-uta-0022500649",
+  "fetched_at_utc": "2026-10-21T07:00:43.001238+00:00",
+  "html_sha256": "89ddb93ed28a6bfe434e910a2264e5fb38ae6bca3a7a7af17be6ac188a42d996"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500228",
+  "GAMEDATE": "2025-11-15",
+  "teams": [
+    "CLE",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "MEM",
+  "gameEt": "2025-11-15T17:00:00Z",
+  "gameTimeUTC": "2025-11-15T22:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-mem-0022500228",
+  "fetched_at_utc": "2026-10-21T06:57:57.581137+00:00",
+  "html_sha256": "4c2c4a9ce45827146ff411f6dab39d35e5a2797ed1865bf724f8c80e6fc04648"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501059",
+  "GAMEDATE": "2026-03-25",
+  "teams": [
+    "DAL",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "DAL",
+  "gameEt": "2026-03-25T22:00:00Z",
+  "gameTimeUTC": "2026-03-26T02:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-den-0022501059",
+  "fetched_at_utc": "2026-10-21T07:03:24.958638+00:00",
+  "html_sha256": "fd48085c31292f901d352855ae2b2d661ff4e38fe56be12b013d60c09a8b3576"
+}

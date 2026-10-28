@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500020",
+  "GAMEDATE": "2025-10-31",
+  "teams": [
+    "ATL",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "ATL",
+  "gameEt": "2025-10-31T19:00:00Z",
+  "gameTimeUTC": "2025-10-31T23:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-ind-0022500020",
+  "fetched_at_utc": "2026-10-21T06:56:38.161304+00:00",
+  "html_sha256": "8aa4cd5baf98d11ad2c12932d5f4a7f609c99c095d1f40a24b9c42c4618b6980"
+}

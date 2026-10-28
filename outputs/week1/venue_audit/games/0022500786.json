@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500786",
+  "GAMEDATE": "2026-02-11",
+  "teams": [
+    "SAC",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "SAC",
+  "gameEt": "2026-02-11T21:00:00Z",
+  "gameTimeUTC": "2026-02-12T02:00:00Z",
+  "source_url": "https://www.nba.com/game/sac-vs-uta-0022500786",
+  "fetched_at_utc": "2026-10-21T07:01:40.627567+00:00",
+  "html_sha256": "fd74e0c839c124212b2bb1f007d4547023e03bcbb68acb9f3354f3faca48aa80"
+}

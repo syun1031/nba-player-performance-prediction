@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501140",
+  "GAMEDATE": "2026-04-05",
+  "teams": [
+    "DAL",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "LAL",
+  "gameEt": "2026-04-05T19:30:00Z",
+  "gameTimeUTC": "2026-04-05T23:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-lal-0022501140",
+  "fetched_at_utc": "2026-10-21T07:03:57.761254+00:00",
+  "html_sha256": "a71207146b897fcd1203af23129170fd59abb986eaa74ea517df8f9704b3f3a5"
+}

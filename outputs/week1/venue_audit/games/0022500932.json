@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500932",
+  "GAMEDATE": "2026-03-09",
+  "teams": [
+    "BKN",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "MEM",
+  "gameEt": "2026-03-09T19:30:00Z",
+  "gameTimeUTC": "2026-03-09T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-mem-0022500932",
+  "fetched_at_utc": "2026-10-21T07:02:40.891551+00:00",
+  "html_sha256": "b055ce3dfc337d37441bdcc9ade50b42e610c2930fa5f39d1d219038583c3501"
+}

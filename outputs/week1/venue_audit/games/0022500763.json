@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500763",
+  "GAMEDATE": "2026-02-09",
+  "teams": [
+    "MIA",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "UTA",
+  "gameEt": "2026-02-09T19:30:00Z",
+  "gameTimeUTC": "2026-02-10T00:30:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-uta-0022500763",
+  "fetched_at_utc": "2026-10-21T07:01:31.283502+00:00",
+  "html_sha256": "2f8f22d52521f92647b453ed154d9af8e140a330dface5836a23b9446a1ab52b"
+}

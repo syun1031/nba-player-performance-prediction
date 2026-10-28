@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500433",
+  "GAMEDATE": "2025-12-27",
+  "teams": [
+    "DEN",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "DEN",
+  "gameEt": "2025-12-27T19:00:00Z",
+  "gameTimeUTC": "2025-12-28T00:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-orl-0022500433",
+  "fetched_at_utc": "2026-10-21T06:59:21.685021+00:00",
+  "html_sha256": "6c18e3d9c52beec20235e9cf56a03194375845552fde1f9742e0145dff1f4e9a"
+}

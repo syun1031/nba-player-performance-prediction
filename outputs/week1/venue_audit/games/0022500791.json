@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500791",
+  "GAMEDATE": "2026-02-12",
+  "teams": [
+    "DAL",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "DAL",
+  "gameEt": "2026-02-12T22:00:00Z",
+  "gameTimeUTC": "2026-02-13T03:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-lal-0022500791",
+  "fetched_at_utc": "2026-10-21T07:01:42.331306+00:00",
+  "html_sha256": "e1ad7bb8219ff111055603f7ec91800887915c84fce57a4cfd852047f9413334"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500561",
+  "GAMEDATE": "2026-01-12",
+  "teams": [
+    "BKN",
+    "DAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "BKN",
+  "gameEt": "2026-01-12T20:30:00Z",
+  "gameTimeUTC": "2026-01-13T01:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-dal-0022500561",
+  "fetched_at_utc": "2026-10-21T07:00:09.367122+00:00",
+  "html_sha256": "a563e7067c15265ee781a48c1693516ca2ffd140d6b943e0009038bcdbcd686e"
+}

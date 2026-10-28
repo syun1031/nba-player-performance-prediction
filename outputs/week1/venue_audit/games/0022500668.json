@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500668",
+  "GAMEDATE": "2026-01-27",
+  "teams": [
+    "DEN",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "DET",
+  "gameEt": "2026-01-27T21:00:00Z",
+  "gameTimeUTC": "2026-01-28T02:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-det-0022500668",
+  "fetched_at_utc": "2026-10-21T07:00:51.550781+00:00",
+  "html_sha256": "60ce6cc0163196c20c216a2355c5ac003f76952bdf9ed350dc84b0bdaf6f816f"
+}

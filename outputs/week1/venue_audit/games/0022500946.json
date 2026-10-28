@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500946",
+  "GAMEDATE": "2026-03-10",
+  "teams": [
+    "LAL",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "MIN",
+  "gameEt": "2026-03-10T23:00:00Z",
+  "gameTimeUTC": "2026-03-11T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-min-0022500946",
+  "fetched_at_utc": "2026-10-21T07:02:47.029637+00:00",
+  "html_sha256": "98f81135c20e5ff5eb5aa6b1d6663029d66e8cc444c6156e8a8a400c8653b45b"
+}

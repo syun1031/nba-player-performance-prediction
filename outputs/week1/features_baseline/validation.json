@@ -1,0 +1,81 @@
+{
+  "verified": true,
+  "spec_version": "basic-features-v1",
+  "feature_columns": [
+    "pts_mean_5",
+    "pts_mean_10",
+    "min_mean_5",
+    "reb_mean_5",
+    "ast_mean_5",
+    "is_home",
+    "is_neutral_site",
+    "rest_days"
+  ],
+  "source_sha256": {
+    "outputs\\week1\\model_data\\nba_2025_26_player_games_merged.csv": "e6eee5755dc08e5e3250c12aa3fe19fed98017b560c67bf39c037a9e094d7fa3",
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_player_game_logs.csv": "4b1e53a3ac29426555b34609c1f4035c2dc8059ca27b68096ec8798885782629",
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_game_rosters.csv": "b110fd023c73c98af5fa459141210e37be43cd305d197baf60752c389d39c08c"
+  },
+  "source_rows": 26568,
+  "eligible_rows": 23722,
+  "excluded_rows": 2846,
+  "splits": {
+    "train": {
+      "source_rows": 15774,
+      "eligible_rows": 13281,
+      "excluded_rows": 2493,
+      "coverage": 0.8419551160136934,
+      "players": 470,
+      "first_date": "2025-10-21",
+      "last_date": "2026-01-31",
+      "exclusion_counts": {
+        "insufficient_history": 2493
+      },
+      "baseline": {
+        "n": 13281,
+        "mae": 4.761102326632031,
+        "rmse": 6.256643784524353
+      }
+    },
+    "validation": {
+      "source_rows": 3579,
+      "eligible_rows": 3462,
+      "excluded_rows": 117,
+      "coverage": 0.9673093042749371,
+      "players": 442,
+      "first_date": "2026-02-01",
+      "last_date": "2026-02-28",
+      "exclusion_counts": {
+        "insufficient_history": 117
+      },
+      "baseline": {
+        "n": 3462,
+        "mae": 4.797746967071057,
+        "rmse": 6.278220171900878
+      }
+    },
+    "test": {
+      "source_rows": 7215,
+      "eligible_rows": 6979,
+      "excluded_rows": 236,
+      "coverage": 0.9672903672903673,
+      "players": 491,
+      "first_date": "2026-03-01",
+      "last_date": "2026-04-12",
+      "exclusion_counts": {
+        "insufficient_history": 236
+      },
+      "metrics_status": "not_evaluated"
+    }
+  },
+  "source_files_unchanged": true,
+  "output_readback_verified": true,
+  "actual_data_order_invariance": true,
+  "future_score_mutation_check": true,
+  "test_metrics_computed": false,
+  "limitations": [
+    "Historical post-season snapshot; prior-day information assumed available",
+    "No current-game lineup/absence features in this basic dataset",
+    "Appearance is conditional; does not predict whether a player plays"
+  ]
+}

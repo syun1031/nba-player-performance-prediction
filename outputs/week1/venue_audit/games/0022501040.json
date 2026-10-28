@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501040",
+  "GAMEDATE": "2026-03-23",
+  "teams": [
+    "OKC",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "OKC",
+  "gameEt": "2026-03-23T19:00:00Z",
+  "gameTimeUTC": "2026-03-23T23:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-phi-0022501040",
+  "fetched_at_utc": "2026-10-21T07:03:18.339923+00:00",
+  "html_sha256": "12de270b6fb8ffbf43dda34f1539ba3fe059a0d29989365de2d1eb25d6fbd956"
+}

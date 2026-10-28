@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500581",
+  "GAMEDATE": "2026-01-15",
+  "teams": [
+    "HOU",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "OKC",
+  "gameEt": "2026-01-15T19:30:00Z",
+  "gameTimeUTC": "2026-01-16T00:30:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-okc-0022500581",
+  "fetched_at_utc": "2026-10-21T07:00:17.194551+00:00",
+  "html_sha256": "6b2504b8d8cc5ff29899f0d158570a4feb5259f7c8d33dc4e2334afeebe620dd"
+}

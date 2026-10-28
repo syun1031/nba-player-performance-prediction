@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500346",
+  "GAMEDATE": "2025-12-05",
+  "teams": [
+    "HOU",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "PHX",
+  "gameEt": "2025-12-05T20:00:00Z",
+  "gameTimeUTC": "2025-12-06T01:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-phx-0022500346",
+  "fetched_at_utc": "2026-10-21T06:58:45.574431+00:00",
+  "html_sha256": "2ca2dd9c21326751a2bac71708a7a763fa5bc1c4c57a3fcac8f1fd7862bb417f"
+}

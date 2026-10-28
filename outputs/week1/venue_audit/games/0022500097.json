@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500097",
+  "GAMEDATE": "2025-10-24",
+  "teams": [
+    "GSW",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "GSW",
+  "gameEt": "2025-10-24T22:00:00Z",
+  "gameTimeUTC": "2025-10-25T02:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-por-0022500097",
+  "fetched_at_utc": "2026-10-21T06:57:08.532328+00:00",
+  "html_sha256": "1bbaa0c2ebe1cd634de2cba384e3973df00e415c5035c655d65c64130868a892"
+}

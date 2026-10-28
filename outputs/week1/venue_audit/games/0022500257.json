@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500257",
+  "GAMEDATE": "2025-11-19",
+  "teams": [
+    "GSW",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "GSW",
+  "gameEt": "2025-11-19T19:30:00Z",
+  "gameTimeUTC": "2025-11-20T00:30:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-mia-0022500257",
+  "fetched_at_utc": "2026-10-21T06:58:10.583578+00:00",
+  "html_sha256": "b313d8092d39e4f7e68e603f1d386ca14040764caf623912e7e583262545d9ae"
+}

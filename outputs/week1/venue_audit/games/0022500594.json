@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500594",
+  "GAMEDATE": "2026-01-17",
+  "teams": [
+    "ATL",
+    "BOS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "BOS",
+  "gameEt": "2026-01-17T19:30:00Z",
+  "gameTimeUTC": "2026-01-18T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-bos-0022500594",
+  "fetched_at_utc": "2026-10-21T07:00:22.393425+00:00",
+  "html_sha256": "aa50f6955a36bd194156223d6f2555bd9a15f9ed05a001feb4ea01cdad26efef"
+}

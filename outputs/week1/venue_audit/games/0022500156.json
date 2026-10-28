@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500156",
+  "GAMEDATE": "2025-11-03",
+  "teams": [
+    "BKN",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "MIN",
+  "gameEt": "2025-11-03T19:00:00Z",
+  "gameTimeUTC": "2025-11-04T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-min-0022500156",
+  "fetched_at_utc": "2026-10-21T06:57:31.049114+00:00",
+  "html_sha256": "6d6215b51a9e115d88c1ed7311abf87d8d33ba19d5fc946194b45d565cef41bb"
+}

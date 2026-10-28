@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500404",
+  "GAMEDATE": "2025-12-22",
+  "teams": [
+    "DAL",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "DAL",
+  "gameEt": "2025-12-22T20:00:00Z",
+  "gameTimeUTC": "2025-12-23T01:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-nop-0022500404",
+  "fetched_at_utc": "2026-10-21T06:59:06.341509+00:00",
+  "html_sha256": "16f3a00ed4ddf5cc6c0b085549abbc5b5b5bb57cf83912a6555fe6e35f3753be"
+}

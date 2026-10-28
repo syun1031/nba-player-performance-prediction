@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500092",
+  "GAMEDATE": "2025-10-24",
+  "teams": [
+    "MIL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "MIL",
+  "gameEt": "2025-10-24T18:30:00Z",
+  "gameTimeUTC": "2025-10-24T22:30:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-tor-0022500092",
+  "fetched_at_utc": "2026-10-21T06:57:07.068914+00:00",
+  "html_sha256": "074e4bbd75fb665d1cc6c7867cf74d62e38d2704fec5bca0734bbd6e63eaba57"
+}

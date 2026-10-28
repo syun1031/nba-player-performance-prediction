@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500242",
+  "GAMEDATE": "2025-11-17",
+  "teams": [
+    "DET",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "IND",
+  "gameEt": "2025-11-17T19:00:00Z",
+  "gameTimeUTC": "2025-11-18T00:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-ind-0022500242",
+  "fetched_at_utc": "2026-10-21T06:58:03.752655+00:00",
+  "html_sha256": "7fb62899c14796c64678a22fb19576dab1eb5ff7d8b69f7581c77f1cbd852bc3"
+}

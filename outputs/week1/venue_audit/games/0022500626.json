@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500626",
+  "GAMEDATE": "2026-01-21",
+  "teams": [
+    "SAC",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "TOR",
+  "gameEt": "2026-01-21T22:00:00Z",
+  "gameTimeUTC": "2026-01-22T03:00:00Z",
+  "source_url": "https://www.nba.com/game/sac-vs-tor-0022500626",
+  "fetched_at_utc": "2026-10-21T07:00:35.129866+00:00",
+  "html_sha256": "786edc4b777462c7c3385a12d745e49dee80effc09ca081debd4cd5b61845d78"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500021",
+  "GAMEDATE": "2025-10-31",
+  "teams": [
+    "BOS",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "BOS",
+  "gameEt": "2025-10-31T19:00:00Z",
+  "gameTimeUTC": "2025-10-31T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-phi-0022500021",
+  "fetched_at_utc": "2026-10-21T06:56:38.801713+00:00",
+  "html_sha256": "62a5729800403ff94e305c09d74b726c7800588de255aaa9007afbcd754f477a"
+}

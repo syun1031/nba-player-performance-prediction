@@ -1,0 +1,7 @@
+{
+  "protocol_sha256": "0b6ca963f3f5548bfe4dd71ca0b392d50761755b9d519d6fb0799b332d645b01",
+  "source_sha256": {
+    "outputs\\week1\\teammate_encoding\\test.csv": "3db173d068d9c7f2220e74cc333e0b305d452cafd3beac69977c17014cfd72ca",
+    "outputs\\week1\\team_lineup_features\\test.csv": "f98dfb6e5d5577ed048145cc246212e028c3d30fdf0f327ea3f0bc50780995af"
+  }
+}

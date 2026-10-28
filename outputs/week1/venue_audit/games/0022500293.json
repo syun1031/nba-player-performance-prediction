@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500293",
+  "GAMEDATE": "2025-11-29",
+  "teams": [
+    "BOS",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "BOS",
+  "gameEt": "2025-11-29T17:00:00Z",
+  "gameTimeUTC": "2025-11-29T22:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-min-0022500293",
+  "fetched_at_utc": "2026-10-21T06:58:24.668395+00:00",
+  "html_sha256": "73756d1abcca2e8c7df69d27abad075eed607d731a541aaac1128ad47736d2d1"
+}

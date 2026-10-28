@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500373",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "BKN",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "MIA",
+  "gameEt": "2025-12-18T19:30:00Z",
+  "gameTimeUTC": "2025-12-19T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-mia-0022500373",
+  "fetched_at_utc": "2026-10-21T06:58:54.879329+00:00",
+  "html_sha256": "634433ea464c0f474987d1da9cbea41d1b2ba0e1814a274d347909bb4684e7f1"
+}

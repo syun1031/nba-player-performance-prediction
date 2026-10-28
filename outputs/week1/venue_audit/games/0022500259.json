@@ -1,0 +1,24 @@
+{
+  "gameId": "0022500259",
+  "GAMEDATE": "2025-11-19",
+  "teams": [
+    "MIN",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US"
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "WAS",
+  "gameEt": null,
+  "gameTimeUTC": null,
+  "source_url": "https://statsdmz.nba.com/pdfs/20251119/20251119_WASMIN.pdf",
+  "fetched_at_utc": "2026-10-21T07:00:33.032127+00:00",
+  "pdf_sha256": "c449bd122785a26e639918bac37d08a13b9292ca2fa652a3a24e906696b21eae",
+  "evidence_method": "official_pdf_home_arena",
+  "classification_basis": "Official scorer report venue and HOME/VISITOR; arena checked against other official non-neutral home games of this home team"
+}

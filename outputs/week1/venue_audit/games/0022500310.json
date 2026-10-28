@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500310",
+  "GAMEDATE": "2025-12-01",
+  "teams": [
+    "CLE",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "CLE",
+  "gameEt": "2025-12-01T19:00:00Z",
+  "gameTimeUTC": "2025-12-02T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-ind-0022500310",
+  "fetched_at_utc": "2026-10-21T06:58:31.172198+00:00",
+  "html_sha256": "e198bc4e3558cb2cf8312925dd7a01eec0c485a807fbb0fa9866bbafe35b3178"
+}

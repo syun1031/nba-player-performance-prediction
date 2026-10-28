@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500048",
+  "GAMEDATE": "2025-11-21",
+  "teams": [
+    "CLE",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "IND",
+  "gameEt": "2025-11-21T19:00:00Z",
+  "gameTimeUTC": "2025-11-22T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-ind-0022500048",
+  "fetched_at_utc": "2026-10-21T06:56:49.663117+00:00",
+  "html_sha256": "a73b2b4908b3228aa81169f520af82403a8f46d9a4ecb8bf225a5407941c8392"
+}

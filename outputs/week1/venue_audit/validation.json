@@ -1,0 +1,92 @@
+{
+  "verified": true,
+  "scope": "NBA 2025-26 saved regular season game set",
+  "expected_games": 1230,
+  "official_games_verified": 1230,
+  "neutral_games": 5,
+  "non_neutral_games": 1225,
+  "game_id_date_and_team_checks": true,
+  "source_is_neutral_type_checked": true,
+  "official_game_page_count": 1227,
+  "official_pdf_home_arena_count": 3,
+  "registry_sha256": "adc37d12b8fbc21ce9c8a407294156b20f03e1d5072264c8cca689f54151abe2",
+  "historical_source_sha256": "dcf5b797a8738eb691cae1592a834677f4abd48e97332d472e830f2d4066e294",
+  "neutral_game_details": [
+    {
+      "GAMEDATE": "2025-11-01",
+      "teams": [
+        "DAL",
+        "DET"
+      ],
+      "official_game_id": "0022500147",
+      "venue": "Arena CDMX, Mexico City, MX",
+      "designated_home_team": "DET",
+      "is_neutral_site": true,
+      "source_url": "https://www.nba.com/game/dal-vs-det-0022500147",
+      "verified_at_utc": "2026-10-21T06:57:27.263371+00:00",
+      "evidence_method": "official_game_page",
+      "source_payload_sha256": "898fa2a4ba1bab7d57df8e04158e55b07f3ad7d9fce29531bc66653edda4b081"
+    },
+    {
+      "GAMEDATE": "2026-01-15",
+      "teams": [
+        "MEM",
+        "ORL"
+      ],
+      "official_game_id": "0022500578",
+      "venue": "Uber Arena, Berlin, DE",
+      "designated_home_team": "ORL",
+      "is_neutral_site": true,
+      "source_url": "https://www.nba.com/game/mem-vs-orl-0022500578",
+      "verified_at_utc": "2026-10-21T07:00:16.699184+00:00",
+      "evidence_method": "official_game_page",
+      "source_payload_sha256": "758502c02b96589d989e1fe3b6632a4c157f848a943de0ee57ec5ec041dd7d18"
+    },
+    {
+      "GAMEDATE": "2026-01-18",
+      "teams": [
+        "MEM",
+        "ORL"
+      ],
+      "official_game_id": "0022500602",
+      "venue": "The O2 Arena, London, GB",
+      "designated_home_team": "MEM",
+      "is_neutral_site": true,
+      "source_url": "https://www.nba.com/game/mem-vs-orl-0022500602",
+      "verified_at_utc": "2026-10-21T07:00:25.207324+00:00",
+      "evidence_method": "official_game_page",
+      "source_payload_sha256": "54d075d6ce327b0f2b7e2ce446c9423ee03cb3784a4d6ef7ec9b2cac57d9d2f5"
+    },
+    {
+      "GAMEDATE": "2025-12-13",
+      "teams": [
+        "NYK",
+        "ORL"
+      ],
+      "official_game_id": "0022501229",
+      "venue": "T-Mobile Arena, Las Vegas, US",
+      "designated_home_team": "ORL",
+      "is_neutral_site": true,
+      "source_url": "https://www.nba.com/game/nyk-vs-orl-0022501229",
+      "verified_at_utc": "2026-10-21T07:04:36.534954+00:00",
+      "evidence_method": "official_game_page",
+      "source_payload_sha256": "e60d8f3de7f228470e34f10273e97f3696331c141f6d2d57c3dca844c3e9629c"
+    },
+    {
+      "GAMEDATE": "2025-12-13",
+      "teams": [
+        "OKC",
+        "SAS"
+      ],
+      "official_game_id": "0022501230",
+      "venue": "T-Mobile Arena, Las Vegas, US",
+      "designated_home_team": "OKC",
+      "is_neutral_site": true,
+      "source_url": "https://www.nba.com/game/okc-vs-sas-0022501230",
+      "verified_at_utc": "2026-10-21T07:04:36.169983+00:00",
+      "evidence_method": "official_game_page",
+      "source_payload_sha256": "873719cf91b25bbfe1c76ef8bc221715cede5276286c126e337ea97310553eb2"
+    }
+  ],
+  "method": "Official NBA.com isNeutral/arena/home-away fields; three unavailable pages supplemented by official scorer PDFs and same-team verified home-arena cross-check; no inference from missing exceptions"
+}

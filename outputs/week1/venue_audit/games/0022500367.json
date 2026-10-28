@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500367",
+  "GAMEDATE": "2025-12-17",
+  "teams": [
+    "CHI",
+    "CLE"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "CLE",
+  "gameEt": "2025-12-17T20:00:00Z",
+  "gameTimeUTC": "2025-12-18T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-cle-0022500367",
+  "fetched_at_utc": "2026-10-21T06:58:53.916230+00:00",
+  "html_sha256": "a24ae3e1831562a011c01b7aa8bca22162c705ab4c8a2afa7c81408317c5b0b9"
+}

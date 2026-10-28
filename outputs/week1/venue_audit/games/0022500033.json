@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500033",
+  "GAMEDATE": "2025-11-07",
+  "teams": [
+    "CHA",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "CHA",
+  "gameEt": "2025-11-07T20:00:00Z",
+  "gameTimeUTC": "2025-11-08T01:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-mia-0022500033",
+  "fetched_at_utc": "2026-10-21T06:56:43.242587+00:00",
+  "html_sha256": "79476041e0d52009f593939ea1b29357dcf22ad88b245b674587a28ed191b9f4"
+}

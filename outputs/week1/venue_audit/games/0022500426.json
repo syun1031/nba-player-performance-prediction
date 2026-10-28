@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500426",
+  "GAMEDATE": "2025-12-26",
+  "teams": [
+    "BOS",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "BOS",
+  "gameEt": "2025-12-26T19:00:00Z",
+  "gameTimeUTC": "2025-12-27T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-ind-0022500426",
+  "fetched_at_utc": "2026-10-21T06:59:17.199229+00:00",
+  "html_sha256": "327b48a852573ba56b43b0d062b8bad078db2fe21b1ed7a09a9bf720012dc687"
+}

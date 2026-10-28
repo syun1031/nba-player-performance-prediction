@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500388",
+  "GAMEDATE": "2025-12-20",
+  "teams": [
+    "BOS",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "BOS",
+  "gameEt": "2025-12-20T19:00:00Z",
+  "gameTimeUTC": "2025-12-21T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-tor-0022500388",
+  "fetched_at_utc": "2026-10-21T06:59:00.976803+00:00",
+  "html_sha256": "5746caf393a8fa8baef84d17c607cbfa331b52c6f89cb792fc800385646d0150"
+}

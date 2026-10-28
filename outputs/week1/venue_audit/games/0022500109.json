@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500109",
+  "GAMEDATE": "2025-10-26",
+  "teams": [
+    "CHA",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "CHA",
+  "gameEt": "2025-10-26T18:00:00Z",
+  "gameTimeUTC": "2025-10-26T22:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-was-0022500109",
+  "fetched_at_utc": "2026-10-21T06:57:13.264637+00:00",
+  "html_sha256": "63e03351c04a303067018d310114bc8d2cbd18f0f1abe5259d22afc1db9f307c"
+}

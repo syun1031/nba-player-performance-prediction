@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500240",
+  "GAMEDATE": "2025-11-16",
+  "teams": [
+    "CHI",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "CHI",
+  "gameEt": "2025-11-16T20:00:00Z",
+  "gameTimeUTC": "2025-11-17T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-uta-0022500240",
+  "fetched_at_utc": "2026-10-21T06:58:03.254016+00:00",
+  "html_sha256": "dd8c1414a610733b86f8ae97543a4c775f471940d89aa1f9c77d4729ff991df9"
+}

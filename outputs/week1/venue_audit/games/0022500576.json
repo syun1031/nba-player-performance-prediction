@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500576",
+  "GAMEDATE": "2026-01-14",
+  "teams": [
+    "NYK",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "NYK",
+  "gameEt": "2026-01-14T22:00:00Z",
+  "gameTimeUTC": "2026-01-15T03:00:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-sac-0022500576",
+  "fetched_at_utc": "2026-10-21T07:00:15.385103+00:00",
+  "html_sha256": "205598c41af69c9333e62d48aa5d83553c8927c14e4495ec03bc189d2bcdc7ab"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500344",
+  "GAMEDATE": "2025-12-05",
+  "teams": [
+    "CHA",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "CHA",
+  "gameEt": "2025-12-05T19:30:00Z",
+  "gameTimeUTC": "2025-12-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-tor-0022500344",
+  "fetched_at_utc": "2026-10-21T06:58:44.649214+00:00",
+  "html_sha256": "0daaa679b8b28cc7ee4ba72da1d1d61b1761cb8f00d5dfea96de50fe625c9173"
+}

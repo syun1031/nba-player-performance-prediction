@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500577",
+  "GAMEDATE": "2026-01-14",
+  "teams": [
+    "LAC",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "WAS",
+  "gameEt": "2026-01-14T22:30:00Z",
+  "gameTimeUTC": "2026-01-15T03:30:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-was-0022500577",
+  "fetched_at_utc": "2026-10-21T07:00:15.218381+00:00",
+  "html_sha256": "3ba89f49ac890040c176b26416f3afa5f12746297ca26c24a378e23fda81746d"
+}

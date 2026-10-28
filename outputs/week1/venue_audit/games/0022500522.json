@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500522",
+  "GAMEDATE": "2026-01-07",
+  "teams": [
+    "LAC",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "LAC",
+  "gameEt": "2026-01-07T19:30:00Z",
+  "gameTimeUTC": "2026-01-08T00:30:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-nyk-0022500522",
+  "fetched_at_utc": "2026-10-21T06:59:55.300175+00:00",
+  "html_sha256": "092cdb6536d3c30399d137a56d1a4cf05484e857b08c824af78e41c9a7eb0078"
+}

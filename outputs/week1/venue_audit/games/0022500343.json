@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500343",
+  "GAMEDATE": "2025-12-05",
+  "teams": [
+    "NYK",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "UTA",
+  "gameEt": "2025-12-05T19:30:00Z",
+  "gameTimeUTC": "2025-12-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-uta-0022500343",
+  "fetched_at_utc": "2026-10-21T06:58:44.171158+00:00",
+  "html_sha256": "36754c1b94b112b2b6a84463baf3c26f6395d34b84fe45778d784272e6d19655"
+}

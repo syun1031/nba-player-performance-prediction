@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500342",
+  "GAMEDATE": "2025-12-05",
+  "teams": [
+    "DET",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "POR",
+  "gameEt": "2025-12-05T19:30:00Z",
+  "gameTimeUTC": "2025-12-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-por-0022500342",
+  "fetched_at_utc": "2026-10-21T06:58:44.026583+00:00",
+  "html_sha256": "efb02dc13048ac20cefbb924b5c116ee60ed5f4de05920188a33438715ecf912"
+}

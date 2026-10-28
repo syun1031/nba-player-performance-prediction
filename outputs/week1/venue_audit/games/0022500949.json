@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500949",
+  "GAMEDATE": "2026-03-11",
+  "teams": [
+    "NYK",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "NYK",
+  "gameEt": "2026-03-11T21:00:00Z",
+  "gameTimeUTC": "2026-03-12T01:00:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-uta-0022500949",
+  "fetched_at_utc": "2026-10-21T07:02:47.019553+00:00",
+  "html_sha256": "d6ac7b0e4218242f32d039242cdc0d9cdaccef4c947867e7a3e3befec0c9acd3"
+}

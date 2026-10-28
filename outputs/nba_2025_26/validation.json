@@ -1,0 +1,44 @@
+{
+  "source": "https://www.nba.com/stats/players/boxscores?Season=2025-26&SeasonType=Regular%20Season",
+  "rows": 26651,
+  "players": 582,
+  "games": 1230,
+  "teams": 30,
+  "dateFrom": "2025-10-21",
+  "dateTo": "2026-04-12",
+  "headers": [
+    "PLAYER",
+    "TEAM",
+    "MATCHUP",
+    "GAMEDATE",
+    "MIN",
+    "PTS",
+    "FG%",
+    "REB",
+    "AST"
+  ],
+  "first": [
+    "Aaron Gordon",
+    "DEN",
+    "DEN @ GSW",
+    "2025-10-23",
+    39,
+    50,
+    81,
+    8,
+    2
+  ],
+  "last": [
+    "Zyon Pullin",
+    "MIN",
+    "MIN VS. NOP",
+    "2026-04-12",
+    31,
+    19,
+    66.7,
+    3,
+    5
+  ],
+  "uniquePlayerGames": 26651,
+  "eachTeamGames": 82
+}

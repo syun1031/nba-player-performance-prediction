@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500639",
+  "GAMEDATE": "2026-01-23",
+  "teams": [
+    "MEM",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "NOP",
+  "gameEt": "2026-01-23T20:00:00Z",
+  "gameTimeUTC": "2026-01-24T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-nop-0022500639",
+  "fetched_at_utc": "2026-10-21T07:00:38.990239+00:00",
+  "html_sha256": "0858a14460c6ab339cbe66005fdd6693f9838d9999fc296faaa7ef0227358be3"
+}

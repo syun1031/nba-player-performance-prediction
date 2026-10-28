@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500722",
+  "GAMEDATE": "2026-02-03",
+  "teams": [
+    "CHI",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "CHI",
+  "gameEt": "2026-02-03T20:00:00Z",
+  "gameTimeUTC": "2026-02-04T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-mil-0022500722",
+  "fetched_at_utc": "2026-10-21T07:01:14.567419+00:00",
+  "html_sha256": "f85886074f9e52928fb6d0afd58f572098d6d4a1396c64d750f6ac8826923532"
+}

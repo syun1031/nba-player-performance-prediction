@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500144",
+  "GAMEDATE": "2025-11-01",
+  "teams": [
+    "GSW",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "GSW",
+  "gameEt": "2025-11-01T19:00:00Z",
+  "gameTimeUTC": "2025-11-01T23:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-ind-0022500144",
+  "fetched_at_utc": "2026-10-21T06:57:26.471134+00:00",
+  "html_sha256": "06a6dca8889cdcc0a331b6374675d0607c665b36a0a3eefd01c971fa1f407270"
+}

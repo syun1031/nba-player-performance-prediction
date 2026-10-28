@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500121",
+  "GAMEDATE": "2025-10-27",
+  "teams": [
+    "GSW",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "MEM",
+  "gameEt": "2025-10-27T22:00:00Z",
+  "gameTimeUTC": "2025-10-28T02:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-mem-0022500121",
+  "fetched_at_utc": "2026-10-21T06:57:18.188015+00:00",
+  "html_sha256": "7180e8403ea0e63030bd368713312ab5ca5b3d9cee0f3803edafd0a676231ca7"
+}

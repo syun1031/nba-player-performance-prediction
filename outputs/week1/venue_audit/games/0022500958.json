@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500958",
+  "GAMEDATE": "2026-03-12",
+  "teams": [
+    "DEN",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "DEN",
+  "gameEt": "2026-03-12T21:00:00Z",
+  "gameTimeUTC": "2026-03-13T01:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-sas-0022500958",
+  "fetched_at_utc": "2026-10-21T07:02:49.634747+00:00",
+  "html_sha256": "21814c37a8b68a2f73f7b853bf12059f48675c58c5ae1dba1277cca93a2699f3"
+}

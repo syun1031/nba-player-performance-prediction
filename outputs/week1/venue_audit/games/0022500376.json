@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500376",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "DAL",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "DET",
+  "gameEt": "2025-12-18T20:30:00Z",
+  "gameTimeUTC": "2025-12-19T01:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-det-0022500376",
+  "fetched_at_utc": "2026-10-21T06:58:57.066597+00:00",
+  "html_sha256": "09a4939a865383e6b71644747affd182571defa1351ea86ca1584e836a67785d"
+}

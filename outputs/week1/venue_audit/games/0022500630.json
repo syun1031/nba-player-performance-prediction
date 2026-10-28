@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500630",
+  "GAMEDATE": "2026-01-22",
+  "teams": [
+    "DAL",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "GSW",
+  "gameEt": "2026-01-22T19:30:00Z",
+  "gameTimeUTC": "2026-01-23T00:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-gsw-0022500630",
+  "fetched_at_utc": "2026-10-21T07:00:36.501620+00:00",
+  "html_sha256": "f871c7ae5da305e718e352b0bd30fe88cebf1bc1a2ca0b9844df36f60ccfe66c"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500874",
+  "GAMEDATE": "2026-03-01",
+  "teams": [
+    "BOS",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "PHI",
+  "gameEt": "2026-03-01T20:00:00Z",
+  "gameTimeUTC": "2026-03-02T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-phi-0022500874",
+  "fetched_at_utc": "2026-10-21T07:02:17.030329+00:00",
+  "html_sha256": "63439905624ee1dbbd833e49d435270eacd33ce2ec0df1480294776a9f8c9f94"
+}

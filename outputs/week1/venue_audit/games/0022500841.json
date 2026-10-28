@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500841",
+  "GAMEDATE": "2026-02-24",
+  "teams": [
+    "MIN",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "MIN",
+  "gameEt": "2026-02-24T22:00:00Z",
+  "gameTimeUTC": "2026-02-25T03:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-por-0022500841",
+  "fetched_at_utc": "2026-10-21T07:02:04.122568+00:00",
+  "html_sha256": "452b6180f3341301774073e3a68a03e4e07555436f6c5909972edad5829d8d46"
+}

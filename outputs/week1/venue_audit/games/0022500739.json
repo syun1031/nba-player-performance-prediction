@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500739",
+  "GAMEDATE": "2026-02-05",
+  "teams": [
+    "GSW",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "GSW",
+  "gameEt": "2026-02-05T22:00:00Z",
+  "gameTimeUTC": "2026-02-06T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-phx-0022500739",
+  "fetched_at_utc": "2026-10-21T07:01:21.466197+00:00",
+  "html_sha256": "fc7dc80be83dbcc2ef87ba0161fb9da0dc6f40055f2c322395dfd60436fa2189"
+}

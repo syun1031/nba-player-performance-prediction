@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500805",
+  "GAMEDATE": "2026-02-20",
+  "teams": [
+    "ATL",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "MIA",
+  "gameEt": "2026-02-20T19:30:00Z",
+  "gameTimeUTC": "2026-02-21T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-mia-0022500805",
+  "fetched_at_utc": "2026-10-21T07:01:48.909751+00:00",
+  "html_sha256": "db79bee7504f01785e8f3a8853e9f3e5dd2b2fc18d74a2cb15602d58678832a7"
+}

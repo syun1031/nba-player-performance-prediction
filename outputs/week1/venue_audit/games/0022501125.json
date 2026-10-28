@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501125",
+  "GAMEDATE": "2026-04-03",
+  "teams": [
+    "MEM",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "TOR",
+  "gameEt": "2026-04-03T20:00:00Z",
+  "gameTimeUTC": "2026-04-04T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-tor-0022501125",
+  "fetched_at_utc": "2026-10-21T07:03:50.438336+00:00",
+  "html_sha256": "076a77e863da1c82d334027cd2eefa56735ecd48fa23776c615319c8f9026922"
+}

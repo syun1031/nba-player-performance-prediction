@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500825",
+  "GAMEDATE": "2026-02-22",
+  "teams": [
+    "CHI",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "NYK",
+  "gameEt": "2026-02-22T20:00:00Z",
+  "gameTimeUTC": "2026-02-23T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-nyk-0022500825",
+  "fetched_at_utc": "2026-10-21T07:01:56.101559+00:00",
+  "html_sha256": "412b6c9fab7a24cd63c767190206d2ed65ef493c1f22d1d4f5b4e2fdb2259fac"
+}

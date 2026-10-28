@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500227",
+  "GAMEDATE": "2025-11-13",
+  "teams": [
+    "ATL",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "ATL",
+  "gameEt": "2025-11-13T21:00:00Z",
+  "gameTimeUTC": "2025-11-14T02:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-uta-0022500227",
+  "fetched_at_utc": "2026-10-21T06:57:57.297570+00:00",
+  "html_sha256": "326025515bbdb53120a3ea67686827c055b557a68ed12a3b5e728f02b2ce1cf0"
+}

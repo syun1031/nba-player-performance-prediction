@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500526",
+  "GAMEDATE": "2026-01-07",
+  "teams": [
+    "GSW",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "MIL",
+  "gameEt": "2026-01-07T22:00:00Z",
+  "gameTimeUTC": "2026-01-08T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-mil-0022500526",
+  "fetched_at_utc": "2026-10-21T06:59:57.101582+00:00",
+  "html_sha256": "a672f7add676b2a9e78b2ca355c6f23726efb9f1370dfddc91eb4851cdc639ec"
+}

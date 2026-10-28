@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500723",
+  "GAMEDATE": "2026-02-03",
+  "teams": [
+    "OKC",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "ORL",
+  "gameEt": "2026-02-03T20:00:00Z",
+  "gameTimeUTC": "2026-02-04T01:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-orl-0022500723",
+  "fetched_at_utc": "2026-10-21T07:01:15.919717+00:00",
+  "html_sha256": "c21b875d9e7252f72fa70df267ca232b2ccdf26e808c22ed849b5daee14cf6ae"
+}

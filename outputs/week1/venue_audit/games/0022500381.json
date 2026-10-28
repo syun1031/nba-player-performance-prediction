@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500381",
+  "GAMEDATE": "2025-12-19",
+  "teams": [
+    "BOS",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "MIA",
+  "gameEt": "2025-12-19T19:00:00Z",
+  "gameTimeUTC": "2025-12-20T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-mia-0022500381",
+  "fetched_at_utc": "2026-10-21T06:58:58.213010+00:00",
+  "html_sha256": "d3ef8715a1dbe93ee1df4a89e23ce54895caaec69110c7c9a89b287e37f3dc04"
+}

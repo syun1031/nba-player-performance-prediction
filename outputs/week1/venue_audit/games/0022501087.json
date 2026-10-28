@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501087",
+  "GAMEDATE": "2026-03-29",
+  "teams": [
+    "POR",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "WAS",
+  "gameEt": "2026-03-29T18:00:00Z",
+  "gameTimeUTC": "2026-03-29T22:00:00Z",
+  "source_url": "https://www.nba.com/game/por-vs-was-0022501087",
+  "fetched_at_utc": "2026-10-21T07:03:34.828450+00:00",
+  "html_sha256": "0ca14b6d804b9f6cf7566c975dadb23c92bc19dfb480e347dfe5f287e55f1b68"
+}

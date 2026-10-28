@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501013",
+  "GAMEDATE": "2026-03-19",
+  "teams": [
+    "PHX",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "PHX",
+  "gameEt": "2026-03-19T20:00:00Z",
+  "gameTimeUTC": "2026-03-20T00:00:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-sas-0022501013",
+  "fetched_at_utc": "2026-10-21T07:03:08.954731+00:00",
+  "html_sha256": "bb96af710abd7b3eacebd64e0d9b69f4f1ca4f3276e8cc8712d48bdec3d560a2"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500838",
+  "GAMEDATE": "2026-02-24",
+  "teams": [
+    "GSW",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "GSW",
+  "gameEt": "2026-02-24T20:00:00Z",
+  "gameTimeUTC": "2026-02-25T01:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-nop-0022500838",
+  "fetched_at_utc": "2026-10-21T07:02:03.765299+00:00",
+  "html_sha256": "edf9009bdf6553373b308b4119f718a29f61eb05b08a7f371b217f8e1b6a61fe"
+}

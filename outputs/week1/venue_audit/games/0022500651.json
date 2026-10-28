@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500651",
+  "GAMEDATE": "2026-03-18",
+  "teams": [
+    "DEN",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "DEN",
+  "gameEt": "2026-03-18T20:30:00Z",
+  "gameTimeUTC": "2026-03-19T00:30:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-mem-0022500651",
+  "fetched_at_utc": "2026-10-21T07:00:44.264208+00:00",
+  "html_sha256": "74c2eb91db07ee5db8e6fe33b2a9c752e0060a2dc4ba09a7c74709a271b1f273"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500005",
+  "GAMEDATE": "2025-10-23",
+  "teams": [
+    "IND",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "OKC",
+  "gameEt": "2025-10-23T19:30:00Z",
+  "gameTimeUTC": "2025-10-23T23:30:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-okc-0022500005",
+  "fetched_at_utc": "2026-10-21T06:56:32.879221+00:00",
+  "html_sha256": "f9f6728c815195c5a0005416f2f9f5f21c6ef405b4cb7356e8d1a6d43f3fc440"
+}

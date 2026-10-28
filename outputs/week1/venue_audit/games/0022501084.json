@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501084",
+  "GAMEDATE": "2026-03-29",
+  "teams": [
+    "BKN",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "SAC",
+  "gameEt": "2026-03-29T18:00:00Z",
+  "gameTimeUTC": "2026-03-29T22:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-sac-0022501084",
+  "fetched_at_utc": "2026-10-21T07:03:34.913854+00:00",
+  "html_sha256": "372dbade1bf25cd61a9882edad22687a33b005ae59b46d19b90b48dcbfca6809"
+}

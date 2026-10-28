@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500585",
+  "GAMEDATE": "2026-01-15",
+  "teams": [
+    "ATL",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "ATL",
+  "gameEt": "2026-01-15T22:00:00Z",
+  "gameTimeUTC": "2026-01-16T03:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-por-0022500585",
+  "fetched_at_utc": "2026-10-21T07:00:20.419649+00:00",
+  "html_sha256": "1651afe78a1c8a7de853348f772067ebbf19fe0d41d75636e6ebee3553e3b16b"
+}

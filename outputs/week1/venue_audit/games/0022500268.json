@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500268",
+  "GAMEDATE": "2025-11-22",
+  "teams": [
+    "CHA",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "LAC",
+  "gameEt": "2025-11-22T13:00:00Z",
+  "gameTimeUTC": "2025-11-22T18:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-lac-0022500268",
+  "fetched_at_utc": "2026-10-21T06:58:14.089075+00:00",
+  "html_sha256": "0be61dd2437298279ecbac257681618ccf23196cc221a33c7d749a6eef3bcc5a"
+}

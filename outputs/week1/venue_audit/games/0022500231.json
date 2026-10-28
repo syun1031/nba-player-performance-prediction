@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500231",
+  "GAMEDATE": "2025-11-15",
+  "teams": [
+    "LAL",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "LAL",
+  "gameEt": "2025-11-15T20:00:00Z",
+  "gameTimeUTC": "2025-11-16T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-mil-0022500231",
+  "fetched_at_utc": "2026-10-21T06:57:58.997615+00:00",
+  "html_sha256": "c8c0dafc34d302600c2a01844f388eaa7e50290eb965df125780b712a25d1e6f"
+}

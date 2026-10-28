@@ -1,0 +1,81 @@
+{
+  "train_n": 13281,
+  "february_n": 3462,
+  "cv_n": 9023,
+  "fits": 8,
+  "exact_v1_control_reproduced": true,
+  "model_reload_equal": true,
+  "same_cohort": true,
+  "test_metrics_computed": false,
+  "production_promoted": false,
+  "source_sha256": {
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_player_game_logs.csv": "4b1e53a3ac29426555b34609c1f4035c2dc8059ca27b68096ec8798885782629",
+    "outputs\\week1\\team_lineup_features\\train.csv": "4c20d4e32a5c74cda7506c216c04d9f1c9272c0a35df9d909195fbfa1dd3096e",
+    "outputs\\week1\\team_lineup_features\\validation.csv": "62038b51346eb2e049df30f50109711b3e45dfa9b5c67cdf7a32438b69456151",
+    "outputs\\week2\\time_validation_tuning\\common_parameters.json": "329ba584b203e266e35b8f832f504959903484a1fa61dbb48ab5cc7dc07c6db7",
+    "outputs\\week2\\time_validation_tuning\\predictions_time_validation.csv": "4d3f9fd2de8b459a611dcbf1d79899f2bcab40f25ee0a304a877fbfff84efb38",
+    "outputs\\week2\\time_validation_tuning\\predictions_february.csv": "a711efaceff5fea05ab93fda1bd7ede4197179b6b0f8a24d825b788e4e800714",
+    "outputs\\week2\\time_validation_tuning\\models\\linear_basic.joblib": "f018bdf1edd47ebf1c75b368cc9cdff116bdaf070f0eddea3b15b2b4f9cdc00f",
+    "outputs\\week2\\time_validation_tuning\\models\\linear_starter.joblib": "2e602a0c85f71179cca6ab023bbf25e530226f874a4b6dc388b47d1bd57d3185",
+    "outputs\\week2\\time_validation_tuning\\models\\linear_teammates.joblib": "31abf29883dafd7ed656eca8c1e5f710f2fe735634c815ad72b61017aa3de9c2",
+    "outputs\\week2\\time_validation_tuning\\models\\tree_basic.joblib": "6c8bd45ec758541c9c8145b11b7ade590cd65fc1988e99750c3ac97404ffa86e",
+    "outputs\\week2\\time_validation_tuning\\models\\tree_starter.joblib": "ebe3038383b55f5b8ee79143319d2155a9df4474207a48d330fe00fffe594b43",
+    "outputs\\week2\\time_validation_tuning\\models\\tree_teammates.joblib": "6dcde1bbff24b4e17f4bae1102481ab133fc42d47d31b7ba31be31f0424703a0",
+    "outputs\\week2\\time_validation_tuning\\models\\xgboost_basic.joblib": "9b2a0eccc65ec1c0e90f436c360eeaa98ca6eba02b1e44c9bc49719f8679ad79",
+    "outputs\\week2\\time_validation_tuning\\models\\xgboost_starter.joblib": "b26947a50af74f02f726d34d9445d3a18cda841d29a51644e9a7c68fadb3eb51",
+    "outputs\\week2\\time_validation_tuning\\models\\xgboost_teammates.joblib": "41d7415f130b8645cf2b0fd4d25da415f6bf12d30a57fced540a4d8100d9a430",
+    "streamlit_app.py": "40accf3d9cabbdd13a1e053c5ac3f0fc45dffe58d98b698a12ff4cf0a27b2467",
+    "nba_dashboard\\data.py": "8c0e9d25ab08d19278c6dcfd6fce0bdb811d9392f6d8fc21873f3d8020c03966",
+    "nba_dashboard\\views.py": "37c735e4f535e06e7b411d6fe5433c642e217e317c9cdf78103f3976195c7a1c",
+    "outputs\\week2\\final_test\\evaluated_candidate.json": "60d6baa35e97da3a7ce2f3d5c097e0c1e68f7af9bd9d77d59796f299808023d3",
+    "requirements.txt": "1ae560ddc22a8ac7f96a9f54d8fd9cca4283e3ccf27cab6e93bd68cd46156653",
+    "requirements-modeling.txt": "ef72e8657ed59716a744124d9f729cbe60613b038a606fe56f588ee440283452"
+  },
+  "output_sha256": {
+    "experiment_config.json": "467259cb504c7cbb915bef49566a6b92fc6ec795ed430c40900d1477e7baf571",
+    "feature_dictionary.csv": "81a4341251f6a2e832757af6b839d596a7ec09091ef841c68f442cf2c5c6f452",
+    "features\\train.csv": "3fbfe43786e6c60bbae5caaddca7f04ecdae8e793e711e7dc483c3a6e6a71d14",
+    "features\\validation.csv": "86f3176941b9a3291fc60445b1e325429961b22f7ab3d560101bf59290cf2713",
+    "fit_log.csv": "03369962053da166f73cc820736cc69655a8078be110c4cf7004db5421be75f8",
+    "independent_audit.json": "9c1fe7d4f24c23c9d380b019ae1763d8a886037f410efe3415b6a9e889ef8cfa",
+    "mae_comparison.png": "50e5e42782e36927622ef10cf9d53a09588edfad016c96368dc981681827f140",
+    "models\\F1_v1.joblib": "3bfc7eddd32d46ca99aad0cb987c50531810093869c6bd3c0f7c1551cb52077a",
+    "models\\F1_v2.joblib": "7e9bd3513f92061f4be7cbd669e0de67292d3716a2dee9c414e7420eaa87b67c",
+    "models\\F2_v1.joblib": "a54ee15828a6e363deaef16bbde1bd646cf15baca7aac9341b1720b134044c3f",
+    "models\\F2_v2.joblib": "e67e4bbd902fc76eee4dc777336db117f0b7dc6d954b44ba8d89c1fe80c8fe53",
+    "models\\F3_v1.joblib": "a2ab111b24c70dedd9d0ea4020213a7b1de4c66ca82764df058d490305bef5da",
+    "models\\F3_v2.joblib": "c40c90e6f74c7dd6223147f24e5cb9d8bd6382e7e03528fa696098b79b2a0704",
+    "models\\February_v1.joblib": "a97face384b12d52ffb9f2be8cbaa1b8fc355073936eaedf86c03272d180c461",
+    "models\\February_v2.joblib": "9e57781f9b5c73a481a4288e002d25c075746e97f40382da360c16504d7433d2",
+    "paired_intervals.json": "d82052a55f48b294fd184ce5542191b8764bb4ea334637e971ac835c288c616d",
+    "predictions_CV_pooled.csv": "46a2c657ae73f5a2d53ef1afaa58d86e757f49ed058d07e3dbeb33745428610d",
+    "predictions_February.csv": "be507a2ecb5fcda70dba461b51aa342e1fdce8bde0c36f8d5c09e483c1c4087c",
+    "report.md": "5b07e5fd8f346bc8ffd9feaf2de23db2b3104cca692841f2562d6bd8b62143d8",
+    "review_and_tests.json": "863d1da3a55957366ce510d64a6b7b3e740059dd55a75657dbb129585c419f06",
+    "scores.csv": "7c2f0d1eabfbf5431d231228eb5bbee42016a1fc9c2946f860a1ce5a1a00e3a4"
+  },
+  "independent_audit": {
+    "independent_feature_rows": 16743,
+    "cohort_original_values_equal": true,
+    "manual_window_formulas_equal": true,
+    "saved_scores_recomputed": true,
+    "residual_definition": "actual_minus_prediction",
+    "additional_fits": 0,
+    "test_predictions_computed": false,
+    "environment": {
+      "python": "3.12.14",
+      "packages": {
+        "numpy": "2.5.4",
+        "scikit-learn": "1.9.1",
+        "xgboost": "3.4.1",
+        "joblib": "1.6.0",
+        "matplotlib": "3.11.2"
+      }
+    }
+  },
+  "code_sha256": {
+    "scripts\\recent_change_features.py": "0bb26dae80b1a14e88fa4e98bdafa2124c0baac9b8bfe5ef1e1f99bd11eb3f04",
+    "scripts\\experiment_recent_changes.py": "c7eddc3f17003c710f05919f90455134bd97095f3f86edd42b4efc3369ffa640",
+    "scripts\\verify_recent_changes.py": "a959dbefe6e01c78cffe6fe0b93f4d562622b0d11920285565e75ec12a664dc9"
+  }
+}

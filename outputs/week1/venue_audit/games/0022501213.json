@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501213",
+  "GAMEDATE": "2025-12-12",
+  "teams": [
+    "MEM",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "UTA",
+  "gameEt": "2025-12-12T20:00:00Z",
+  "gameTimeUTC": "2025-12-13T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-uta-0022501213",
+  "fetched_at_utc": "2026-10-21T07:04:30.975697+00:00",
+  "html_sha256": "2205aee8b64b9f4b998315f4bbce0ce33edefd1dfb155ed1291d4858d0a6f542"
+}

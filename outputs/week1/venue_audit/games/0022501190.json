@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501190",
+  "GAMEDATE": "2026-04-12",
+  "teams": [
+    "CHA",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "CHA",
+  "gameEt": "2026-04-12T18:00:00Z",
+  "gameTimeUTC": "2026-04-12T22:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-nyk-0022501190",
+  "fetched_at_utc": "2026-10-21T07:04:22.260021+00:00",
+  "html_sha256": "fdb830860a05f1e723859eaaa7276af8f30b099e7c8bb3856098cf235de6fc31"
+}

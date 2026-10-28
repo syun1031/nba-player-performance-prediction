@@ -1,0 +1,72 @@
+{
+  "rows": 479,
+  "seasonCounts": [
+    {
+      "season": "2018-19",
+      "games": 55
+    },
+    {
+      "season": "2019-20",
+      "games": 67
+    },
+    {
+      "season": "2020-21",
+      "games": 45
+    },
+    {
+      "season": "2021-22",
+      "games": 56
+    },
+    {
+      "season": "2022-23",
+      "games": 55
+    },
+    {
+      "season": "2023-24",
+      "games": 71
+    },
+    {
+      "season": "2024-25",
+      "games": 70
+    },
+    {
+      "season": "2025-26",
+      "games": 60
+    }
+  ],
+  "first": [
+    "LAL @ POR",
+    "2018-10-18",
+    "37:20",
+    26,
+    56.3,
+    12,
+    6,
+    1,
+    0
+  ],
+  "last": [
+    "LAL VS. UTA",
+    "2026-04-12",
+    "16:33",
+    18,
+    40,
+    4,
+    6,
+    3,
+    0
+  ],
+  "headers": [
+    "MATCHUP",
+    "GAMEDATE",
+    "MIN",
+    "PTS",
+    "FG%",
+    "REB",
+    "AST",
+    "STL",
+    "BLK"
+  ],
+  "source": "https://www.nba.com/stats/player/2544/boxscores-traditional",
+  "path": "C:/Users/wangs/codex/outputs/lebron_lakers_2018_2026/lebron_james_lakers_2018_19_to_2025_26_regular_season.csv"
+}

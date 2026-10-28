@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500808",
+  "GAMEDATE": "2026-02-20",
+  "teams": [
+    "BKN",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "BKN",
+  "gameEt": "2026-02-20T20:00:00Z",
+  "gameTimeUTC": "2026-02-21T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-okc-0022500808",
+  "fetched_at_utc": "2026-10-21T07:01:49.893969+00:00",
+  "html_sha256": "c8bc5b733d1630dbfe0271cd653be57748b4bff506a50ae81be01b85f07ea9d5"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501102",
+  "GAMEDATE": "2026-03-31",
+  "teams": [
+    "HOU",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "NYK",
+  "gameEt": "2026-03-31T20:00:00Z",
+  "gameTimeUTC": "2026-04-01T00:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-nyk-0022501102",
+  "fetched_at_utc": "2026-10-21T07:03:41.219874+00:00",
+  "html_sha256": "9d9d7203927f1b74e4fe1d8b478b5d064e8fa8e0e1692c3eb452ffee033370f3"
+}

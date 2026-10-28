@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501211",
+  "GAMEDATE": "2025-12-12",
+  "teams": [
+    "IND",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "IND",
+  "gameEt": "2025-12-12T19:00:00Z",
+  "gameTimeUTC": "2025-12-13T00:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-phi-0022501211",
+  "fetched_at_utc": "2026-10-21T07:04:29.597981+00:00",
+  "html_sha256": "9b6b4b7aa963a86a80da1b4ec0bdef510a7f8e6334f1301091dc3eb2c14b6e03"
+}

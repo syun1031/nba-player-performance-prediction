@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501047",
+  "GAMEDATE": "2026-03-24",
+  "teams": [
+    "CHA",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "SAC",
+  "gameEt": "2026-03-24T19:00:00Z",
+  "gameTimeUTC": "2026-03-24T23:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-sac-0022501047",
+  "fetched_at_utc": "2026-10-21T07:03:21.017595+00:00",
+  "html_sha256": "c7e003090fe2fdf4a5a657dc13b60b86135bb10c7407b95068b6291d504c1e50"
+}

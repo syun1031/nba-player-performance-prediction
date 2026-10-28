@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500239",
+  "GAMEDATE": "2025-11-16",
+  "teams": [
+    "ATL",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "ATL",
+  "gameEt": "2025-11-16T20:00:00Z",
+  "gameTimeUTC": "2025-11-17T01:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-phx-0022500239",
+  "fetched_at_utc": "2026-10-21T06:58:01.855770+00:00",
+  "html_sha256": "b90b7e2421ad8216324c17a5b21767cace5562c66cccc20b3f72c6affea359af"
+}

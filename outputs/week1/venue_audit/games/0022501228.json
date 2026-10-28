@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501228",
+  "GAMEDATE": "2025-12-14",
+  "teams": [
+    "LAL",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "LAL",
+  "gameEt": "2025-12-14T20:00:00Z",
+  "gameTimeUTC": "2025-12-15T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-phx-0022501228",
+  "fetched_at_utc": "2026-10-21T07:04:38.345408+00:00",
+  "html_sha256": "0e91ac74e3414d248dcf9130acf2e97cbeb816e5b248c12a458e26204209acab"
+}

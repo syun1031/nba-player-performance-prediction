@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500222",
+  "GAMEDATE": "2025-11-12",
+  "teams": [
+    "LAL",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "LAL",
+  "gameEt": "2025-11-12T21:30:00Z",
+  "gameTimeUTC": "2025-11-13T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-okc-0022500222",
+  "fetched_at_utc": "2026-10-21T06:57:56.227110+00:00",
+  "html_sha256": "a3f852c396f6cda3b335a014d96de4ac9943d2b771f9ed4f9861255b75899a5f"
+}

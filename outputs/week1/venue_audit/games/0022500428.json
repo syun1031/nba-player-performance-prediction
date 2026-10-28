@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500428",
+  "GAMEDATE": "2025-12-26",
+  "teams": [
+    "MEM",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "MIL",
+  "gameEt": "2025-12-26T20:00:00Z",
+  "gameTimeUTC": "2025-12-27T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-mil-0022500428",
+  "fetched_at_utc": "2026-10-21T06:59:18.669509+00:00",
+  "html_sha256": "684f334424a2a7b08510c61c2d370d9784b82a0ad7260771d8097854693979f2"
+}

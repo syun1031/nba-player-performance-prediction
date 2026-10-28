@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500512",
+  "GAMEDATE": "2026-01-06",
+  "teams": [
+    "MEM",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "SAS",
+  "gameEt": "2026-01-06T20:00:00Z",
+  "gameTimeUTC": "2026-01-07T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-sas-0022500512",
+  "fetched_at_utc": "2026-10-21T06:59:50.548601+00:00",
+  "html_sha256": "85d5493d4615baf98464d8370fe16d5f5c626afd4c4d8e837160f4102d53f72a"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500647",
+  "GAMEDATE": "2026-01-24",
+  "teams": [
+    "BOS",
+    "CHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "BOS",
+  "gameEt": "2026-01-24T20:00:00Z",
+  "gameTimeUTC": "2026-01-25T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-chi-0022500647",
+  "fetched_at_utc": "2026-10-21T07:00:42.342518+00:00",
+  "html_sha256": "3bfef6fd0a3ce2bc9248ec0143faab854e661bef47ccf493ac17d25c89ed3253"
+}

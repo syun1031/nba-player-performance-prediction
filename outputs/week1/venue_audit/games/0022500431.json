@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500431",
+  "GAMEDATE": "2025-12-26",
+  "teams": [
+    "LAC",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "LAC",
+  "gameEt": "2025-12-26T22:00:00Z",
+  "gameTimeUTC": "2025-12-27T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-por-0022500431",
+  "fetched_at_utc": "2026-10-21T06:59:19.949139+00:00",
+  "html_sha256": "6720dbd41454b87ace56931ae478b688017d71bf3a993167e918584289917396"
+}

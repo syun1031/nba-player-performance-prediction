@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500167",
+  "GAMEDATE": "2025-11-04",
+  "teams": [
+    "CHI",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "PHI",
+  "gameEt": "2025-11-04T20:00:00Z",
+  "gameTimeUTC": "2025-11-05T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-phi-0022500167",
+  "fetched_at_utc": "2026-10-21T06:57:35.483357+00:00",
+  "html_sha256": "d252d9124e839294381841ee96c3b1ab7431ab066595e75dc4fd27d3d1c2732d"
+}

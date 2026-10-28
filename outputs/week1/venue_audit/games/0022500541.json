@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500541",
+  "GAMEDATE": "2026-01-09",
+  "teams": [
+    "LAL",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "MIL",
+  "gameEt": "2026-01-09T22:30:00Z",
+  "gameTimeUTC": "2026-01-10T03:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-mil-0022500541",
+  "fetched_at_utc": "2026-10-21T07:00:01.567479+00:00",
+  "html_sha256": "c9b8ba0ec3a355eaa8ff6f7f0a0a111c007a9796b5bcbc5c5db1f38dd6234f29"
+}

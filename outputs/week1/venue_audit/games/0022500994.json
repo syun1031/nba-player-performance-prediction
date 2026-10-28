@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500994",
+  "GAMEDATE": "2026-03-17",
+  "teams": [
+    "IND",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "IND",
+  "gameEt": "2026-03-17T19:30:00Z",
+  "gameTimeUTC": "2026-03-17T23:30:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-nyk-0022500994",
+  "fetched_at_utc": "2026-10-21T07:03:01.584510+00:00",
+  "html_sha256": "fea8ec76254f5cfb954e0b0c835fa6e7c3a151e9ed18dee71225868545539c73"
+}

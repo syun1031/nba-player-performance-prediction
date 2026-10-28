@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500192",
+  "GAMEDATE": "2025-11-09",
+  "teams": [
+    "BKN",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "BKN",
+  "gameEt": "2025-11-09T18:00:00Z",
+  "gameTimeUTC": "2025-11-09T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-nyk-0022500192",
+  "fetched_at_utc": "2026-10-21T06:57:44.926530+00:00",
+  "html_sha256": "ca751d26575dfe072eb58af0fb55d80724a06e5b6f2495456df8153492a02d46"
+}

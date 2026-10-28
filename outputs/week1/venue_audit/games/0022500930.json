@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500930",
+  "GAMEDATE": "2026-03-08",
+  "teams": [
+    "CHI",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "CHI",
+  "gameEt": "2026-03-08T21:00:00Z",
+  "gameTimeUTC": "2026-03-09T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-sac-0022500930",
+  "fetched_at_utc": "2026-10-21T07:02:39.732010+00:00",
+  "html_sha256": "602b59163df082f97ed82118c85e92aa78997795a2a576f64e566d5656d24361"
+}

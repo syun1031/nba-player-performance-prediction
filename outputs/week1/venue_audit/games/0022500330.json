@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500330",
+  "GAMEDATE": "2025-12-03",
+  "teams": [
+    "HOU",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "SAC",
+  "gameEt": "2025-12-03T20:00:00Z",
+  "gameTimeUTC": "2025-12-04T01:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-sac-0022500330",
+  "fetched_at_utc": "2026-10-21T06:58:39.149511+00:00",
+  "html_sha256": "3e90a9c66795e516459311f8f4835c4908b528ec6aca7222052cf8d8ddb3f766"
+}

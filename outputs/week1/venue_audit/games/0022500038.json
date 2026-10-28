@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500038",
+  "GAMEDATE": "2025-11-07",
+  "teams": [
+    "OKC",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "OKC",
+  "gameEt": "2025-11-07T22:00:00Z",
+  "gameTimeUTC": "2025-11-08T03:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-sac-0022500038",
+  "fetched_at_utc": "2026-10-21T06:56:44.968981+00:00",
+  "html_sha256": "680b4a3fbc72ff157276c84f97fe7e330fb0f83ae2418baff7c6437cd7d778bd"
+}

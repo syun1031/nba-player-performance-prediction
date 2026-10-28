@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501054",
+  "GAMEDATE": "2026-03-25",
+  "teams": [
+    "BOS",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "OKC",
+  "gameEt": "2026-03-25T19:30:00Z",
+  "gameTimeUTC": "2026-03-25T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-okc-0022501054",
+  "fetched_at_utc": "2026-10-21T07:03:23.139493+00:00",
+  "html_sha256": "0aeb4f502e56895649470eb7fd1b8cdef9bb24845cd150e579a5956c8b9ed87f"
+}

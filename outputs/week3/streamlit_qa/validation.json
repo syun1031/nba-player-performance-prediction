@@ -1,0 +1,66 @@
+{
+  "verified": true,
+  "date": "2026-10-28",
+  "data_version": "2026-10-23",
+  "app_entry": "streamlit_app.py",
+  "local_url": "http://127.0.0.1:8501",
+  "tests_total": 91,
+  "new_data_tests": 10,
+  "new_ui_tests": 6,
+  "existing_model_tests": 75,
+  "apptest_pages_passed": true,
+  "live_browser_pages_checked": [
+    "歷史回測",
+    "模型比較"
+  ],
+  "live_high_score_count_checked": 228,
+  "comparison_download_clicked": true,
+  "health_http_status": 200,
+  "primary_model": "xgboost_starter",
+  "test_samples": 6979,
+  "validation_samples": 3462,
+  "no_app_model_fit_or_predict": true,
+  "frozen_artifact_hashes_verified": 63,
+  "original_modeling_versions_unchanged": true,
+  "independent_review": "Initial validation-version binding finding fixed; reviewer confirmed no remaining findings.",
+  "versions": {
+    "streamlit": "1.66.1",
+    "pandas": "3.1.0",
+    "altair": "6.3.0",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1"
+  },
+  "ui_data_source_sha256": {
+    "outputs/week2/final_test/evaluated_candidate.json": "60d6baa35e97da3a7ce2f3d5c097e0c1e68f7af9bd9d77d59796f299808023d3",
+    "outputs/week2/final_test/test_protocol.json": "0b6ca963f3f5548bfe4dd71ca0b392d50761755b9d519d6fb0799b332d645b01",
+    "outputs/week2/final_test/validation.json": "b5abf21e1be47e85894e1fbbb912fee5ea16eb2443e0589118c9098108484181",
+    "outputs/week2/final_test/predictions_test.csv": "5ba56ae3041cc1c08707ff5f1b92eea5d7ae4c18d3f67cdd40385471ef32dfea",
+    "outputs/week2/final_test/model_metrics.csv": "1ff99f92b0507e0933cd8c4259164e6923515340ae6532f81541e870844ef31c",
+    "outputs/week2/time_validation_tuning/validation.json": "24d9742a86e6665f663b1beda9e077215e20bc4ac657bd57c18aa3390130ddc2",
+    "outputs/week2/time_validation_tuning/predictions_february.csv": "a711efaceff5fea05ab93fda1bd7ede4197179b6b0f8a24d825b788e4e800714",
+    "outputs/week2/time_validation_tuning/february_metrics.csv": "22b789783a3218bde5eabc61535236d894a132513fc2378257ddf19765122b45",
+    "outputs/nba_2025_26/nba_2025_26_regular_season_player_game_logs.csv": "4b1e53a3ac29426555b34609c1f4035c2dc8059ca27b68096ec8798885782629",
+    "outputs/week1/features_baseline/validation.json": "d92b877c6b05943ad168f3730d8ffca0ea6998a14b59c14e995170c2f2569bbc"
+  },
+  "app_source_sha256": {
+    "streamlit_app.py": "40accf3d9cabbdd13a1e053c5ac3f0fc45dffe58d98b698a12ff4cf0a27b2467",
+    "nba_dashboard\\data.py": "8c0e9d25ab08d19278c6dcfd6fce0bdb811d9392f6d8fc21873f3d8020c03966",
+    "nba_dashboard\\views.py": "37c735e4f535e06e7b411d6fe5433c642e217e317c9cdf78103f3976195c7a1c",
+    "nba_dashboard\\__init__.py": "88ceb2079077f0aa8257e123090577acd4e695a5f53096ff42f6ee95dbae04cd",
+    "dashboard_pages\\comparison.py": "ea1ab4a96555333bb72afe3d3cef08208be8897bb15c33865df49eb6894f282a",
+    "dashboard_pages\\history.py": "d6a8f26546e662b8d365a5a2b1e14fb85dc75913f47ef5f880116f35e8fb69d4",
+    ".streamlit\\config.toml": "fa8a080712f9cac6526add9e733fc37e8d3ddb043373c24df57a05b03c9ba8d5",
+    "requirements.txt": "1ae560ddc22a8ac7f96a9f54d8fd9cca4283e3ccf27cab6e93bd68cd46156653"
+  },
+  "screenshots": {
+    "history.png": "f5518c20038fcdcd8a98f248ea554169ad8e8353293b317051814f3e9b3b0d8d",
+    "comparison.png": "c7bd9177ec518f1a076853d4b3e0f5b9650b28993dde5f6334511f8597745d8f"
+  },
+  "not_completed": [
+    "future_prediction",
+    "manual_updates",
+    "GitHub_publication",
+    "cloud_deployment"
+  ]
+}

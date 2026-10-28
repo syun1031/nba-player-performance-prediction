@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500313",
+  "GAMEDATE": "2025-12-01",
+  "teams": [
+    "LAC",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "LAC",
+  "gameEt": "2025-12-01T19:30:00Z",
+  "gameTimeUTC": "2025-12-02T00:30:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-mia-0022500313",
+  "fetched_at_utc": "2026-10-21T06:58:32.628589+00:00",
+  "html_sha256": "b5b205a441c717cf7fde714d665c426b54045313260656e00b6e8cda4b85c0f4"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500627",
+  "GAMEDATE": "2026-01-22",
+  "teams": [
+    "CHA",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "CHA",
+  "gameEt": "2026-01-22T19:00:00Z",
+  "gameTimeUTC": "2026-01-23T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-orl-0022500627",
+  "fetched_at_utc": "2026-10-21T07:00:35.399475+00:00",
+  "html_sha256": "b83d282736d7659383225cef520abf17015c3f40ae5052a7830273e3c8372721"
+}

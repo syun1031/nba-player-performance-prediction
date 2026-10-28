@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500473",
+  "GAMEDATE": "2026-01-01",
+  "teams": [
+    "DAL",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "PHI",
+  "gameEt": "2026-01-01T20:30:00Z",
+  "gameTimeUTC": "2026-01-02T01:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-phi-0022500473",
+  "fetched_at_utc": "2026-10-21T06:59:36.064324+00:00",
+  "html_sha256": "bcb541f6d9886676a4833dd78025e1ef6a47b37c8184471db297ae0c6db30e1f"
+}

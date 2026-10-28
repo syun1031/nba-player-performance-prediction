@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501008",
+  "GAMEDATE": "2026-03-19",
+  "teams": [
+    "CHA",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "ORL",
+  "gameEt": "2026-03-19T19:00:00Z",
+  "gameTimeUTC": "2026-03-19T23:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-orl-0022501008",
+  "fetched_at_utc": "2026-10-21T07:03:06.477691+00:00",
+  "html_sha256": "c87eca6d742c12cf226799952f9dc93333b33d21c392748ca4b40e95dab71655"
+}

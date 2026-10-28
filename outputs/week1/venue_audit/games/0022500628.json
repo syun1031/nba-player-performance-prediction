@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500628",
+  "GAMEDATE": "2026-01-22",
+  "teams": [
+    "HOU",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "HOU",
+  "gameEt": "2026-01-22T19:00:00Z",
+  "gameTimeUTC": "2026-01-23T00:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-phi-0022500628",
+  "fetched_at_utc": "2026-10-21T07:00:35.850279+00:00",
+  "html_sha256": "a06fb157b3085487a770c1a9d004263cb8367409f300a98a51e04ba39d4d564b"
+}

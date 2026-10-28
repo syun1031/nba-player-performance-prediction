@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500134",
+  "GAMEDATE": "2025-10-29",
+  "teams": [
+    "DEN",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "NOP",
+  "gameEt": "2025-10-29T21:00:00Z",
+  "gameTimeUTC": "2025-10-30T01:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-nop-0022500134",
+  "fetched_at_utc": "2026-10-21T06:57:22.901738+00:00",
+  "html_sha256": "02386e3c83d00a0841df4f581741ae763da86a9018774de46324cc4ecfd5fff3"
+}

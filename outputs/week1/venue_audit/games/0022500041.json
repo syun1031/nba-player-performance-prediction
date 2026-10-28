@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500041",
+  "GAMEDATE": "2025-11-14",
+  "teams": [
+    "DET",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "PHI",
+  "gameEt": "2025-11-14T19:30:00Z",
+  "gameTimeUTC": "2025-11-15T00:30:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-phi-0022500041",
+  "fetched_at_utc": "2026-10-21T06:56:46.379178+00:00",
+  "html_sha256": "21b8a70590022c6d75df1f6a6efa5532db20a2cee2027d4e5c6c281b1aa79afe"
+}

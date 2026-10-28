@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500548",
+  "GAMEDATE": "2026-01-11",
+  "teams": [
+    "NOP",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "NOP",
+  "gameEt": "2026-01-11T15:00:00Z",
+  "gameTimeUTC": "2026-01-11T20:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-orl-0022500548",
+  "fetched_at_utc": "2026-10-21T07:00:04.269480+00:00",
+  "html_sha256": "836791620739c34e94a6320c68f1bad347a09b9cb5c46e18b49a2fe4fe4fbc3e"
+}

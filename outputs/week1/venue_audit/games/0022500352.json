@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500352",
+  "GAMEDATE": "2025-12-06",
+  "teams": [
+    "CLE",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "GSW",
+  "gameEt": "2025-12-06T19:30:00Z",
+  "gameTimeUTC": "2025-12-07T00:30:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-gsw-0022500352",
+  "fetched_at_utc": "2026-10-21T06:58:46.979442+00:00",
+  "html_sha256": "db0f6e938599a86ae56ad99bd24c18c33e39c13ebc06d91e7a52d7ee02d59ef2"
+}

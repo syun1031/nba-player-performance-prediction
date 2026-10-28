@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500508",
+  "GAMEDATE": "2026-01-05",
+  "teams": [
+    "GSW",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "GSW",
+  "gameEt": "2026-01-05T22:00:00Z",
+  "gameTimeUTC": "2026-01-06T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-lac-0022500508",
+  "fetched_at_utc": "2026-10-21T06:59:49.385787+00:00",
+  "html_sha256": "dad3b6c6accca60210ad14e5dce336aa2c0cdb085261e5fbaa60af11b742896f"
+}

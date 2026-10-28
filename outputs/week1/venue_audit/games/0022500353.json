@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500353",
+  "GAMEDATE": "2025-12-06",
+  "teams": [
+    "DET",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "MIL",
+  "gameEt": "2025-12-06T19:30:00Z",
+  "gameTimeUTC": "2025-12-07T00:30:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-mil-0022500353",
+  "fetched_at_utc": "2026-10-21T06:58:48.847576+00:00",
+  "html_sha256": "6276040cb67a2cef2d3380c3ffca3d913f3a90795ce79a524189f542e6e936f6"
+}

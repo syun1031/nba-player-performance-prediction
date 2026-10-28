@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500556",
+  "GAMEDATE": "2026-01-11",
+  "teams": [
+    "ATL",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "ATL",
+  "gameEt": "2026-01-11T20:30:00Z",
+  "gameTimeUTC": "2026-01-12T01:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-gsw-0022500556",
+  "fetched_at_utc": "2026-10-21T07:00:08.198386+00:00",
+  "html_sha256": "4a0e543df91302cd0e065b6db62d019c2d836a7a5cde69c11bc8fc4716daee2f"
+}

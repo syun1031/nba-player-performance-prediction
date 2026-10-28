@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500938",
+  "GAMEDATE": "2026-03-10",
+  "teams": [
+    "MIA",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "WAS",
+  "gameEt": "2026-03-10T19:30:00Z",
+  "gameTimeUTC": "2026-03-10T23:30:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-was-0022500938",
+  "fetched_at_utc": "2026-10-21T07:02:44.059627+00:00",
+  "html_sha256": "c89bf7745a4f0eed64aa3c16bda539a80bf3b5dd5ce3f332986830e8724500b0"
+}

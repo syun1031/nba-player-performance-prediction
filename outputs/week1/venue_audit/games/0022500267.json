@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500267",
+  "GAMEDATE": "2025-11-20",
+  "teams": [
+    "ATL",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "ATL",
+  "gameEt": "2025-11-20T20:00:00Z",
+  "gameTimeUTC": "2025-11-21T01:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-sas-0022500267",
+  "fetched_at_utc": "2026-10-21T06:58:13.101353+00:00",
+  "html_sha256": "06200e0c5f77c54690c4267d3d08964f2f618901ea6a6eaff3c541dcd75f9e0c"
+}

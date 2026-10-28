@@ -1,0 +1,155 @@
+{
+  "expected_games": 1230,
+  "attempted_games": 1230,
+  "success": 1227,
+  "errors": [
+    {
+      "gameId": "0022500259",
+      "url": "https://www.nba.com/game/min-vs-was-0022500259",
+      "error": "KeyError: 'game'"
+    },
+    {
+      "gameId": "0022500260",
+      "url": "https://www.nba.com/game/den-vs-nop-0022500260",
+      "error": "KeyError: 'game'"
+    },
+    {
+      "gameId": "0022500261",
+      "url": "https://www.nba.com/game/okc-vs-sac-0022500261",
+      "error": "KeyError: 'game'"
+    }
+  ],
+  "neutral_games": [
+    {
+      "gameId": "0022500147",
+      "GAMEDATE": "2025-11-01",
+      "teams": [
+        "DAL",
+        "DET"
+      ],
+      "isNeutral": true,
+      "arena": {
+        "arenaId": 1000121,
+        "arenaName": "Arena CDMX",
+        "arenaCity": "Mexico City",
+        "arenaState": "MX",
+        "arenaCountry": "MX",
+        "arenaTimezone": "Central",
+        "arenaStreetAddress": "",
+        "arenaPostalCode": ""
+      },
+      "homeTeam": "DET",
+      "awayTeam": "DAL",
+      "gameEt": "2025-11-01T22:00:00Z",
+      "gameTimeUTC": "2025-11-02T02:00:00Z",
+      "source_url": "https://www.nba.com/game/dal-vs-det-0022500147",
+      "fetched_at_utc": "2026-10-21T06:57:27.263371+00:00",
+      "html_sha256": "898fa2a4ba1bab7d57df8e04158e55b07f3ad7d9fce29531bc66653edda4b081"
+    },
+    {
+      "gameId": "0022500578",
+      "GAMEDATE": "2026-01-15",
+      "teams": [
+        "MEM",
+        "ORL"
+      ],
+      "isNeutral": true,
+      "arena": {
+        "arenaId": 1000153,
+        "arenaName": "Uber Arena",
+        "arenaCity": "Berlin",
+        "arenaState": "",
+        "arenaCountry": "DE",
+        "arenaTimezone": "",
+        "arenaStreetAddress": "",
+        "arenaPostalCode": ""
+      },
+      "homeTeam": "ORL",
+      "awayTeam": "MEM",
+      "gameEt": "2026-01-15T14:00:00Z",
+      "gameTimeUTC": "2026-01-15T19:00:00Z",
+      "source_url": "https://www.nba.com/game/mem-vs-orl-0022500578",
+      "fetched_at_utc": "2026-10-21T07:00:16.699184+00:00",
+      "html_sha256": "758502c02b96589d989e1fe3b6632a4c157f848a943de0ee57ec5ec041dd7d18"
+    },
+    {
+      "gameId": "0022500602",
+      "GAMEDATE": "2026-01-18",
+      "teams": [
+        "MEM",
+        "ORL"
+      ],
+      "isNeutral": true,
+      "arena": {
+        "arenaId": 315,
+        "arenaName": "The O2 Arena",
+        "arenaCity": "London",
+        "arenaState": "",
+        "arenaCountry": "GB",
+        "arenaTimezone": "",
+        "arenaStreetAddress": "",
+        "arenaPostalCode": ""
+      },
+      "homeTeam": "MEM",
+      "awayTeam": "ORL",
+      "gameEt": "2026-01-18T12:00:00Z",
+      "gameTimeUTC": "2026-01-18T17:00:00Z",
+      "source_url": "https://www.nba.com/game/mem-vs-orl-0022500602",
+      "fetched_at_utc": "2026-10-21T07:00:25.207324+00:00",
+      "html_sha256": "54d075d6ce327b0f2b7e2ce446c9423ee03cb3784a4d6ef7ec9b2cac57d9d2f5"
+    },
+    {
+      "gameId": "0022501229",
+      "GAMEDATE": "2025-12-13",
+      "teams": [
+        "NYK",
+        "ORL"
+      ],
+      "isNeutral": true,
+      "arena": {
+        "arenaId": 606,
+        "arenaName": "T-Mobile Arena",
+        "arenaCity": "Las Vegas",
+        "arenaState": "NV",
+        "arenaCountry": "US",
+        "arenaTimezone": "Pacific",
+        "arenaStreetAddress": "",
+        "arenaPostalCode": ""
+      },
+      "homeTeam": "ORL",
+      "awayTeam": "NYK",
+      "gameEt": "2025-12-13T17:30:00Z",
+      "gameTimeUTC": "2025-12-13T22:30:00Z",
+      "source_url": "https://www.nba.com/game/nyk-vs-orl-0022501229",
+      "fetched_at_utc": "2026-10-21T07:04:36.534954+00:00",
+      "html_sha256": "e60d8f3de7f228470e34f10273e97f3696331c141f6d2d57c3dca844c3e9629c"
+    },
+    {
+      "gameId": "0022501230",
+      "GAMEDATE": "2025-12-13",
+      "teams": [
+        "OKC",
+        "SAS"
+      ],
+      "isNeutral": true,
+      "arena": {
+        "arenaId": 606,
+        "arenaName": "T-Mobile Arena",
+        "arenaCity": "Las Vegas",
+        "arenaState": "NV",
+        "arenaCountry": "US",
+        "arenaTimezone": "Pacific",
+        "arenaStreetAddress": "",
+        "arenaPostalCode": ""
+      },
+      "homeTeam": "OKC",
+      "awayTeam": "SAS",
+      "gameEt": "2025-12-13T21:00:00Z",
+      "gameTimeUTC": "2025-12-14T02:00:00Z",
+      "source_url": "https://www.nba.com/game/okc-vs-sas-0022501230",
+      "fetched_at_utc": "2026-10-21T07:04:36.169983+00:00",
+      "html_sha256": "873719cf91b25bbfe1c76ef8bc221715cede5276286c126e337ea97310553eb2"
+    }
+  ],
+  "complete": false
+}

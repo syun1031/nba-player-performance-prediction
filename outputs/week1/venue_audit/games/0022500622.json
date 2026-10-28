@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500622",
+  "GAMEDATE": "2026-01-21",
+  "teams": [
+    "BKN",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "BKN",
+  "gameEt": "2026-01-21T19:30:00Z",
+  "gameTimeUTC": "2026-01-22T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-nyk-0022500622",
+  "fetched_at_utc": "2026-10-21T07:00:31.991246+00:00",
+  "html_sha256": "556cd69ee4e485f12fa0f973b25c00ecf4142a864dfeb139cb6704074cc9609f"
+}

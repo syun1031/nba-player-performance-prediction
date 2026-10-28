@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500660",
+  "GAMEDATE": "2026-01-26",
+  "teams": [
+    "BOS",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "POR",
+  "gameEt": "2026-01-26T20:00:00Z",
+  "gameTimeUTC": "2026-01-27T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-por-0022500660",
+  "fetched_at_utc": "2026-10-21T07:00:47.839466+00:00",
+  "html_sha256": "fed0e06b1d77f1e060dc24791385f8d6f7588a286f54cbeaee69823989ba6423"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500941",
+  "GAMEDATE": "2026-03-10",
+  "teams": [
+    "MIL",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "PHX",
+  "gameEt": "2026-03-10T20:00:00Z",
+  "gameTimeUTC": "2026-03-11T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-phx-0022500941",
+  "fetched_at_utc": "2026-10-21T07:02:45.043245+00:00",
+  "html_sha256": "eead0dff3c30972f1c959b763c5e5dcd5d94a9dda92b08c89f929e76198047a1"
+}

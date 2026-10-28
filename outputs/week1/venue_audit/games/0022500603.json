@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500603",
+  "GAMEDATE": "2026-01-18",
+  "teams": [
+    "BKN",
+    "CHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "BKN",
+  "gameEt": "2026-01-18T19:00:00Z",
+  "gameTimeUTC": "2026-01-19T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-chi-0022500603",
+  "fetched_at_utc": "2026-10-21T07:00:24.995526+00:00",
+  "html_sha256": "fa90bcaf99ebce58093086c195fddc1902a2b4899e8865fc709365e185cd4730"
+}

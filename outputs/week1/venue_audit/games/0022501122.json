@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501122",
+  "GAMEDATE": "2026-04-03",
+  "teams": [
+    "ATL",
+    "BKN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "ATL",
+  "gameEt": "2026-04-03T19:30:00Z",
+  "gameTimeUTC": "2026-04-03T23:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-bkn-0022501122",
+  "fetched_at_utc": "2026-10-21T07:03:48.176564+00:00",
+  "html_sha256": "444872ff60a9aee439e2771fd5d2b7c45628d12cb91de0c54c8aa2f2a8f7aca0"
+}

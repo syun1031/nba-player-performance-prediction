@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501131",
+  "GAMEDATE": "2026-04-04",
+  "teams": [
+    "DET",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "DET",
+  "gameEt": "2026-04-04T19:00:00Z",
+  "gameTimeUTC": "2026-04-04T23:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-phi-0022501131",
+  "fetched_at_utc": "2026-10-21T07:03:52.936017+00:00",
+  "html_sha256": "b67d3012a241f0bc3de5d541ecd17dbb120b7012f9d2092cf0b9ec16efcddabd"
+}

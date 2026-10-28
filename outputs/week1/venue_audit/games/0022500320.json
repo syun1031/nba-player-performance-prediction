@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500320",
+  "GAMEDATE": "2025-12-02",
+  "teams": [
+    "BOS",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "NYK",
+  "gameEt": "2025-12-02T20:00:00Z",
+  "gameTimeUTC": "2025-12-03T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-nyk-0022500320",
+  "fetched_at_utc": "2026-10-21T06:58:33.628902+00:00",
+  "html_sha256": "6ddb094a19082eb425f98a96bf872e503f289ccc16acc2c4a4235b193efa5cd9"
+}

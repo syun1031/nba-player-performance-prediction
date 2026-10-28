@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500328",
+  "GAMEDATE": "2025-12-03",
+  "teams": [
+    "CHA",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "CHA",
+  "gameEt": "2025-12-03T19:30:00Z",
+  "gameTimeUTC": "2025-12-04T00:30:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-nyk-0022500328",
+  "fetched_at_utc": "2026-10-21T06:58:37.794557+00:00",
+  "html_sha256": "0b842e93f77239801ffd9fccfa51560cc06aa5594c3dfa6c2ac2be3280a65695"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500368",
+  "GAMEDATE": "2025-12-17",
+  "teams": [
+    "MEM",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "MEM",
+  "gameEt": "2025-12-17T20:00:00Z",
+  "gameTimeUTC": "2025-12-18T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-min-0022500368",
+  "fetched_at_utc": "2026-10-21T06:58:53.302439+00:00",
+  "html_sha256": "51bb80fcaedc303258d1d56dc501f33b17cd1fc6a8ee8de93c911c110b05e49c"
+}

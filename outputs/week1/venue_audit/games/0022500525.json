@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500525",
+  "GAMEDATE": "2026-01-07",
+  "teams": [
+    "OKC",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "UTA",
+  "gameEt": "2026-01-07T20:00:00Z",
+  "gameTimeUTC": "2026-01-08T01:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-uta-0022500525",
+  "fetched_at_utc": "2026-10-21T06:59:55.929453+00:00",
+  "html_sha256": "9ff8fa32df71a7401782248fe7553590f3e1e427ae6391fb638eb494908881c7"
+}

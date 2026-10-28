@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500254",
+  "GAMEDATE": "2025-11-18",
+  "teams": [
+    "PHX",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "PHX",
+  "gameEt": "2025-11-18T23:00:00Z",
+  "gameTimeUTC": "2025-11-19T04:00:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-por-0022500254",
+  "fetched_at_utc": "2026-10-21T06:58:09.221137+00:00",
+  "html_sha256": "354312d5a61da25c0591f199493d8693d3c83af6d0076d192e9d385b79d04126"
+}

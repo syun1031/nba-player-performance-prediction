@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500845",
+  "GAMEDATE": "2026-02-25",
+  "teams": [
+    "HOU",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "SAC",
+  "gameEt": "2026-02-25T20:00:00Z",
+  "gameTimeUTC": "2026-02-26T01:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-sac-0022500845",
+  "fetched_at_utc": "2026-10-21T07:02:05.843577+00:00",
+  "html_sha256": "e51f6cfd19d4be7533a626c0a0024000baa8cc884dbafe0ec893d0dcea3290ea"
+}

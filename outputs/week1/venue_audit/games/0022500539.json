@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500539",
+  "GAMEDATE": "2026-01-09",
+  "teams": [
+    "GSW",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "SAC",
+  "gameEt": "2026-01-09T22:00:00Z",
+  "gameTimeUTC": "2026-01-10T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-sac-0022500539",
+  "fetched_at_utc": "2026-10-21T07:00:01.589234+00:00",
+  "html_sha256": "c70bd85cb3651edcd96bd120c5377941b42beba454df3d69b085e4a28620cdef"
+}

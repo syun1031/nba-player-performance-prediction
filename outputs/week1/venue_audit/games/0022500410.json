@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500410",
+  "GAMEDATE": "2025-12-23",
+  "teams": [
+    "BKN",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "BKN",
+  "gameEt": "2025-12-23T19:00:00Z",
+  "gameTimeUTC": "2025-12-24T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-phi-0022500410",
+  "fetched_at_utc": "2026-10-21T06:59:10.175517+00:00",
+  "html_sha256": "2f332ffb7127f8c556fe6fb76bd817261d9a1080e63e34ee67090fd2b84bd431"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501151",
+  "GAMEDATE": "2026-04-07",
+  "teams": [
+    "MIA",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "MIA",
+  "gameEt": "2026-04-07T19:30:00Z",
+  "gameTimeUTC": "2026-04-07T23:30:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-tor-0022501151",
+  "fetched_at_utc": "2026-10-21T07:04:00.587583+00:00",
+  "html_sha256": "bc05848495a37d33606699537bcb9c6c219d51b85733461fda4d57bd22cd89ef"
+}

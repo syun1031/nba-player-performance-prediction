@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500517",
+  "GAMEDATE": "2026-01-07",
+  "teams": [
+    "CHI",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "CHI",
+  "gameEt": "2026-01-07T19:00:00Z",
+  "gameTimeUTC": "2026-01-08T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-det-0022500517",
+  "fetched_at_utc": "2026-10-21T06:59:52.071477+00:00",
+  "html_sha256": "f0a0b83c465d127ece13c6d5ad1a79700657b38445ee37d0e317aa6e573aa1cd"
+}

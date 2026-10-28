@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500579",
+  "GAMEDATE": "2026-01-15",
+  "teams": [
+    "DET",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "PHX",
+  "gameEt": "2026-01-15T19:00:00Z",
+  "gameTimeUTC": "2026-01-16T00:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-phx-0022500579",
+  "fetched_at_utc": "2026-10-21T07:00:16.782133+00:00",
+  "html_sha256": "74626a2906a4f02b2b03f93dcc4fb9a972f10e70e32e5af81fcc2ff1381123e0"
+}

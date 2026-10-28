@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500118",
+  "GAMEDATE": "2025-10-27",
+  "teams": [
+    "SAS",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "TOR",
+  "gameEt": "2025-10-27T20:00:00Z",
+  "gameTimeUTC": "2025-10-28T00:00:00Z",
+  "source_url": "https://www.nba.com/game/sas-vs-tor-0022500118",
+  "fetched_at_utc": "2026-10-21T06:57:16.986082+00:00",
+  "html_sha256": "3aeea6bbef0cb355867ef308081322f8c84bf9d6741efd1826b1723870151042"
+}

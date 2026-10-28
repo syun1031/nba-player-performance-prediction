@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500210",
+  "GAMEDATE": "2025-11-11",
+  "teams": [
+    "GSW",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "GSW",
+  "gameEt": "2025-11-11T20:00:00Z",
+  "gameTimeUTC": "2025-11-12T01:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-okc-0022500210",
+  "fetched_at_utc": "2026-10-21T06:57:51.034330+00:00",
+  "html_sha256": "ff29443acb0022af3495644567bd185b8123690db596efe3c8cbdbb90bb2ad14"
+}

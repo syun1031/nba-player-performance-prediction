@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500311",
+  "GAMEDATE": "2025-12-01",
+  "teams": [
+    "MIL",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "MIL",
+  "gameEt": "2025-12-01T19:00:00Z",
+  "gameTimeUTC": "2025-12-02T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-was-0022500311",
+  "fetched_at_utc": "2026-10-21T06:58:31.650259+00:00",
+  "html_sha256": "971da9620fb74d7f84ed0a2d8786667bdb6b5d0902d23dbc2e7ef1ed457aa96f"
+}

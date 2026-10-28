@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500412",
+  "GAMEDATE": "2025-12-23",
+  "teams": [
+    "CLE",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "NOP",
+  "gameEt": "2025-12-23T19:30:00Z",
+  "gameTimeUTC": "2025-12-24T00:30:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-nop-0022500412",
+  "fetched_at_utc": "2026-10-21T06:59:11.503093+00:00",
+  "html_sha256": "a2b68ababe54add1ce176f1184a7331c68bd8a2a17419bd9c43943931daf5384"
+}

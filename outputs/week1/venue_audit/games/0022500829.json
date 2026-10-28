@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500829",
+  "GAMEDATE": "2026-02-23",
+  "teams": [
+    "MEM",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "SAC",
+  "gameEt": "2026-02-23T20:00:00Z",
+  "gameTimeUTC": "2026-02-24T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-sac-0022500829",
+  "fetched_at_utc": "2026-10-21T07:01:58.779748+00:00",
+  "html_sha256": "82c9b14273e6688144451d4fd8097832692222d41c5f19866bee9976813986b7"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500818",
+  "GAMEDATE": "2026-02-22",
+  "teams": [
+    "ATL",
+    "BKN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "BKN",
+  "gameEt": "2026-02-22T15:30:00Z",
+  "gameTimeUTC": "2026-02-22T20:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-bkn-0022500818",
+  "fetched_at_utc": "2026-10-21T07:01:53.230932+00:00",
+  "html_sha256": "80ad6ca673bf6fe410a12d66c21c545bc24e13bad4eb5f8070f20e783a267df3"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500897",
+  "GAMEDATE": "2026-03-04",
+  "teams": [
+    "ATL",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "ATL",
+  "gameEt": "2026-03-04T21:30:00Z",
+  "gameTimeUTC": "2026-03-05T02:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-mil-0022500897",
+  "fetched_at_utc": "2026-10-21T07:02:27.101659+00:00",
+  "html_sha256": "e5eb8f3d24e725a5519d5e039ab6ff13cb5a612625a5717eb631449d19279eff"
+}

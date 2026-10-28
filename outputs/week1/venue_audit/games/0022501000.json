@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501000",
+  "GAMEDATE": "2026-03-18",
+  "teams": [
+    "BKN",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "OKC",
+  "gameEt": "2026-03-18T19:30:00Z",
+  "gameTimeUTC": "2026-03-18T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-okc-0022501000",
+  "fetched_at_utc": "2026-10-21T07:03:03.293415+00:00",
+  "html_sha256": "e4d4e5427ff787053897e9642ce941773a9665e375ac216e767d06982012e845"
+}

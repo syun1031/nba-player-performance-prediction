@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500047",
+  "GAMEDATE": "2025-11-14",
+  "teams": [
+    "GSW",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "GSW",
+  "gameEt": "2025-11-14T21:30:00Z",
+  "gameTimeUTC": "2025-11-15T02:30:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-sas-0022500047",
+  "fetched_at_utc": "2026-10-21T06:56:48.625608+00:00",
+  "html_sha256": "77533678dd923e6168ad041bad410b76bb4f3627fae1467d8fcf0e751371e45b"
+}

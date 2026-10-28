@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501186",
+  "GAMEDATE": "2026-04-12",
+  "teams": [
+    "BOS",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "ORL",
+  "gameEt": "2026-04-12T18:00:00Z",
+  "gameTimeUTC": "2026-04-12T22:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-orl-0022501186",
+  "fetched_at_utc": "2026-10-21T07:04:19.585584+00:00",
+  "html_sha256": "ad742ff154326ba622b90b23f75e3ff94f7a0a4c16337c83c3a8cb9014537d77"
+}

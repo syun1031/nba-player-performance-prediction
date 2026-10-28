@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500718",
+  "GAMEDATE": "2026-02-03",
+  "teams": [
+    "NYK",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "NYK",
+  "gameEt": "2026-02-03T19:00:00Z",
+  "gameTimeUTC": "2026-02-04T00:00:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-was-0022500718",
+  "fetched_at_utc": "2026-10-21T07:01:14.109467+00:00",
+  "html_sha256": "6f3b99b7dc991876599f121632165e88f3d5929d2029e125ecd66dda505de4e7"
+}

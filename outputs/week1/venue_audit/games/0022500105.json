@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500105",
+  "GAMEDATE": "2025-10-26",
+  "teams": [
+    "BKN",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "BKN",
+  "gameEt": "2025-10-26T14:00:00Z",
+  "gameTimeUTC": "2025-10-26T18:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-sas-0022500105",
+  "fetched_at_utc": "2026-10-21T06:57:11.979296+00:00",
+  "html_sha256": "6eea9a970e0591dcedd96b7a82dd32094172b0ff66e8ce443a29448bb094b075"
+}

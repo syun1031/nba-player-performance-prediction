@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500880",
+  "GAMEDATE": "2026-03-02",
+  "teams": [
+    "BOS",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "BOS",
+  "gameEt": "2026-03-02T19:30:00Z",
+  "gameTimeUTC": "2026-03-03T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-mil-0022500880",
+  "fetched_at_utc": "2026-10-21T07:02:20.055102+00:00",
+  "html_sha256": "9c101ef2f145ea6ab0a2ce752bedffb84ffecf031958435ae0d4cdf05d7c35ee"
+}

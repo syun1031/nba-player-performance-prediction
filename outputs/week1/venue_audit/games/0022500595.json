@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500595",
+  "GAMEDATE": "2026-01-17",
+  "teams": [
+    "DET",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "IND",
+  "gameEt": "2026-01-17T19:30:00Z",
+  "gameTimeUTC": "2026-01-18T00:30:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-ind-0022500595",
+  "fetched_at_utc": "2026-10-21T07:00:22.856380+00:00",
+  "html_sha256": "eb6f82edae3d17414ff72cafe9ea9f5b431bea98ba4ef1144a9d3816256d4c9f"
+}

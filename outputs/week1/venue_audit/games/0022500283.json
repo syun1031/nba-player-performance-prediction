@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500283",
+  "GAMEDATE": "2025-11-24",
+  "teams": [
+    "DET",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "DET",
+  "gameEt": "2025-11-24T19:00:00Z",
+  "gameTimeUTC": "2025-11-25T00:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-ind-0022500283",
+  "fetched_at_utc": "2026-10-21T06:58:20.711311+00:00",
+  "html_sha256": "c8273c5a471a1774b96db828e45fb46bd981588e7c3ad1b64c78201ed3526301"
+}

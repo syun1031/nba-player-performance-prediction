@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500521",
+  "GAMEDATE": "2026-01-07",
+  "teams": [
+    "BKN",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "ORL",
+  "gameEt": "2026-01-07T19:30:00Z",
+  "gameTimeUTC": "2026-01-08T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-orl-0022500521",
+  "fetched_at_utc": "2026-10-21T06:59:54.489429+00:00",
+  "html_sha256": "64793fc51cfeca03fe32a0ebd48e44be3968f194ceface68b0b020592fe01913"
+}

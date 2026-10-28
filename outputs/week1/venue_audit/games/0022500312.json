@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500312",
+  "GAMEDATE": "2025-12-01",
+  "teams": [
+    "BKN",
+    "CHA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "CHA",
+  "gameEt": "2025-12-01T19:30:00Z",
+  "gameTimeUTC": "2025-12-02T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-cha-0022500312",
+  "fetched_at_utc": "2026-10-21T06:58:31.450337+00:00",
+  "html_sha256": "542265405416012d3afaeeed3f5ff380511e314d2ca92788fef4970bc7da0529"
+}

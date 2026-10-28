@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500605",
+  "GAMEDATE": "2026-01-18",
+  "teams": [
+    "CHA",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "CHA",
+  "gameEt": "2026-01-18T20:00:00Z",
+  "gameTimeUTC": "2026-01-19T01:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-den-0022500605",
+  "fetched_at_utc": "2026-10-21T07:00:26.431205+00:00",
+  "html_sha256": "0d2ebd5de63e6a5fd3ffe70a03a1b27c4ec4ae20100f3d8370a5af9b184a1826"
+}

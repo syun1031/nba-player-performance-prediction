@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500778",
+  "GAMEDATE": "2026-02-11",
+  "teams": [
+    "BOS",
+    "CHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "CHI",
+  "gameEt": "2026-02-11T19:30:00Z",
+  "gameTimeUTC": "2026-02-12T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-chi-0022500778",
+  "fetched_at_utc": "2026-10-21T07:01:37.512004+00:00",
+  "html_sha256": "61a8bee3fb48367ebe4c51ba9180a41f406a54a840819f300383fe3882564791"
+}

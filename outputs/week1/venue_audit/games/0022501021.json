@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501021",
+  "GAMEDATE": "2026-03-20",
+  "teams": [
+    "DEN",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "TOR",
+  "gameEt": "2026-03-20T21:00:00Z",
+  "gameTimeUTC": "2026-03-21T01:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-tor-0022501021",
+  "fetched_at_utc": "2026-10-21T07:03:11.201693+00:00",
+  "html_sha256": "8721d05bd512566c31ec98e546903a220879c88358a5908c86a90cefafd3a3fa"
+}

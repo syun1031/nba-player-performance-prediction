@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500143",
+  "GAMEDATE": "2025-11-01",
+  "teams": [
+    "CHA",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "MIN",
+  "gameEt": "2025-11-01T18:00:00Z",
+  "gameTimeUTC": "2025-11-01T22:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-min-0022500143",
+  "fetched_at_utc": "2026-10-21T06:57:25.879175+00:00",
+  "html_sha256": "9f8a44f79a80704ec661bdce3b400379040fa12d4543132677217d72767e873c"
+}

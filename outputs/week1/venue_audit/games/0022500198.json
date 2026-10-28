@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500198",
+  "GAMEDATE": "2025-11-10",
+  "teams": [
+    "CHA",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "LAL",
+  "gameEt": "2025-11-10T19:00:00Z",
+  "gameTimeUTC": "2025-11-11T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-lal-0022500198",
+  "fetched_at_utc": "2026-10-21T06:57:47.335110+00:00",
+  "html_sha256": "739c75b25dc51ecdd9da35f00f827a1d5cfdb27595bce0400d71d0d8c5792213"
+}

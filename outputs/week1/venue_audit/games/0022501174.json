@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501174",
+  "GAMEDATE": "2026-04-10",
+  "teams": [
+    "BOS",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "NOP",
+  "gameEt": "2026-04-10T19:30:00Z",
+  "gameTimeUTC": "2026-04-10T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-nop-0022501174",
+  "fetched_at_utc": "2026-10-21T07:04:13.693291+00:00",
+  "html_sha256": "0a0030cb7798965171bfccc0afecfdd77d29d2983a072d9e1c58cb09dbeb664b"
+}

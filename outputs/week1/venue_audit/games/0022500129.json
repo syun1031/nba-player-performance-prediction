@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500129",
+  "GAMEDATE": "2025-10-29",
+  "teams": [
+    "DET",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "ORL",
+  "gameEt": "2025-10-29T19:00:00Z",
+  "gameTimeUTC": "2025-10-29T23:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-orl-0022500129",
+  "fetched_at_utc": "2026-10-21T06:57:20.741246+00:00",
+  "html_sha256": "b09ba8a1dd5b3f945f951595bc6d6f2356d35360c356ba2b5ec83a6ffa80259b"
+}

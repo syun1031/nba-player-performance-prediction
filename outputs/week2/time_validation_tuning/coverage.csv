@@ -1,0 +1,5 @@
+﻿period,train_n,validation_n,vocabulary_size,unknown_samples
+F1,4258,4104,284,748
+F2,8362,2422,325,328
+F3,10784,2497,345,133
+February,13281,3462,356,505

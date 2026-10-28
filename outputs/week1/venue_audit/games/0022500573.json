@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500573",
+  "GAMEDATE": "2026-01-14",
+  "teams": [
+    "CHI",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "UTA",
+  "gameEt": "2026-01-14T20:00:00Z",
+  "gameTimeUTC": "2026-01-15T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-uta-0022500573",
+  "fetched_at_utc": "2026-10-21T07:00:14.079330+00:00",
+  "html_sha256": "84d36483b753eaae815059b98012fdeb28d44fc58909120128286ba6f3e45c6a"
+}

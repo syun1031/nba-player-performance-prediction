@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501136",
+  "GAMEDATE": "2026-04-05",
+  "teams": [
+    "CLE",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "IND",
+  "gameEt": "2026-04-05T18:00:00Z",
+  "gameTimeUTC": "2026-04-05T22:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-ind-0022501136",
+  "fetched_at_utc": "2026-10-21T07:03:54.547313+00:00",
+  "html_sha256": "658ebe6b25008afbaf097224b093ad7057206be7c3bce2f512d4d2a80e4d7af6"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501066",
+  "GAMEDATE": "2026-03-27",
+  "teams": [
+    "IND",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "LAC",
+  "gameEt": "2026-03-27T19:00:00Z",
+  "gameTimeUTC": "2026-03-27T23:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-lac-0022501066",
+  "fetched_at_utc": "2026-10-21T07:03:27.643706+00:00",
+  "html_sha256": "73517a48674fbb7500a4121c1a57fdf4f54a5629688243c46b28469a561302e6"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500923",
+  "GAMEDATE": "2026-03-08",
+  "teams": [
+    "DET",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "DET",
+  "gameEt": "2026-03-08T18:00:00Z",
+  "gameTimeUTC": "2026-03-08T22:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-mia-0022500923",
+  "fetched_at_utc": "2026-10-21T07:02:37.241498+00:00",
+  "html_sha256": "8d824c6f7458577f9c15ed46fbfa0594559c5dbf5ca0ad831eaf4d8275a96c9e"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501041",
+  "GAMEDATE": "2026-03-23",
+  "teams": [
+    "MIA",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "SAS",
+  "gameEt": "2026-03-23T19:00:00Z",
+  "gameTimeUTC": "2026-03-23T23:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-sas-0022501041",
+  "fetched_at_utc": "2026-10-21T07:03:18.351569+00:00",
+  "html_sha256": "e1ad8ff497ecd417745f45a8975a8d274194378bb1f71e2beebd17d41dacb383"
+}

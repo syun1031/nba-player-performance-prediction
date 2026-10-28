@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500051",
+  "GAMEDATE": "2025-11-21",
+  "teams": [
+    "CHI",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "MIA",
+  "gameEt": "2025-11-21T20:00:00Z",
+  "gameTimeUTC": "2025-11-22T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-mia-0022500051",
+  "fetched_at_utc": "2026-10-21T06:56:49.914240+00:00",
+  "html_sha256": "2d65c4dc14370b3336d32b88c74628829f4640e037e055575ecbdc7d2e7f7e8c"
+}

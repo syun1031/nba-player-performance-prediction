@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500336",
+  "GAMEDATE": "2025-12-04",
+  "teams": [
+    "LAL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "LAL",
+  "gameEt": "2025-12-04T19:30:00Z",
+  "gameTimeUTC": "2025-12-05T00:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-tor-0022500336",
+  "fetched_at_utc": "2026-10-21T06:58:40.223853+00:00",
+  "html_sha256": "28260bbcfe86cc287f6c0f53d8ab4173d611c3e633f0b919303ce06ccfc9f9c3"
+}

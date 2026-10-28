@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500204",
+  "GAMEDATE": "2025-11-10",
+  "teams": [
+    "NOP",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "NOP",
+  "gameEt": "2025-11-10T21:00:00Z",
+  "gameTimeUTC": "2025-11-11T02:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-phx-0022500204",
+  "fetched_at_utc": "2026-10-21T06:57:49.530853+00:00",
+  "html_sha256": "cf9acdbf7769dbb6bdbd599cbbcaffadfea4ed7b6213e968ed4ab2ed2b116765"
+}

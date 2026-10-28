@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500664",
+  "GAMEDATE": "2026-01-27",
+  "teams": [
+    "POR",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "POR",
+  "gameEt": "2026-01-27T19:00:00Z",
+  "gameTimeUTC": "2026-01-28T00:00:00Z",
+  "source_url": "https://www.nba.com/game/por-vs-was-0022500664",
+  "fetched_at_utc": "2026-10-21T07:00:49.897528+00:00",
+  "html_sha256": "2cb70fbee86a1468abbd3093b875f98b1eb33a2e8822c41f17974cf2de7eb758"
+}

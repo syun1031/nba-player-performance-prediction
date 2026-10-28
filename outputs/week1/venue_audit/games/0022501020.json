@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501020",
+  "GAMEDATE": "2026-03-20",
+  "teams": [
+    "MIN",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "POR",
+  "gameEt": "2026-03-20T20:00:00Z",
+  "gameTimeUTC": "2026-03-21T00:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-por-0022501020",
+  "fetched_at_utc": "2026-10-21T07:03:10.926768+00:00",
+  "html_sha256": "da7277b3584c3c8327de5ad8f7dfd1429ca6a6a3bfc171d7ac86ae6afa3e4cc2"
+}

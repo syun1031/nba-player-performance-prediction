@@ -1,0 +1,41 @@
+{
+  "source": "https://www.nba.com/stats/players/boxscores?Season=2024-25&SeasonType=Regular%20Season",
+  "rows": 26306,
+  "players": 569,
+  "games": 1230,
+  "teams": 30,
+  "dateFrom": "2024-10-22",
+  "dateTo": "2025-04-13",
+  "headers": [
+    "PLAYER",
+    "TEAM",
+    "MATCHUP",
+    "GAMEDATE",
+    "MIN",
+    "PTS",
+    "REB",
+    "AST"
+  ],
+  "first": [
+    "Aaron Gordon",
+    "DEN",
+    "DEN VS. OKC",
+    "2024-10-24",
+    33,
+    12,
+    9,
+    2
+  ],
+  "last": [
+    "Zyon Pullin",
+    "MEM",
+    "MEM @ LAC",
+    "2025-02-12",
+    1,
+    0,
+    0,
+    0
+  ],
+  "uniquePlayerGames": 26306,
+  "eachTeamGames": 82
+}

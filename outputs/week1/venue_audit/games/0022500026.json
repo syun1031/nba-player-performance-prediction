@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500026",
+  "GAMEDATE": "2025-10-31",
+  "teams": [
+    "DEN",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "DEN",
+  "gameEt": "2025-10-31T22:00:00Z",
+  "gameTimeUTC": "2025-11-01T02:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-por-0022500026",
+  "fetched_at_utc": "2026-10-21T06:56:39.929561+00:00",
+  "html_sha256": "9ddbbf7204b875dcdc1eb08408b22427147c7b1e1b735338c29644d12610e33c"
+}

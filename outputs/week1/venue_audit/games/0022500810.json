@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500810",
+  "GAMEDATE": "2026-02-20",
+  "teams": [
+    "DEN",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "DEN",
+  "gameEt": "2026-02-20T22:00:00Z",
+  "gameTimeUTC": "2026-02-21T03:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-por-0022500810",
+  "fetched_at_utc": "2026-10-21T07:01:50.176842+00:00",
+  "html_sha256": "b6666f5bc7d16b61bf3c1612b344c63f0314b6e76c469bec66607f8d193cca8f"
+}

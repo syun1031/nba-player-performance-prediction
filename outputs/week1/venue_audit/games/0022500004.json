@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500004",
+  "GAMEDATE": "2025-10-22",
+  "teams": [
+    "DAL",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "SAS",
+  "gameEt": "2025-10-22T21:30:00Z",
+  "gameTimeUTC": "2025-10-23T01:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-sas-0022500004",
+  "fetched_at_utc": "2026-10-21T06:56:33.149168+00:00",
+  "html_sha256": "c836d92385502db1de864bbaa5b92bfba454d4604ef2f1c16ee72d488ed78090"
+}

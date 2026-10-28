@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500650",
+  "GAMEDATE": "2026-01-25",
+  "teams": [
+    "DET",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "SAC",
+  "gameEt": "2026-01-25T15:00:00Z",
+  "gameTimeUTC": "2026-01-25T20:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-sac-0022500650",
+  "fetched_at_utc": "2026-10-21T07:00:43.601623+00:00",
+  "html_sha256": "e6c9deccc561ed4fb19453c7b662f6835c19b15058555055dd8b5c34a916a5aa"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500284",
+  "GAMEDATE": "2025-11-24",
+  "teams": [
+    "CLE",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "CLE",
+  "gameEt": "2025-11-24T19:00:00Z",
+  "gameTimeUTC": "2025-11-25T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-tor-0022500284",
+  "fetched_at_utc": "2026-10-21T06:58:21.861516+00:00",
+  "html_sha256": "7dcd768a23bf1bd78dd594241ee7fb5028bb32c4aa74237625c9bc66d492cc82"
+}

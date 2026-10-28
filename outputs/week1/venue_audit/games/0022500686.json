@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500686",
+  "GAMEDATE": "2026-01-29",
+  "teams": [
+    "MIN",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "OKC",
+  "gameEt": "2026-01-29T21:30:00Z",
+  "gameTimeUTC": "2026-01-30T02:30:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-okc-0022500686",
+  "fetched_at_utc": "2026-10-21T07:00:59.859177+00:00",
+  "html_sha256": "1497422a3bbc3d7b44ee0723d0555669e24c67f83b1b4e3a79d1c054a963f3f0"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500375",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "HOU",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "HOU",
+  "gameEt": "2025-12-18T20:00:00Z",
+  "gameTimeUTC": "2025-12-19T01:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-nop-0022500375",
+  "fetched_at_utc": "2026-10-21T06:58:56.366286+00:00",
+  "html_sha256": "7d3f01439d2ba8bf436bab41f9dff525ef5383bed0ebd553954d879126a9d037"
+}

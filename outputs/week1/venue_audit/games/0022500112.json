@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500112",
+  "GAMEDATE": "2025-10-26",
+  "teams": [
+    "LAC",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "POR",
+  "gameEt": "2025-10-26T21:00:00Z",
+  "gameTimeUTC": "2025-10-27T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-por-0022500112",
+  "fetched_at_utc": "2026-10-21T06:57:14.301714+00:00",
+  "html_sha256": "45b048701161bbddd5fb824f95be664546a58d71fbccc439a8e3406391e031d3"
+}

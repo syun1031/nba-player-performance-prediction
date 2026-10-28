@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500564",
+  "GAMEDATE": "2026-01-13",
+  "teams": [
+    "MIA",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "PHX",
+  "gameEt": "2026-01-13T19:30:00Z",
+  "gameTimeUTC": "2026-01-14T00:30:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-phx-0022500564",
+  "fetched_at_utc": "2026-10-21T07:00:10.801727+00:00",
+  "html_sha256": "8fb8efe9ff948521c532556603318b36e3996e3d1b2daffdf68790506c03d3e9"
+}

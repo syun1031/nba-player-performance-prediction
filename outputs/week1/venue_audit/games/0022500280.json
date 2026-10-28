@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500280",
+  "GAMEDATE": "2025-11-23",
+  "teams": [
+    "OKC",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "POR",
+  "gameEt": "2025-11-23T19:00:00Z",
+  "gameTimeUTC": "2025-11-24T00:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-por-0022500280",
+  "fetched_at_utc": "2026-10-21T06:58:19.353086+00:00",
+  "html_sha256": "d6b4ae00f81f43e5db175eeb42e4af2b756ff477d665c4449aac07d1d3bb795c"
+}

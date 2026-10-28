@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500752",
+  "GAMEDATE": "2026-02-07",
+  "teams": [
+    "CHI",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "DEN",
+  "gameEt": "2026-02-07T20:00:00Z",
+  "gameTimeUTC": "2026-02-08T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-den-0022500752",
+  "fetched_at_utc": "2026-10-21T07:01:27.166610+00:00",
+  "html_sha256": "9a4247743341782720733ed6d71fd54a7edc72429967441fbcb80b2c018ef237"
+}

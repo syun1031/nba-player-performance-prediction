@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500172",
+  "GAMEDATE": "2025-11-05",
+  "teams": [
+    "DET",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "UTA",
+  "gameEt": "2025-11-05T19:00:00Z",
+  "gameTimeUTC": "2025-11-06T00:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-uta-0022500172",
+  "fetched_at_utc": "2026-10-21T06:57:37.989038+00:00",
+  "html_sha256": "41e53b0fb26129ea18684494173d2674c27302c3fa4ae6f798ec54156eaa1b59"
+}

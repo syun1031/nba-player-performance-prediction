@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501094",
+  "GAMEDATE": "2026-03-30",
+  "teams": [
+    "CHI",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "CHI",
+  "gameEt": "2026-03-30T20:00:00Z",
+  "gameTimeUTC": "2026-03-31T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-sas-0022501094",
+  "fetched_at_utc": "2026-10-21T07:03:38.486582+00:00",
+  "html_sha256": "fdbbf2b07a3d13933501c1cd80758e8f95c7203fe1084c389a9ebd84139b9ab9"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500230",
+  "GAMEDATE": "2025-11-15",
+  "teams": [
+    "IND",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "TOR",
+  "gameEt": "2025-11-15T19:00:00Z",
+  "gameTimeUTC": "2025-11-16T00:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-tor-0022500230",
+  "fetched_at_utc": "2026-10-21T06:57:58.417002+00:00",
+  "html_sha256": "8629e3331d8f2c825d902d934719c72a3ca61fef3d0af99872cde61c4f9b0ea4"
+}

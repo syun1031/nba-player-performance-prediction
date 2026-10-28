@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500366",
+  "GAMEDATE": "2025-12-08",
+  "teams": [
+    "NOP",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "SAS",
+  "gameEt": "2025-12-08T20:00:00Z",
+  "gameTimeUTC": "2025-12-09T01:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-sas-0022500366",
+  "fetched_at_utc": "2026-10-21T06:58:52.789259+00:00",
+  "html_sha256": "83536616d895c680f72a87598cd46018b48615efcf69f1dda33a395c1372c3af"
+}

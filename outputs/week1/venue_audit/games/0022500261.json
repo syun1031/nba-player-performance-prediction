@@ -1,0 +1,24 @@
+{
+  "gameId": "0022500261",
+  "GAMEDATE": "2025-11-19",
+  "teams": [
+    "OKC",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US"
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "SAC",
+  "gameEt": null,
+  "gameTimeUTC": null,
+  "source_url": "https://statsdmz.nba.com/pdfs/20251119/20251119_SACOKC.pdf",
+  "fetched_at_utc": "2026-10-21T07:00:35.483481+00:00",
+  "pdf_sha256": "e0105aab17e8d2326429be0e9a1ee858a8b9641c731394922fc44de916406bf4",
+  "evidence_method": "official_pdf_home_arena",
+  "classification_basis": "Official scorer report venue and HOME/VISITOR; arena checked against other official non-neutral home games of this home team"
+}

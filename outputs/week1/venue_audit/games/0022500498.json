@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500498",
+  "GAMEDATE": "2026-01-04",
+  "teams": [
+    "MIN",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "MIN",
+  "gameEt": "2026-01-04T18:00:00Z",
+  "gameTimeUTC": "2026-01-04T23:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-was-0022500498",
+  "fetched_at_utc": "2026-10-21T06:59:45.629509+00:00",
+  "html_sha256": "c9a65217573f057bd5a8a9c07a57dd24f8feeae7f34d733475e2bc8ed8134c01"
+}

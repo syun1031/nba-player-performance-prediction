@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501109",
+  "GAMEDATE": "2026-04-01",
+  "teams": [
+    "CHI",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "IND",
+  "gameEt": "2026-04-01T20:00:00Z",
+  "gameTimeUTC": "2026-04-02T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-ind-0022501109",
+  "fetched_at_utc": "2026-10-21T07:03:43.648016+00:00",
+  "html_sha256": "4025363f6215b623b5278dbbbe279f8f23d28ef119a60eef6ead0c5f928ade3b"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500111",
+  "GAMEDATE": "2025-10-26",
+  "teams": [
+    "DAL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "TOR",
+  "gameEt": "2025-10-26T19:30:00Z",
+  "gameTimeUTC": "2025-10-26T23:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-tor-0022500111",
+  "fetched_at_utc": "2026-10-21T06:57:14.066668+00:00",
+  "html_sha256": "cf5b67dc6d9e2a40dbdc9b8aff83a456241aa2c9ff0e50adbbdf7992ecdccff4"
+}

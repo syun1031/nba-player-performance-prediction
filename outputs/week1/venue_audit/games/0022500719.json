@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500719",
+  "GAMEDATE": "2026-02-03",
+  "teams": [
+    "BKN",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "LAL",
+  "gameEt": "2026-02-03T19:30:00Z",
+  "gameTimeUTC": "2026-02-04T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-lal-0022500719",
+  "fetched_at_utc": "2026-10-21T07:01:12.877964+00:00",
+  "html_sha256": "4202128982a1e454044a0a952e6858210d7c5246978217ec8859a991596d4902"
+}

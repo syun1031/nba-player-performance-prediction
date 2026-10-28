@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500359",
+  "GAMEDATE": "2025-12-07",
+  "teams": [
+    "CHA",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "DEN",
+  "gameEt": "2025-12-07T18:00:00Z",
+  "gameTimeUTC": "2025-12-07T23:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-den-0022500359",
+  "fetched_at_utc": "2026-10-21T06:58:50.501733+00:00",
+  "html_sha256": "bdac229821df4514123bcc65ab05b52066b09084c1c55f4e9b4e862fc6bbfe5c"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500407",
+  "GAMEDATE": "2025-12-22",
+  "teams": [
+    "GSW",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "ORL",
+  "gameEt": "2025-12-22T22:00:00Z",
+  "gameTimeUTC": "2025-12-23T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-orl-0022500407",
+  "fetched_at_utc": "2026-10-21T06:59:08.709653+00:00",
+  "html_sha256": "695a721933984f7493ea7eff5f3494c75257226cf1851a7f5dd36ab2a0acd63a"
+}

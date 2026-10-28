@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500365",
+  "GAMEDATE": "2025-12-08",
+  "teams": [
+    "MIN",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "PHX",
+  "gameEt": "2025-12-08T19:30:00Z",
+  "gameTimeUTC": "2025-12-09T00:30:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-phx-0022500365",
+  "fetched_at_utc": "2026-10-21T06:58:52.469481+00:00",
+  "html_sha256": "27f8e8dd786c15315aadaf1d6ccb6db6c5ef90da08826efbdeb04a4941d1148b"
+}

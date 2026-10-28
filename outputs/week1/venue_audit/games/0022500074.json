@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500074",
+  "GAMEDATE": "2025-11-28",
+  "teams": [
+    "MIL",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "MIL",
+  "gameEt": "2025-11-28T19:30:00Z",
+  "gameTimeUTC": "2025-11-29T00:30:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-nyk-0022500074",
+  "fetched_at_utc": "2026-10-21T06:56:59.422589+00:00",
+  "html_sha256": "e7b9690139eb15cbd2730ca91d8c1d1984bb947166e564cd6701c88e604692db"
+}

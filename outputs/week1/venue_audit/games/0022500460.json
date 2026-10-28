@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500460",
+  "GAMEDATE": "2025-12-30",
+  "teams": [
+    "DET",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "DET",
+  "gameEt": "2025-12-30T22:30:00Z",
+  "gameTimeUTC": "2025-12-31T03:30:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-lal-0022500460",
+  "fetched_at_utc": "2026-10-21T06:59:31.041594+00:00",
+  "html_sha256": "027b3dee596f014ea3ffd88ad34a4b33fba006f7d7973ae391a268c4e1b80b15"
+}

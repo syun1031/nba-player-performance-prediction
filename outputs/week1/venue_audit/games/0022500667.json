@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500667",
+  "GAMEDATE": "2026-01-27",
+  "teams": [
+    "NOP",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "NOP",
+  "gameEt": "2026-01-27T20:00:00Z",
+  "gameTimeUTC": "2026-01-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-okc-0022500667",
+  "fetched_at_utc": "2026-10-21T07:00:50.835063+00:00",
+  "html_sha256": "fdfb80dc0dbb0a8908f08791f753780696c65f1eb55b7c7176f550e625f44447"
+}

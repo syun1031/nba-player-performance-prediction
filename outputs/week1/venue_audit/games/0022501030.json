@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501030",
+  "GAMEDATE": "2026-03-21",
+  "teams": [
+    "PHI",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "PHI",
+  "gameEt": "2026-03-21T21:30:00Z",
+  "gameTimeUTC": "2026-03-22T01:30:00Z",
+  "source_url": "https://www.nba.com/game/phi-vs-uta-0022501030",
+  "fetched_at_utc": "2026-10-21T07:03:14.269798+00:00",
+  "html_sha256": "a50bd71e90f4b1b3492ba6a783f602668b0c9a32c45c05b6fc2267b5b0caa631"
+}

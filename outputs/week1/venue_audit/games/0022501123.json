@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501123",
+  "GAMEDATE": "2026-04-03",
+  "teams": [
+    "CHI",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "CHI",
+  "gameEt": "2026-04-03T19:30:00Z",
+  "gameTimeUTC": "2026-04-03T23:30:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-nyk-0022501123",
+  "fetched_at_utc": "2026-10-21T07:03:48.411959+00:00",
+  "html_sha256": "890ee365f845198e9afcb0a7f900435242ed4b10d0912590253ac5de3d0a6a43"
+}

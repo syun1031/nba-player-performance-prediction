@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501095",
+  "GAMEDATE": "2026-03-30",
+  "teams": [
+    "DAL",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "MIN",
+  "gameEt": "2026-03-30T20:30:00Z",
+  "gameTimeUTC": "2026-03-31T00:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-min-0022501095",
+  "fetched_at_utc": "2026-10-21T07:03:37.732847+00:00",
+  "html_sha256": "8f9080eba52e73114ae9dd9e9737052a0d2270b001f845937959000666c3f15b"
+}

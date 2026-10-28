@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501009",
+  "GAMEDATE": "2026-03-19",
+  "teams": [
+    "DET",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "DET",
+  "gameEt": "2026-03-19T19:00:00Z",
+  "gameTimeUTC": "2026-03-19T23:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-was-0022501009",
+  "fetched_at_utc": "2026-10-21T07:03:06.471604+00:00",
+  "html_sha256": "808df10917bf7589d1c7b0e79b823e3a2e392b31fcd9317d15c4cd63ae2e0ab3"
+}

@@ -1,0 +1,1231 @@
+﻿official_game_id,GAMEDATE,teams,venue,designated_home_team,is_neutral_site,evidence_method,source_url
+0022500001,2025-10-21,"[""HOU"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/hou-vs-okc-0022500001
+0022500002,2025-10-21,"[""GSW"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/gsw-vs-lal-0022500002
+0022500003,2025-10-22,"[""CLE"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/cle-vs-nyk-0022500003
+0022500004,2025-10-22,"[""DAL"", ""SAS""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-sas-0022500004
+0022500005,2025-10-23,"[""IND"", ""OKC""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-okc-0022500005
+0022500006,2025-10-23,"[""DEN"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/den-vs-gsw-0022500006
+0022500007,2025-10-27,"[""CLE"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/cle-vs-det-0022500007
+0022500008,2025-10-27,"[""DEN"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/den-vs-min-0022500008
+0022500009,2025-12-25,"[""CLE"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/cle-vs-nyk-0022500009
+0022500010,2025-12-25,"[""OKC"", ""SAS""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-sas-0022500010
+0022500011,2025-12-25,"[""DAL"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/dal-vs-gsw-0022500011
+0022500012,2025-12-25,"[""HOU"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/hou-vs-lal-0022500012
+0022500013,2025-12-25,"[""DEN"", ""MIN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-min-0022500013
+0022500014,2026-01-19,"[""ATL"", ""MIL""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-mil-0022500014
+0022500015,2026-01-19,"[""CLE"", ""OKC""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-okc-0022500015
+0022500016,2026-01-19,"[""DAL"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/dal-vs-nyk-0022500016
+0022500017,2026-01-19,"[""BOS"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/bos-vs-det-0022500017
+0022500018,2025-10-24,"[""BOS"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/bos-vs-nyk-0022500018
+0022500019,2025-10-24,"[""LAL"", ""MIN""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-min-0022500019
+0022500020,2025-10-31,"[""ATL"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/atl-vs-ind-0022500020
+0022500021,2025-10-31,"[""BOS"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/bos-vs-phi-0022500021
+0022500022,2025-10-31,"[""CLE"", ""TOR""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-tor-0022500022
+0022500023,2025-10-31,"[""CHI"", ""NYK""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-nyk-0022500023
+0022500024,2025-10-31,"[""LAL"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/lal-vs-mem-0022500024
+0022500025,2025-10-31,"[""PHX"", ""UTA""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phx-vs-uta-0022500025
+0022500026,2025-10-31,"[""DEN"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/den-vs-por-0022500026
+0022500027,2025-10-31,"[""LAC"", ""NOP""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-nop-0022500027
+0022500028,2025-11-07,"[""BOS"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/bos-vs-orl-0022500028
+0022500029,2025-11-07,"[""CLE"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/cle-vs-was-0022500029
+0022500030,2025-11-07,"[""ATL"", ""TOR""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-tor-0022500030
+0022500031,2025-11-07,"[""BKN"", ""DET""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-det-0022500031
+0022500032,2025-11-07,"[""HOU"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/hou-vs-sas-0022500032
+0022500033,2025-11-07,"[""CHA"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/cha-vs-mia-0022500033
+0022500034,2025-11-07,"[""DAL"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/dal-vs-mem-0022500034
+0022500035,2025-11-07,"[""CHI"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/chi-vs-mil-0022500035
+0022500036,2025-11-07,"[""MIN"", ""UTA""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-uta-0022500036
+0022500037,2025-11-07,"[""DEN"", ""GSW""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-gsw-0022500037
+0022500038,2025-11-07,"[""OKC"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/okc-vs-sac-0022500038
+0022500039,2025-11-14,"[""MIA"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/mia-vs-nyk-0022500039
+0022500040,2025-11-14,"[""BKN"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/bkn-vs-orl-0022500040
+0022500041,2025-11-14,"[""DET"", ""PHI""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-phi-0022500041
+0022500042,2025-11-14,"[""HOU"", ""POR""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-por-0022500042
+0022500043,2025-11-14,"[""CHA"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/cha-vs-mil-0022500043
+0022500044,2025-11-14,"[""MIN"", ""SAC""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-sac-0022500044
+0022500045,2025-11-14,"[""LAL"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/lal-vs-nop-0022500045
+0022500046,2025-11-14,"[""DAL"", ""LAC""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-lac-0022500046
+0022500047,2025-11-14,"[""GSW"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/gsw-vs-sas-0022500047
+0022500048,2025-11-21,"[""CLE"", ""IND""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-ind-0022500048
+0022500049,2025-11-21,"[""BKN"", ""BOS""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bkn-vs-bos-0022500049
+0022500050,2025-11-21,"[""TOR"", ""WAS""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/tor-vs-was-0022500050
+0022500051,2025-11-21,"[""CHI"", ""MIA""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-mia-0022500051
+0022500052,2025-11-21,"[""DAL"", ""NOP""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-nop-0022500052
+0022500053,2025-11-21,"[""MIN"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/min-vs-phx-0022500053
+0022500054,2025-11-21,"[""DEN"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/den-vs-hou-0022500054
+0022500055,2025-11-21,"[""OKC"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/okc-vs-uta-0022500055
+0022500056,2025-11-21,"[""GSW"", ""POR""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-por-0022500056
+0022500057,2025-11-25,"[""ATL"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/atl-vs-was-0022500057
+0022500058,2025-11-25,"[""ORL"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/orl-vs-phi-0022500058
+0022500059,2025-11-25,"[""LAC"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lac-vs-lal-0022500059
+0022500060,2025-11-26,"[""BOS"", ""DET""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-det-0022500060
+0022500061,2025-11-26,"[""CHA"", ""NYK""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-nyk-0022500061
+0022500062,2025-11-26,"[""MIA"", ""MIL""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-mil-0022500062
+0022500063,2025-11-26,"[""IND"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/ind-vs-tor-0022500063
+0022500064,2025-11-26,"[""MIN"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/min-vs-okc-0022500064
+0022500065,2025-11-26,"[""MEM"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/mem-vs-nop-0022500065
+0022500066,2025-11-26,"[""GSW"", ""HOU""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-hou-0022500066
+0022500067,2025-11-26,"[""POR"", ""SAS""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/por-vs-sas-0022500067
+0022500068,2025-11-26,"[""PHX"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/phx-vs-sac-0022500068
+0022500069,2025-11-28,"[""ATL"", ""CLE""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-cle-0022500069
+0022500070,2025-11-28,"[""BKN"", ""PHI""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-phi-0022500070
+0022500071,2025-11-28,"[""CHA"", ""CHI""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-chi-0022500071
+0022500072,2025-11-28,"[""DET"", ""ORL""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-orl-0022500072
+0022500073,2025-11-28,"[""IND"", ""WAS""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-was-0022500073
+0022500074,2025-11-28,"[""MIL"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/mil-vs-nyk-0022500074
+0022500075,2025-11-28,"[""OKC"", ""PHX""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-phx-0022500075
+0022500076,2025-11-28,"[""DEN"", ""SAS""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-sas-0022500076
+0022500077,2025-11-28,"[""SAC"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/sac-vs-uta-0022500077
+0022500078,2025-11-28,"[""DAL"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/dal-vs-lal-0022500078
+0022500079,2025-11-28,"[""LAC"", ""MEM""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-mem-0022500079
+0022500080,2025-10-22,"[""BKN"", ""CHA""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/bkn-vs-cha-0022500080
+0022500081,2025-10-22,"[""MIA"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/mia-vs-orl-0022500081
+0022500082,2025-10-22,"[""ATL"", ""TOR""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-tor-0022500082
+0022500083,2025-10-22,"[""BOS"", ""PHI""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-phi-0022500083
+0022500084,2025-10-22,"[""CHI"", ""DET""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-det-0022500084
+0022500085,2025-10-22,"[""MEM"", ""NOP""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-nop-0022500085
+0022500086,2025-10-22,"[""MIL"", ""WAS""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-was-0022500086
+0022500087,2025-10-22,"[""LAC"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/lac-vs-uta-0022500087
+0022500088,2025-10-22,"[""PHX"", ""SAC""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phx-vs-sac-0022500088
+0022500089,2025-10-22,"[""MIN"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/min-vs-por-0022500089
+0022500090,2025-10-24,"[""ATL"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/atl-vs-orl-0022500090
+0022500091,2025-10-24,"[""BKN"", ""CLE""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-cle-0022500091
+0022500092,2025-10-24,"[""MIL"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/mil-vs-tor-0022500092
+0022500093,2025-10-24,"[""DET"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/det-vs-hou-0022500093
+0022500094,2025-10-24,"[""MEM"", ""MIA""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-mia-0022500094
+0022500095,2025-10-24,"[""NOP"", ""SAS""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-sas-0022500095
+0022500096,2025-10-24,"[""DAL"", ""WAS""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-was-0022500096
+0022500097,2025-10-24,"[""GSW"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/gsw-vs-por-0022500097
+0022500098,2025-10-24,"[""SAC"", ""UTA""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/sac-vs-uta-0022500098
+0022500099,2025-10-24,"[""LAC"", ""PHX""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-phx-0022500099
+0022500100,2025-10-25,"[""CHI"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/chi-vs-orl-0022500100
+0022500101,2025-10-25,"[""ATL"", ""OKC""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-okc-0022500101
+0022500102,2025-10-25,"[""CHA"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/cha-vs-phi-0022500102
+0022500103,2025-10-25,"[""IND"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/ind-vs-mem-0022500103
+0022500104,2025-10-25,"[""DEN"", ""PHX""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-phx-0022500104
+0022500105,2025-10-26,"[""BKN"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/bkn-vs-sas-0022500105
+0022500106,2025-10-26,"[""BOS"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/bos-vs-det-0022500106
+0022500107,2025-10-26,"[""CLE"", ""MIL""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-mil-0022500107
+0022500108,2025-10-26,"[""MIA"", ""NYK""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-nyk-0022500108
+0022500109,2025-10-26,"[""CHA"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/cha-vs-was-0022500109
+0022500110,2025-10-26,"[""IND"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/ind-vs-min-0022500110
+0022500111,2025-10-26,"[""DAL"", ""TOR""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-tor-0022500111
+0022500112,2025-10-26,"[""LAC"", ""POR""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-por-0022500112
+0022500113,2025-10-26,"[""LAL"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/lal-vs-sac-0022500113
+0022500114,2025-10-27,"[""ORL"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/orl-vs-phi-0022500114
+0022500115,2025-10-27,"[""ATL"", ""CHI""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/atl-vs-chi-0022500115
+0022500116,2025-10-27,"[""BKN"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/bkn-vs-hou-0022500116
+0022500117,2025-10-27,"[""BOS"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/bos-vs-nop-0022500117
+0022500118,2025-10-27,"[""SAS"", ""TOR""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/sas-vs-tor-0022500118
+0022500119,2025-10-27,"[""DAL"", ""OKC""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-okc-0022500119
+0022500120,2025-10-27,"[""PHX"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/phx-vs-uta-0022500120
+0022500121,2025-10-27,"[""GSW"", ""MEM""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-mem-0022500121
+0022500122,2025-10-27,"[""LAL"", ""POR""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-por-0022500122
+0022500123,2025-10-28,"[""PHI"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/phi-vs-was-0022500123
+0022500124,2025-10-28,"[""CHA"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/cha-vs-mia-0022500124
+0022500125,2025-10-28,"[""MIL"", ""NYK""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-nyk-0022500125
+0022500126,2025-10-28,"[""OKC"", ""SAC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-sac-0022500126
+0022500127,2025-10-28,"[""GSW"", ""LAC""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-lac-0022500127
+0022500128,2025-10-29,"[""BOS"", ""CLE""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-cle-0022500128
+0022500129,2025-10-29,"[""DET"", ""ORL""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-orl-0022500129
+0022500130,2025-10-29,"[""ATL"", ""BKN""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/atl-vs-bkn-0022500130
+0022500131,2025-10-29,"[""HOU"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/hou-vs-tor-0022500131
+0022500132,2025-10-29,"[""CHI"", ""SAC""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-sac-0022500132
+0022500133,2025-10-29,"[""DAL"", ""IND""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-ind-0022500133
+0022500134,2025-10-29,"[""DEN"", ""NOP""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-nop-0022500134
+0022500135,2025-10-29,"[""POR"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/por-vs-uta-0022500135
+0022500136,2025-10-29,"[""LAL"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/lal-vs-min-0022500136
+0022500137,2025-10-29,"[""MEM"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/mem-vs-phx-0022500137
+0022500138,2025-10-30,"[""CHA"", ""ORL""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-orl-0022500138
+0022500139,2025-10-30,"[""GSW"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/gsw-vs-mil-0022500139
+0022500140,2025-10-30,"[""OKC"", ""WAS""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-was-0022500140
+0022500141,2025-10-30,"[""MIA"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/mia-vs-sas-0022500141
+0022500142,2025-11-01,"[""MIL"", ""SAC""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-sac-0022500142
+0022500143,2025-11-01,"[""CHA"", ""MIN""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-min-0022500143
+0022500144,2025-11-01,"[""GSW"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/gsw-vs-ind-0022500144
+0022500145,2025-11-01,"[""ORL"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/orl-vs-was-0022500145
+0022500146,2025-11-01,"[""BOS"", ""HOU""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-hou-0022500146
+0022500147,2025-11-01,"[""DAL"", ""DET""]","Arena CDMX, Mexico City, MX",DET,True,official_game_page,https://www.nba.com/game/dal-vs-det-0022500147
+0022500148,2025-11-02,"[""NOP"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/nop-vs-okc-0022500148
+0022500149,2025-11-02,"[""BKN"", ""PHI""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-phi-0022500149
+0022500150,2025-11-02,"[""CHA"", ""UTA""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-uta-0022500150
+0022500151,2025-11-02,"[""ATL"", ""CLE""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/atl-vs-cle-0022500151
+0022500152,2025-11-02,"[""MEM"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/mem-vs-tor-0022500152
+0022500153,2025-11-02,"[""CHI"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/chi-vs-nyk-0022500153
+0022500154,2025-11-02,"[""PHX"", ""SAS""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phx-vs-sas-0022500154
+0022500155,2025-11-02,"[""LAL"", ""MIA""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-mia-0022500155
+0022500156,2025-11-03,"[""BKN"", ""MIN""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-min-0022500156
+0022500157,2025-11-03,"[""IND"", ""MIL""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-mil-0022500157
+0022500158,2025-11-03,"[""BOS"", ""UTA""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-uta-0022500158
+0022500159,2025-11-03,"[""NYK"", ""WAS""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-was-0022500159
+0022500160,2025-11-03,"[""DAL"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/dal-vs-hou-0022500160
+0022500161,2025-11-03,"[""DET"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/det-vs-mem-0022500161
+0022500162,2025-11-03,"[""DEN"", ""SAC""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-sac-0022500162
+0022500163,2025-11-03,"[""LAL"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/lal-vs-por-0022500163
+0022500164,2025-11-03,"[""LAC"", ""MIA""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-mia-0022500164
+0022500165,2025-11-04,"[""MIL"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/mil-vs-tor-0022500165
+0022500166,2025-11-04,"[""ATL"", ""ORL""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-orl-0022500166
+0022500167,2025-11-04,"[""CHI"", ""PHI""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-phi-0022500167
+0022500168,2025-11-04,"[""CHA"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/cha-vs-nop-0022500168
+0022500169,2025-11-04,"[""GSW"", ""PHX""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-phx-0022500169
+0022500170,2025-11-04,"[""LAC"", ""OKC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-okc-0022500170
+0022500171,2025-11-05,"[""CLE"", ""PHI""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-phi-0022500171
+0022500172,2025-11-05,"[""DET"", ""UTA""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-uta-0022500172
+0022500173,2025-11-05,"[""BKN"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/bkn-vs-ind-0022500173
+0022500174,2025-11-05,"[""BOS"", ""WAS""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-was-0022500174
+0022500175,2025-11-05,"[""MIN"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/min-vs-nyk-0022500175
+0022500176,2025-11-05,"[""HOU"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/hou-vs-mem-0022500176
+0022500177,2025-11-05,"[""DAL"", ""NOP""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-nop-0022500177
+0022500178,2025-11-05,"[""DEN"", ""MIA""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-mia-0022500178
+0022500179,2025-11-05,"[""LAL"", ""SAS""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-sas-0022500179
+0022500180,2025-11-05,"[""OKC"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/okc-vs-por-0022500180
+0022500181,2025-11-05,"[""GSW"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/gsw-vs-sac-0022500181
+0022500182,2025-11-06,"[""LAC"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/lac-vs-phx-0022500182
+0022500183,2025-11-08,"[""DAL"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/dal-vs-was-0022500183
+0022500184,2025-11-08,"[""PHI"", ""TOR""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/phi-vs-tor-0022500184
+0022500185,2025-11-08,"[""ATL"", ""LAL""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-lal-0022500185
+0022500186,2025-11-08,"[""CHI"", ""CLE""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/chi-vs-cle-0022500186
+0022500187,2025-11-08,"[""MIA"", ""POR""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-por-0022500187
+0022500188,2025-11-08,"[""NOP"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/nop-vs-sas-0022500188
+0022500189,2025-11-08,"[""DEN"", ""IND""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-ind-0022500189
+0022500190,2025-11-08,"[""LAC"", ""PHX""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-phx-0022500190
+0022500191,2025-11-09,"[""HOU"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/hou-vs-mil-0022500191
+0022500192,2025-11-09,"[""BKN"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/bkn-vs-nyk-0022500192
+0022500193,2025-11-09,"[""BOS"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/bos-vs-orl-0022500193
+0022500194,2025-11-09,"[""MEM"", ""OKC""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-okc-0022500194
+0022500195,2025-11-09,"[""DET"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/det-vs-phi-0022500195
+0022500196,2025-11-09,"[""GSW"", ""IND""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-ind-0022500196
+0022500197,2025-11-09,"[""MIN"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/min-vs-sac-0022500197
+0022500198,2025-11-10,"[""CHA"", ""LAL""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-lal-0022500198
+0022500199,2025-11-10,"[""DET"", ""WAS""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-was-0022500199
+0022500200,2025-11-10,"[""ORL"", ""POR""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/orl-vs-por-0022500200
+0022500201,2025-11-10,"[""CLE"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/cle-vs-mia-0022500201
+0022500202,2025-11-10,"[""CHI"", ""SAS""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-sas-0022500202
+0022500203,2025-11-10,"[""DAL"", ""MIL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-mil-0022500203
+0022500204,2025-11-10,"[""NOP"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/nop-vs-phx-0022500204
+0022500205,2025-11-10,"[""MIN"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/min-vs-uta-0022500205
+0022500206,2025-11-10,"[""ATL"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/atl-vs-lac-0022500206
+0022500207,2025-11-11,"[""BKN"", ""TOR""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-tor-0022500207
+0022500208,2025-11-11,"[""MEM"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/mem-vs-nyk-0022500208
+0022500209,2025-11-11,"[""BOS"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/bos-vs-phi-0022500209
+0022500210,2025-11-11,"[""GSW"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/gsw-vs-okc-0022500210
+0022500211,2025-11-11,"[""IND"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/ind-vs-uta-0022500211
+0022500212,2025-11-11,"[""DEN"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/den-vs-sac-0022500212
+0022500213,2025-11-12,"[""CHA"", ""MIL""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-mil-0022500213
+0022500214,2025-11-12,"[""CHI"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/chi-vs-det-0022500214
+0022500215,2025-11-12,"[""NYK"", ""ORL""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-orl-0022500215
+0022500216,2025-11-12,"[""BOS"", ""MEM""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-mem-0022500216
+0022500217,2025-11-12,"[""CLE"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/cle-vs-mia-0022500217
+0022500218,2025-11-12,"[""HOU"", ""WAS""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-was-0022500218
+0022500219,2025-11-12,"[""NOP"", ""POR""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-por-0022500219
+0022500220,2025-11-12,"[""GSW"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/gsw-vs-sas-0022500220
+0022500221,2025-11-12,"[""DAL"", ""PHX""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-phx-0022500221
+0022500222,2025-11-12,"[""LAL"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/lal-vs-okc-0022500222
+0022500223,2025-11-12,"[""ATL"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/atl-vs-sac-0022500223
+0022500224,2025-11-12,"[""DEN"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/den-vs-lac-0022500224
+0022500225,2025-11-13,"[""CLE"", ""TOR""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-tor-0022500225
+0022500226,2025-11-13,"[""IND"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/ind-vs-phx-0022500226
+0022500227,2025-11-13,"[""ATL"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/atl-vs-uta-0022500227
+0022500228,2025-11-15,"[""CLE"", ""MEM""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-mem-0022500228
+0022500229,2025-11-15,"[""CHA"", ""OKC""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-okc-0022500229
+0022500230,2025-11-15,"[""IND"", ""TOR""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-tor-0022500230
+0022500231,2025-11-15,"[""LAL"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/lal-vs-mil-0022500231
+0022500232,2025-11-15,"[""DEN"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/den-vs-min-0022500232
+0022500233,2025-11-16,"[""BOS"", ""LAC""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-lac-0022500233
+0022500234,2025-11-16,"[""SAC"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/sac-vs-sas-0022500234
+0022500235,2025-11-16,"[""BKN"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/bkn-vs-was-0022500235
+0022500236,2025-11-16,"[""HOU"", ""ORL""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-orl-0022500236
+0022500237,2025-11-16,"[""GSW"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/gsw-vs-nop-0022500237
+0022500238,2025-11-16,"[""DAL"", ""POR""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-por-0022500238
+0022500239,2025-11-16,"[""ATL"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/atl-vs-phx-0022500239
+0022500240,2025-11-16,"[""CHI"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/chi-vs-uta-0022500240
+0022500241,2025-11-17,"[""CLE"", ""MIL""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-mil-0022500241
+0022500242,2025-11-17,"[""DET"", ""IND""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-ind-0022500242
+0022500243,2025-11-17,"[""LAC"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/lac-vs-phi-0022500243
+0022500244,2025-11-17,"[""MIA"", ""NYK""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-nyk-0022500244
+0022500245,2025-11-17,"[""CHA"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/cha-vs-tor-0022500245
+0022500246,2025-11-17,"[""DAL"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/dal-vs-min-0022500246
+0022500247,2025-11-17,"[""NOP"", ""OKC""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-okc-0022500247
+0022500248,2025-11-17,"[""CHI"", ""DEN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/chi-vs-den-0022500248
+0022500249,2025-11-18,"[""GSW"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/gsw-vs-orl-0022500249
+0022500250,2025-11-18,"[""BKN"", ""BOS""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-bos-0022500250
+0022500251,2025-11-18,"[""ATL"", ""DET""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-det-0022500251
+0022500252,2025-11-18,"[""MEM"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/mem-vs-sas-0022500252
+0022500253,2025-11-18,"[""LAL"", ""UTA""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-uta-0022500253
+0022500254,2025-11-18,"[""PHX"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/phx-vs-por-0022500254
+0022500255,2025-11-19,"[""CLE"", ""HOU""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-hou-0022500255
+0022500256,2025-11-19,"[""CHA"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/cha-vs-ind-0022500256
+0022500257,2025-11-19,"[""GSW"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/gsw-vs-mia-0022500257
+0022500258,2025-11-19,"[""PHI"", ""TOR""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/phi-vs-tor-0022500258
+0022500259,2025-11-19,"[""MIN"", ""WAS""]","Target Center, Minneapolis, US",MIN,False,official_pdf_home_arena,https://statsdmz.nba.com/pdfs/20251119/20251119_WASMIN.pdf
+0022500260,2025-11-19,"[""DEN"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_pdf_home_arena,https://statsdmz.nba.com/pdfs/20251119/20251119_DENNOP.pdf
+0022500261,2025-11-19,"[""OKC"", ""SAC""]","Paycom Center, Oklahoma City, US",OKC,False,official_pdf_home_arena,https://statsdmz.nba.com/pdfs/20251119/20251119_SACOKC.pdf
+0022500262,2025-11-19,"[""DAL"", ""NYK""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-nyk-0022500262
+0022500263,2025-11-19,"[""CHI"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/chi-vs-por-0022500263
+0022500264,2025-11-20,"[""LAC"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/lac-vs-orl-0022500264
+0022500265,2025-11-20,"[""MEM"", ""SAC""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-sac-0022500265
+0022500266,2025-11-20,"[""MIL"", ""PHI""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-phi-0022500266
+0022500267,2025-11-20,"[""ATL"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/atl-vs-sas-0022500267
+0022500268,2025-11-22,"[""CHA"", ""LAC""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-lac-0022500268
+0022500269,2025-11-22,"[""NYK"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/nyk-vs-orl-0022500269
+0022500270,2025-11-22,"[""ATL"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/atl-vs-nop-0022500270
+0022500271,2025-11-22,"[""CHI"", ""WAS""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-was-0022500271
+0022500272,2025-11-22,"[""DET"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/det-vs-mil-0022500272
+0022500273,2025-11-22,"[""DAL"", ""MEM""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-mem-0022500273
+0022500274,2025-11-22,"[""DEN"", ""SAC""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-sac-0022500274
+0022500275,2025-11-23,"[""MIA"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/mia-vs-phi-0022500275
+0022500276,2025-11-23,"[""ATL"", ""CHA""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-cha-0022500276
+0022500277,2025-11-23,"[""BOS"", ""ORL""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-orl-0022500277
+0022500278,2025-11-23,"[""CLE"", ""LAC""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-lac-0022500278
+0022500279,2025-11-23,"[""BKN"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/bkn-vs-tor-0022500279
+0022500280,2025-11-23,"[""OKC"", ""POR""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-por-0022500280
+0022500281,2025-11-23,"[""PHX"", ""SAS""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phx-vs-sas-0022500281
+0022500282,2025-11-23,"[""LAL"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/lal-vs-uta-0022500282
+0022500283,2025-11-24,"[""DET"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/det-vs-ind-0022500283
+0022500284,2025-11-24,"[""CLE"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/cle-vs-tor-0022500284
+0022500285,2025-11-24,"[""BKN"", ""NYK""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-nyk-0022500285
+0022500286,2025-11-24,"[""DAL"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/dal-vs-mia-0022500286
+0022500287,2025-11-24,"[""DEN"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/den-vs-mem-0022500287
+0022500288,2025-11-24,"[""MIL"", ""POR""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-por-0022500288
+0022500289,2025-11-24,"[""CHI"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/chi-vs-nop-0022500289
+0022500290,2025-11-24,"[""HOU"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/hou-vs-phx-0022500290
+0022500291,2025-11-24,"[""GSW"", ""UTA""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-uta-0022500291
+0022500292,2025-11-24,"[""MIN"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/min-vs-sac-0022500292
+0022500293,2025-11-29,"[""BOS"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/bos-vs-min-0022500293
+0022500294,2025-11-29,"[""CHA"", ""TOR""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-tor-0022500294
+0022500295,2025-11-29,"[""CHI"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/chi-vs-ind-0022500295
+0022500296,2025-11-29,"[""DET"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/det-vs-mia-0022500296
+0022500297,2025-11-29,"[""BKN"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/bkn-vs-mil-0022500297
+0022500298,2025-11-29,"[""GSW"", ""NOP""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-nop-0022500298
+0022500299,2025-11-29,"[""DEN"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/den-vs-phx-0022500299
+0022500300,2025-11-29,"[""DAL"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/dal-vs-lac-0022500300
+0022500301,2025-11-30,"[""HOU"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/hou-vs-uta-0022500301
+0022500302,2025-11-30,"[""BOS"", ""CLE""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/bos-vs-cle-0022500302
+0022500303,2025-11-30,"[""NYK"", ""TOR""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-tor-0022500303
+0022500304,2025-11-30,"[""ATL"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/atl-vs-phi-0022500304
+0022500305,2025-11-30,"[""OKC"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/okc-vs-por-0022500305
+0022500306,2025-11-30,"[""MIN"", ""SAS""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-sas-0022500306
+0022500307,2025-11-30,"[""MEM"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/mem-vs-sac-0022500307
+0022500308,2025-11-30,"[""LAL"", ""NOP""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-nop-0022500308
+0022500309,2025-12-01,"[""ATL"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/atl-vs-det-0022500309
+0022500310,2025-12-01,"[""CLE"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/cle-vs-ind-0022500310
+0022500311,2025-12-01,"[""MIL"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/mil-vs-was-0022500311
+0022500312,2025-12-01,"[""BKN"", ""CHA""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-cha-0022500312
+0022500313,2025-12-01,"[""LAC"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/lac-vs-mia-0022500313
+0022500314,2025-12-01,"[""CHI"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/chi-vs-orl-0022500314
+0022500315,2025-12-01,"[""DAL"", ""DEN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/dal-vs-den-0022500315
+0022500316,2025-12-01,"[""HOU"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/hou-vs-uta-0022500316
+0022500317,2025-12-01,"[""LAL"", ""PHX""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-phx-0022500317
+0022500318,2025-12-02,"[""PHI"", ""WAS""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/phi-vs-was-0022500318
+0022500319,2025-12-02,"[""POR"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/por-vs-tor-0022500319
+0022500320,2025-12-02,"[""BOS"", ""NYK""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-nyk-0022500320
+0022500321,2025-12-02,"[""MIN"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/min-vs-nop-0022500321
+0022500322,2025-12-02,"[""MEM"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/mem-vs-sas-0022500322
+0022500323,2025-12-02,"[""GSW"", ""OKC""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-okc-0022500323
+0022500324,2025-12-03,"[""CLE"", ""POR""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-por-0022500324
+0022500325,2025-12-03,"[""DEN"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/den-vs-ind-0022500325
+0022500326,2025-12-03,"[""ORL"", ""SAS""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/orl-vs-sas-0022500326
+0022500327,2025-12-03,"[""ATL"", ""LAC""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-lac-0022500327
+0022500328,2025-12-03,"[""CHA"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/cha-vs-nyk-0022500328
+0022500329,2025-12-03,"[""BKN"", ""CHI""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/bkn-vs-chi-0022500329
+0022500330,2025-12-03,"[""HOU"", ""SAC""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-sac-0022500330
+0022500331,2025-12-03,"[""DET"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/det-vs-mil-0022500331
+0022500332,2025-12-03,"[""DAL"", ""MIA""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-mia-0022500332
+0022500333,2025-12-04,"[""GSW"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/gsw-vs-phi-0022500333
+0022500334,2025-12-04,"[""BOS"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/bos-vs-was-0022500334
+0022500335,2025-12-04,"[""BKN"", ""UTA""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-uta-0022500335
+0022500336,2025-12-04,"[""LAL"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/lal-vs-tor-0022500336
+0022500337,2025-12-04,"[""MIN"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/min-vs-nop-0022500337
+0022500338,2025-12-05,"[""BOS"", ""LAL""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-lal-0022500338
+0022500339,2025-12-05,"[""MIA"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/mia-vs-orl-0022500339
+0022500340,2025-12-05,"[""ATL"", ""DEN""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-den-0022500340
+0022500341,2025-12-05,"[""CLE"", ""SAS""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-sas-0022500341
+0022500342,2025-12-05,"[""DET"", ""POR""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-por-0022500342
+0022500343,2025-12-05,"[""NYK"", ""UTA""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-uta-0022500343
+0022500344,2025-12-05,"[""CHA"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/cha-vs-tor-0022500344
+0022500345,2025-12-05,"[""CHI"", ""IND""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-ind-0022500345
+0022500346,2025-12-05,"[""HOU"", ""PHX""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-phx-0022500346
+0022500347,2025-12-05,"[""LAC"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/lac-vs-mem-0022500347
+0022500348,2025-12-05,"[""MIL"", ""PHI""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-phi-0022500348
+0022500349,2025-12-05,"[""DAL"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/dal-vs-okc-0022500349
+0022500350,2025-12-06,"[""BKN"", ""NOP""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-nop-0022500350
+0022500351,2025-12-06,"[""ATL"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/atl-vs-was-0022500351
+0022500352,2025-12-06,"[""CLE"", ""GSW""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-gsw-0022500352
+0022500353,2025-12-06,"[""DET"", ""MIL""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-mil-0022500353
+0022500354,2025-12-06,"[""MIA"", ""SAC""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-sac-0022500354
+0022500355,2025-12-06,"[""LAC"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/lac-vs-min-0022500355
+0022500356,2025-12-06,"[""DAL"", ""HOU""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-hou-0022500356
+0022500357,2025-12-07,"[""NYK"", ""ORL""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-orl-0022500357
+0022500358,2025-12-07,"[""BOS"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/bos-vs-tor-0022500358
+0022500359,2025-12-07,"[""CHA"", ""DEN""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-den-0022500359
+0022500360,2025-12-07,"[""MEM"", ""POR""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-por-0022500360
+0022500361,2025-12-07,"[""CHI"", ""GSW""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-gsw-0022500361
+0022500362,2025-12-07,"[""LAL"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/lal-vs-phi-0022500362
+0022500363,2025-12-07,"[""OKC"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/okc-vs-uta-0022500363
+0022500364,2025-12-08,"[""IND"", ""SAC""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-sac-0022500364
+0022500365,2025-12-08,"[""MIN"", ""PHX""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-phx-0022500365
+0022500366,2025-12-08,"[""NOP"", ""SAS""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-sas-0022500366
+0022500367,2025-12-17,"[""CHI"", ""CLE""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-cle-0022500367
+0022500368,2025-12-17,"[""MEM"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/mem-vs-min-0022500368
+0022500369,2025-12-18,"[""LAC"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/lac-vs-okc-0022500369
+0022500370,2025-12-18,"[""SAS"", ""WAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/sas-vs-was-0022500370
+0022500371,2025-12-18,"[""ATL"", ""CHA""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/atl-vs-cha-0022500371
+0022500372,2025-12-18,"[""IND"", ""NYK""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-nyk-0022500372
+0022500373,2025-12-18,"[""BKN"", ""MIA""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-mia-0022500373
+0022500374,2025-12-18,"[""MIL"", ""TOR""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-tor-0022500374
+0022500375,2025-12-18,"[""HOU"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/hou-vs-nop-0022500375
+0022500376,2025-12-18,"[""DAL"", ""DET""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-det-0022500376
+0022500377,2025-12-18,"[""DEN"", ""ORL""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-orl-0022500377
+0022500378,2025-12-18,"[""GSW"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/gsw-vs-phx-0022500378
+0022500379,2025-12-18,"[""LAL"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/lal-vs-uta-0022500379
+0022500380,2025-12-18,"[""POR"", ""SAC""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/por-vs-sac-0022500380
+0022500381,2025-12-19,"[""BOS"", ""MIA""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-mia-0022500381
+0022500382,2025-12-19,"[""NYK"", ""PHI""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-phi-0022500382
+0022500383,2025-12-19,"[""ATL"", ""SAS""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-sas-0022500383
+0022500384,2025-12-19,"[""CHI"", ""CLE""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/chi-vs-cle-0022500384
+0022500385,2025-12-19,"[""MIN"", ""OKC""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-okc-0022500385
+0022500386,2025-12-20,"[""DEN"", ""HOU""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-hou-0022500386
+0022500387,2025-12-20,"[""DAL"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/dal-vs-phi-0022500387
+0022500388,2025-12-20,"[""BOS"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/bos-vs-tor-0022500388
+0022500389,2025-12-20,"[""IND"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/ind-vs-nop-0022500389
+0022500390,2025-12-20,"[""CHA"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/cha-vs-det-0022500390
+0022500391,2025-12-20,"[""MEM"", ""WAS""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-was-0022500391
+0022500392,2025-12-20,"[""GSW"", ""PHX""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-phx-0022500392
+0022500393,2025-12-20,"[""ORL"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/orl-vs-uta-0022500393
+0022500394,2025-12-20,"[""POR"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/por-vs-sac-0022500394
+0022500395,2025-12-20,"[""LAC"", ""LAL""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-lal-0022500395
+0022500396,2025-12-21,"[""ATL"", ""CHI""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-chi-0022500396
+0022500397,2025-12-21,"[""BKN"", ""TOR""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-tor-0022500397
+0022500398,2025-12-21,"[""MIA"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/mia-vs-nyk-0022500398
+0022500399,2025-12-21,"[""SAS"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/sas-vs-was-0022500399
+0022500400,2025-12-21,"[""MIL"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/mil-vs-min-0022500400
+0022500401,2025-12-21,"[""HOU"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/hou-vs-sac-0022500401
+0022500402,2025-12-22,"[""CHA"", ""CLE""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cha-vs-cle-0022500402
+0022500403,2025-12-22,"[""BOS"", ""IND""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-ind-0022500403
+0022500404,2025-12-22,"[""DAL"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/dal-vs-nop-0022500404
+0022500405,2025-12-22,"[""DEN"", ""UTA""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-uta-0022500405
+0022500406,2025-12-22,"[""MEM"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/mem-vs-okc-0022500406
+0022500407,2025-12-22,"[""GSW"", ""ORL""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-orl-0022500407
+0022500408,2025-12-22,"[""DET"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/det-vs-por-0022500408
+0022500409,2025-12-23,"[""CHA"", ""WAS""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-was-0022500409
+0022500410,2025-12-23,"[""BKN"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/bkn-vs-phi-0022500410
+0022500411,2025-12-23,"[""ATL"", ""CHI""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-chi-0022500411
+0022500412,2025-12-23,"[""CLE"", ""NOP""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-nop-0022500412
+0022500413,2025-12-23,"[""IND"", ""MIL""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-mil-0022500413
+0022500414,2025-12-23,"[""MIA"", ""TOR""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-tor-0022500414
+0022500415,2025-12-23,"[""DAL"", ""DEN""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-den-0022500415
+0022500416,2025-12-23,"[""MIN"", ""NYK""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-nyk-0022500416
+0022500417,2025-12-23,"[""OKC"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/okc-vs-sas-0022500417
+0022500418,2025-12-23,"[""LAL"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/lal-vs-phx-0022500418
+0022500419,2025-12-23,"[""MEM"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/mem-vs-uta-0022500419
+0022500420,2025-12-23,"[""ORL"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/orl-vs-por-0022500420
+0022500421,2025-12-23,"[""DET"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/det-vs-sac-0022500421
+0022500422,2025-12-23,"[""HOU"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/hou-vs-lac-0022500422
+0022500423,2025-12-26,"[""ATL"", ""MIA""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-mia-0022500423
+0022500424,2025-12-26,"[""CHA"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/cha-vs-orl-0022500424
+0022500425,2025-12-26,"[""TOR"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/tor-vs-was-0022500425
+0022500426,2025-12-26,"[""BOS"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/bos-vs-ind-0022500426
+0022500427,2025-12-26,"[""CHI"", ""PHI""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-phi-0022500427
+0022500428,2025-12-26,"[""MEM"", ""MIL""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-mil-0022500428
+0022500429,2025-12-26,"[""NOP"", ""PHX""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-phx-0022500429
+0022500430,2025-12-26,"[""DET"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/det-vs-uta-0022500430
+0022500431,2025-12-26,"[""LAC"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/lac-vs-por-0022500431
+0022500432,2025-12-27,"[""DAL"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/dal-vs-sac-0022500432
+0022500433,2025-12-27,"[""DEN"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/den-vs-orl-0022500433
+0022500434,2025-12-27,"[""NOP"", ""PHX""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-phx-0022500434
+0022500435,2025-12-27,"[""ATL"", ""NYK""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-nyk-0022500435
+0022500436,2025-12-27,"[""IND"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/ind-vs-mia-0022500436
+0022500437,2025-12-27,"[""CHI"", ""MIL""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-mil-0022500437
+0022500438,2025-12-27,"[""CLE"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/cle-vs-hou-0022500438
+0022500439,2025-12-27,"[""BKN"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/bkn-vs-min-0022500439
+0022500440,2025-12-27,"[""SAS"", ""UTA""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/sas-vs-uta-0022500440
+0022500441,2025-12-28,"[""GSW"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/gsw-vs-tor-0022500441
+0022500442,2025-12-28,"[""OKC"", ""PHI""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-phi-0022500442
+0022500443,2025-12-28,"[""MEM"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/mem-vs-was-0022500443
+0022500444,2025-12-28,"[""BOS"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/bos-vs-por-0022500444
+0022500445,2025-12-28,"[""DET"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/det-vs-lac-0022500445
+0022500446,2025-12-28,"[""LAL"", ""SAC""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-sac-0022500446
+0022500447,2025-12-29,"[""CHA"", ""MIL""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-mil-0022500447
+0022500448,2025-12-29,"[""PHX"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/phx-vs-was-0022500448
+0022500449,2025-12-29,"[""BKN"", ""GSW""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-gsw-0022500449
+0022500450,2025-12-29,"[""DEN"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/den-vs-mia-0022500450
+0022500451,2025-12-29,"[""ORL"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/orl-vs-tor-0022500451
+0022500452,2025-12-29,"[""CHI"", ""MIN""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-min-0022500452
+0022500453,2025-12-29,"[""HOU"", ""IND""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-ind-0022500453
+0022500454,2025-12-29,"[""NOP"", ""NYK""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-nyk-0022500454
+0022500455,2025-12-29,"[""ATL"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/atl-vs-okc-0022500455
+0022500456,2025-12-29,"[""CLE"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/cle-vs-sas-0022500456
+0022500457,2025-12-29,"[""DAL"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/dal-vs-por-0022500457
+0022500458,2025-12-30,"[""MEM"", ""PHI""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-phi-0022500458
+0022500459,2025-12-30,"[""BOS"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/bos-vs-uta-0022500459
+0022500460,2025-12-30,"[""DET"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/det-vs-lal-0022500460
+0022500461,2025-12-30,"[""LAC"", ""SAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-sac-0022500461
+0022500462,2025-12-31,"[""CHA"", ""GSW""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-gsw-0022500462
+0022500463,2025-12-31,"[""ATL"", ""MIN""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-min-0022500463
+0022500464,2025-12-31,"[""IND"", ""ORL""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-orl-0022500464
+0022500465,2025-12-31,"[""CLE"", ""PHX""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-phx-0022500465
+0022500466,2025-12-31,"[""CHI"", ""NOP""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-nop-0022500466
+0022500467,2025-12-31,"[""NYK"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/nyk-vs-sas-0022500467
+0022500468,2025-12-31,"[""DEN"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/den-vs-tor-0022500468
+0022500469,2025-12-31,"[""MIL"", ""WAS""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-was-0022500469
+0022500470,2025-12-31,"[""OKC"", ""POR""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-por-0022500470
+0022500471,2026-01-01,"[""BKN"", ""HOU""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-hou-0022500471
+0022500472,2026-01-01,"[""DET"", ""MIA""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-mia-0022500472
+0022500473,2026-01-01,"[""DAL"", ""PHI""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-phi-0022500473
+0022500474,2026-01-01,"[""BOS"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/bos-vs-sac-0022500474
+0022500475,2026-01-01,"[""LAC"", ""UTA""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-uta-0022500475
+0022500476,2026-01-02,"[""IND"", ""SAS""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-sas-0022500476
+0022500477,2026-01-02,"[""BKN"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/bkn-vs-was-0022500477
+0022500478,2026-01-02,"[""CLE"", ""DEN""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-den-0022500478
+0022500479,2026-01-02,"[""ATL"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/atl-vs-nyk-0022500479
+0022500480,2026-01-02,"[""CHI"", ""ORL""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-orl-0022500480
+0022500481,2026-01-02,"[""CHA"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/cha-vs-mil-0022500481
+0022500482,2026-01-02,"[""NOP"", ""POR""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-por-0022500482
+0022500483,2026-01-02,"[""PHX"", ""SAC""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phx-vs-sac-0022500483
+0022500484,2026-01-02,"[""GSW"", ""OKC""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-okc-0022500484
+0022500485,2026-01-02,"[""LAL"", ""MEM""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-mem-0022500485
+0022500486,2026-01-03,"[""MIA"", ""MIN""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-min-0022500486
+0022500487,2026-01-03,"[""NYK"", ""PHI""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-phi-0022500487
+0022500488,2026-01-03,"[""ATL"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/atl-vs-tor-0022500488
+0022500489,2026-01-03,"[""CHA"", ""CHI""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/cha-vs-chi-0022500489
+0022500490,2026-01-03,"[""POR"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/por-vs-sas-0022500490
+0022500491,2026-01-03,"[""DAL"", ""HOU""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-hou-0022500491
+0022500492,2026-01-03,"[""GSW"", ""UTA""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-uta-0022500492
+0022500493,2026-01-03,"[""BOS"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/bos-vs-lac-0022500493
+0022500494,2026-01-04,"[""CLE"", ""DET""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-det-0022500494
+0022500495,2026-01-04,"[""IND"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/ind-vs-orl-0022500495
+0022500496,2026-01-04,"[""BKN"", ""DEN""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-den-0022500496
+0022500497,2026-01-04,"[""MIA"", ""NOP""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-nop-0022500497
+0022500498,2026-01-04,"[""MIN"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/min-vs-was-0022500498
+0022500499,2026-01-04,"[""OKC"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/okc-vs-phx-0022500499
+0022500500,2026-01-04,"[""MIL"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/mil-vs-sac-0022500500
+0022500501,2026-01-04,"[""LAL"", ""MEM""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-mem-0022500501
+0022500502,2026-01-05,"[""DET"", ""NYK""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-nyk-0022500502
+0022500503,2026-01-05,"[""BOS"", ""CHI""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-chi-0022500503
+0022500504,2026-01-05,"[""ATL"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/atl-vs-tor-0022500504
+0022500505,2026-01-05,"[""HOU"", ""PHX""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-phx-0022500505
+0022500506,2026-01-05,"[""CHA"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/cha-vs-okc-0022500506
+0022500507,2026-01-05,"[""DEN"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/den-vs-phi-0022500507
+0022500508,2026-01-05,"[""GSW"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/gsw-vs-lac-0022500508
+0022500509,2026-01-05,"[""POR"", ""UTA""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/por-vs-uta-0022500509
+0022500510,2026-01-06,"[""CLE"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/cle-vs-ind-0022500510
+0022500511,2026-01-06,"[""ORL"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/orl-vs-was-0022500511
+0022500512,2026-01-06,"[""MEM"", ""SAS""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-sas-0022500512
+0022500513,2026-01-06,"[""MIA"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/mia-vs-min-0022500513
+0022500514,2026-01-06,"[""LAL"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/lal-vs-nop-0022500514
+0022500515,2026-01-06,"[""DAL"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/dal-vs-sac-0022500515
+0022500516,2026-01-07,"[""CHA"", ""TOR""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-tor-0022500516
+0022500517,2026-01-07,"[""CHI"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/chi-vs-det-0022500517
+0022500518,2026-01-07,"[""PHI"", ""WAS""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/phi-vs-was-0022500518
+0022500519,2026-01-07,"[""ATL"", ""NOP""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-nop-0022500519
+0022500520,2026-01-07,"[""BOS"", ""DEN""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-den-0022500520
+0022500521,2026-01-07,"[""BKN"", ""ORL""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-orl-0022500521
+0022500522,2026-01-07,"[""LAC"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/lac-vs-nyk-0022500522
+0022500523,2026-01-07,"[""LAL"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/lal-vs-sas-0022500523
+0022500524,2026-01-07,"[""MEM"", ""PHX""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-phx-0022500524
+0022500525,2026-01-07,"[""OKC"", ""UTA""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-uta-0022500525
+0022500526,2026-01-07,"[""GSW"", ""MIL""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-mil-0022500526
+0022500527,2026-01-07,"[""HOU"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/hou-vs-por-0022500527
+0022500528,2026-01-08,"[""CHA"", ""IND""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-ind-0022500528
+0022500529,2026-01-29,"[""CHI"", ""MIA""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-mia-0022500529
+0022500530,2026-01-08,"[""CLE"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/cle-vs-min-0022500530
+0022500531,2026-01-08,"[""DAL"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/dal-vs-uta-0022500531
+0022500532,2026-01-09,"[""BOS"", ""TOR""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-tor-0022500532
+0022500533,2026-01-09,"[""ORL"", ""PHI""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/orl-vs-phi-0022500533
+0022500534,2026-01-09,"[""NOP"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/nop-vs-was-0022500534
+0022500535,2026-01-09,"[""BKN"", ""LAC""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-lac-0022500535
+0022500536,2026-01-09,"[""MEM"", ""OKC""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-okc-0022500536
+0022500537,2026-01-09,"[""ATL"", ""DEN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/atl-vs-den-0022500537
+0022500538,2026-01-09,"[""NYK"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/nyk-vs-phx-0022500538
+0022500539,2026-01-09,"[""GSW"", ""SAC""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-sac-0022500539
+0022500540,2026-01-09,"[""HOU"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/hou-vs-por-0022500540
+0022500541,2026-01-09,"[""LAL"", ""MIL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-mil-0022500541
+0022500542,2026-01-10,"[""CLE"", ""MIN""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-min-0022500542
+0022500543,2026-01-10,"[""IND"", ""MIA""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-mia-0022500543
+0022500544,2026-01-10,"[""DET"", ""LAC""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-lac-0022500544
+0022500545,2026-01-10,"[""BOS"", ""SAS""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-sas-0022500545
+0022500546,2026-01-10,"[""CHI"", ""DAL""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-dal-0022500546
+0022500547,2026-01-10,"[""CHA"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/cha-vs-uta-0022500547
+0022500548,2026-01-11,"[""NOP"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/nop-vs-orl-0022500548
+0022500549,2026-01-11,"[""BKN"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/bkn-vs-mem-0022500549
+0022500550,2026-01-11,"[""PHI"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/phi-vs-tor-0022500550
+0022500551,2026-01-11,"[""NYK"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/nyk-vs-por-0022500551
+0022500552,2026-01-11,"[""MIN"", ""SAS""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-sas-0022500552
+0022500553,2026-01-11,"[""MIA"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/mia-vs-okc-0022500553
+0022500554,2026-01-11,"[""DEN"", ""MIL""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-mil-0022500554
+0022500555,2026-01-11,"[""PHX"", ""WAS""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phx-vs-was-0022500555
+0022500556,2026-01-11,"[""ATL"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/atl-vs-gsw-0022500556
+0022500557,2026-01-11,"[""HOU"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/hou-vs-sac-0022500557
+0022500558,2026-01-12,"[""CLE"", ""UTA""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-uta-0022500558
+0022500559,2026-01-12,"[""BOS"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/bos-vs-ind-0022500559
+0022500560,2026-01-12,"[""PHI"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/phi-vs-tor-0022500560
+0022500561,2026-01-12,"[""BKN"", ""DAL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/bkn-vs-dal-0022500561
+0022500562,2026-01-12,"[""LAL"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/lal-vs-sac-0022500562
+0022500563,2026-01-12,"[""CHA"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/cha-vs-lac-0022500563
+0022500564,2026-01-13,"[""MIA"", ""PHX""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-phx-0022500564
+0022500565,2026-01-13,"[""CHI"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/chi-vs-hou-0022500565
+0022500566,2026-01-13,"[""MIL"", ""MIN""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-min-0022500566
+0022500567,2026-01-13,"[""DEN"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/den-vs-nop-0022500567
+0022500568,2026-01-13,"[""OKC"", ""SAS""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-sas-0022500568
+0022500569,2026-01-13,"[""ATL"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/atl-vs-lal-0022500569
+0022500570,2026-01-13,"[""GSW"", ""POR""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-por-0022500570
+0022500571,2026-01-14,"[""IND"", ""TOR""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-tor-0022500571
+0022500572,2026-01-14,"[""CLE"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/cle-vs-phi-0022500572
+0022500573,2026-01-14,"[""CHI"", ""UTA""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-uta-0022500573
+0022500574,2026-01-14,"[""BKN"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/bkn-vs-nop-0022500574
+0022500575,2026-01-14,"[""DAL"", ""DEN""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-den-0022500575
+0022500576,2026-01-14,"[""NYK"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/nyk-vs-sac-0022500576
+0022500577,2026-01-14,"[""LAC"", ""WAS""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-was-0022500577
+0022500578,2026-01-15,"[""MEM"", ""ORL""]","Uber Arena, Berlin, DE",ORL,True,official_game_page,https://www.nba.com/game/mem-vs-orl-0022500578
+0022500579,2026-01-15,"[""DET"", ""PHX""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-phx-0022500579
+0022500580,2026-01-15,"[""BOS"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/bos-vs-mia-0022500580
+0022500581,2026-01-15,"[""HOU"", ""OKC""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-okc-0022500581
+0022500582,2026-01-15,"[""MIL"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/mil-vs-sas-0022500582
+0022500583,2026-01-15,"[""DAL"", ""UTA""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-uta-0022500583
+0022500584,2026-01-15,"[""GSW"", ""NYK""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-nyk-0022500584
+0022500585,2026-01-15,"[""ATL"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/atl-vs-por-0022500585
+0022500586,2026-01-15,"[""CHA"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/cha-vs-lal-0022500586
+0022500587,2026-01-16,"[""BKN"", ""CHI""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-chi-0022500587
+0022500588,2026-01-16,"[""IND"", ""NOP""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-nop-0022500588
+0022500589,2026-01-16,"[""CLE"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/cle-vs-phi-0022500589
+0022500590,2026-01-16,"[""LAC"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/lac-vs-tor-0022500590
+0022500591,2026-01-16,"[""HOU"", ""MIN""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-min-0022500591
+0022500592,2026-01-16,"[""SAC"", ""WAS""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/sac-vs-was-0022500592
+0022500593,2026-01-17,"[""DAL"", ""UTA""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-uta-0022500593
+0022500594,2026-01-17,"[""ATL"", ""BOS""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-bos-0022500594
+0022500595,2026-01-17,"[""DET"", ""IND""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-ind-0022500595
+0022500596,2026-01-17,"[""NYK"", ""PHX""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-phx-0022500596
+0022500597,2026-01-17,"[""MIA"", ""OKC""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-okc-0022500597
+0022500598,2026-01-17,"[""MIN"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/min-vs-sas-0022500598
+0022500599,2026-01-17,"[""CHA"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/cha-vs-gsw-0022500599
+0022500600,2026-01-17,"[""DEN"", ""WAS""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-was-0022500600
+0022500601,2026-01-17,"[""LAL"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/lal-vs-por-0022500601
+0022500602,2026-01-18,"[""MEM"", ""ORL""]","The O2 Arena, London, GB",MEM,True,official_game_page,https://www.nba.com/game/mem-vs-orl-0022500602
+0022500603,2026-01-18,"[""BKN"", ""CHI""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/bkn-vs-chi-0022500603
+0022500604,2026-01-18,"[""HOU"", ""NOP""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-nop-0022500604
+0022500605,2026-01-18,"[""CHA"", ""DEN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/cha-vs-den-0022500605
+0022500606,2026-01-18,"[""POR"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/por-vs-sac-0022500606
+0022500607,2026-01-18,"[""LAL"", ""TOR""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-tor-0022500607
+0022500608,2026-01-19,"[""LAC"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/lac-vs-was-0022500608
+0022500609,2026-01-19,"[""IND"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/ind-vs-phi-0022500609
+0022500610,2026-01-19,"[""BKN"", ""PHX""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-phx-0022500610
+0022500611,2026-01-19,"[""SAS"", ""UTA""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/sas-vs-uta-0022500611
+0022500612,2026-01-19,"[""GSW"", ""MIA""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-mia-0022500612
+0022500613,2026-01-20,"[""PHI"", ""PHX""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/phi-vs-phx-0022500613
+0022500614,2026-01-20,"[""CHI"", ""LAC""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-lac-0022500614
+0022500615,2026-01-20,"[""HOU"", ""SAS""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-sas-0022500615
+0022500616,2026-01-20,"[""MIN"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/min-vs-uta-0022500616
+0022500617,2026-01-20,"[""DEN"", ""LAL""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-lal-0022500617
+0022500618,2026-01-20,"[""GSW"", ""TOR""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-tor-0022500618
+0022500619,2026-01-20,"[""MIA"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/mia-vs-sac-0022500619
+0022500620,2026-01-21,"[""CHA"", ""CLE""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-cle-0022500620
+0022500621,2026-01-21,"[""BOS"", ""IND""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-ind-0022500621
+0022500622,2026-01-21,"[""BKN"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/bkn-vs-nyk-0022500622
+0022500623,2026-01-21,"[""ATL"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/atl-vs-mem-0022500623
+0022500624,2026-01-21,"[""DET"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/det-vs-nop-0022500624
+0022500625,2026-01-21,"[""MIL"", ""OKC""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-okc-0022500625
+0022500626,2026-01-21,"[""SAC"", ""TOR""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/sac-vs-tor-0022500626
+0022500627,2026-01-22,"[""CHA"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/cha-vs-orl-0022500627
+0022500628,2026-01-22,"[""HOU"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/hou-vs-phi-0022500628
+0022500629,2026-01-22,"[""DEN"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/den-vs-was-0022500629
+0022500630,2026-01-22,"[""DAL"", ""GSW""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-gsw-0022500630
+0022500631,2026-01-22,"[""CHI"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/chi-vs-min-0022500631
+0022500632,2026-01-22,"[""SAS"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/sas-vs-uta-0022500632
+0022500633,2026-01-22,"[""LAC"", ""LAL""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-lal-0022500633
+0022500634,2026-01-22,"[""MIA"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/mia-vs-por-0022500634
+0022500635,2026-01-23,"[""DET"", ""HOU""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-hou-0022500635
+0022500636,2026-01-23,"[""ATL"", ""PHX""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-phx-0022500636
+0022500637,2026-01-23,"[""BKN"", ""BOS""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-bos-0022500637
+0022500638,2026-01-23,"[""CLE"", ""SAC""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-sac-0022500638
+0022500639,2026-01-23,"[""MEM"", ""NOP""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-nop-0022500639
+0022500640,2026-01-23,"[""DEN"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/den-vs-mil-0022500640
+0022500641,2026-01-23,"[""IND"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/ind-vs-okc-0022500641
+0022500642,2026-01-23,"[""POR"", ""TOR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/por-vs-tor-0022500642
+0022500643,2026-01-24,"[""NYK"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/nyk-vs-phi-0022500643
+0022500644,2026-01-25,"[""GSW"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/gsw-vs-min-0022500644
+0022500645,2026-01-24,"[""CHA"", ""WAS""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-was-0022500645
+0022500646,2026-01-24,"[""CLE"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/cle-vs-orl-0022500646
+0022500647,2026-01-24,"[""BOS"", ""CHI""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/bos-vs-chi-0022500647
+0022500648,2026-01-24,"[""DAL"", ""LAL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-lal-0022500648
+0022500649,2026-01-24,"[""MIA"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/mia-vs-uta-0022500649
+0022500650,2026-01-25,"[""DET"", ""SAC""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-sac-0022500650
+0022500651,2026-03-18,"[""DEN"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/den-vs-mem-0022500651
+0022500652,2026-03-31,"[""DAL"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/dal-vs-mil-0022500652
+0022500653,2026-01-25,"[""OKC"", ""TOR""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-tor-0022500653
+0022500654,2026-01-25,"[""NOP"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/nop-vs-sas-0022500654
+0022500655,2026-01-25,"[""MIA"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/mia-vs-phx-0022500655
+0022500656,2026-01-25,"[""BKN"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/bkn-vs-lac-0022500656
+0022500657,2026-01-26,"[""CHA"", ""PHI""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-phi-0022500657
+0022500658,2026-01-26,"[""CLE"", ""ORL""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-orl-0022500658
+0022500659,2026-01-26,"[""ATL"", ""IND""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-ind-0022500659
+0022500660,2026-01-26,"[""BOS"", ""POR""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-por-0022500660
+0022500661,2026-01-26,"[""CHI"", ""LAL""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-lal-0022500661
+0022500662,2026-01-26,"[""HOU"", ""MEM""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-mem-0022500662
+0022500663,2026-01-26,"[""GSW"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/gsw-vs-min-0022500663
+0022500664,2026-01-27,"[""POR"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/por-vs-was-0022500664
+0022500665,2026-01-27,"[""NYK"", ""SAC""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-sac-0022500665
+0022500666,2026-01-27,"[""MIL"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/mil-vs-phi-0022500666
+0022500667,2026-01-27,"[""NOP"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/nop-vs-okc-0022500667
+0022500668,2026-01-27,"[""DEN"", ""DET""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-det-0022500668
+0022500669,2026-01-27,"[""BKN"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/bkn-vs-phx-0022500669
+0022500670,2026-01-27,"[""LAC"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/lac-vs-uta-0022500670
+0022500671,2026-01-28,"[""CLE"", ""LAL""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-lal-0022500671
+0022500672,2026-01-28,"[""CHI"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/chi-vs-ind-0022500672
+0022500673,2026-01-28,"[""ATL"", ""BOS""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/atl-vs-bos-0022500673
+0022500674,2026-01-28,"[""MIA"", ""ORL""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-orl-0022500674
+0022500675,2026-01-28,"[""NYK"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/nyk-vs-tor-0022500675
+0022500676,2026-01-28,"[""CHA"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/cha-vs-mem-0022500676
+0022500677,2026-01-28,"[""DAL"", ""MIN""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-min-0022500677
+0022500678,2026-01-28,"[""GSW"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/gsw-vs-uta-0022500678
+0022500679,2026-01-28,"[""HOU"", ""SAS""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-sas-0022500679
+0022500680,2026-01-29,"[""PHI"", ""SAC""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/phi-vs-sac-0022500680
+0022500681,2026-01-29,"[""MIL"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/mil-vs-was-0022500681
+0022500682,2026-01-29,"[""ATL"", ""HOU""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-hou-0022500682
+0022500683,2026-01-29,"[""CHA"", ""DAL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/cha-vs-dal-0022500683
+0022500684,2026-01-29,"[""BKN"", ""DEN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/bkn-vs-den-0022500684
+0022500685,2026-01-29,"[""DET"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/det-vs-phx-0022500685
+0022500686,2026-01-29,"[""MIN"", ""OKC""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-okc-0022500686
+0022500687,2026-01-30,"[""ORL"", ""TOR""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/orl-vs-tor-0022500687
+0022500688,2026-01-30,"[""LAL"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/lal-vs-was-0022500688
+0022500689,2026-01-30,"[""BOS"", ""SAC""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-sac-0022500689
+0022500690,2026-01-30,"[""NYK"", ""POR""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-por-0022500690
+0022500691,2026-01-30,"[""MEM"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/mem-vs-nop-0022500691
+0022500692,2026-01-31,"[""CHI"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/chi-vs-mia-0022500692
+0022500693,2026-01-30,"[""CLE"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/cle-vs-phx-0022500693
+0022500694,2026-01-30,"[""BKN"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/bkn-vs-uta-0022500694
+0022500695,2026-01-30,"[""DEN"", ""LAC""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-lac-0022500695
+0022500696,2026-01-30,"[""DET"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/det-vs-gsw-0022500696
+0022500697,2026-01-31,"[""CHA"", ""SAS""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-sas-0022500697
+0022500698,2026-01-31,"[""ATL"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/atl-vs-ind-0022500698
+0022500699,2026-01-31,"[""NOP"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/nop-vs-phi-0022500699
+0022500700,2026-01-31,"[""MEM"", ""MIN""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-min-0022500700
+0022500701,2026-01-31,"[""DAL"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/dal-vs-hou-0022500701
+0022500702,2026-02-01,"[""BOS"", ""MIL""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-mil-0022500702
+0022500703,2026-02-01,"[""ORL"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/orl-vs-sas-0022500703
+0022500704,2026-02-01,"[""BKN"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/bkn-vs-det-0022500704
+0022500705,2026-02-01,"[""CHI"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/chi-vs-mia-0022500705
+0022500706,2026-02-01,"[""TOR"", ""UTA""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/tor-vs-uta-0022500706
+0022500707,2026-02-01,"[""SAC"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/sac-vs-was-0022500707
+0022500708,2026-02-01,"[""LAL"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/lal-vs-nyk-0022500708
+0022500709,2026-02-01,"[""LAC"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/lac-vs-phx-0022500709
+0022500710,2026-02-01,"[""CLE"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/cle-vs-por-0022500710
+0022500711,2026-02-01,"[""DEN"", ""OKC""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-okc-0022500711
+0022500712,2026-02-02,"[""CHA"", ""NOP""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-nop-0022500712
+0022500713,2026-02-02,"[""HOU"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/hou-vs-ind-0022500713
+0022500714,2026-02-02,"[""MEM"", ""MIN""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-min-0022500714
+0022500715,2026-02-02,"[""LAC"", ""PHI""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-phi-0022500715
+0022500716,2026-02-03,"[""DEN"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/den-vs-det-0022500716
+0022500717,2026-02-03,"[""IND"", ""UTA""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-uta-0022500717
+0022500718,2026-02-03,"[""NYK"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/nyk-vs-was-0022500718
+0022500719,2026-02-03,"[""BKN"", ""LAL""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-lal-0022500719
+0022500720,2026-02-03,"[""ATL"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/atl-vs-mia-0022500720
+0022500721,2026-02-03,"[""BOS"", ""DAL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/bos-vs-dal-0022500721
+0022500722,2026-02-03,"[""CHI"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/chi-vs-mil-0022500722
+0022500723,2026-02-03,"[""OKC"", ""ORL""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-orl-0022500723
+0022500724,2026-02-03,"[""GSW"", ""PHI""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-phi-0022500724
+0022500725,2026-02-03,"[""PHX"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/phx-vs-por-0022500725
+0022500726,2026-02-04,"[""DEN"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/den-vs-nyk-0022500726
+0022500727,2026-02-04,"[""MIN"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/min-vs-tor-0022500727
+0022500728,2026-02-04,"[""BOS"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/bos-vs-hou-0022500728
+0022500729,2026-02-04,"[""MIL"", ""NOP""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-nop-0022500729
+0022500730,2026-02-04,"[""OKC"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/okc-vs-sas-0022500730
+0022500731,2026-02-04,"[""MEM"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/mem-vs-sac-0022500731
+0022500732,2026-02-04,"[""CLE"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/cle-vs-lac-0022500732
+0022500733,2026-02-05,"[""DET"", ""WAS""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-was-0022500733
+0022500734,2026-02-05,"[""BKN"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/bkn-vs-orl-0022500734
+0022500735,2026-02-05,"[""ATL"", ""UTA""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-uta-0022500735
+0022500736,2026-02-05,"[""CHI"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/chi-vs-tor-0022500736
+0022500737,2026-02-05,"[""CHA"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/cha-vs-hou-0022500737
+0022500738,2026-02-05,"[""DAL"", ""SAS""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-sas-0022500738
+0022500739,2026-02-05,"[""GSW"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/gsw-vs-phx-0022500739
+0022500740,2026-02-05,"[""LAL"", ""PHI""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-phi-0022500740
+0022500741,2026-02-06,"[""BOS"", ""MIA""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-mia-0022500741
+0022500742,2026-02-06,"[""DET"", ""NYK""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-nyk-0022500742
+0022500743,2026-02-06,"[""IND"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/ind-vs-mil-0022500743
+0022500744,2026-02-06,"[""MIN"", ""NOP""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-nop-0022500744
+0022500745,2026-02-06,"[""MEM"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/mem-vs-por-0022500745
+0022500746,2026-02-06,"[""LAC"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/lac-vs-sac-0022500746
+0022500747,2026-02-07,"[""BKN"", ""WAS""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-was-0022500747
+0022500748,2026-02-07,"[""HOU"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/hou-vs-okc-0022500748
+0022500749,2026-02-07,"[""DAL"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/dal-vs-sas-0022500749
+0022500750,2026-02-07,"[""ORL"", ""UTA""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/orl-vs-uta-0022500750
+0022500751,2026-02-07,"[""ATL"", ""CHA""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-cha-0022500751
+0022500752,2026-02-07,"[""CHI"", ""DEN""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-den-0022500752
+0022500753,2026-02-07,"[""GSW"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/gsw-vs-lal-0022500753
+0022500754,2026-02-07,"[""PHI"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phi-vs-phx-0022500754
+0022500755,2026-02-07,"[""MEM"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/mem-vs-por-0022500755
+0022500756,2026-02-07,"[""CLE"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/cle-vs-sac-0022500756
+0022500757,2026-02-08,"[""BOS"", ""NYK""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-nyk-0022500757
+0022500758,2026-02-08,"[""MIA"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/mia-vs-was-0022500758
+0022500759,2026-02-08,"[""IND"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/ind-vs-tor-0022500759
+0022500760,2026-02-08,"[""LAC"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/lac-vs-min-0022500760
+0022500761,2026-02-09,"[""CHA"", ""DET""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-det-0022500761
+0022500762,2026-02-09,"[""BKN"", ""CHI""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-chi-0022500762
+0022500763,2026-02-09,"[""MIA"", ""UTA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-uta-0022500763
+0022500764,2026-02-09,"[""MIL"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/mil-vs-orl-0022500764
+0022500765,2026-02-09,"[""ATL"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/atl-vs-min-0022500765
+0022500766,2026-02-09,"[""NOP"", ""SAC""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-sac-0022500766
+0022500767,2026-02-09,"[""CLE"", ""DEN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/cle-vs-den-0022500767
+0022500768,2026-02-09,"[""GSW"", ""MEM""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-mem-0022500768
+0022500769,2026-02-09,"[""LAL"", ""OKC""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-okc-0022500769
+0022500770,2026-02-09,"[""PHI"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/phi-vs-por-0022500770
+0022500771,2026-02-10,"[""IND"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/ind-vs-nyk-0022500771
+0022500772,2026-02-10,"[""HOU"", ""LAC""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-lac-0022500772
+0022500773,2026-02-10,"[""DAL"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/dal-vs-phx-0022500773
+0022500774,2026-02-10,"[""LAL"", ""SAS""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-sas-0022500774
+0022500775,2026-02-11,"[""ATL"", ""CHA""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/atl-vs-cha-0022500775
+0022500776,2026-02-11,"[""CLE"", ""WAS""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-was-0022500776
+0022500777,2026-02-11,"[""MIL"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/mil-vs-orl-0022500777
+0022500778,2026-02-11,"[""BOS"", ""CHI""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-chi-0022500778
+0022500779,2026-02-11,"[""BKN"", ""IND""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-ind-0022500779
+0022500780,2026-02-11,"[""NYK"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/nyk-vs-phi-0022500780
+0022500781,2026-02-11,"[""DET"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/det-vs-tor-0022500781
+0022500782,2026-02-11,"[""HOU"", ""LAC""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-lac-0022500782
+0022500783,2026-02-11,"[""MIN"", ""POR""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-por-0022500783
+0022500784,2026-02-11,"[""MIA"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/mia-vs-nop-0022500784
+0022500785,2026-02-11,"[""OKC"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/okc-vs-phx-0022500785
+0022500786,2026-02-11,"[""SAC"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/sac-vs-uta-0022500786
+0022500787,2026-02-11,"[""DEN"", ""MEM""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-mem-0022500787
+0022500788,2026-02-11,"[""GSW"", ""SAS""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-sas-0022500788
+0022500789,2026-02-12,"[""MIL"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/mil-vs-okc-0022500789
+0022500790,2026-02-12,"[""POR"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/por-vs-uta-0022500790
+0022500791,2026-02-12,"[""DAL"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/dal-vs-lal-0022500791
+0022500792,2026-02-19,"[""CHA"", ""HOU""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-hou-0022500792
+0022500793,2026-02-19,"[""BKN"", ""CLE""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/bkn-vs-cle-0022500793
+0022500794,2026-02-19,"[""ATL"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/atl-vs-phi-0022500794
+0022500795,2026-02-19,"[""IND"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/ind-vs-was-0022500795
+0022500796,2026-02-19,"[""DET"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/det-vs-nyk-0022500796
+0022500797,2026-02-19,"[""CHI"", ""TOR""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-tor-0022500797
+0022500798,2026-02-19,"[""PHX"", ""SAS""]","Moody Center, Austin, US",SAS,False,official_game_page,https://www.nba.com/game/phx-vs-sas-0022500798
+0022500799,2026-02-19,"[""BOS"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/bos-vs-gsw-0022500799
+0022500800,2026-02-19,"[""ORL"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/orl-vs-sac-0022500800
+0022500801,2026-02-19,"[""DEN"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/den-vs-lac-0022500801
+0022500802,2026-02-20,"[""CHA"", ""CLE""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-cle-0022500802
+0022500803,2026-02-20,"[""IND"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/ind-vs-was-0022500803
+0022500804,2026-02-20,"[""MEM"", ""UTA""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-uta-0022500804
+0022500805,2026-02-20,"[""ATL"", ""MIA""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-mia-0022500805
+0022500806,2026-02-20,"[""DAL"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/dal-vs-min-0022500806
+0022500807,2026-02-20,"[""MIL"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/mil-vs-nop-0022500807
+0022500808,2026-02-20,"[""BKN"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/bkn-vs-okc-0022500808
+0022500809,2026-02-20,"[""LAC"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lac-vs-lal-0022500809
+0022500810,2026-02-20,"[""DEN"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/den-vs-por-0022500810
+0022500811,2026-02-21,"[""ORL"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/orl-vs-phx-0022500811
+0022500812,2026-02-21,"[""NOP"", ""PHI""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-phi-0022500812
+0022500813,2026-02-21,"[""MEM"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mem-vs-mia-0022500813
+0022500814,2026-02-21,"[""CHI"", ""DET""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-det-0022500814
+0022500815,2026-02-21,"[""SAC"", ""SAS""]","Moody Center, Austin, US",SAS,False,official_game_page,https://www.nba.com/game/sac-vs-sas-0022500815
+0022500816,2026-02-21,"[""HOU"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/hou-vs-nyk-0022500816
+0022500817,2026-02-22,"[""CLE"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/cle-vs-okc-0022500817
+0022500818,2026-02-22,"[""ATL"", ""BKN""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-bkn-0022500818
+0022500819,2026-02-22,"[""MIL"", ""TOR""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-tor-0022500819
+0022500820,2026-02-22,"[""DEN"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/den-vs-gsw-0022500820
+0022500821,2026-02-22,"[""DAL"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/dal-vs-ind-0022500821
+0022500822,2026-02-22,"[""CHA"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/cha-vs-was-0022500822
+0022500823,2026-02-22,"[""BOS"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/bos-vs-lal-0022500823
+0022500824,2026-02-22,"[""MIN"", ""PHI""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-phi-0022500824
+0022500825,2026-02-22,"[""CHI"", ""NYK""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-nyk-0022500825
+0022500826,2026-02-22,"[""PHX"", ""POR""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phx-vs-por-0022500826
+0022500827,2026-02-22,"[""LAC"", ""ORL""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-orl-0022500827
+0022500828,2026-02-23,"[""DET"", ""SAS""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-sas-0022500828
+0022500829,2026-02-23,"[""MEM"", ""SAC""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-sac-0022500829
+0022500830,2026-02-23,"[""HOU"", ""UTA""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-uta-0022500830
+0022500831,2026-02-24,"[""IND"", ""PHI""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-phi-0022500831
+0022500832,2026-02-24,"[""ATL"", ""WAS""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-was-0022500832
+0022500833,2026-02-24,"[""BKN"", ""DAL""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-dal-0022500833
+0022500834,2026-02-24,"[""OKC"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/okc-vs-tor-0022500834
+0022500835,2026-02-24,"[""CLE"", ""NYK""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-nyk-0022500835
+0022500836,2026-02-24,"[""CHA"", ""CHI""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/cha-vs-chi-0022500836
+0022500837,2026-02-24,"[""MIA"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mia-vs-mil-0022500837
+0022500838,2026-02-24,"[""GSW"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/gsw-vs-nop-0022500838
+0022500839,2026-02-24,"[""BOS"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/bos-vs-phx-0022500839
+0022500840,2026-02-24,"[""LAL"", ""ORL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-orl-0022500840
+0022500841,2026-02-24,"[""MIN"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/min-vs-por-0022500841
+0022500842,2026-02-25,"[""DET"", ""OKC""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-okc-0022500842
+0022500843,2026-02-25,"[""SAS"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/sas-vs-tor-0022500843
+0022500844,2026-02-25,"[""GSW"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/gsw-vs-mem-0022500844
+0022500845,2026-02-25,"[""HOU"", ""SAC""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-sac-0022500845
+0022500846,2026-02-25,"[""CLE"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/cle-vs-mil-0022500846
+0022500847,2026-02-25,"[""BOS"", ""DEN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/bos-vs-den-0022500847
+0022500848,2026-02-26,"[""CHA"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/cha-vs-ind-0022500848
+0022500849,2026-02-26,"[""MIA"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/mia-vs-phi-0022500849
+0022500850,2026-02-26,"[""ATL"", ""WAS""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-was-0022500850
+0022500851,2026-02-26,"[""BKN"", ""SAS""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-sas-0022500851
+0022500852,2026-02-26,"[""HOU"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/hou-vs-orl-0022500852
+0022500853,2026-02-26,"[""CHI"", ""POR""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-por-0022500853
+0022500854,2026-02-26,"[""DAL"", ""SAC""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-sac-0022500854
+0022500855,2026-02-26,"[""LAL"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/lal-vs-phx-0022500855
+0022500856,2026-02-26,"[""NOP"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/nop-vs-uta-0022500856
+0022500857,2026-02-26,"[""LAC"", ""MIN""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-min-0022500857
+0022500858,2026-02-27,"[""CLE"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/cle-vs-det-0022500858
+0022500859,2026-02-27,"[""BKN"", ""BOS""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bkn-vs-bos-0022500859
+0022500860,2026-02-27,"[""MIL"", ""NYK""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-nyk-0022500860
+0022500861,2026-02-27,"[""DAL"", ""MEM""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-mem-0022500861
+0022500862,2026-02-27,"[""DEN"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/den-vs-okc-0022500862
+0022500863,2026-02-28,"[""CHA"", ""POR""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-por-0022500863
+0022500864,2026-02-28,"[""HOU"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/hou-vs-mia-0022500864
+0022500865,2026-02-28,"[""TOR"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/tor-vs-was-0022500865
+0022500866,2026-02-28,"[""GSW"", ""LAL""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-lal-0022500866
+0022500867,2026-02-28,"[""NOP"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/nop-vs-uta-0022500867
+0022500868,2026-03-01,"[""NYK"", ""SAS""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-sas-0022500868
+0022500869,2026-03-01,"[""BKN"", ""CLE""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-cle-0022500869
+0022500870,2026-03-01,"[""CHI"", ""MIL""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-mil-0022500870
+0022500871,2026-03-01,"[""DEN"", ""MIN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-min-0022500871
+0022500872,2026-03-01,"[""IND"", ""MEM""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-mem-0022500872
+0022500873,2026-03-01,"[""ATL"", ""POR""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-por-0022500873
+0022500874,2026-03-01,"[""BOS"", ""PHI""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-phi-0022500874
+0022500875,2026-03-01,"[""DET"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/det-vs-orl-0022500875
+0022500876,2026-03-01,"[""DAL"", ""OKC""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-okc-0022500876
+0022500877,2026-03-01,"[""LAC"", ""NOP""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-nop-0022500877
+0022500878,2026-03-01,"[""LAL"", ""SAC""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-sac-0022500878
+0022500879,2026-03-02,"[""HOU"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/hou-vs-was-0022500879
+0022500880,2026-03-02,"[""BOS"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/bos-vs-mil-0022500880
+0022500881,2026-03-02,"[""DEN"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/den-vs-uta-0022500881
+0022500882,2026-03-02,"[""GSW"", ""LAC""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-lac-0022500882
+0022500883,2026-03-03,"[""CHA"", ""DAL""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-dal-0022500883
+0022500884,2026-03-03,"[""CLE"", ""DET""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-det-0022500884
+0022500885,2026-03-03,"[""ORL"", ""WAS""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/orl-vs-was-0022500885
+0022500886,2026-03-03,"[""BKN"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/bkn-vs-mia-0022500886
+0022500887,2026-03-03,"[""NYK"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/nyk-vs-tor-0022500887
+0022500888,2026-03-03,"[""PHI"", ""SAS""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/phi-vs-sas-0022500888
+0022500889,2026-03-03,"[""CHI"", ""OKC""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-okc-0022500889
+0022500890,2026-03-03,"[""MEM"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/mem-vs-min-0022500890
+0022500891,2026-03-03,"[""LAL"", ""NOP""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-nop-0022500891
+0022500892,2026-03-03,"[""PHX"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/phx-vs-sac-0022500892
+0022500893,2026-03-04,"[""NYK"", ""OKC""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-okc-0022500893
+0022500894,2026-03-04,"[""BOS"", ""CHA""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-cha-0022500894
+0022500895,2026-03-04,"[""PHI"", ""UTA""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/phi-vs-uta-0022500895
+0022500896,2026-03-04,"[""MEM"", ""POR""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-por-0022500896
+0022500897,2026-03-04,"[""ATL"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/atl-vs-mil-0022500897
+0022500898,2026-03-04,"[""IND"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/ind-vs-lac-0022500898
+0022500899,2026-03-05,"[""DAL"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/dal-vs-orl-0022500899
+0022500900,2026-03-05,"[""UTA"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/uta-vs-was-0022500900
+0022500901,2026-03-05,"[""BKN"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/bkn-vs-mia-0022500901
+0022500902,2026-03-05,"[""GSW"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/gsw-vs-hou-0022500902
+0022500903,2026-03-05,"[""MIN"", ""TOR""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-tor-0022500903
+0022500904,2026-03-05,"[""DET"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/det-vs-sas-0022500904
+0022500905,2026-03-05,"[""CHI"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/chi-vs-phx-0022500905
+0022500906,2026-03-05,"[""DEN"", ""LAL""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-lal-0022500906
+0022500907,2026-03-05,"[""NOP"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/nop-vs-sac-0022500907
+0022500908,2026-03-06,"[""BOS"", ""DAL""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-dal-0022500908
+0022500909,2026-03-06,"[""CHA"", ""MIA""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-mia-0022500909
+0022500910,2026-03-06,"[""HOU"", ""POR""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-por-0022500910
+0022500911,2026-03-06,"[""DEN"", ""NYK""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-nyk-0022500911
+0022500912,2026-03-06,"[""NOP"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/nop-vs-phx-0022500912
+0022500913,2026-03-06,"[""LAC"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/lac-vs-sas-0022500913
+0022500914,2026-03-06,"[""IND"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/ind-vs-lal-0022500914
+0022500915,2026-03-07,"[""MIN"", ""ORL""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-orl-0022500915
+0022500916,2026-03-07,"[""BKN"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/bkn-vs-det-0022500916
+0022500917,2026-03-07,"[""ATL"", ""PHI""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-phi-0022500917
+0022500918,2026-03-07,"[""LAC"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/lac-vs-mem-0022500918
+0022500919,2026-03-07,"[""MIL"", ""UTA""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-uta-0022500919
+0022500920,2026-03-07,"[""GSW"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/gsw-vs-okc-0022500920
+0022500921,2026-03-08,"[""BOS"", ""CLE""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/bos-vs-cle-0022500921
+0022500922,2026-03-08,"[""LAL"", ""NYK""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-nyk-0022500922
+0022500923,2026-03-08,"[""DET"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/det-vs-mia-0022500923
+0022500924,2026-03-08,"[""DAL"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/dal-vs-tor-0022500924
+0022500925,2026-03-08,"[""NOP"", ""WAS""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-was-0022500925
+0022500926,2026-03-08,"[""MIL"", ""ORL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-orl-0022500926
+0022500927,2026-03-08,"[""HOU"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/hou-vs-sas-0022500927
+0022500928,2026-03-08,"[""CHA"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/cha-vs-phx-0022500928
+0022500929,2026-03-08,"[""IND"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/ind-vs-por-0022500929
+0022500930,2026-03-08,"[""CHI"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/chi-vs-sac-0022500930
+0022500931,2026-03-09,"[""CLE"", ""PHI""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-phi-0022500931
+0022500932,2026-03-09,"[""BKN"", ""MEM""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-mem-0022500932
+0022500933,2026-03-09,"[""DEN"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/den-vs-okc-0022500933
+0022500934,2026-03-09,"[""GSW"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/gsw-vs-uta-0022500934
+0022500935,2026-03-09,"[""LAC"", ""NYK""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-nyk-0022500935
+0022500936,2026-03-10,"[""MEM"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/mem-vs-phi-0022500936
+0022500937,2026-03-10,"[""BKN"", ""DET""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-det-0022500937
+0022500938,2026-03-10,"[""MIA"", ""WAS""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-was-0022500938
+0022500939,2026-03-10,"[""ATL"", ""DAL""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-dal-0022500939
+0022500940,2026-03-10,"[""HOU"", ""TOR""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-tor-0022500940
+0022500941,2026-03-10,"[""MIL"", ""PHX""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-phx-0022500941
+0022500942,2026-03-10,"[""BOS"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/bos-vs-sas-0022500942
+0022500943,2026-03-10,"[""CHI"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/chi-vs-gsw-0022500943
+0022500944,2026-03-10,"[""CHA"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/cha-vs-por-0022500944
+0022500945,2026-03-10,"[""IND"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/ind-vs-sac-0022500945
+0022500946,2026-03-10,"[""LAL"", ""MIN""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-min-0022500946
+0022500947,2026-03-11,"[""CLE"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/cle-vs-orl-0022500947
+0022500948,2026-03-11,"[""NOP"", ""TOR""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-tor-0022500948
+0022500949,2026-03-11,"[""NYK"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/nyk-vs-uta-0022500949
+0022500950,2026-03-11,"[""DEN"", ""HOU""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-hou-0022500950
+0022500951,2026-03-11,"[""CHA"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/cha-vs-sac-0022500951
+0022500952,2026-03-11,"[""LAC"", ""MIN""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-min-0022500952
+0022500953,2026-03-12,"[""DET"", ""PHI""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-phi-0022500953
+0022500954,2026-03-12,"[""IND"", ""PHX""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-phx-0022500954
+0022500955,2026-03-12,"[""ORL"", ""WAS""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/orl-vs-was-0022500955
+0022500956,2026-03-12,"[""ATL"", ""BKN""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-bkn-0022500956
+0022500957,2026-03-12,"[""MIA"", ""MIL""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-mil-0022500957
+0022500958,2026-03-12,"[""DEN"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/den-vs-sas-0022500958
+0022500959,2026-03-12,"[""BOS"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/bos-vs-okc-0022500959
+0022500960,2026-03-12,"[""CHI"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/chi-vs-lal-0022500960
+0022500961,2026-03-13,"[""DET"", ""MEM""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-mem-0022500961
+0022500962,2026-03-13,"[""IND"", ""NYK""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-nyk-0022500962
+0022500963,2026-03-13,"[""PHX"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/phx-vs-tor-0022500963
+0022500964,2026-03-13,"[""HOU"", ""NOP""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-nop-0022500964
+0022500965,2026-03-13,"[""CLE"", ""DAL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/cle-vs-dal-0022500965
+0022500966,2026-03-13,"[""GSW"", ""MIN""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-min-0022500966
+0022500967,2026-03-13,"[""POR"", ""UTA""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/por-vs-uta-0022500967
+0022500968,2026-03-13,"[""CHI"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/chi-vs-lac-0022500968
+0022500969,2026-03-14,"[""BKN"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/bkn-vs-phi-0022500969
+0022500970,2026-03-14,"[""ATL"", ""MIL""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-mil-0022500970
+0022500971,2026-03-14,"[""BOS"", ""WAS""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-was-0022500971
+0022500972,2026-03-14,"[""MIA"", ""ORL""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-orl-0022500972
+0022500973,2026-03-14,"[""CHA"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/cha-vs-sas-0022500973
+0022500974,2026-03-14,"[""DEN"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/den-vs-lal-0022500974
+0022500975,2026-03-14,"[""LAC"", ""SAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-sac-0022500975
+0022500976,2026-03-15,"[""MIN"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/min-vs-okc-0022500976
+0022500977,2026-03-15,"[""CLE"", ""DAL""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-dal-0022500977
+0022500978,2026-03-15,"[""DET"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/det-vs-tor-0022500978
+0022500979,2026-03-15,"[""IND"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/ind-vs-mil-0022500979
+0022500980,2026-03-15,"[""PHI"", ""POR""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/phi-vs-por-0022500980
+0022500981,2026-03-15,"[""GSW"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/gsw-vs-nyk-0022500981
+0022500982,2026-03-15,"[""SAC"", ""UTA""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/sac-vs-uta-0022500982
+0022500983,2026-03-16,"[""ATL"", ""ORL""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-orl-0022500983
+0022500984,2026-03-16,"[""GSW"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/gsw-vs-was-0022500984
+0022500985,2026-03-16,"[""BKN"", ""POR""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-por-0022500985
+0022500986,2026-03-16,"[""BOS"", ""PHX""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-phx-0022500986
+0022500987,2026-03-16,"[""CHI"", ""MEM""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-mem-0022500987
+0022500988,2026-03-16,"[""DAL"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/dal-vs-nop-0022500988
+0022500989,2026-03-16,"[""HOU"", ""LAL""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-lal-0022500989
+0022500990,2026-03-16,"[""LAC"", ""SAS""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-sas-0022500990
+0022500991,2026-03-17,"[""CHA"", ""MIA""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-mia-0022500991
+0022500992,2026-03-17,"[""OKC"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/okc-vs-orl-0022500992
+0022500993,2026-03-17,"[""DET"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/det-vs-was-0022500993
+0022500994,2026-03-17,"[""IND"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/ind-vs-nyk-0022500994
+0022500995,2026-03-17,"[""CLE"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/cle-vs-mil-0022500995
+0022500996,2026-03-17,"[""MIN"", ""PHX""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-phx-0022500996
+0022500997,2026-03-17,"[""DEN"", ""PHI""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-phi-0022500997
+0022500998,2026-03-17,"[""SAC"", ""SAS""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/sac-vs-sas-0022500998
+0022500999,2026-03-18,"[""BOS"", ""GSW""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-gsw-0022500999
+0022501000,2026-03-18,"[""BKN"", ""OKC""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-okc-0022501000
+0022501001,2026-03-18,"[""IND"", ""POR""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-por-0022501001
+0022501002,2026-03-18,"[""CHI"", ""TOR""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-tor-0022501002
+0022501003,2026-04-01,"[""MEM"", ""NYK""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-nyk-0022501003
+0022501004,2026-03-18,"[""MIN"", ""UTA""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-uta-0022501004
+0022501005,2026-03-18,"[""LAC"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/lac-vs-nop-0022501005
+0022501006,2026-03-18,"[""ATL"", ""DAL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/atl-vs-dal-0022501006
+0022501007,2026-03-18,"[""HOU"", ""LAL""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-lal-0022501007
+0022501008,2026-03-19,"[""CHA"", ""ORL""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-orl-0022501008
+0022501009,2026-03-19,"[""DET"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/det-vs-was-0022501009
+0022501010,2026-03-19,"[""LAL"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/lal-vs-mia-0022501010
+0022501011,2026-03-19,"[""CHI"", ""CLE""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-cle-0022501011
+0022501012,2026-03-19,"[""LAC"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/lac-vs-nop-0022501012
+0022501013,2026-03-19,"[""PHX"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/phx-vs-sas-0022501013
+0022501014,2026-03-19,"[""MIL"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/mil-vs-uta-0022501014
+0022501015,2026-03-19,"[""PHI"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/phi-vs-sac-0022501015
+0022501016,2026-03-20,"[""BKN"", ""NYK""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-nyk-0022501016
+0022501017,2026-03-20,"[""DET"", ""GSW""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-gsw-0022501017
+0022501018,2026-03-20,"[""ATL"", ""HOU""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/atl-vs-hou-0022501018
+0022501019,2026-03-20,"[""BOS"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/bos-vs-mem-0022501019
+0022501020,2026-03-20,"[""MIN"", ""POR""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-por-0022501020
+0022501021,2026-03-20,"[""DEN"", ""TOR""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-tor-0022501021
+0022501022,2026-03-21,"[""OKC"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/okc-vs-was-0022501022
+0022501023,2026-03-21,"[""CHA"", ""MEM""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-mem-0022501023
+0022501024,2026-03-21,"[""LAL"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/lal-vs-orl-0022501024
+0022501025,2026-03-21,"[""CLE"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/cle-vs-nop-0022501025
+0022501026,2026-03-21,"[""ATL"", ""GSW""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-gsw-0022501026
+0022501027,2026-03-21,"[""HOU"", ""MIA""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-mia-0022501027
+0022501028,2026-03-21,"[""IND"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/ind-vs-sas-0022501028
+0022501029,2026-03-21,"[""DAL"", ""LAC""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-lac-0022501029
+0022501030,2026-03-21,"[""PHI"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/phi-vs-uta-0022501030
+0022501031,2026-03-21,"[""MIL"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/mil-vs-phx-0022501031
+0022501032,2026-03-22,"[""DEN"", ""POR""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-por-0022501032
+0022501033,2026-03-22,"[""BKN"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/bkn-vs-sac-0022501033
+0022501034,2026-03-22,"[""NYK"", ""WAS""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-was-0022501034
+0022501035,2026-03-22,"[""BOS"", ""MIN""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-min-0022501035
+0022501036,2026-03-22,"[""PHX"", ""TOR""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phx-vs-tor-0022501036
+0022501037,2026-03-23,"[""ATL"", ""MEM""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-mem-0022501037
+0022501038,2026-03-23,"[""DET"", ""LAL""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-lal-0022501038
+0022501039,2026-03-23,"[""IND"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/ind-vs-orl-0022501039
+0022501040,2026-03-23,"[""OKC"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/okc-vs-phi-0022501040
+0022501041,2026-03-23,"[""MIA"", ""SAS""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-sas-0022501041
+0022501042,2026-03-23,"[""CHI"", ""HOU""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-hou-0022501042
+0022501043,2026-03-23,"[""TOR"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/tor-vs-uta-0022501043
+0022501044,2026-03-23,"[""DAL"", ""GSW""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-gsw-0022501044
+0022501045,2026-03-23,"[""BKN"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/bkn-vs-por-0022501045
+0022501046,2026-03-23,"[""LAC"", ""MIL""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-mil-0022501046
+0022501047,2026-03-24,"[""CHA"", ""SAC""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-sac-0022501047
+0022501048,2026-03-24,"[""NOP"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nop-vs-nyk-0022501048
+0022501049,2026-03-24,"[""CLE"", ""ORL""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-orl-0022501049
+0022501050,2026-03-24,"[""DEN"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/den-vs-phx-0022501050
+0022501051,2026-03-25,"[""ATL"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/atl-vs-det-0022501051
+0022501052,2026-03-25,"[""IND"", ""LAL""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-lal-0022501052
+0022501053,2026-03-25,"[""CHI"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/chi-vs-phi-0022501053
+0022501054,2026-03-25,"[""BOS"", ""OKC""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-okc-0022501054
+0022501055,2026-03-25,"[""CLE"", ""MIA""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-mia-0022501055
+0022501056,2026-03-25,"[""MEM"", ""SAS""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-sas-0022501056
+0022501057,2026-03-25,"[""UTA"", ""WAS""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/uta-vs-was-0022501057
+0022501058,2026-03-25,"[""HOU"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/hou-vs-min-0022501058
+0022501059,2026-03-25,"[""DAL"", ""DEN""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/dal-vs-den-0022501059
+0022501060,2026-03-25,"[""BKN"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/bkn-vs-gsw-0022501060
+0022501061,2026-03-25,"[""MIL"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/mil-vs-por-0022501061
+0022501062,2026-03-25,"[""LAC"", ""TOR""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-tor-0022501062
+0022501063,2026-03-26,"[""CHA"", ""NYK""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-nyk-0022501063
+0022501064,2026-03-26,"[""DET"", ""NOP""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-nop-0022501064
+0022501065,2026-03-26,"[""ORL"", ""SAC""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/orl-vs-sac-0022501065
+0022501066,2026-03-27,"[""IND"", ""LAC""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-lac-0022501066
+0022501067,2026-03-27,"[""ATL"", ""BOS""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/atl-vs-bos-0022501067
+0022501068,2026-03-27,"[""CLE"", ""MIA""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-mia-0022501068
+0022501069,2026-03-27,"[""HOU"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/hou-vs-mem-0022501069
+0022501070,2026-03-27,"[""CHI"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/chi-vs-okc-0022501070
+0022501071,2026-03-27,"[""NOP"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/nop-vs-tor-0022501071
+0022501072,2026-03-27,"[""DEN"", ""UTA""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-uta-0022501072
+0022501073,2026-03-27,"[""GSW"", ""WAS""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-was-0022501073
+0022501074,2026-03-27,"[""DAL"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/dal-vs-por-0022501074
+0022501075,2026-03-27,"[""BKN"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/bkn-vs-lal-0022501075
+0022501076,2026-03-28,"[""MIL"", ""SAS""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mil-vs-sas-0022501076
+0022501077,2026-03-28,"[""CHA"", ""PHI""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-phi-0022501077
+0022501078,2026-03-28,"[""ATL"", ""SAC""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-sac-0022501078
+0022501079,2026-03-28,"[""CHI"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/chi-vs-mem-0022501079
+0022501080,2026-03-28,"[""DET"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/det-vs-min-0022501080
+0022501081,2026-03-28,"[""PHX"", ""UTA""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/phx-vs-uta-0022501081
+0022501082,2026-03-29,"[""LAC"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/lac-vs-mil-0022501082
+0022501083,2026-03-29,"[""IND"", ""MIA""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-mia-0022501083
+0022501084,2026-03-29,"[""BKN"", ""SAC""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-sac-0022501084
+0022501085,2026-03-29,"[""BOS"", ""CHA""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/bos-vs-cha-0022501085
+0022501086,2026-03-29,"[""ORL"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/orl-vs-tor-0022501086
+0022501087,2026-03-29,"[""POR"", ""WAS""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/por-vs-was-0022501087
+0022501088,2026-03-29,"[""HOU"", ""NOP""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/hou-vs-nop-0022501088
+0022501089,2026-03-29,"[""NYK"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/nyk-vs-okc-0022501089
+0022501090,2026-03-29,"[""DEN"", ""GSW""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-gsw-0022501090
+0022501091,2026-03-30,"[""MIA"", ""PHI""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-phi-0022501091
+0022501092,2026-03-30,"[""ATL"", ""BOS""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-bos-0022501092
+0022501093,2026-03-30,"[""MEM"", ""PHX""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-phx-0022501093
+0022501094,2026-03-30,"[""CHI"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/chi-vs-sas-0022501094
+0022501095,2026-03-30,"[""DAL"", ""MIN""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-min-0022501095
+0022501096,2026-03-30,"[""CLE"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/cle-vs-uta-0022501096
+0022501097,2026-03-30,"[""DET"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/det-vs-okc-0022501097
+0022501098,2026-03-30,"[""LAL"", ""WAS""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-was-0022501098
+0022501099,2026-03-31,"[""ORL"", ""PHX""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/orl-vs-phx-0022501099
+0022501100,2026-03-31,"[""BKN"", ""CHA""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-cha-0022501100
+0022501101,2026-03-31,"[""DET"", ""TOR""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-tor-0022501101
+0022501102,2026-03-31,"[""HOU"", ""NYK""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-nyk-0022501102
+0022501103,2026-03-31,"[""CLE"", ""LAL""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/cle-vs-lal-0022501103
+0022501104,2026-03-31,"[""LAC"", ""POR""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-por-0022501104
+0022501105,2026-04-01,"[""PHI"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/phi-vs-was-0022501105
+0022501106,2026-04-01,"[""BOS"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/bos-vs-mia-0022501106
+0022501107,2026-04-01,"[""ATL"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/atl-vs-orl-0022501107
+0022501108,2026-04-01,"[""SAC"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/sac-vs-tor-0022501108
+0022501109,2026-04-01,"[""CHI"", ""IND""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-ind-0022501109
+0022501110,2026-04-01,"[""HOU"", ""MIL""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-mil-0022501110
+0022501111,2026-03-12,"[""DAL"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/dal-vs-mem-0022501111
+0022501112,2026-04-01,"[""DEN"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/den-vs-uta-0022501112
+0022501113,2026-04-01,"[""GSW"", ""SAS""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-sas-0022501113
+0022501114,2026-04-02,"[""CHA"", ""PHX""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-phx-0022501114
+0022501115,2026-04-02,"[""DET"", ""MIN""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-min-0022501115
+0022501116,2026-04-02,"[""LAL"", ""OKC""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/lal-vs-okc-0022501116
+0022501117,2026-04-02,"[""CLE"", ""GSW""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/cle-vs-gsw-0022501117
+0022501118,2026-04-02,"[""NOP"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/nop-vs-por-0022501118
+0022501119,2026-04-02,"[""LAC"", ""SAS""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-sas-0022501119
+0022501120,2026-04-03,"[""CHA"", ""IND""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-ind-0022501120
+0022501121,2026-04-03,"[""MIN"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/min-vs-phi-0022501121
+0022501122,2026-04-03,"[""ATL"", ""BKN""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/atl-vs-bkn-0022501122
+0022501123,2026-04-03,"[""CHI"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/chi-vs-nyk-0022501123
+0022501124,2026-04-03,"[""HOU"", ""UTA""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-uta-0022501124
+0022501125,2026-04-03,"[""MEM"", ""TOR""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-tor-0022501125
+0022501126,2026-04-03,"[""BOS"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/bos-vs-mil-0022501126
+0022501127,2026-04-03,"[""DAL"", ""ORL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-orl-0022501127
+0022501128,2026-04-03,"[""NOP"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/nop-vs-sac-0022501128
+0022501129,2026-04-04,"[""MIA"", ""WAS""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-was-0022501129
+0022501130,2026-04-04,"[""DEN"", ""SAS""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-sas-0022501130
+0022501131,2026-04-04,"[""DET"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/det-vs-phi-0022501131
+0022501132,2026-04-05,"[""BOS"", ""TOR""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-tor-0022501132
+0022501133,2026-04-05,"[""BKN"", ""WAS""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-was-0022501133
+0022501134,2026-04-05,"[""CHI"", ""PHX""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-phx-0022501134
+0022501135,2026-04-05,"[""MEM"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/mem-vs-mil-0022501135
+0022501136,2026-04-05,"[""CLE"", ""IND""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-ind-0022501136
+0022501137,2026-04-05,"[""CHA"", ""MIN""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/cha-vs-min-0022501137
+0022501138,2026-04-05,"[""NOP"", ""ORL""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-orl-0022501138
+0022501139,2026-04-05,"[""OKC"", ""UTA""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-uta-0022501139
+0022501140,2026-04-05,"[""DAL"", ""LAL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/dal-vs-lal-0022501140
+0022501141,2026-04-05,"[""LAC"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/lac-vs-sac-0022501141
+0022501142,2026-04-05,"[""GSW"", ""HOU""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-hou-0022501142
+0022501143,2026-04-06,"[""ATL"", ""NYK""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-nyk-0022501143
+0022501144,2026-04-06,"[""DET"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/det-vs-orl-0022501144
+0022501145,2026-04-06,"[""CLE"", ""MEM""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/cle-vs-mem-0022501145
+0022501146,2026-04-06,"[""PHI"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/phi-vs-sas-0022501146
+0022501147,2026-04-06,"[""DEN"", ""POR""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-por-0022501147
+0022501148,2026-04-07,"[""CHI"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/chi-vs-was-0022501148
+0022501149,2026-04-07,"[""BOS"", ""CHA""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-cha-0022501149
+0022501150,2026-04-07,"[""BKN"", ""MIL""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-mil-0022501150
+0022501151,2026-04-07,"[""MIA"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/mia-vs-tor-0022501151
+0022501152,2026-04-07,"[""IND"", ""MIN""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-min-0022501152
+0022501153,2026-04-07,"[""NOP"", ""UTA""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-uta-0022501153
+0022501154,2026-04-07,"[""GSW"", ""SAC""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-sac-0022501154
+0022501155,2026-04-07,"[""LAL"", ""OKC""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-okc-0022501155
+0022501156,2026-04-07,"[""DAL"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/dal-vs-lac-0022501156
+0022501157,2026-04-07,"[""HOU"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/hou-vs-phx-0022501157
+0022501158,2026-04-08,"[""ATL"", ""CLE""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/atl-vs-cle-0022501158
+0022501159,2026-04-08,"[""MIN"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/min-vs-orl-0022501159
+0022501160,2026-04-08,"[""DET"", ""MIL""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/det-vs-mil-0022501160
+0022501161,2026-04-08,"[""POR"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/por-vs-sas-0022501161
+0022501162,2026-04-08,"[""DEN"", ""MEM""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-mem-0022501162
+0022501163,2026-04-08,"[""LAC"", ""OKC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-okc-0022501163
+0022501164,2026-04-08,"[""DAL"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/dal-vs-phx-0022501164
+0022501165,2026-04-09,"[""MIA"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/mia-vs-tor-0022501165
+0022501166,2026-04-09,"[""CHI"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/chi-vs-was-0022501166
+0022501167,2026-04-09,"[""BKN"", ""IND""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-ind-0022501167
+0022501168,2026-04-09,"[""BOS"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/bos-vs-nyk-0022501168
+0022501169,2026-04-09,"[""HOU"", ""PHI""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-phi-0022501169
+0022501170,2026-04-09,"[""GSW"", ""LAL""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-lal-0022501170
+0022501171,2026-04-10,"[""CHA"", ""DET""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-det-0022501171
+0022501172,2026-04-10,"[""MIA"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/mia-vs-was-0022501172
+0022501173,2026-04-10,"[""ATL"", ""CLE""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-cle-0022501173
+0022501174,2026-04-10,"[""BOS"", ""NOP""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-nop-0022501174
+0022501175,2026-04-10,"[""IND"", ""PHI""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-phi-0022501175
+0022501176,2026-04-10,"[""NYK"", ""TOR""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/nyk-vs-tor-0022501176
+0022501177,2026-04-10,"[""CHI"", ""ORL""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-orl-0022501177
+0022501178,2026-04-10,"[""HOU"", ""MIN""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-min-0022501178
+0022501179,2026-04-10,"[""BKN"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/bkn-vs-mil-0022501179
+0022501180,2026-04-10,"[""DAL"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/dal-vs-sas-0022501180
+0022501181,2026-04-10,"[""MEM"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/mem-vs-uta-0022501181
+0022501182,2026-04-10,"[""DEN"", ""OKC""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-okc-0022501182
+0022501183,2026-04-10,"[""LAC"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/lac-vs-por-0022501183
+0022501184,2026-04-10,"[""GSW"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/gsw-vs-sac-0022501184
+0022501185,2026-04-10,"[""LAL"", ""PHX""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-phx-0022501185
+0022501186,2026-04-12,"[""BOS"", ""ORL""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-orl-0022501186
+0022501187,2026-04-12,"[""CLE"", ""WAS""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cle-vs-was-0022501187
+0022501188,2026-04-12,"[""DET"", ""IND""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/det-vs-ind-0022501188
+0022501189,2026-04-12,"[""ATL"", ""MIA""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/atl-vs-mia-0022501189
+0022501190,2026-04-12,"[""CHA"", ""NYK""]","Madison Square Garden, New York, US",NYK,False,official_game_page,https://www.nba.com/game/cha-vs-nyk-0022501190
+0022501191,2026-04-12,"[""MIL"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/mil-vs-phi-0022501191
+0022501192,2026-04-12,"[""BKN"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/bkn-vs-tor-0022501192
+0022501193,2026-04-12,"[""CHI"", ""DAL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/chi-vs-dal-0022501193
+0022501194,2026-04-12,"[""HOU"", ""MEM""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-mem-0022501194
+0022501195,2026-04-12,"[""MIN"", ""NOP""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-nop-0022501195
+0022501196,2026-04-12,"[""OKC"", ""PHX""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-phx-0022501196
+0022501197,2026-04-12,"[""DEN"", ""SAS""]","Frost Bank Center, San Antonio, US",SAS,False,official_game_page,https://www.nba.com/game/den-vs-sas-0022501197
+0022501198,2026-04-12,"[""LAL"", ""UTA""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-uta-0022501198
+0022501199,2026-04-12,"[""GSW"", ""LAC""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/gsw-vs-lac-0022501199
+0022501200,2026-04-12,"[""POR"", ""SAC""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/por-vs-sac-0022501200
+0022501201,2025-12-09,"[""MIA"", ""ORL""]","Kia Center, Orlando, US",ORL,False,official_game_page,https://www.nba.com/game/mia-vs-orl-0022501201
+0022501202,2025-12-09,"[""NYK"", ""TOR""]","Scotiabank Arena, Toronto, CA",TOR,False,official_game_page,https://www.nba.com/game/nyk-vs-tor-0022501202
+0022501203,2025-12-10,"[""OKC"", ""PHX""]","Paycom Center, Oklahoma City, US",OKC,False,official_game_page,https://www.nba.com/game/okc-vs-phx-0022501203
+0022501204,2025-12-10,"[""LAL"", ""SAS""]","Crypto.com Arena, Los Angeles, US",LAL,False,official_game_page,https://www.nba.com/game/lal-vs-sas-0022501204
+0022501205,2025-12-11,"[""HOU"", ""LAC""]","Toyota Center, Houston, US",HOU,False,official_game_page,https://www.nba.com/game/hou-vs-lac-0022501205
+0022501206,2025-12-11,"[""BOS"", ""MIL""]","Fiserv Forum, Milwaukee, US",MIL,False,official_game_page,https://www.nba.com/game/bos-vs-mil-0022501206
+0022501207,2025-12-11,"[""NOP"", ""POR""]","Smoothie King Center, New Orleans, US",NOP,False,official_game_page,https://www.nba.com/game/nop-vs-por-0022501207
+0022501208,2025-12-11,"[""DEN"", ""SAC""]","Golden 1 Center, Sacramento, US",SAC,False,official_game_page,https://www.nba.com/game/den-vs-sac-0022501208
+0022501209,2025-12-12,"[""CHA"", ""CHI""]","Spectrum Center, Charlotte, US",CHA,False,official_game_page,https://www.nba.com/game/cha-vs-chi-0022501209
+0022501210,2025-12-12,"[""ATL"", ""DET""]","Little Caesars Arena, Detroit, US",DET,False,official_game_page,https://www.nba.com/game/atl-vs-det-0022501210
+0022501211,2025-12-12,"[""IND"", ""PHI""]","Xfinity Mobile Arena, Philadelphia, US",PHI,False,official_game_page,https://www.nba.com/game/ind-vs-phi-0022501211
+0022501212,2025-12-12,"[""CLE"", ""WAS""]","Capital One Arena, Washington, US",WAS,False,official_game_page,https://www.nba.com/game/cle-vs-was-0022501212
+0022501213,2025-12-12,"[""MEM"", ""UTA""]","FedExForum, Memphis, US",MEM,False,official_game_page,https://www.nba.com/game/mem-vs-uta-0022501213
+0022501214,2025-12-12,"[""BKN"", ""DAL""]","American Airlines Center, Dallas, US",DAL,False,official_game_page,https://www.nba.com/game/bkn-vs-dal-0022501214
+0022501215,2025-12-12,"[""GSW"", ""MIN""]","Chase Center, San Francisco, US",GSW,False,official_game_page,https://www.nba.com/game/gsw-vs-min-0022501215
+0022501216,2025-12-14,"[""IND"", ""WAS""]","Gainbridge Fieldhouse, Indianapolis, US",IND,False,official_game_page,https://www.nba.com/game/ind-vs-was-0022501216
+0022501217,2025-12-14,"[""ATL"", ""PHI""]","State Farm Arena, Atlanta, US",ATL,False,official_game_page,https://www.nba.com/game/atl-vs-phi-0022501217
+0022501218,2025-12-14,"[""CHA"", ""CLE""]","Rocket Arena, Cleveland, US",CLE,False,official_game_page,https://www.nba.com/game/cha-vs-cle-0022501218
+0022501219,2025-12-14,"[""BKN"", ""MIL""]","Barclays Center, Brooklyn, US",BKN,False,official_game_page,https://www.nba.com/game/bkn-vs-mil-0022501219
+0022501220,2025-12-14,"[""MIN"", ""SAC""]","Target Center, Minneapolis, US",MIN,False,official_game_page,https://www.nba.com/game/min-vs-sac-0022501220
+0022501221,2025-12-14,"[""GSW"", ""POR""]","Moda Center, Portland, US",POR,False,official_game_page,https://www.nba.com/game/gsw-vs-por-0022501221
+0022501222,2025-12-15,"[""BOS"", ""DET""]","TD Garden, Boston, US",BOS,False,official_game_page,https://www.nba.com/game/bos-vs-det-0022501222
+0022501223,2025-12-14,"[""CHI"", ""NOP""]","United Center, Chicago, US",CHI,False,official_game_page,https://www.nba.com/game/chi-vs-nop-0022501223
+0022501224,2025-12-15,"[""DAL"", ""UTA""]","Delta Center, Salt Lake City, US",UTA,False,official_game_page,https://www.nba.com/game/dal-vs-uta-0022501224
+0022501225,2025-12-15,"[""DEN"", ""HOU""]","Ball Arena, Denver, US",DEN,False,official_game_page,https://www.nba.com/game/den-vs-hou-0022501225
+0022501226,2025-12-15,"[""LAC"", ""MEM""]","Intuit Dome, Inglewood, US",LAC,False,official_game_page,https://www.nba.com/game/lac-vs-mem-0022501226
+0022501227,2025-12-15,"[""MIA"", ""TOR""]","Kaseya Center, Miami, US",MIA,False,official_game_page,https://www.nba.com/game/mia-vs-tor-0022501227
+0022501228,2025-12-14,"[""LAL"", ""PHX""]","Mortgage Matchup Center, Phoenix, US",PHX,False,official_game_page,https://www.nba.com/game/lal-vs-phx-0022501228
+0022501229,2025-12-13,"[""NYK"", ""ORL""]","T-Mobile Arena, Las Vegas, US",ORL,True,official_game_page,https://www.nba.com/game/nyk-vs-orl-0022501229
+0022501230,2025-12-13,"[""OKC"", ""SAS""]","T-Mobile Arena, Las Vegas, US",OKC,True,official_game_page,https://www.nba.com/game/okc-vs-sas-0022501230

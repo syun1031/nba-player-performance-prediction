@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500479",
+  "GAMEDATE": "2026-01-02",
+  "teams": [
+    "ATL",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "ATL",
+  "gameEt": "2026-01-02T19:30:00Z",
+  "gameTimeUTC": "2026-01-03T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-nyk-0022500479",
+  "fetched_at_utc": "2026-10-21T06:59:38.161742+00:00",
+  "html_sha256": "9aacab79627df8efef38737d09ede5b6efed4ac8542e4a2ddf0291da6fb33ff7"
+}

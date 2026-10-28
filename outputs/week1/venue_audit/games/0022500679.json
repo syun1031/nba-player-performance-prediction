@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500679",
+  "GAMEDATE": "2026-01-28",
+  "teams": [
+    "HOU",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "SAS",
+  "gameEt": "2026-01-28T21:30:00Z",
+  "gameTimeUTC": "2026-01-29T02:30:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-sas-0022500679",
+  "fetched_at_utc": "2026-10-21T07:00:56.139230+00:00",
+  "html_sha256": "c36511d8de88485c0d0ee24f837f89ea3447104ffcc4197581c9856416ac78f5"
+}

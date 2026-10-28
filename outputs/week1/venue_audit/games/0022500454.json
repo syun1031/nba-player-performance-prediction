@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500454",
+  "GAMEDATE": "2025-12-29",
+  "teams": [
+    "NOP",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "NYK",
+  "gameEt": "2025-12-29T20:00:00Z",
+  "gameTimeUTC": "2025-12-30T01:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-nyk-0022500454",
+  "fetched_at_utc": "2026-10-21T06:59:29.376806+00:00",
+  "html_sha256": "28889afcc2dc8b0f6cf839f2683c262896e57944331621b964f1dda300456adc"
+}

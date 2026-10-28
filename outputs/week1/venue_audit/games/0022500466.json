@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500466",
+  "GAMEDATE": "2025-12-31",
+  "teams": [
+    "CHI",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "NOP",
+  "gameEt": "2025-12-31T19:00:00Z",
+  "gameTimeUTC": "2026-01-01T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-nop-0022500466",
+  "fetched_at_utc": "2026-10-21T06:59:33.640209+00:00",
+  "html_sha256": "ec0f2b2d4bb28180b9b910e638da4df86c91bbc01450aad2bd2060150985daae"
+}

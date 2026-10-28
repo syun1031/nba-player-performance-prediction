@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500728",
+  "GAMEDATE": "2026-02-04",
+  "teams": [
+    "BOS",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "BOS",
+  "gameEt": "2026-02-04T20:00:00Z",
+  "gameTimeUTC": "2026-02-05T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-hou-0022500728",
+  "fetched_at_utc": "2026-10-21T07:01:18.358175+00:00",
+  "html_sha256": "0168d50f927e7c97e1dddc3657fe757833d92e19a452d6909cb85821c50b00e0"
+}

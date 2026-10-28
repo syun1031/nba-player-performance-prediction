@@ -1,0 +1,29 @@
+[
+  {
+    "error": "無法識別這台主機。 (cdn.nba.com:443)",
+    "name": "nba_schedule",
+    "outcome": "failed",
+    "http_status": null,
+    "url": "https://cdn.nba.com/static/json/staticData/scheduleLeagueV2.json",
+    "started_at_utc": "2026-10-13T05:40:20.1292506+00:00",
+    "elapsed_ms": 119
+  },
+  {
+    "error": "無法識別這台主機。 (stats.nba.com:443)",
+    "name": "nba_roster",
+    "outcome": "failed",
+    "http_status": null,
+    "url": "https://stats.nba.com/stats/commonallplayers?LeagueID=00&Season=2026-27&IsOnlyCurrentSeason=1",
+    "started_at_utc": "2026-10-13T05:40:20.2511939+00:00",
+    "elapsed_ms": 4
+  },
+  {
+    "error": "無法識別這台主機。 (stats.nba.com:443)",
+    "name": "nba_history",
+    "outcome": "failed",
+    "http_status": null,
+    "url": "https://stats.nba.com/stats/leaguegamelog?Counter=0&DateFrom=04%2F12%2F2026&DateTo=04%2F12%2F2026&Direction=ASC&LeagueID=00&PlayerOrTeam=P&Season=2025-26&SeasonType=Regular%20Season&Sorter=DATE",
+    "started_at_utc": "2026-10-13T05:40:20.2552966+00:00",
+    "elapsed_ms": 3
+  }
+]

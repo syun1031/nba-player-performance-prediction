@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500904",
+  "GAMEDATE": "2026-03-05",
+  "teams": [
+    "DET",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "DET",
+  "gameEt": "2026-03-05T20:00:00Z",
+  "gameTimeUTC": "2026-03-06T01:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-sas-0022500904",
+  "fetched_at_utc": "2026-10-21T07:02:30.335076+00:00",
+  "html_sha256": "71c026445420d977d3602b336a4c8cb97d3d038bb8f61bb32348d57788afd0dc"
+}

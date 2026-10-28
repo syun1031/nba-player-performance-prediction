@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500450",
+  "GAMEDATE": "2025-12-29",
+  "teams": [
+    "DEN",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "DEN",
+  "gameEt": "2025-12-29T19:30:00Z",
+  "gameTimeUTC": "2025-12-30T00:30:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-mia-0022500450",
+  "fetched_at_utc": "2026-10-21T06:59:27.929718+00:00",
+  "html_sha256": "e29efb579d46119845a77013667cc959128ce26669f2a35b540a31c68f9a0d30"
+}

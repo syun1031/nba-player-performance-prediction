@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500175",
+  "GAMEDATE": "2025-11-05",
+  "teams": [
+    "MIN",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "MIN",
+  "gameEt": "2025-11-05T19:30:00Z",
+  "gameTimeUTC": "2025-11-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-nyk-0022500175",
+  "fetched_at_utc": "2026-10-21T06:57:38.501752+00:00",
+  "html_sha256": "9f6aacf2a130a77de310fa6fe839c65d60047bf0da7e4fe92568bc11d86efec8"
+}

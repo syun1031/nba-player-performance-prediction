@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500811",
+  "GAMEDATE": "2026-02-21",
+  "teams": [
+    "ORL",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "ORL",
+  "gameEt": "2026-02-21T17:00:00Z",
+  "gameTimeUTC": "2026-02-21T22:00:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-phx-0022500811",
+  "fetched_at_utc": "2026-10-21T07:01:50.618699+00:00",
+  "html_sha256": "b4ff88f2aca13ded7f1be7f6fdc740f6d946b85cc865c3b448d4cf4fb737738f"
+}

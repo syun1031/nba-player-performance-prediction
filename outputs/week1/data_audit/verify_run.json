@@ -1,0 +1,9 @@
+{
+  "command": [
+    "C:\\Users\\wangs\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "C:\\Users\\wangs\\codex\\outputs\\nba_2025_26\\verify_csv.py"
+  ],
+  "exit_code": 0,
+  "stdout": "{\"verified\": true, \"rows\": 26651, \"players\": 582, \"columns\": [\"PLAYER\", \"TEAM\", \"MATCHUP\", \"GAMEDATE\", \"MIN\", \"PTS\", \"FG%\", \"REB\", \"AST\"], \"bytes\": 1479501, \"source_match\": \"all rows match\"}\n",
+  "stderr": ""
+}

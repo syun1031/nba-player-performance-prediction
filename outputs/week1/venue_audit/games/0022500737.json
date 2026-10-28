@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500737",
+  "GAMEDATE": "2026-02-05",
+  "teams": [
+    "CHA",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "CHA",
+  "gameEt": "2026-02-05T20:00:00Z",
+  "gameTimeUTC": "2026-02-06T01:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-hou-0022500737",
+  "fetched_at_utc": "2026-10-21T07:01:21.527720+00:00",
+  "html_sha256": "2c2e8343b30a38dd725251ff43579cf9f3715ff8f40205a7ef64fdd154f0dde2"
+}

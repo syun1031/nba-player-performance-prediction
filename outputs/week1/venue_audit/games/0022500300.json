@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500300",
+  "GAMEDATE": "2025-11-29",
+  "teams": [
+    "DAL",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "DAL",
+  "gameEt": "2025-11-29T22:00:00Z",
+  "gameTimeUTC": "2025-11-30T03:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-lac-0022500300",
+  "fetched_at_utc": "2026-10-21T06:58:27.101728+00:00",
+  "html_sha256": "24f6412379fe954fc7c9cb1c40a3960d5008f0f99142f0d7b3af1992fda671d1"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500731",
+  "GAMEDATE": "2026-02-04",
+  "teams": [
+    "MEM",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "MEM",
+  "gameEt": "2026-02-04T22:00:00Z",
+  "gameTimeUTC": "2026-02-05T03:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-sac-0022500731",
+  "fetched_at_utc": "2026-10-21T07:01:18.687559+00:00",
+  "html_sha256": "8d52b54961337dee244342d1f44e080e387ff11b0ebc436f6b0438ef2302bdb0"
+}

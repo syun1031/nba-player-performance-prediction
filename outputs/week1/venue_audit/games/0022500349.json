@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500349",
+  "GAMEDATE": "2025-12-05",
+  "teams": [
+    "DAL",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "DAL",
+  "gameEt": "2025-12-05T21:30:00Z",
+  "gameTimeUTC": "2025-12-06T02:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-okc-0022500349",
+  "fetched_at_utc": "2026-10-21T06:58:46.771794+00:00",
+  "html_sha256": "9d38a68982a024f682403049e265afd3c4a83e36efa5688ea3480b488081e33f"
+}

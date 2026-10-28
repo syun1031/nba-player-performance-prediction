@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500687",
+  "GAMEDATE": "2026-01-30",
+  "teams": [
+    "ORL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "TOR",
+  "gameEt": "2026-01-30T19:30:00Z",
+  "gameTimeUTC": "2026-01-31T00:30:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-tor-0022500687",
+  "fetched_at_utc": "2026-10-21T07:00:59.078237+00:00",
+  "html_sha256": "d37c08cef6db9c6060ab043c673ecdca166b1c23bcb8f95955dd430c53cce9e7"
+}

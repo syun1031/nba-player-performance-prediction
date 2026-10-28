@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500954",
+  "GAMEDATE": "2026-03-12",
+  "teams": [
+    "IND",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "PHX",
+  "gameEt": "2026-03-12T19:00:00Z",
+  "gameTimeUTC": "2026-03-12T23:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-phx-0022500954",
+  "fetched_at_utc": "2026-10-21T07:02:48.516534+00:00",
+  "html_sha256": "19c58a1551fa448c92b8f43231c4f845810f52fed0a086c8f1a9394b1de29830"
+}

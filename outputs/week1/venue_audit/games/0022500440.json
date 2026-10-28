@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500440",
+  "GAMEDATE": "2025-12-27",
+  "teams": [
+    "SAS",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "UTA",
+  "gameEt": "2025-12-27T20:00:00Z",
+  "gameTimeUTC": "2025-12-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/sas-vs-uta-0022500440",
+  "fetched_at_utc": "2026-10-21T06:59:23.794527+00:00",
+  "html_sha256": "f238db0c30f2e51f7a6534ff9eeddf78dde2c634a5fe089f014dedb10b0e0459"
+}

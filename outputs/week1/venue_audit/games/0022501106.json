@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501106",
+  "GAMEDATE": "2026-04-01",
+  "teams": [
+    "BOS",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "BOS",
+  "gameEt": "2026-04-01T19:30:00Z",
+  "gameTimeUTC": "2026-04-01T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-mia-0022501106",
+  "fetched_at_utc": "2026-10-21T07:03:43.299686+00:00",
+  "html_sha256": "95b80464e1c80e580ff55dd24930bb73da215eb2ad5fc8ffaae1ebe4973c24fd"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500931",
+  "GAMEDATE": "2026-03-09",
+  "teams": [
+    "CLE",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "PHI",
+  "gameEt": "2026-03-09T19:00:00Z",
+  "gameTimeUTC": "2026-03-09T23:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-phi-0022500931",
+  "fetched_at_utc": "2026-10-21T07:02:40.849720+00:00",
+  "html_sha256": "8cf1fbc6ac0bc8a64f21b67f7fca602fa8e2e6e5554ce4389284f8e5d9f49877"
+}

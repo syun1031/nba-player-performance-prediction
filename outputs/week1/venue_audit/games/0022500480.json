@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500480",
+  "GAMEDATE": "2026-01-02",
+  "teams": [
+    "CHI",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "ORL",
+  "gameEt": "2026-01-02T20:00:00Z",
+  "gameTimeUTC": "2026-01-03T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-orl-0022500480",
+  "fetched_at_utc": "2026-10-21T06:59:38.945498+00:00",
+  "html_sha256": "96f40108eb26b816ff05c16789cecc8d4634f88dc293e0ac07ab6339e0a5b0f6"
+}

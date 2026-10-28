@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500959",
+  "GAMEDATE": "2026-03-12",
+  "teams": [
+    "BOS",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "BOS",
+  "gameEt": "2026-03-12T21:30:00Z",
+  "gameTimeUTC": "2026-03-13T01:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-okc-0022500959",
+  "fetched_at_utc": "2026-10-21T07:02:49.735032+00:00",
+  "html_sha256": "77f71b215d54eea49849d3bb1c4a5f2081eaeec278b9118ac174e9f09669c6ce"
+}

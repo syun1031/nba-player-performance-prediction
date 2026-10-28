@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500279",
+  "GAMEDATE": "2025-11-23",
+  "teams": [
+    "BKN",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "BKN",
+  "gameEt": "2025-11-23T18:00:00Z",
+  "gameTimeUTC": "2025-11-23T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-tor-0022500279",
+  "fetched_at_utc": "2026-10-21T06:58:19.463254+00:00",
+  "html_sha256": "bd6d118f872e390c17832f16a1b5366a2b1cefcbb00ea59374c70497ddb816f3"
+}

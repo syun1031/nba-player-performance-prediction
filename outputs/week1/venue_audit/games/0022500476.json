@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500476",
+  "GAMEDATE": "2026-01-02",
+  "teams": [
+    "IND",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "SAS",
+  "gameEt": "2026-01-02T19:00:00Z",
+  "gameTimeUTC": "2026-01-03T00:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-sas-0022500476",
+  "fetched_at_utc": "2026-10-21T06:59:37.858027+00:00",
+  "html_sha256": "59e88467f1add3956fc882e498cffd8393327d9abf3e6db9d12ddc547136cdeb"
+}

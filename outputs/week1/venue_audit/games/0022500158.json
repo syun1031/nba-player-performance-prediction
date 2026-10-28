@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500158",
+  "GAMEDATE": "2025-11-03",
+  "teams": [
+    "BOS",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "UTA",
+  "gameEt": "2025-11-03T19:30:00Z",
+  "gameTimeUTC": "2025-11-04T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-uta-0022500158",
+  "fetched_at_utc": "2026-10-21T06:57:32.094773+00:00",
+  "html_sha256": "e6cb8064d821741e26bab4ac3a4ee24fc7b9c5493b08f0cf7437b5c48bc17e16"
+}

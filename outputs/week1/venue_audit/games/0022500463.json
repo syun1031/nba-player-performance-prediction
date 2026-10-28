@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500463",
+  "GAMEDATE": "2025-12-31",
+  "teams": [
+    "ATL",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "MIN",
+  "gameEt": "2025-12-31T15:00:00Z",
+  "gameTimeUTC": "2025-12-31T20:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-min-0022500463",
+  "fetched_at_utc": "2026-10-21T06:59:32.371616+00:00",
+  "html_sha256": "e074eeeeaaad4f1d4c17716b4085e90b6d16a84df5eeadd4f6a264e1c51de5f0"
+}

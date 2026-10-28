@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500054",
+  "GAMEDATE": "2025-11-21",
+  "teams": [
+    "DEN",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "DEN",
+  "gameEt": "2025-11-21T21:30:00Z",
+  "gameTimeUTC": "2025-11-22T02:30:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-hou-0022500054",
+  "fetched_at_utc": "2026-10-21T06:56:50.915405+00:00",
+  "html_sha256": "9cf35fbf4d3d9fcf6a95eab9f4fa9f56081d98e0af123bc2687b8e3b954d1f59"
+}

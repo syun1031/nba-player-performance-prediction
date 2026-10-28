@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500657",
+  "GAMEDATE": "2026-01-26",
+  "teams": [
+    "CHA",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "PHI",
+  "gameEt": "2026-01-26T15:00:00Z",
+  "gameTimeUTC": "2026-01-26T20:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-phi-0022500657",
+  "fetched_at_utc": "2026-10-21T07:00:46.568427+00:00",
+  "html_sha256": "8741228eebbde8641aeee1e8ddfb7a9edcf29187775ef2245156c6ddcfddd6ec"
+}

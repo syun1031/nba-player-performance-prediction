@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500290",
+  "GAMEDATE": "2025-11-24",
+  "teams": [
+    "HOU",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "HOU",
+  "gameEt": "2025-11-24T21:30:00Z",
+  "gameTimeUTC": "2025-11-25T02:30:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-phx-0022500290",
+  "fetched_at_utc": "2026-10-21T06:58:23.725062+00:00",
+  "html_sha256": "b36ca6f4b278b7efb9dc8e8ae5643fe360c4eadb586a9b377485047f8d41ec38"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500306",
+  "GAMEDATE": "2025-11-30",
+  "teams": [
+    "MIN",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "SAS",
+  "gameEt": "2025-11-30T19:00:00Z",
+  "gameTimeUTC": "2025-12-01T00:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-sas-0022500306",
+  "fetched_at_utc": "2026-10-21T06:58:29.694384+00:00",
+  "html_sha256": "6a7f4347f9ae84b527ef3d99da2210353517403f7bb5d48cf17ba5c6f8e0ce66"
+}

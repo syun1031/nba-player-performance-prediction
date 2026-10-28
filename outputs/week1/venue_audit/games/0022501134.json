@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501134",
+  "GAMEDATE": "2026-04-05",
+  "teams": [
+    "CHI",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "PHX",
+  "gameEt": "2026-04-05T15:30:00Z",
+  "gameTimeUTC": "2026-04-05T19:30:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-phx-0022501134",
+  "fetched_at_utc": "2026-10-21T07:03:53.650836+00:00",
+  "html_sha256": "0aac82e5d9ae515fba349fe9f6060cc942eb68bce1a2db1f7b1e3164056766f7"
+}

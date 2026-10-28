@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500154",
+  "GAMEDATE": "2025-11-02",
+  "teams": [
+    "PHX",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "SAS",
+  "gameEt": "2025-11-02T20:00:00Z",
+  "gameTimeUTC": "2025-11-03T01:00:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-sas-0022500154",
+  "fetched_at_utc": "2026-10-21T06:57:30.070953+00:00",
+  "html_sha256": "798b16e530bed12bac074ef96b3399953eda5b79d9141703264e101c10e708ef"
+}

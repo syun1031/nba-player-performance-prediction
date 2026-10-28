@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500461",
+  "GAMEDATE": "2025-12-30",
+  "teams": [
+    "LAC",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "SAC",
+  "gameEt": "2025-12-30T23:00:00Z",
+  "gameTimeUTC": "2025-12-31T04:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-sac-0022500461",
+  "fetched_at_utc": "2026-10-21T06:59:31.989167+00:00",
+  "html_sha256": "56298dd10527c1585a80da9866aad3f01ba342b06490cfdb6f5ce562d27d3008"
+}

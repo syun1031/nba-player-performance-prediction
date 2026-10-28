@@ -1,0 +1,85 @@
+{
+  "verified": true,
+  "spec_version": "team-lineup-v1",
+  "source_sha256": {
+    "outputs\\week1\\features_baseline\\baseline_predictions_development.csv": "82c455e43958d2d1b1296aafaacd6527d2cda14520457243eae2b1f99e9939d7",
+    "outputs\\week1\\features_baseline\\common_sample_manifest.csv": "7fb0e7c7db504dd2798e4d78f44a0573eb7e3ccc23a653bc9284b93b67dc12ac",
+    "outputs\\week1\\features_baseline\\player_game_features.csv": "a312f2cab5d82b3678d7bb90e0f020393c98eda63e4a8b4b849b83174d344909",
+    "outputs\\week1\\features_baseline\\README.md": "c938767956462963ed22ff83858193820f0e8e7df7a79ec96ecaf84ee502b309",
+    "outputs\\week1\\features_baseline\\test.csv": "e436930e2ba18f54de33d83a2b128c32d63dd4b3ec01be4f2bcb38d18e0083d8",
+    "outputs\\week1\\features_baseline\\train.csv": "c93f465eb8c8fb414d252b73bebb3bc5af36211d2db42481ce6f80b5f57fa3b9",
+    "outputs\\week1\\features_baseline\\validation.csv": "c1825c39ea5be22f66746000915b58ce87cb5ffb65946a1466279b12669712a8",
+    "outputs\\week1\\features_baseline\\validation.json": "d92b877c6b05943ad168f3730d8ffca0ea6998a14b59c14e995170c2f2569bbc",
+    "outputs\\week1\\model_data\\nba_2025_26_player_games_merged.csv": "e6eee5755dc08e5e3250c12aa3fe19fed98017b560c67bf39c037a9e094d7fa3",
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_game_rosters.csv": "b110fd023c73c98af5fa459141210e37be43cd305d197baf60752c389d39c08c"
+  },
+  "numeric_feature_columns": [
+    "pts_mean_5",
+    "pts_mean_10",
+    "min_mean_5",
+    "reb_mean_5",
+    "ast_mean_5",
+    "is_home",
+    "is_neutral_site",
+    "rest_days",
+    "is_starter"
+  ],
+  "teammate_identity_encoding": "not_implemented",
+  "source_rows": 26568,
+  "team_game_rows": 2460,
+  "team_count": 30,
+  "eligible_rows": 23722,
+  "excluded_rows": 2846,
+  "team_history_insufficient_rows": 1669,
+  "newly_excluded_by_team_gate": 0,
+  "actual_starter_rows": 12299,
+  "splits": {
+    "train": {
+      "source_rows": 15774,
+      "eligible_rows": 13281,
+      "coverage": 0.8419551160136934,
+      "exclusion_counts": {
+        "insufficient_history;insufficient_team_history": 1669,
+        "insufficient_history": 824
+      },
+      "baseline": {
+        "n": 13281,
+        "mae": 4.761102326632031,
+        "rmse": 6.256643784524353
+      }
+    },
+    "validation": {
+      "source_rows": 3579,
+      "eligible_rows": 3462,
+      "coverage": 0.9673093042749371,
+      "exclusion_counts": {
+        "insufficient_history": 117
+      },
+      "baseline": {
+        "n": 3462,
+        "mae": 4.797746967071057,
+        "rmse": 6.278220171900878
+      }
+    },
+    "test": {
+      "source_rows": 7215,
+      "eligible_rows": 6979,
+      "coverage": 0.9672903672903673,
+      "exclusion_counts": {
+        "insufficient_history": 236
+      },
+      "metrics_status": "not_evaluated"
+    }
+  },
+  "historical_postgame_lineup": true,
+  "live_prediction_ready_rows": 0,
+  "source_files_and_base_outputs_unchanged": true,
+  "output_readback_verified": true,
+  "order_invariance": true,
+  "test_metrics_computed": false,
+  "limitations": [
+    "Actual historical roster, no verified pregame publication timestamps",
+    "No regular-starter absence reference or teammate encoding",
+    "Future source and end-to-end prediction workflow not implemented"
+  ]
+}

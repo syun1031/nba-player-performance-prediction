@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500544",
+  "GAMEDATE": "2026-01-10",
+  "teams": [
+    "DET",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "LAC",
+  "gameEt": "2026-01-10T19:30:00Z",
+  "gameTimeUTC": "2026-01-11T00:30:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-lac-0022500544",
+  "fetched_at_utc": "2026-10-21T07:00:02.789259+00:00",
+  "html_sha256": "457f919a4a712e59c4ddaf92acabf5d915c4dd856f467a389736c0231f42fda9"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500800",
+  "GAMEDATE": "2026-02-19",
+  "teams": [
+    "ORL",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "ORL",
+  "gameEt": "2026-02-19T22:00:00Z",
+  "gameTimeUTC": "2026-02-20T03:00:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-sac-0022500800",
+  "fetched_at_utc": "2026-10-21T07:01:45.966616+00:00",
+  "html_sha256": "032f053ebb3ee79b2d621318d7d6c0059dcea5ed23366efbc74d74c3edc68a02"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500327",
+  "GAMEDATE": "2025-12-03",
+  "teams": [
+    "ATL",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "LAC",
+  "gameEt": "2025-12-03T19:30:00Z",
+  "gameTimeUTC": "2025-12-04T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-lac-0022500327",
+  "fetched_at_utc": "2026-10-21T06:58:37.509464+00:00",
+  "html_sha256": "f22a05c4d071b8ff776ecdd697966599ef0587113fd8e7446ce4df41da45f43b"
+}

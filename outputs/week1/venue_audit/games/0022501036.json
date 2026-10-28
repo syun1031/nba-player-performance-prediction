@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501036",
+  "GAMEDATE": "2026-03-22",
+  "teams": [
+    "PHX",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "TOR",
+  "gameEt": "2026-03-22T21:00:00Z",
+  "gameTimeUTC": "2026-03-23T01:00:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-tor-0022501036",
+  "fetched_at_utc": "2026-10-21T07:03:16.701510+00:00",
+  "html_sha256": "147b666c96381e321a423c5decc38508459f05a249eb340d86cf42bf77d73ffa"
+}

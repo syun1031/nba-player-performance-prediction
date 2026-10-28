@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500146",
+  "GAMEDATE": "2025-11-01",
+  "teams": [
+    "BOS",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "HOU",
+  "gameEt": "2025-11-01T20:00:00Z",
+  "gameTimeUTC": "2025-11-02T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-hou-0022500146",
+  "fetched_at_utc": "2026-10-21T06:57:27.863629+00:00",
+  "html_sha256": "6001a98736a6f7d014927aed01d215f9e6f2b40df2dada41508305a7d568320f"
+}

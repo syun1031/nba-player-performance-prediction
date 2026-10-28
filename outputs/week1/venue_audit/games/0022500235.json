@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500235",
+  "GAMEDATE": "2025-11-16",
+  "teams": [
+    "BKN",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "BKN",
+  "gameEt": "2025-11-16T18:00:00Z",
+  "gameTimeUTC": "2025-11-16T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-was-0022500235",
+  "fetched_at_utc": "2026-10-21T06:58:01.067594+00:00",
+  "html_sha256": "1f10e0a9a22bc954c90f0395d71c89f07017668fc2c3875f4f79b8c38feaf389"
+}

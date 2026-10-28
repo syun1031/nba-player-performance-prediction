@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500584",
+  "GAMEDATE": "2026-01-15",
+  "teams": [
+    "GSW",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "NYK",
+  "gameEt": "2026-01-15T22:00:00Z",
+  "gameTimeUTC": "2026-01-16T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-nyk-0022500584",
+  "fetched_at_utc": "2026-10-21T07:00:18.717616+00:00",
+  "html_sha256": "0bc79331fbe6aab817cf5bdd7bda61b8a75a44b1c1f63a220fab2785b3fb00ae"
+}

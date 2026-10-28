@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500506",
+  "GAMEDATE": "2026-01-05",
+  "teams": [
+    "CHA",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "CHA",
+  "gameEt": "2026-01-05T20:00:00Z",
+  "gameTimeUTC": "2026-01-06T01:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-okc-0022500506",
+  "fetched_at_utc": "2026-10-21T06:59:48.889332+00:00",
+  "html_sha256": "f1d9d3f817dc53f5c1b6aabd05a30bd2ff8e9148e791361bd29f95b1c3ef212e"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500298",
+  "GAMEDATE": "2025-11-29",
+  "teams": [
+    "GSW",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "NOP",
+  "gameEt": "2025-11-29T20:30:00Z",
+  "gameTimeUTC": "2025-11-30T01:30:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-nop-0022500298",
+  "fetched_at_utc": "2026-10-21T06:58:25.919435+00:00",
+  "html_sha256": "1454117a2a62bfd09f22e4c04e638e0ad58cbeaddd98f6aa418aa230afa2c3e0"
+}

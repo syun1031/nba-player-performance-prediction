@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500126",
+  "GAMEDATE": "2025-10-28",
+  "teams": [
+    "OKC",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "SAC",
+  "gameEt": "2025-10-28T20:00:00Z",
+  "gameTimeUTC": "2025-10-29T00:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-sac-0022500126",
+  "fetched_at_utc": "2026-10-21T06:57:19.348935+00:00",
+  "html_sha256": "96b0bdb5c241ec80fbf4ac9e230bc19365e6f3fafdf862a222d2529c83a8d54d"
+}

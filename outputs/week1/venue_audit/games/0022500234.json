@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500234",
+  "GAMEDATE": "2025-11-16",
+  "teams": [
+    "SAC",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "SAC",
+  "gameEt": "2025-11-16T16:00:00Z",
+  "gameTimeUTC": "2025-11-16T21:00:00Z",
+  "source_url": "https://www.nba.com/game/sac-vs-sas-0022500234",
+  "fetched_at_utc": "2026-10-21T06:58:00.348968+00:00",
+  "html_sha256": "e453657401bee8344708a4e29371d3fb407490eab67b7d260c8b806441da538f"
+}

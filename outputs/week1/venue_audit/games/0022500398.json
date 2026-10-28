@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500398",
+  "GAMEDATE": "2025-12-21",
+  "teams": [
+    "MIA",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "MIA",
+  "gameEt": "2025-12-21T18:00:00Z",
+  "gameTimeUTC": "2025-12-21T23:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-nyk-0022500398",
+  "fetched_at_utc": "2026-10-21T06:59:03.969150+00:00",
+  "html_sha256": "5cd237871b0b36e4644467fd2c85d6c4d13655490aa70af72b14e2bc5d9cd397"
+}

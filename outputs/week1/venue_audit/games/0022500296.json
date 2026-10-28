@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500296",
+  "GAMEDATE": "2025-11-29",
+  "teams": [
+    "DET",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "DET",
+  "gameEt": "2025-11-29T20:00:00Z",
+  "gameTimeUTC": "2025-11-30T01:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-mia-0022500296",
+  "fetched_at_utc": "2026-10-21T06:58:26.304289+00:00",
+  "html_sha256": "f03a72a8746593b22963f49c246f2e12503389cc7f786a0d29c8904297828716"
+}

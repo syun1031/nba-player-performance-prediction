@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500890",
+  "GAMEDATE": "2026-03-03",
+  "teams": [
+    "MEM",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "MEM",
+  "gameEt": "2026-03-03T20:00:00Z",
+  "gameTimeUTC": "2026-03-04T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-min-0022500890",
+  "fetched_at_utc": "2026-10-21T07:02:24.253763+00:00",
+  "html_sha256": "c903f82a5fb031e903ca9576915118a1642355ad48f696ff1af022ee0d56abc2"
+}

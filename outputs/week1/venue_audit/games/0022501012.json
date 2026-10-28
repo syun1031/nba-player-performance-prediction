@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501012",
+  "GAMEDATE": "2026-03-19",
+  "teams": [
+    "LAC",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "LAC",
+  "gameEt": "2026-03-19T20:00:00Z",
+  "gameTimeUTC": "2026-03-20T00:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-nop-0022501012",
+  "fetched_at_utc": "2026-10-21T07:03:07.669940+00:00",
+  "html_sha256": "814a81eec27fb6b390bc235f1a778706c91e31f75c50c88c16eb221ebc5059ca"
+}

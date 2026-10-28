@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500318",
+  "GAMEDATE": "2025-12-02",
+  "teams": [
+    "PHI",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "WAS",
+  "gameEt": "2025-12-02T19:00:00Z",
+  "gameTimeUTC": "2025-12-03T00:00:00Z",
+  "source_url": "https://www.nba.com/game/phi-vs-was-0022500318",
+  "fetched_at_utc": "2026-10-21T06:58:33.729429+00:00",
+  "html_sha256": "602fa61a3c4f4d2b0977838b9747f66d78853702610c841603c1045a0e8d6955"
+}

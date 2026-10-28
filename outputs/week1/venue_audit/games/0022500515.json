@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500515",
+  "GAMEDATE": "2026-01-06",
+  "teams": [
+    "DAL",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "DAL",
+  "gameEt": "2026-01-06T23:00:00Z",
+  "gameTimeUTC": "2026-01-07T04:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-sac-0022500515",
+  "fetched_at_utc": "2026-10-21T06:59:51.943450+00:00",
+  "html_sha256": "fa31b5814c073f1bbfd9b3beea9852bc93fa16a1ce9144102f9d0a859b252ace"
+}

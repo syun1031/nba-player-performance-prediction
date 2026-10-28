@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500471",
+  "GAMEDATE": "2026-01-01",
+  "teams": [
+    "BKN",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "HOU",
+  "gameEt": "2026-01-01T18:00:00Z",
+  "gameTimeUTC": "2026-01-01T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-hou-0022500471",
+  "fetched_at_utc": "2026-10-21T06:59:35.203803+00:00",
+  "html_sha256": "844547e213a1d65cf094e8ace2258565b324966c74c23ed001d10af929e293d8"
+}

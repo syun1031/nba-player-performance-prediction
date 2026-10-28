@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500035",
+  "GAMEDATE": "2025-11-07",
+  "teams": [
+    "CHI",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "CHI",
+  "gameEt": "2025-11-07T20:00:00Z",
+  "gameTimeUTC": "2025-11-08T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-mil-0022500035",
+  "fetched_at_utc": "2026-10-21T06:56:43.719277+00:00",
+  "html_sha256": "1d7467ce3e850cc09a1db9f3233280237de78766fca0bf4c93f29e8aa9fbda27"
+}

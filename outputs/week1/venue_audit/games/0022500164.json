@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500164",
+  "GAMEDATE": "2025-11-03",
+  "teams": [
+    "LAC",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "MIA",
+  "gameEt": "2025-11-03T22:30:00Z",
+  "gameTimeUTC": "2025-11-04T03:30:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-mia-0022500164",
+  "fetched_at_utc": "2026-10-21T06:57:33.956476+00:00",
+  "html_sha256": "0c2af038f1c703d45ec77653c9dac0cb1077da1ac03ed9bb47b9930216793372"
+}

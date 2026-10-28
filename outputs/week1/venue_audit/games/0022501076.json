@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501076",
+  "GAMEDATE": "2026-03-28",
+  "teams": [
+    "MIL",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "SAS",
+  "gameEt": "2026-03-28T15:00:00Z",
+  "gameTimeUTC": "2026-03-28T19:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-sas-0022501076",
+  "fetched_at_utc": "2026-10-21T07:03:31.839213+00:00",
+  "html_sha256": "250ef12ef5a5971430cc059145f7c03060f7611ac63af7c15e550930c85b54fe"
+}

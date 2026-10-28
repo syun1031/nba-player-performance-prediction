@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500430",
+  "GAMEDATE": "2025-12-26",
+  "teams": [
+    "DET",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "DET",
+  "gameEt": "2025-12-26T21:30:00Z",
+  "gameTimeUTC": "2025-12-27T02:30:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-uta-0022500430",
+  "fetched_at_utc": "2026-10-21T06:59:21.060204+00:00",
+  "html_sha256": "6972ebc9ce49e4d45392bd52a4a031ad9f37b638f375a62a5ea4ca35b754e148"
+}

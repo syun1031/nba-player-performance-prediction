@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500490",
+  "GAMEDATE": "2026-01-03",
+  "teams": [
+    "POR",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "POR",
+  "gameEt": "2026-01-03T20:00:00Z",
+  "gameTimeUTC": "2026-01-04T01:00:00Z",
+  "source_url": "https://www.nba.com/game/por-vs-sas-0022500490",
+  "fetched_at_utc": "2026-10-21T06:59:42.035038+00:00",
+  "html_sha256": "406744bf85b95f37dfb8f164e530f5d75bbb2eccbd59fc15397afeb702ed8b9a"
+}

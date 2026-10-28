@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500749",
+  "GAMEDATE": "2026-02-07",
+  "teams": [
+    "DAL",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "DAL",
+  "gameEt": "2026-02-07T18:00:00Z",
+  "gameTimeUTC": "2026-02-07T23:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-sas-0022500749",
+  "fetched_at_utc": "2026-10-21T07:01:26.151726+00:00",
+  "html_sha256": "5e2e2c9ad7ead0d6414aca18d7f7ebed44f7ca238c1221fea6e6786c506abb79"
+}

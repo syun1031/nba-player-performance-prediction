@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500202",
+  "GAMEDATE": "2025-11-10",
+  "teams": [
+    "CHI",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "SAS",
+  "gameEt": "2025-11-10T20:00:00Z",
+  "gameTimeUTC": "2025-11-11T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-sas-0022500202",
+  "fetched_at_utc": "2026-10-21T06:57:48.135019+00:00",
+  "html_sha256": "c97e6bd0e9845d8fdeb8eb93529464f5634e517f13811576ddc2d348ab07abca"
+}

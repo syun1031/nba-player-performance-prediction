@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500345",
+  "GAMEDATE": "2025-12-05",
+  "teams": [
+    "CHI",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "IND",
+  "gameEt": "2025-12-05T20:00:00Z",
+  "gameTimeUTC": "2025-12-06T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-ind-0022500345",
+  "fetched_at_utc": "2026-10-21T06:58:44.832796+00:00",
+  "html_sha256": "417b8406d5617c6252742c088ef6abf3b34a2b43c37e8090314ac44248bff2f4"
+}

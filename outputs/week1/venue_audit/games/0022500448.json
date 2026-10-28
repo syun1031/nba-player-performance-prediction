@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500448",
+  "GAMEDATE": "2025-12-29",
+  "teams": [
+    "PHX",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "PHX",
+  "gameEt": "2025-12-29T19:00:00Z",
+  "gameTimeUTC": "2025-12-30T00:00:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-was-0022500448",
+  "fetched_at_utc": "2026-10-21T06:59:26.999077+00:00",
+  "html_sha256": "db301c942d184f20d319d92ae719521b1c8149131f4f834667d497b34e70e151"
+}

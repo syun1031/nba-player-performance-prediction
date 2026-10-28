@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500661",
+  "GAMEDATE": "2026-01-26",
+  "teams": [
+    "CHI",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "LAL",
+  "gameEt": "2026-01-26T20:00:00Z",
+  "gameTimeUTC": "2026-01-27T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-lal-0022500661",
+  "fetched_at_utc": "2026-10-21T07:00:48.263534+00:00",
+  "html_sha256": "05c1f5d362f49ec8fde0d0cd71b1309ffee65eb3ed6e758b8fa173b43d785782"
+}

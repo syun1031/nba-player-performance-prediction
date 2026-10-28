@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500115",
+  "GAMEDATE": "2025-10-27",
+  "teams": [
+    "ATL",
+    "CHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "ATL",
+  "gameEt": "2025-10-27T20:00:00Z",
+  "gameTimeUTC": "2025-10-28T00:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-chi-0022500115",
+  "fetched_at_utc": "2026-10-21T06:57:15.678912+00:00",
+  "html_sha256": "c6715754206fd59afca959812772e4a3a6266bc8a07ba43ca851b2a3789b3a46"
+}

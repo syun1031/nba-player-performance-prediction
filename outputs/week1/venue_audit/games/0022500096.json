@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500096",
+  "GAMEDATE": "2025-10-24",
+  "teams": [
+    "DAL",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "WAS",
+  "gameEt": "2025-10-24T20:30:00Z",
+  "gameTimeUTC": "2025-10-25T00:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-was-0022500096",
+  "fetched_at_utc": "2026-10-21T06:57:08.842420+00:00",
+  "html_sha256": "dc2111aedce59216a8543f083973d52a4a5d895da791154959c1370d6315c7e8"
+}

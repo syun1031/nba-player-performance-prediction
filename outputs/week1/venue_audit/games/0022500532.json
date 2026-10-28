@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500532",
+  "GAMEDATE": "2026-01-09",
+  "teams": [
+    "BOS",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "TOR",
+  "gameEt": "2026-01-09T19:00:00Z",
+  "gameTimeUTC": "2026-01-10T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-tor-0022500532",
+  "fetched_at_utc": "2026-10-21T06:59:58.559055+00:00",
+  "html_sha256": "d5a3de58f26df759cd38dcc40cadf3fd706f59f51f6714f1d059c09cf16973aa"
+}

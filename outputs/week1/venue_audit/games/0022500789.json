@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500789",
+  "GAMEDATE": "2026-02-12",
+  "teams": [
+    "MIL",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "MIL",
+  "gameEt": "2026-02-12T19:30:00Z",
+  "gameTimeUTC": "2026-02-13T00:30:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-okc-0022500789",
+  "fetched_at_utc": "2026-10-21T07:01:41.919684+00:00",
+  "html_sha256": "62af0260c13a30e2328bcaa3ad40539412cdffb7f93ce1819df6780581198641"
+}

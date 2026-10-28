@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500456",
+  "GAMEDATE": "2025-12-29",
+  "teams": [
+    "CLE",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "CLE",
+  "gameEt": "2025-12-29T20:00:00Z",
+  "gameTimeUTC": "2025-12-30T01:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-sas-0022500456",
+  "fetched_at_utc": "2026-10-21T06:59:30.235015+00:00",
+  "html_sha256": "e20c8c9e620f1f273dea3001b09ba73e17d8f1c3ea04d66142fab5a7b078bf1b"
+}

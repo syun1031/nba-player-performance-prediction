@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500216",
+  "GAMEDATE": "2025-11-12",
+  "teams": [
+    "BOS",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "MEM",
+  "gameEt": "2025-11-12T19:30:00Z",
+  "gameTimeUTC": "2025-11-13T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-mem-0022500216",
+  "fetched_at_utc": "2026-10-21T06:57:54.479000+00:00",
+  "html_sha256": "f20037fc3c8e4cba995d95296603f54fc237c5c662c533c20fad14f3eeadd214"
+}

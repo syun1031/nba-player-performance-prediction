@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500113",
+  "GAMEDATE": "2025-10-26",
+  "teams": [
+    "LAL",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "LAL",
+  "gameEt": "2025-10-26T21:00:00Z",
+  "gameTimeUTC": "2025-10-27T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-sac-0022500113",
+  "fetched_at_utc": "2026-10-21T06:57:14.602116+00:00",
+  "html_sha256": "7ac4bd1337c9fc8fcceec304df888a0fb0aa39787763bbd82b6c37ebe83bad3f"
+}

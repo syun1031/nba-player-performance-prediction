@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501183",
+  "GAMEDATE": "2026-04-10",
+  "teams": [
+    "LAC",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "LAC",
+  "gameEt": "2026-04-10T22:00:00Z",
+  "gameTimeUTC": "2026-04-11T02:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-por-0022501183",
+  "fetched_at_utc": "2026-10-21T07:04:18.542572+00:00",
+  "html_sha256": "13ba638d7cac3e772706831a849dba10156881c69288f749f4d027447d73d120"
+}

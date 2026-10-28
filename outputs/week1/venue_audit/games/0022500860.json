@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500860",
+  "GAMEDATE": "2026-02-27",
+  "teams": [
+    "MIL",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "NYK",
+  "gameEt": "2026-02-27T20:00:00Z",
+  "gameTimeUTC": "2026-02-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-nyk-0022500860",
+  "fetched_at_utc": "2026-10-21T07:02:12.413779+00:00",
+  "html_sha256": "e8a9b75b30f4b31a2263e2fd99b5b79d9be229fffe4e1a177c8d408a516294e3"
+}

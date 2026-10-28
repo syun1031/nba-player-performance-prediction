@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500665",
+  "GAMEDATE": "2026-01-27",
+  "teams": [
+    "NYK",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "SAC",
+  "gameEt": "2026-01-27T19:30:00Z",
+  "gameTimeUTC": "2026-01-28T00:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-sac-0022500665",
+  "fetched_at_utc": "2026-10-21T07:00:51.721536+00:00",
+  "html_sha256": "f80fc090c02cbeed7f02b08b7364d4a75d98c97876431fb3b74445bac8fd8043"
+}

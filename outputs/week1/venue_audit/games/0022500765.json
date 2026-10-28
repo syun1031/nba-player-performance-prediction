@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500765",
+  "GAMEDATE": "2026-02-09",
+  "teams": [
+    "ATL",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "ATL",
+  "gameEt": "2026-02-09T20:00:00Z",
+  "gameTimeUTC": "2026-02-10T01:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-min-0022500765",
+  "fetched_at_utc": "2026-10-21T07:01:32.997518+00:00",
+  "html_sha256": "faa0f08e04274bf70bdcc942df24bd041d00ace9d4e34e06d0a6ec2b3fbc318d"
+}

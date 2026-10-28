@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500975",
+  "GAMEDATE": "2026-03-14",
+  "teams": [
+    "LAC",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "SAC",
+  "gameEt": "2026-03-14T22:30:00Z",
+  "gameTimeUTC": "2026-03-15T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-sac-0022500975",
+  "fetched_at_utc": "2026-10-21T07:02:55.169496+00:00",
+  "html_sha256": "3c5ccec95a85ef5732a4d3b6e9d4b695313d1da4ad5138fdcc262c3742016d29"
+}

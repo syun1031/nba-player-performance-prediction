@@ -1,0 +1,74 @@
+import fs from 'node:fs/promises';
+import assert from 'node:assert/strict';
+import { Workbook } from '@oai/artifact-tool';
+
+const dir = 'C:/Users/wangs/codex/outputs/nba_2024_25';
+const raw = JSON.parse(await fs.readFile(`${dir}/source_rows.json`, 'utf8'));
+const pages = JSON.parse(await fs.readFile(`${dir}/source_pages.json`, 'utf8'));
+assert.equal(raw.length, pages.expectedRows);
+const keys = new Set();
+const players = new Map();
+const games = new Map();
+const teams = new Map();
+for (const r of raw) {
+  assert.equal(r.values.length, 26);
+  const pid = r.links[0].split('/').at(-1);
+  const gid = r.links[2].split('/').at(-1);
+  assert.match(gid, /^00224\d{5}$/);
+  const key = `${pid}:${gid}`;
+  assert.ok(!keys.has(key), `Duplicate player-game ${key}`);
+  keys.add(key);
+  players.set(pid, r.values[0]);
+  const gameTeams = games.get(gid) || new Set();
+  gameTeams.add(r.values[1]);
+  games.set(gid, gameTeams);
+  const teamGames = teams.get(r.values[1]) || new Set();
+  teamGames.add(gid);
+  teams.set(r.values[1], teamGames);
+  for (const i of [5,6,7,8,18,19]) assert.ok(Number.isFinite(Number(r.values[i])));
+  const fg = r.values[9];
+  if (fg === '-') assert.equal(Number(r.values[8]), 0);
+  else {
+    assert.ok(Number(fg) >= 0 && Number(fg) <= 100);
+    assert.ok(Math.abs(Number(fg) - Number(r.values[7]) / Number(r.values[8]) * 100) <= 0.051);
+  }
+}
+assert.equal(games.size, 1230);
+assert.equal(teams.size, 30);
+for (const [gid, ts] of games) assert.equal(ts.size, 2, gid);
+for (const [t, gs] of teams) assert.equal(gs.size, 82, t);
+const date = v => {
+  const [m,d,y] = v.split('/');
+  return `${y}-${m}-${d}`;
+};
+const az = name => name.normalize('NFKD').replace(/\p{M}/gu,'').replace(/[^\p{L}\p{N}]/gu,'').toLowerCase();
+const compare = (a,b) => a < b ? -1 : a > b ? 1 : 0;
+raw.sort((a,b) => compare(az(a.values[0]),az(b.values[0])) || compare(date(a.values[3]),date(b.values[3])) || compare(a.links[2],b.links[2]));
+const headers = ['PLAYER','TEAM','MATCHUP','GAMEDATE','MIN','PTS','REB','AST'];
+const selected = [0,1,2,3,5,6,18,19];
+const rows = raw.map(r => selected.map((i,c) => c === 3 ? date(r.values[i]) : c >= 4 && r.values[i] !== '-' ? Number(r.values[i]) : r.values[i]));
+const workbook = Workbook.create();
+const sheet = workbook.worksheets.add('Player game logs');
+sheet.getRange(`A1:H${rows.length+1}`).values = [headers,...rows];
+sheet.getRange('A1:H12').format.font = {name:'Arial',size:10};
+sheet.getRange('A1:H1').format = {fill:'#17408B',font:{name:'Arial',size:10,bold:true,color:'#FFFFFF'}};
+sheet.getRange('A1:A12').format.columnWidth = 24;
+sheet.getRange('B1:B12').format.columnWidth = 9;
+sheet.getRange('C1:C12').format.columnWidth = 22;
+sheet.getRange('D1:D12').format.columnWidth = 15;
+sheet.getRange('E1:H12').format.columnWidth = 9;
+sheet.getRange('A1:H12').format.rowHeight = 21;
+
+workbook.recalculate();
+console.log((await workbook.inspect({kind:'table',range:'Player game logs!A1:H4',tableMaxRows:4,tableMaxCols:8,maxChars:2000})).ndjson);
+const preview = await workbook.render({sheetName:'Player game logs',range:'A1:H12',scale:1.5,format:'png'});
+await fs.writeFile(`${dir}/preview.png`,new Uint8Array(await preview.arrayBuffer()));
+const grid = sheet.getRange(`A1:H${rows.length+1}`).values;
+assert.equal(grid.length,26307);
+assert.deepEqual(grid[0],headers);
+const quote = v => /[",\r\n]/.test(String(v)) ? `"${String(v).replaceAll('"','""')}"` : String(v);
+const csv = grid.map((r,ri)=>r.map((v,ci)=>quote(v ?? '')).join(',')).join('\r\n')+'\r\n';
+await fs.writeFile(`${dir}/nba_2024_25_regular_season_player_game_logs.csv`,'\uFEFF'+csv,'utf8');
+const summary = {source:pages.url,rows:rows.length,players:players.size,games:games.size,teams:teams.size,dateFrom:date(raw.reduce((a,b)=>date(a.values[3])<date(b.values[3])?a:b).values[3]),dateTo:date(raw.reduce((a,b)=>date(a.values[3])>date(b.values[3])?a:b).values[3]),headers,first:rows[0],last:rows.at(-1),uniquePlayerGames:keys.size,eachTeamGames:82};
+await fs.writeFile(`${dir}/validation.json`,JSON.stringify(summary,null,2));
+console.log(JSON.stringify(summary));

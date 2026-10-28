@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500153",
+  "GAMEDATE": "2025-11-02",
+  "teams": [
+    "CHI",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "CHI",
+  "gameEt": "2025-11-02T19:00:00Z",
+  "gameTimeUTC": "2025-11-03T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-nyk-0022500153",
+  "fetched_at_utc": "2026-10-21T06:57:29.790424+00:00",
+  "html_sha256": "7dd6fddd5084bdb99bd7c65b6944717ea1cd2326aefb156b5854cd7404006be6"
+}

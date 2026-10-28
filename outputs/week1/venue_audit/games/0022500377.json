@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500377",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "DEN",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "ORL",
+  "gameEt": "2025-12-18T21:00:00Z",
+  "gameTimeUTC": "2025-12-19T02:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-orl-0022500377",
+  "fetched_at_utc": "2026-10-21T06:58:56.266466+00:00",
+  "html_sha256": "5c573c41f65ddf8dc5113f2e8731d5e76834dc12a5fdcd1395b5ee8a50e8958c"
+}

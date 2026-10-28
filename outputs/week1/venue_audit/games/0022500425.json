@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500425",
+  "GAMEDATE": "2025-12-26",
+  "teams": [
+    "TOR",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "TOR",
+  "gameEt": "2025-12-26T19:00:00Z",
+  "gameTimeUTC": "2025-12-27T00:00:00Z",
+  "source_url": "https://www.nba.com/game/tor-vs-was-0022500425",
+  "fetched_at_utc": "2026-10-21T06:59:17.159544+00:00",
+  "html_sha256": "8a828f3fa67fdc2d30bda02d2d90f5ae9ae49113bea59c6178b599d10da49187"
+}

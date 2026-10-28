@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500796",
+  "GAMEDATE": "2026-02-19",
+  "teams": [
+    "DET",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "DET",
+  "gameEt": "2026-02-19T19:30:00Z",
+  "gameTimeUTC": "2026-02-20T00:30:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-nyk-0022500796",
+  "fetched_at_utc": "2026-10-21T07:01:44.797570+00:00",
+  "html_sha256": "abf3bde6c4c3d7dcc7a41a1b9979f88e7c209c46e325bf38653f1f0ad2d2b024"
+}

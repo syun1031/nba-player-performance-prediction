@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500689",
+  "GAMEDATE": "2026-01-30",
+  "teams": [
+    "BOS",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "SAC",
+  "gameEt": "2026-01-30T19:30:00Z",
+  "gameTimeUTC": "2026-01-31T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-sac-0022500689",
+  "fetched_at_utc": "2026-10-21T07:01:00.293443+00:00",
+  "html_sha256": "b714faf4737cc668ce379104539f94df7c248c5508c14b7e6165b88f9b168fad"
+}

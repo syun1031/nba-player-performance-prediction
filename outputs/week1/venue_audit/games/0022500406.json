@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500406",
+  "GAMEDATE": "2025-12-22",
+  "teams": [
+    "MEM",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "MEM",
+  "gameEt": "2025-12-22T21:30:00Z",
+  "gameTimeUTC": "2025-12-23T02:30:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-okc-0022500406",
+  "fetched_at_utc": "2026-10-21T06:59:08.271395+00:00",
+  "html_sha256": "cad8e5ad98dbe76c96ccf58ceda66e7f36581863056658ad4269a745be6385fe"
+}

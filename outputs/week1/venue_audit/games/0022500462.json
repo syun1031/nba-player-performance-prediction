@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500462",
+  "GAMEDATE": "2025-12-31",
+  "teams": [
+    "CHA",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "GSW",
+  "gameEt": "2025-12-31T13:00:00Z",
+  "gameTimeUTC": "2025-12-31T18:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-gsw-0022500462",
+  "fetched_at_utc": "2026-10-21T06:59:32.526586+00:00",
+  "html_sha256": "08cd823c802b8eecf49ba5b6c37f5fafaed061fe9944f1429dc39128258c785c"
+}

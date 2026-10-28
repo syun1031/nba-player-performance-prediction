@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500223",
+  "GAMEDATE": "2025-11-12",
+  "teams": [
+    "ATL",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "ATL",
+  "gameEt": "2025-11-12T22:00:00Z",
+  "gameTimeUTC": "2025-11-13T03:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-sac-0022500223",
+  "fetched_at_utc": "2026-10-21T06:57:56.441322+00:00",
+  "html_sha256": "ee593269db575b41a6331ac8ef608b59fdeb606013134dc3929e5b1aa0aee14d"
+}

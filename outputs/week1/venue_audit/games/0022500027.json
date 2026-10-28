@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500027",
+  "GAMEDATE": "2025-10-31",
+  "teams": [
+    "LAC",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "NOP",
+  "gameEt": "2025-10-31T22:30:00Z",
+  "gameTimeUTC": "2025-11-01T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-nop-0022500027",
+  "fetched_at_utc": "2026-10-21T06:56:40.746156+00:00",
+  "html_sha256": "17bfd4f62e330bf4f15a5f169b5ecb83ccc1b643369e97bcf82243cfd93c56ca"
+}

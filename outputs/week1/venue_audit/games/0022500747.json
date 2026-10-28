@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500747",
+  "GAMEDATE": "2026-02-07",
+  "teams": [
+    "BKN",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "WAS",
+  "gameEt": "2026-02-07T15:00:00Z",
+  "gameTimeUTC": "2026-02-07T20:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-was-0022500747",
+  "fetched_at_utc": "2026-10-21T07:01:24.829257+00:00",
+  "html_sha256": "bb5428b526481d46d354562ce1d35fca289bb49e07788d23f7bd5fb90b95b8b0"
+}

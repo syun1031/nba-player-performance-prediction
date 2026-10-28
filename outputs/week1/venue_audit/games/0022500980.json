@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500980",
+  "GAMEDATE": "2026-03-15",
+  "teams": [
+    "PHI",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "POR",
+  "gameEt": "2026-03-15T18:00:00Z",
+  "gameTimeUTC": "2026-03-15T22:00:00Z",
+  "source_url": "https://www.nba.com/game/phi-vs-por-0022500980",
+  "fetched_at_utc": "2026-10-21T07:02:56.719529+00:00",
+  "html_sha256": "c2756168bdb04d31c25010ca6b6995ee553c308e23b92965f5a2a564b2ba3477"
+}

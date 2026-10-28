@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501114",
+  "GAMEDATE": "2026-04-02",
+  "teams": [
+    "CHA",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "PHX",
+  "gameEt": "2026-04-02T19:00:00Z",
+  "gameTimeUTC": "2026-04-02T23:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-phx-0022501114",
+  "fetched_at_utc": "2026-10-21T07:03:44.743903+00:00",
+  "html_sha256": "eae9ff5913ef4e9f315b288bdda1f24629798cedac4f32b807494cb660d2163e"
+}

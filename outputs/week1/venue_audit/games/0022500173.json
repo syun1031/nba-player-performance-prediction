@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500173",
+  "GAMEDATE": "2025-11-05",
+  "teams": [
+    "BKN",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "BKN",
+  "gameEt": "2025-11-05T19:00:00Z",
+  "gameTimeUTC": "2025-11-06T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-ind-0022500173",
+  "fetched_at_utc": "2026-10-21T06:57:37.679019+00:00",
+  "html_sha256": "e3ce374744ff24385f4de934edc8e9dba873744bf4d5ff3ce5b5c6f9abac55e6"
+}

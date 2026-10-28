@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500555",
+  "GAMEDATE": "2026-01-11",
+  "teams": [
+    "PHX",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "WAS",
+  "gameEt": "2026-01-11T20:00:00Z",
+  "gameTimeUTC": "2026-01-12T01:00:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-was-0022500555",
+  "fetched_at_utc": "2026-10-21T07:00:07.862260+00:00",
+  "html_sha256": "cbcc3392bdd33fe82e03b3f19a237b7105b377e34d745b6ed2868c7447b7db14"
+}

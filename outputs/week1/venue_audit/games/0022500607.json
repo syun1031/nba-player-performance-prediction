@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500607",
+  "GAMEDATE": "2026-01-18",
+  "teams": [
+    "LAL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "TOR",
+  "gameEt": "2026-01-18T21:30:00Z",
+  "gameTimeUTC": "2026-01-19T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-tor-0022500607",
+  "fetched_at_utc": "2026-10-21T07:00:26.462454+00:00",
+  "html_sha256": "cbcce7d0e4c3d5187ce2744531beb6ca9905eef61a0b4fa86b9665ee383648d4"
+}

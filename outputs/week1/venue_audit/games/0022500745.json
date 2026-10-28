@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500745",
+  "GAMEDATE": "2026-02-06",
+  "teams": [
+    "MEM",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "MEM",
+  "gameEt": "2026-02-06T22:00:00Z",
+  "gameTimeUTC": "2026-02-07T03:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-por-0022500745",
+  "fetched_at_utc": "2026-10-21T07:01:24.196132+00:00",
+  "html_sha256": "44705c77976dfa07625c227337096f48699732fc576832daea6af5fac3a505a0"
+}

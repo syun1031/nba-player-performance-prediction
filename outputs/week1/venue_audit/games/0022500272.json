@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500272",
+  "GAMEDATE": "2025-11-22",
+  "teams": [
+    "DET",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "DET",
+  "gameEt": "2025-11-22T20:00:00Z",
+  "gameTimeUTC": "2025-11-23T01:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-mil-0022500272",
+  "fetched_at_utc": "2026-10-21T06:58:15.529452+00:00",
+  "html_sha256": "1cffb4e0c304adaebe42ecb94b37c5a92ba0a9ede373df850a960850770f1873"
+}

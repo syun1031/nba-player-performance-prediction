@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500391",
+  "GAMEDATE": "2025-12-20",
+  "teams": [
+    "MEM",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "WAS",
+  "gameEt": "2025-12-20T20:00:00Z",
+  "gameTimeUTC": "2025-12-21T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-was-0022500391",
+  "fetched_at_utc": "2026-10-21T06:59:02.765408+00:00",
+  "html_sha256": "9c97d81cfd5991ad2fe2fcc33d2e8e6d1e84835abd57a89af60335231fa2c0df"
+}

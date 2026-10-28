@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500721",
+  "GAMEDATE": "2026-02-03",
+  "teams": [
+    "BOS",
+    "DAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "BOS",
+  "gameEt": "2026-02-03T20:00:00Z",
+  "gameTimeUTC": "2026-02-04T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-dal-0022500721",
+  "fetched_at_utc": "2026-10-21T07:01:13.975478+00:00",
+  "html_sha256": "2b454463d3a0a3070c27e6843bf8d37ef50bae4d593ef53a8c82a52ee9f697f8"
+}

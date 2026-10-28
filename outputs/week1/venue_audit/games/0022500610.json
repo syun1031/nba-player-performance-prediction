@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500610",
+  "GAMEDATE": "2026-01-19",
+  "teams": [
+    "BKN",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "PHX",
+  "gameEt": "2026-01-19T19:30:00Z",
+  "gameTimeUTC": "2026-01-20T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-phx-0022500610",
+  "fetched_at_utc": "2026-10-21T07:00:28.819406+00:00",
+  "html_sha256": "917f9aa7aec8cc12424736b91eb3f86c2de01437781010e6db99a0e182d6abc9"
+}

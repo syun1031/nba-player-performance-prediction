@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500217",
+  "GAMEDATE": "2025-11-12",
+  "teams": [
+    "CLE",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "CLE",
+  "gameEt": "2025-11-12T19:30:00Z",
+  "gameTimeUTC": "2025-11-13T00:30:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-mia-0022500217",
+  "fetched_at_utc": "2026-10-21T06:57:54.079322+00:00",
+  "html_sha256": "989b0a9886f03bcddda727476a38a85f391cc8b5a886846151868e5b3b778b03"
+}

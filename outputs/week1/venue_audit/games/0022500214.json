@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500214",
+  "GAMEDATE": "2025-11-12",
+  "teams": [
+    "CHI",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "CHI",
+  "gameEt": "2025-11-12T19:00:00Z",
+  "gameTimeUTC": "2025-11-13T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-det-0022500214",
+  "fetched_at_utc": "2026-10-21T06:57:52.809062+00:00",
+  "html_sha256": "deb0ef25da653a2c35573eee6088773b3459e0c92715e8212a30973d58fa3af0"
+}

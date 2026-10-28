@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500304",
+  "GAMEDATE": "2025-11-30",
+  "teams": [
+    "ATL",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "ATL",
+  "gameEt": "2025-11-30T18:00:00Z",
+  "gameTimeUTC": "2025-11-30T23:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-phi-0022500304",
+  "fetched_at_utc": "2026-10-21T06:58:28.732527+00:00",
+  "html_sha256": "7bd29bfb0157a7236c5ac88207f00f24c05b3579ac16990757f82ff70828d148"
+}

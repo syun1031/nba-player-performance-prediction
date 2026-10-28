@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500578",
+  "GAMEDATE": "2026-01-15",
+  "teams": [
+    "MEM",
+    "ORL"
+  ],
+  "isNeutral": true,
+  "arena": {
+    "arenaId": 1000153,
+    "arenaName": "Uber Arena",
+    "arenaCity": "Berlin",
+    "arenaState": "",
+    "arenaCountry": "DE",
+    "arenaTimezone": "",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "MEM",
+  "gameEt": "2026-01-15T14:00:00Z",
+  "gameTimeUTC": "2026-01-15T19:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-orl-0022500578",
+  "fetched_at_utc": "2026-10-21T07:00:16.699184+00:00",
+  "html_sha256": "758502c02b96589d989e1fe3b6632a4c157f848a943de0ee57ec5ec041dd7d18"
+}

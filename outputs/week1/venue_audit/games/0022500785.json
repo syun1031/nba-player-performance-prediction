@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500785",
+  "GAMEDATE": "2026-02-11",
+  "teams": [
+    "OKC",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "OKC",
+  "gameEt": "2026-02-11T21:00:00Z",
+  "gameTimeUTC": "2026-02-12T02:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-phx-0022500785",
+  "fetched_at_utc": "2026-10-21T07:01:39.768274+00:00",
+  "html_sha256": "fa5ccf9578b4ed9a6fea115c09bc88e719110af51d6050d4ef2f6ad340a2c7fd"
+}

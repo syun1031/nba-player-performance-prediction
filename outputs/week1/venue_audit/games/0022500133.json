@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500133",
+  "GAMEDATE": "2025-10-29",
+  "teams": [
+    "DAL",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "IND",
+  "gameEt": "2025-10-29T20:30:00Z",
+  "gameTimeUTC": "2025-10-30T00:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-ind-0022500133",
+  "fetched_at_utc": "2026-10-21T06:57:22.309205+00:00",
+  "html_sha256": "cb6e734ec908c4e631c9cba0d5a74def2fab351fad3831bf906310d7672f1fce"
+}

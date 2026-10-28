@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500964",
+  "GAMEDATE": "2026-03-13",
+  "teams": [
+    "HOU",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "NOP",
+  "gameEt": "2026-03-13T20:00:00Z",
+  "gameTimeUTC": "2026-03-14T00:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-nop-0022500964",
+  "fetched_at_utc": "2026-10-21T07:02:51.896262+00:00",
+  "html_sha256": "28839ac739fa2f976d7483fa60c815183af11da3613fe16391ac3b907b9f7c73"
+}

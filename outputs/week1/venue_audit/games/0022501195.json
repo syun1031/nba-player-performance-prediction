@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501195",
+  "GAMEDATE": "2026-04-12",
+  "teams": [
+    "MIN",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "NOP",
+  "gameEt": "2026-04-12T20:30:00Z",
+  "gameTimeUTC": "2026-04-13T00:30:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-nop-0022501195",
+  "fetched_at_utc": "2026-10-21T07:04:24.173022+00:00",
+  "html_sha256": "828cd691c188f4a58d4c064d411c5ea97ef1c24cc1f998f29f49e5576b426184"
+}

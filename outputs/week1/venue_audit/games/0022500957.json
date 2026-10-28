@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500957",
+  "GAMEDATE": "2026-03-12",
+  "teams": [
+    "MIA",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "MIL",
+  "gameEt": "2026-03-12T19:30:00Z",
+  "gameTimeUTC": "2026-03-12T23:30:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-mil-0022500957",
+  "fetched_at_utc": "2026-10-21T07:02:49.422585+00:00",
+  "html_sha256": "ba7865e229d8bd3386ed3f125625b76fba75cb5c5c1b50b3dbb7726539efbd97"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500392",
+  "GAMEDATE": "2025-12-20",
+  "teams": [
+    "GSW",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "PHX",
+  "gameEt": "2025-12-20T20:30:00Z",
+  "gameTimeUTC": "2025-12-21T01:30:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-phx-0022500392",
+  "fetched_at_utc": "2026-10-21T06:59:02.769403+00:00",
+  "html_sha256": "b1f00e20849a81888dbd09b0dfe6ce30b7688c82a51fedfb7a55d60b730dcd2c"
+}

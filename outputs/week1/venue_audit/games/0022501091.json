@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501091",
+  "GAMEDATE": "2026-03-30",
+  "teams": [
+    "MIA",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "PHI",
+  "gameEt": "2026-03-30T19:00:00Z",
+  "gameTimeUTC": "2026-03-30T23:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-phi-0022501091",
+  "fetched_at_utc": "2026-10-21T07:03:36.481455+00:00",
+  "html_sha256": "435d5e7686ec58f3112b0722052dc03b0379bdc4cd596a0da361a9697e218d59"
+}

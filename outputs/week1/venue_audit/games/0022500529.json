@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500529",
+  "GAMEDATE": "2026-01-29",
+  "teams": [
+    "CHI",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "MIA",
+  "gameEt": "2026-01-29T20:00:00Z",
+  "gameTimeUTC": "2026-01-30T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-mia-0022500529",
+  "fetched_at_utc": "2026-10-21T06:59:57.299429+00:00",
+  "html_sha256": "4ca9b11aff14dcd1ee267dc116c5e5577d40da306323c99744e8ca93acda2164"
+}

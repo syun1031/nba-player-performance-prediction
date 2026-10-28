@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501103",
+  "GAMEDATE": "2026-03-31",
+  "teams": [
+    "CLE",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "CLE",
+  "gameEt": "2026-03-31T22:30:00Z",
+  "gameTimeUTC": "2026-04-01T02:30:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-lal-0022501103",
+  "fetched_at_utc": "2026-10-21T07:03:42.063325+00:00",
+  "html_sha256": "18d6b2c1b3773a316af197bdf003addd5cf65e446033d9c92c854787c03442f0"
+}

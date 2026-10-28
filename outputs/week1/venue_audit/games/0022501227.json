@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501227",
+  "GAMEDATE": "2025-12-15",
+  "teams": [
+    "MIA",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "TOR",
+  "gameEt": "2025-12-15T19:30:00Z",
+  "gameTimeUTC": "2025-12-16T00:30:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-tor-0022501227",
+  "fetched_at_utc": "2026-10-21T07:04:35.242737+00:00",
+  "html_sha256": "149e7a8ace852e27bcfdf4a5455761234e7aeeab2ed5dbce9cd72a947685acd2"
+}

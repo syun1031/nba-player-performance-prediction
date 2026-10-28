@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500130",
+  "GAMEDATE": "2025-10-29",
+  "teams": [
+    "ATL",
+    "BKN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "ATL",
+  "gameEt": "2025-10-29T19:30:00Z",
+  "gameTimeUTC": "2025-10-29T23:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-bkn-0022500130",
+  "fetched_at_utc": "2026-10-21T06:57:20.868934+00:00",
+  "html_sha256": "8d8aef59673831912b7b6a8074fdb48ee943fee4c6a8222c78f0137d3fe8116a"
+}

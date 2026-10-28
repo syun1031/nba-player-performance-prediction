@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500750",
+  "GAMEDATE": "2026-02-07",
+  "teams": [
+    "ORL",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "UTA",
+  "gameEt": "2026-02-07T19:00:00Z",
+  "gameTimeUTC": "2026-02-08T00:00:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-uta-0022500750",
+  "fetched_at_utc": "2026-10-21T07:01:25.897971+00:00",
+  "html_sha256": "b1deefa47920764133deb5d79d5794386c9f990ce56bddcc0801dcbf3f9aaf64"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500586",
+  "GAMEDATE": "2026-01-15",
+  "teams": [
+    "CHA",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "CHA",
+  "gameEt": "2026-01-15T22:30:00Z",
+  "gameTimeUTC": "2026-01-16T03:30:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-lal-0022500586",
+  "fetched_at_utc": "2026-10-21T07:00:19.336258+00:00",
+  "html_sha256": "84f7c50ac8f4578ba72e393b1ecd1de5b2bf87b7e8ccc1d5bd4ff5972aa61f03"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500713",
+  "GAMEDATE": "2026-02-02",
+  "teams": [
+    "HOU",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "HOU",
+  "gameEt": "2026-02-02T19:00:00Z",
+  "gameTimeUTC": "2026-02-03T00:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-ind-0022500713",
+  "fetched_at_utc": "2026-10-21T07:01:11.077532+00:00",
+  "html_sha256": "1ed4b3595566bbf56ab8fe2134fa4be8a94d463f4d4fde875797a05669179599"
+}

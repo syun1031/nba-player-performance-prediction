@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501014",
+  "GAMEDATE": "2026-03-19",
+  "teams": [
+    "MIL",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "MIL",
+  "gameEt": "2026-03-19T21:00:00Z",
+  "gameTimeUTC": "2026-03-20T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-uta-0022501014",
+  "fetched_at_utc": "2026-10-21T07:03:08.906907+00:00",
+  "html_sha256": "25634a0fb2bbbdde2facd17d661679c96c7e30c10427796b6cc5e7fadcf7c893"
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_model": "xgboost",
+  "candidate_features": "starter",
+  "residual_definition": "actual_minus_prediction; positive=underestimated; negative=overestimated",
+  "metrics": {
+    "n": 3462,
+    "mae": 4.611462583265023,
+    "rmse": 5.971036372030776,
+    "mean_residual": 0.23516806631264556,
+    "median_absolute_error": 3.7017648220062256,
+    "p90_absolute_error": 9.82658681869507,
+    "within_5_rate": 0.6334488734835355,
+    "within_10_rate": 0.9043905257076834,
+    "actual_mean": 10.792894280762566,
+    "prediction_mean": 10.55772621444992,
+    "baseline_mae": 4.797746967071057,
+    "baseline_rmse": 6.278220171900877,
+    "delta_mae": -0.18628438380603374
+  },
+  "players": 442,
+  "case_eligible_players": 275,
+  "case_min_validation_games": 8,
+  "cases": [
+    {
+      "role": "most_improved",
+      "player_id": "Luka Dončić"
+    },
+    {
+      "role": "most_worsened",
+      "player_id": "Tyrese Maxey"
+    },
+    {
+      "role": "typical",
+      "player_id": "Reed Sheppard"
+    }
+  ],
+  "test_metrics_computed": false,
+  "model_fits_performed": 0
+}

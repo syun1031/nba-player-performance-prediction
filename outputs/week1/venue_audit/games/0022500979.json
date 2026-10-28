@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500979",
+  "GAMEDATE": "2026-03-15",
+  "teams": [
+    "IND",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "IND",
+  "gameEt": "2026-03-15T15:30:00Z",
+  "gameTimeUTC": "2026-03-15T19:30:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-mil-0022500979",
+  "fetched_at_utc": "2026-10-21T07:02:56.359519+00:00",
+  "html_sha256": "2d1f5c23d36e035ddaf556d52b246f2f23be488cc757defc7ef8b5d52c3a9678"
+}

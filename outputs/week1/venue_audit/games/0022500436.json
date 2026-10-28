@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500436",
+  "GAMEDATE": "2025-12-27",
+  "teams": [
+    "IND",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "IND",
+  "gameEt": "2025-12-27T20:00:00Z",
+  "gameTimeUTC": "2025-12-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-mia-0022500436",
+  "fetched_at_utc": "2026-10-21T06:59:22.333558+00:00",
+  "html_sha256": "8791d9bf6d020cab5fe79046b597fbbc019c7858bcb1bcc4bdcec0fd921ff163"
+}

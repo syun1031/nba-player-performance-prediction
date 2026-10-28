@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501070",
+  "GAMEDATE": "2026-03-27",
+  "teams": [
+    "CHI",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "CHI",
+  "gameEt": "2026-03-27T20:00:00Z",
+  "gameTimeUTC": "2026-03-28T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-okc-0022501070",
+  "fetched_at_utc": "2026-10-21T07:03:29.969684+00:00",
+  "html_sha256": "7724fbbaf0a92aad84a7fa576c811b3cd1e994c9bf0bce34460f1ddd3256b99f"
+}

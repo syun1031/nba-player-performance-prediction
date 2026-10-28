@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501107",
+  "GAMEDATE": "2026-04-01",
+  "teams": [
+    "ATL",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "ATL",
+  "gameEt": "2026-04-01T19:00:00Z",
+  "gameTimeUTC": "2026-04-01T23:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-orl-0022501107",
+  "fetched_at_utc": "2026-10-21T07:03:42.485684+00:00",
+  "html_sha256": "0922f2b04f429f14bb9424dd524743a2e717eb103c646d2c67e7138c7638ba1c"
+}

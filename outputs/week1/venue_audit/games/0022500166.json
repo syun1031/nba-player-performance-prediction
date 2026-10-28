@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500166",
+  "GAMEDATE": "2025-11-04",
+  "teams": [
+    "ATL",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "ORL",
+  "gameEt": "2025-11-04T20:00:00Z",
+  "gameTimeUTC": "2025-11-05T01:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-orl-0022500166",
+  "fetched_at_utc": "2026-10-21T06:57:35.239191+00:00",
+  "html_sha256": "513bb133aacbd458780a30f8018887b337f3d1bf852d2d2dc7ac057f8bac4841"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500022",
+  "GAMEDATE": "2025-10-31",
+  "teams": [
+    "CLE",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "TOR",
+  "gameEt": "2025-10-31T19:30:00Z",
+  "gameTimeUTC": "2025-10-31T23:30:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-tor-0022500022",
+  "fetched_at_utc": "2026-10-21T06:56:38.669168+00:00",
+  "html_sha256": "de6701a5decf11fb9285d548e3555b2bb3ae253753db0a2ce244fff5c4733dc9"
+}

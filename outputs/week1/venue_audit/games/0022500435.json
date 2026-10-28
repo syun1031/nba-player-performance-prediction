@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500435",
+  "GAMEDATE": "2025-12-27",
+  "teams": [
+    "ATL",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "NYK",
+  "gameEt": "2025-12-27T20:00:00Z",
+  "gameTimeUTC": "2025-12-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-nyk-0022500435",
+  "fetched_at_utc": "2026-10-21T06:59:21.401562+00:00",
+  "html_sha256": "68b37985f865e9b750042d70303e6a2d53f4590e6e7d707a8d0792027dd3f84e"
+}

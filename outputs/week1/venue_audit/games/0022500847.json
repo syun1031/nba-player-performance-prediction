@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500847",
+  "GAMEDATE": "2026-02-25",
+  "teams": [
+    "BOS",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "BOS",
+  "gameEt": "2026-02-25T22:00:00Z",
+  "gameTimeUTC": "2026-02-26T03:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-den-0022500847",
+  "fetched_at_utc": "2026-10-21T07:02:06.501761+00:00",
+  "html_sha256": "da7a64edc8b1bc89047a7d025f0bd5d796636e967a140fa4ca738ca075e29eff"
+}

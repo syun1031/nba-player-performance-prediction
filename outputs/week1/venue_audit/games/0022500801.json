@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500801",
+  "GAMEDATE": "2026-02-19",
+  "teams": [
+    "DEN",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "DEN",
+  "gameEt": "2026-02-19T22:30:00Z",
+  "gameTimeUTC": "2026-02-20T03:30:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-lac-0022500801",
+  "fetched_at_utc": "2026-10-21T07:01:46.932113+00:00",
+  "html_sha256": "ab21eb485900cde5490cf2c836e5878c4b16bbf5df79880799f13228f9630320"
+}

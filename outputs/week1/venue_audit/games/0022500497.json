@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500497",
+  "GAMEDATE": "2026-01-04",
+  "teams": [
+    "MIA",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "NOP",
+  "gameEt": "2026-01-04T18:00:00Z",
+  "gameTimeUTC": "2026-01-04T23:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-nop-0022500497",
+  "fetched_at_utc": "2026-10-21T06:59:44.987282+00:00",
+  "html_sha256": "de6786dd14533a411ddd3e072b57d4c7abb4164e061030094cb2e16545ba0570"
+}

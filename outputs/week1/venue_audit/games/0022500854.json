@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500854",
+  "GAMEDATE": "2026-02-26",
+  "teams": [
+    "DAL",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "SAC",
+  "gameEt": "2026-02-26T20:30:00Z",
+  "gameTimeUTC": "2026-02-27T01:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-sac-0022500854",
+  "fetched_at_utc": "2026-10-21T07:02:10.685528+00:00",
+  "html_sha256": "fcdc23237b90dfcb4f526caba754ab72da10625c0a8cbefe314fef833d33befd"
+}

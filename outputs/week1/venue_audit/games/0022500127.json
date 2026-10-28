@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500127",
+  "GAMEDATE": "2025-10-28",
+  "teams": [
+    "GSW",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "LAC",
+  "gameEt": "2025-10-28T23:00:00Z",
+  "gameTimeUTC": "2025-10-29T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-lac-0022500127",
+  "fetched_at_utc": "2026-10-21T06:57:20.442762+00:00",
+  "html_sha256": "a5546b3ca9c252d14736dfaeb6f23283c670760bdc21ee2c67d3a8a5cfbb04a3"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500332",
+  "GAMEDATE": "2025-12-03",
+  "teams": [
+    "DAL",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "MIA",
+  "gameEt": "2025-12-03T20:30:00Z",
+  "gameTimeUTC": "2025-12-04T01:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-mia-0022500332",
+  "fetched_at_utc": "2026-10-21T06:58:38.932961+00:00",
+  "html_sha256": "bbaaead36d9ec603d4a0de5d37599ca5bb9a02cf80477b6bd9b21980ef337106"
+}

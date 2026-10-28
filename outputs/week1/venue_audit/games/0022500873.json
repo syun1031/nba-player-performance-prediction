@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500873",
+  "GAMEDATE": "2026-03-01",
+  "teams": [
+    "ATL",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "POR",
+  "gameEt": "2026-03-01T18:00:00Z",
+  "gameTimeUTC": "2026-03-01T23:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-por-0022500873",
+  "fetched_at_utc": "2026-10-21T07:02:17.269828+00:00",
+  "html_sha256": "7b94e8e7c95f6d899f69addcfae8c8547872dcfd76af44a8c5acfc47e7b43275"
+}

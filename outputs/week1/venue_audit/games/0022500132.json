@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500132",
+  "GAMEDATE": "2025-10-29",
+  "teams": [
+    "CHI",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "SAC",
+  "gameEt": "2025-10-29T20:00:00Z",
+  "gameTimeUTC": "2025-10-30T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-sac-0022500132",
+  "fetched_at_utc": "2026-10-21T06:57:21.587449+00:00",
+  "html_sha256": "02842dba140ab288074460ae9589f8cc7a6fb3a0f8e627e1cfd5f37c05e817b2"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500236",
+  "GAMEDATE": "2025-11-16",
+  "teams": [
+    "HOU",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "ORL",
+  "gameEt": "2025-11-16T19:00:00Z",
+  "gameTimeUTC": "2025-11-17T00:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-orl-0022500236",
+  "fetched_at_utc": "2026-10-21T06:58:00.198155+00:00",
+  "html_sha256": "048f589a375101fa6aee8a61d92464acd0b54c06d5098175b92eeb2235bca4ea"
+}

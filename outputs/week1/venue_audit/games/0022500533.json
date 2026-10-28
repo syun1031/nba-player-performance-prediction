@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500533",
+  "GAMEDATE": "2026-01-09",
+  "teams": [
+    "ORL",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "PHI",
+  "gameEt": "2026-01-09T19:00:00Z",
+  "gameTimeUTC": "2026-01-10T00:00:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-phi-0022500533",
+  "fetched_at_utc": "2026-10-21T06:59:58.814353+00:00",
+  "html_sha256": "0b0ae9e3cfd97f893ade8389bb0fa2742c7ad1078c4191fdc1d33dd3977da300"
+}

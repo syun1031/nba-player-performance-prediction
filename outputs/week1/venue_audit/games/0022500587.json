@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500587",
+  "GAMEDATE": "2026-01-16",
+  "teams": [
+    "BKN",
+    "CHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "CHI",
+  "gameEt": "2026-01-16T19:30:00Z",
+  "gameTimeUTC": "2026-01-17T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-chi-0022500587",
+  "fetched_at_utc": "2026-10-21T07:00:19.799124+00:00",
+  "html_sha256": "541b82630ec89d0b9d66bcae7404118e8dbb5ad701373da53e91b039d6cb726e"
+}

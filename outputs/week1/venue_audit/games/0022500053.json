@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500053",
+  "GAMEDATE": "2025-11-21",
+  "teams": [
+    "MIN",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "MIN",
+  "gameEt": "2025-11-21T21:00:00Z",
+  "gameTimeUTC": "2025-11-22T02:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-phx-0022500053",
+  "fetched_at_utc": "2026-10-21T06:56:51.359066+00:00",
+  "html_sha256": "e4bda2bbccc53c7c696d083fa380d4a5f6b86222de219aaed96172b5ae2b5fd1"
+}

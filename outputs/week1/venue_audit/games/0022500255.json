@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500255",
+  "GAMEDATE": "2025-11-19",
+  "teams": [
+    "CLE",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "HOU",
+  "gameEt": "2025-11-19T19:00:00Z",
+  "gameTimeUTC": "2025-11-20T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-hou-0022500255",
+  "fetched_at_utc": "2026-10-21T06:58:09.528916+00:00",
+  "html_sha256": "2cbddfa72cb9924a634e1cb98eab227c626c528abe347f2abcc91e732f56223e"
+}

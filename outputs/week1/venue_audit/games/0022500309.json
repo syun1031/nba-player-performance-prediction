@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500309",
+  "GAMEDATE": "2025-12-01",
+  "teams": [
+    "ATL",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "ATL",
+  "gameEt": "2025-12-01T19:00:00Z",
+  "gameTimeUTC": "2025-12-02T00:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-det-0022500309",
+  "fetched_at_utc": "2026-10-21T06:58:30.234858+00:00",
+  "html_sha256": "f02477b607e10f0a1aaba07f754468caa9efdfe5a96aa09fb25b1a614aaace52"
+}

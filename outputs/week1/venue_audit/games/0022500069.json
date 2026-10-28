@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500069",
+  "GAMEDATE": "2025-11-28",
+  "teams": [
+    "ATL",
+    "CLE"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "CLE",
+  "gameEt": "2025-11-28T19:30:00Z",
+  "gameTimeUTC": "2025-11-29T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-cle-0022500069",
+  "fetched_at_utc": "2026-10-21T06:56:57.783116+00:00",
+  "html_sha256": "182c6f99f2c7b4750df8c82e0d2799c09edfb9a4ce3be2030190f3630d6c5bf7"
+}

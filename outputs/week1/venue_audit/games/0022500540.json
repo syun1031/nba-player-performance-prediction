@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500540",
+  "GAMEDATE": "2026-01-09",
+  "teams": [
+    "HOU",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "HOU",
+  "gameEt": "2026-01-09T22:00:00Z",
+  "gameTimeUTC": "2026-01-10T03:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-por-0022500540",
+  "fetched_at_utc": "2026-10-21T07:00:01.240480+00:00",
+  "html_sha256": "0c3cbd8c535bce6bd9f0b2ce3d8907b2b9d124c7ee2b082ce846d5e960eb1f39"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500881",
+  "GAMEDATE": "2026-03-02",
+  "teams": [
+    "DEN",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "DEN",
+  "gameEt": "2026-03-02T21:00:00Z",
+  "gameTimeUTC": "2026-03-03T02:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-uta-0022500881",
+  "fetched_at_utc": "2026-10-21T07:02:20.809505+00:00",
+  "html_sha256": "ce31a18747d5c273cd41b6cc267a7bb94bd7898990d3489cdaab547bf74e2f62"
+}

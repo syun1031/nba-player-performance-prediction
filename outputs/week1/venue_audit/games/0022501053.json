@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501053",
+  "GAMEDATE": "2026-03-25",
+  "teams": [
+    "CHI",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "CHI",
+  "gameEt": "2026-03-25T19:00:00Z",
+  "gameTimeUTC": "2026-03-25T23:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-phi-0022501053",
+  "fetched_at_utc": "2026-10-21T07:03:22.833225+00:00",
+  "html_sha256": "47904f095119d2d00000fc92e7bb518aaf4809eb4f9fc630ea57e904dd91380e"
+}

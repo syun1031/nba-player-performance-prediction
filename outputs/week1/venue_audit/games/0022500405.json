@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500405",
+  "GAMEDATE": "2025-12-22",
+  "teams": [
+    "DEN",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "UTA",
+  "gameEt": "2025-12-22T21:00:00Z",
+  "gameTimeUTC": "2025-12-23T02:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-uta-0022500405",
+  "fetched_at_utc": "2026-10-21T06:59:06.989168+00:00",
+  "html_sha256": "fb9117b71c4948e86203edb4a329160903eb7ba81e32066890cfd1da49dbe073"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500185",
+  "GAMEDATE": "2025-11-08",
+  "teams": [
+    "ATL",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "LAL",
+  "gameEt": "2025-11-08T20:00:00Z",
+  "gameTimeUTC": "2025-11-09T01:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-lal-0022500185",
+  "fetched_at_utc": "2026-10-21T06:57:42.033238+00:00",
+  "html_sha256": "9476a7c1e5f211fd03b6d575937a2f55713782a8b283ee77c69c5cab56c55da9"
+}

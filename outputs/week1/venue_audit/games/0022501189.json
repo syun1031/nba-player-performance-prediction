@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501189",
+  "GAMEDATE": "2026-04-12",
+  "teams": [
+    "ATL",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "ATL",
+  "gameEt": "2026-04-12T18:00:00Z",
+  "gameTimeUTC": "2026-04-12T22:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-mia-0022501189",
+  "fetched_at_utc": "2026-10-21T07:04:20.334922+00:00",
+  "html_sha256": "18cd404670582435cb293002b33f01bf2cffe750c32a5baa3ae6f6e6122feadd"
+}

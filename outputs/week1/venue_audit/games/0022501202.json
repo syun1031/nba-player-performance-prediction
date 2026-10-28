@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501202",
+  "GAMEDATE": "2025-12-09",
+  "teams": [
+    "NYK",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "NYK",
+  "gameEt": "2025-12-09T20:30:00Z",
+  "gameTimeUTC": "2025-12-10T01:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-tor-0022501202",
+  "fetched_at_utc": "2026-10-21T07:04:26.442067+00:00",
+  "html_sha256": "f2b8ee83051c5d3fc578e7e3bc38976b7805580526a823c959cabc3d6705a9d9"
+}

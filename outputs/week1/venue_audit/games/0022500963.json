@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500963",
+  "GAMEDATE": "2026-03-13",
+  "teams": [
+    "PHX",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "PHX",
+  "gameEt": "2026-03-13T19:30:00Z",
+  "gameTimeUTC": "2026-03-13T23:30:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-tor-0022500963",
+  "fetched_at_utc": "2026-10-21T07:02:51.589313+00:00",
+  "html_sha256": "db6235b0d868f3ac3f2a1abf1a50c62eb8e963ffe209e0713c51dac47f991e88"
+}

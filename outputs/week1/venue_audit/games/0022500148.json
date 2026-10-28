@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500148",
+  "GAMEDATE": "2025-11-02",
+  "teams": [
+    "NOP",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "NOP",
+  "gameEt": "2025-11-02T15:30:00Z",
+  "gameTimeUTC": "2025-11-02T20:30:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-okc-0022500148",
+  "fetched_at_utc": "2026-10-21T06:57:28.252609+00:00",
+  "html_sha256": "4ec150472c28d801fcc4c865cbcd05f0b6d6e716d5d166bbbccec605d0a0e355"
+}

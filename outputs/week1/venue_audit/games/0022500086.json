@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500086",
+  "GAMEDATE": "2025-10-22",
+  "teams": [
+    "MIL",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "WAS",
+  "gameEt": "2025-10-22T20:00:00Z",
+  "gameTimeUTC": "2025-10-23T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-was-0022500086",
+  "fetched_at_utc": "2026-10-21T06:57:03.841228+00:00",
+  "html_sha256": "666d07973b037ade60cd2bffd2fddbd3ec26c7b32ca6dd5090b2490a1f7f6ae9"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500535",
+  "GAMEDATE": "2026-01-09",
+  "teams": [
+    "BKN",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "LAC",
+  "gameEt": "2026-01-09T19:30:00Z",
+  "gameTimeUTC": "2026-01-10T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-lac-0022500535",
+  "fetched_at_utc": "2026-10-21T06:59:59.755956+00:00",
+  "html_sha256": "f6293fe2a6b30f46ffb14a25a02b7956ce96c4fc44d8d899e57dfce0a2595598"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500891",
+  "GAMEDATE": "2026-03-03",
+  "teams": [
+    "LAL",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "NOP",
+  "gameEt": "2026-03-03T22:30:00Z",
+  "gameTimeUTC": "2026-03-04T03:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-nop-0022500891",
+  "fetched_at_utc": "2026-10-21T07:02:23.904500+00:00",
+  "html_sha256": "9dd94b988712dcc18fcd8131d307779231c129306d5ad8bcca12c89ef74351fa"
+}

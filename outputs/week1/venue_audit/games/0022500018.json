@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500018",
+  "GAMEDATE": "2025-10-24",
+  "teams": [
+    "BOS",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "BOS",
+  "gameEt": "2025-10-24T19:30:00Z",
+  "gameTimeUTC": "2025-10-24T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-nyk-0022500018",
+  "fetched_at_utc": "2026-10-21T06:56:38.035065+00:00",
+  "html_sha256": "b144aebe439f4d6988b10cc2d5a95b98efbd4a7dd32302f1df2ff72e3501502f"
+}

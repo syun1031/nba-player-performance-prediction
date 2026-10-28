@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500673",
+  "GAMEDATE": "2026-01-28",
+  "teams": [
+    "ATL",
+    "BOS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "ATL",
+  "gameEt": "2026-01-28T19:30:00Z",
+  "gameTimeUTC": "2026-01-29T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-bos-0022500673",
+  "fetched_at_utc": "2026-10-21T07:00:54.070174+00:00",
+  "html_sha256": "d036bb74067dfb62deab8c8b7b09259b44bebb3c6eb6d20cc57f35a5d33daff2"
+}

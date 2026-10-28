@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500942",
+  "GAMEDATE": "2026-03-10",
+  "teams": [
+    "BOS",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "BOS",
+  "gameEt": "2026-03-10T20:00:00Z",
+  "gameTimeUTC": "2026-03-11T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-sas-0022500942",
+  "fetched_at_utc": "2026-10-21T07:02:45.135073+00:00",
+  "html_sha256": "082ae6529209b25b601a6a50e74a9ee179e9da4556ff542073d74927d54927fd"
+}

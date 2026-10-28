@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500467",
+  "GAMEDATE": "2025-12-31",
+  "teams": [
+    "NYK",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "NYK",
+  "gameEt": "2025-12-31T19:00:00Z",
+  "gameTimeUTC": "2026-01-01T00:00:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-sas-0022500467",
+  "fetched_at_utc": "2026-10-21T06:59:34.191458+00:00",
+  "html_sha256": "c3e80e8b4e7dfe2d22f28e29040363119f08ba9e3c81d0d6bd75b86aea4ec793"
+}

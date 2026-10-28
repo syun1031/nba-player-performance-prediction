@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500083",
+  "GAMEDATE": "2025-10-22",
+  "teams": [
+    "BOS",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "PHI",
+  "gameEt": "2025-10-22T19:30:00Z",
+  "gameTimeUTC": "2025-10-22T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-phi-0022500083",
+  "fetched_at_utc": "2026-10-21T06:57:02.460156+00:00",
+  "html_sha256": "936b8b02265998327c94acec17d9bb9fae86bc2436f327655ec5cf7759c222d7"
+}

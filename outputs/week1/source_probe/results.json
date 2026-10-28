@@ -1,0 +1,29 @@
+[
+  {
+    "elapsed_ms": 172,
+    "started_at_utc": "2026-10-13T05:40:51.5665616+00:00",
+    "http_status": 403,
+    "outcome": "failed",
+    "error": "Response status code does not indicate success: 403 (Forbidden).",
+    "url": "https://cdn.nba.com/static/json/staticData/scheduleLeagueV2.json",
+    "name": "nba_schedule"
+  },
+  {
+    "elapsed_ms": 15004,
+    "started_at_utc": "2026-10-13T05:40:51.7418725+00:00",
+    "http_status": null,
+    "outcome": "failed",
+    "error": "The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "url": "https://stats.nba.com/stats/commonallplayers?LeagueID=00&Season=2026-27&IsOnlyCurrentSeason=1",
+    "name": "nba_roster"
+  },
+  {
+    "elapsed_ms": 15000,
+    "started_at_utc": "2026-10-13T05:41:06.7471618+00:00",
+    "http_status": null,
+    "outcome": "failed",
+    "error": "The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "url": "https://stats.nba.com/stats/leaguegamelog?Counter=0&DateFrom=04%2F12%2F2026&DateTo=04%2F12%2F2026&Direction=ASC&LeagueID=00&PlayerOrTeam=P&Season=2025-26&SeasonType=Regular%20Season&Sorter=DATE",
+    "name": "nba_history"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500989",
+  "GAMEDATE": "2026-03-16",
+  "teams": [
+    "HOU",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "LAL",
+  "gameEt": "2026-03-16T21:30:00Z",
+  "gameTimeUTC": "2026-03-17T01:30:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-lal-0022500989",
+  "fetched_at_utc": "2026-10-21T07:02:59.549742+00:00",
+  "html_sha256": "1a2d98c9e0a0cacbc7fc2239ec818e3f1e8e65c6d69b7deb20b6cae05842feb4"
+}

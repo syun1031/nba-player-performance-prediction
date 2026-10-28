@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500599",
+  "GAMEDATE": "2026-01-17",
+  "teams": [
+    "CHA",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "CHA",
+  "gameEt": "2026-01-17T20:30:00Z",
+  "gameTimeUTC": "2026-01-18T01:30:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-gsw-0022500599",
+  "fetched_at_utc": "2026-10-21T07:00:23.653067+00:00",
+  "html_sha256": "8a2fa68e15107bf45f91adca07f3eb9e70f683d2381a4b54882ebd1f5718a1da"
+}

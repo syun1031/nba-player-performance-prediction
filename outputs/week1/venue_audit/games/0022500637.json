@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500637",
+  "GAMEDATE": "2026-01-23",
+  "teams": [
+    "BKN",
+    "BOS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "BOS",
+  "gameEt": "2026-01-23T19:30:00Z",
+  "gameTimeUTC": "2026-01-24T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-bos-0022500637",
+  "fetched_at_utc": "2026-10-21T07:00:38.834986+00:00",
+  "html_sha256": "4f51889cbbb8de6168d6e783e2355cd29c404522d7c16d3979b0d22b84de0420"
+}

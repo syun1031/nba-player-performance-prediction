@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500839",
+  "GAMEDATE": "2026-02-24",
+  "teams": [
+    "BOS",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "BOS",
+  "gameEt": "2026-02-24T21:00:00Z",
+  "gameTimeUTC": "2026-02-25T02:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-phx-0022500839",
+  "fetched_at_utc": "2026-10-21T07:02:03.423455+00:00",
+  "html_sha256": "cca0f19e35e6a8ebbe0d19ceb35b8461977f9ce2d4d138a1748ecc394205dd70"
+}

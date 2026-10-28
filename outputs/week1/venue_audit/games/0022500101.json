@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500101",
+  "GAMEDATE": "2025-10-25",
+  "teams": [
+    "ATL",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "OKC",
+  "gameEt": "2025-10-25T19:30:00Z",
+  "gameTimeUTC": "2025-10-25T23:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-okc-0022500101",
+  "fetched_at_utc": "2026-10-21T06:57:09.752315+00:00",
+  "html_sha256": "7db5d39cf9fc361b69c967378d7f9aa401cd21551b954c3cef6b70fa45d80e9e"
+}

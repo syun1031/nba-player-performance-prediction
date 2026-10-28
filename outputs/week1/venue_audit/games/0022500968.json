@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500968",
+  "GAMEDATE": "2026-03-13",
+  "teams": [
+    "CHI",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "CHI",
+  "gameEt": "2026-03-13T22:30:00Z",
+  "gameTimeUTC": "2026-03-14T02:30:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-lac-0022500968",
+  "fetched_at_utc": "2026-10-21T07:02:52.868371+00:00",
+  "html_sha256": "77c70e1bf8c48fdd5202b76a16efd8bcfc61c19d1ff1d22d1e65ece6a411b085"
+}

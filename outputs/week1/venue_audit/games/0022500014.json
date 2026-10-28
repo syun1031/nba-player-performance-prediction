@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500014",
+  "GAMEDATE": "2026-01-19",
+  "teams": [
+    "ATL",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "MIL",
+  "gameEt": "2026-01-19T13:00:00Z",
+  "gameTimeUTC": "2026-01-19T18:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-mil-0022500014",
+  "fetched_at_utc": "2026-10-21T06:56:35.750604+00:00",
+  "html_sha256": "9b1599f0668af145561beffe03ddcc8fc16d018314a1d8a300d491c6f2d51759"
+}

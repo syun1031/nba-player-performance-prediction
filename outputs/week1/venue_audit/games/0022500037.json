@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500037",
+  "GAMEDATE": "2025-11-07",
+  "teams": [
+    "DEN",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "GSW",
+  "gameEt": "2025-11-07T22:00:00Z",
+  "gameTimeUTC": "2025-11-08T03:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-gsw-0022500037",
+  "fetched_at_utc": "2026-10-21T06:56:45.461148+00:00",
+  "html_sha256": "78c8b1e14e3d4640e4216e85dee9edda325c980c7bdeb2c16f880ee2acecc174"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500079",
+  "GAMEDATE": "2025-11-28",
+  "teams": [
+    "LAC",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "MEM",
+  "gameEt": "2025-11-28T22:00:00Z",
+  "gameTimeUTC": "2025-11-29T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-mem-0022500079",
+  "fetched_at_utc": "2026-10-21T06:57:01.301774+00:00",
+  "html_sha256": "99fde4869dd032e90f161ec4d3d423680c6edfb9125d4d0f5d5e9824aa3cbfd0"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501217",
+  "GAMEDATE": "2025-12-14",
+  "teams": [
+    "ATL",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "PHI",
+  "gameEt": "2025-12-14T18:00:00Z",
+  "gameTimeUTC": "2025-12-14T23:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-phi-0022501217",
+  "fetched_at_utc": "2026-10-21T07:04:32.021566+00:00",
+  "html_sha256": "d93903efd3241473fb5a12ec1913e3ff917708d8a029ce4f414dc0949cf83b3c"
+}

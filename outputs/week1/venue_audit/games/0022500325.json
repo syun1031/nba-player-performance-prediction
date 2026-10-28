@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500325",
+  "GAMEDATE": "2025-12-03",
+  "teams": [
+    "DEN",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "DEN",
+  "gameEt": "2025-12-03T19:00:00Z",
+  "gameTimeUTC": "2025-12-04T00:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-ind-0022500325",
+  "fetched_at_utc": "2026-10-21T06:58:36.382201+00:00",
+  "html_sha256": "c34ae83cc93bc638b819ba93d735f572ebe125db27ce8c158993413b3cc56a0b"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500289",
+  "GAMEDATE": "2025-11-24",
+  "teams": [
+    "CHI",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "CHI",
+  "gameEt": "2025-11-24T20:00:00Z",
+  "gameTimeUTC": "2025-11-25T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-nop-0022500289",
+  "fetched_at_utc": "2026-10-21T06:58:23.417310+00:00",
+  "html_sha256": "ba850ffb47e113111eeb4f99820dd6a33eeb8ea6f351648a9aa181115463d8e1"
+}

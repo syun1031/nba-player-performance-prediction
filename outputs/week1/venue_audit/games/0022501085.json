@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501085",
+  "GAMEDATE": "2026-03-29",
+  "teams": [
+    "BOS",
+    "CHA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "BOS",
+  "gameEt": "2026-03-29T18:00:00Z",
+  "gameTimeUTC": "2026-03-29T22:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-cha-0022501085",
+  "fetched_at_utc": "2026-10-21T07:03:35.275476+00:00",
+  "html_sha256": "caa4eba76ac627d28b091e63d8c0c21032275bc3d9cc58d410ebc3a55739ce4b"
+}

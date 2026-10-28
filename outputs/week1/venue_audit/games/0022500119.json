@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500119",
+  "GAMEDATE": "2025-10-27",
+  "teams": [
+    "DAL",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "OKC",
+  "gameEt": "2025-10-27T20:30:00Z",
+  "gameTimeUTC": "2025-10-28T00:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-okc-0022500119",
+  "fetched_at_utc": "2026-10-21T06:57:17.001691+00:00",
+  "html_sha256": "5ff42a7fc5c1e5c6608634fc830129fe0ea641ff23a7ea8169e779c0c199ea2f"
+}

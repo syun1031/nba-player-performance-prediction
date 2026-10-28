@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500073",
+  "GAMEDATE": "2025-11-28",
+  "teams": [
+    "IND",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "WAS",
+  "gameEt": "2025-11-28T19:30:00Z",
+  "gameTimeUTC": "2025-11-29T00:30:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-was-0022500073",
+  "fetched_at_utc": "2026-10-21T06:56:59.868368+00:00",
+  "html_sha256": "295627489cbc9da0aa95f0ae1cadb15f05aaeb06585b09bc3580967b15425b14"
+}

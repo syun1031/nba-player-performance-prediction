@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500575",
+  "GAMEDATE": "2026-01-14",
+  "teams": [
+    "DAL",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "DEN",
+  "gameEt": "2026-01-14T21:30:00Z",
+  "gameTimeUTC": "2026-01-15T02:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-den-0022500575",
+  "fetched_at_utc": "2026-10-21T07:00:15.965202+00:00",
+  "html_sha256": "b4617d96ebe5905c02b50ce1dcb2c6579b813ba5e65713eb41c7f96253e35165"
+}

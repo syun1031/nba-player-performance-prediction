@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500237",
+  "GAMEDATE": "2025-11-16",
+  "teams": [
+    "GSW",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "GSW",
+  "gameEt": "2025-11-16T19:00:00Z",
+  "gameTimeUTC": "2025-11-17T00:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-nop-0022500237",
+  "fetched_at_utc": "2026-10-21T06:58:01.110352+00:00",
+  "html_sha256": "ca24f44f700bb442b457a38cc80c68a0f323dfc8a6be6addb04d6a1110b26bf8"
+}

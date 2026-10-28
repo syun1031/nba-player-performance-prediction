@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500733",
+  "GAMEDATE": "2026-02-05",
+  "teams": [
+    "DET",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "WAS",
+  "gameEt": "2026-02-05T19:00:00Z",
+  "gameTimeUTC": "2026-02-06T00:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-was-0022500733",
+  "fetched_at_utc": "2026-10-21T07:01:20.001395+00:00",
+  "html_sha256": "916f7513f9430e52a2c3aaad3ee60d49df594330797609b46733b2b06acf1e18"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501179",
+  "GAMEDATE": "2026-04-10",
+  "teams": [
+    "BKN",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "BKN",
+  "gameEt": "2026-04-10T20:00:00Z",
+  "gameTimeUTC": "2026-04-11T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-mil-0022501179",
+  "fetched_at_utc": "2026-10-21T07:04:17.452972+00:00",
+  "html_sha256": "e8ef707d7cc5919dd9d2137ca77c327f1f37f1ec48a562c13b803fd47f985f00"
+}

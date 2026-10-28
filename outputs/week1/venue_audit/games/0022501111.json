@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501111",
+  "GAMEDATE": "2026-03-12",
+  "teams": [
+    "DAL",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "DAL",
+  "gameEt": "2026-03-12T20:00:00Z",
+  "gameTimeUTC": "2026-03-13T00:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-mem-0022501111",
+  "fetched_at_utc": "2026-10-21T07:03:45.121707+00:00",
+  "html_sha256": "3d0bb106b2a798e9186b6a3574834ea2ac56ab580d35bb205ca0d997cf612283"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501196",
+  "GAMEDATE": "2026-04-12",
+  "teams": [
+    "OKC",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "PHX",
+  "gameEt": "2026-04-12T20:30:00Z",
+  "gameTimeUTC": "2026-04-13T00:30:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-phx-0022501196",
+  "fetched_at_utc": "2026-10-21T07:04:23.697935+00:00",
+  "html_sha256": "0168213163e4cdeec374207d7a53c040bb0395d78fc8b62979d496d5eabe9b53"
+}

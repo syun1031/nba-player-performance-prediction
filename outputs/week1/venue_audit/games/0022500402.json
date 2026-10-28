@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500402",
+  "GAMEDATE": "2025-12-22",
+  "teams": [
+    "CHA",
+    "CLE"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "CHA",
+  "gameEt": "2025-12-22T19:00:00Z",
+  "gameTimeUTC": "2025-12-23T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-cle-0022500402",
+  "fetched_at_utc": "2026-10-21T06:59:06.069539+00:00",
+  "html_sha256": "96663aea6831f501b7f36ed20c2325f7864c423a7a530718ae4f8e6b31a3e3d1"
+}

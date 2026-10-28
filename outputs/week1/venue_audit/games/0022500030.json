@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500030",
+  "GAMEDATE": "2025-11-07",
+  "teams": [
+    "ATL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "TOR",
+  "gameEt": "2025-11-07T19:30:00Z",
+  "gameTimeUTC": "2025-11-08T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-tor-0022500030",
+  "fetched_at_utc": "2026-10-21T06:56:41.210220+00:00",
+  "html_sha256": "cc417d2eb6fff21d0938c23351dcbc6fdb4cd488b3d3746503f66bb616136a37"
+}

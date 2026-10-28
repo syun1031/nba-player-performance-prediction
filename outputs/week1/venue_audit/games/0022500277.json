@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500277",
+  "GAMEDATE": "2025-11-23",
+  "teams": [
+    "BOS",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "ORL",
+  "gameEt": "2025-11-23T18:00:00Z",
+  "gameTimeUTC": "2025-11-23T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-orl-0022500277",
+  "fetched_at_utc": "2026-10-21T06:58:17.979345+00:00",
+  "html_sha256": "ca25c9ab4dff8df87408322c1344d690483d2df0e317dba62b2e7c6408d34d05"
+}

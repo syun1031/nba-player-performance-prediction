@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500973",
+  "GAMEDATE": "2026-03-14",
+  "teams": [
+    "CHA",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "CHA",
+  "gameEt": "2026-03-14T15:30:00Z",
+  "gameTimeUTC": "2026-03-14T19:30:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-sas-0022500973",
+  "fetched_at_utc": "2026-10-21T07:02:54.409696+00:00",
+  "html_sha256": "8eb11933a087f472dc129f15345dad2d9c318e12e66d6856e58f7e64da6f9831"
+}

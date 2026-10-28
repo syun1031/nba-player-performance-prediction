@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500232",
+  "GAMEDATE": "2025-11-15",
+  "teams": [
+    "DEN",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "DEN",
+  "gameEt": "2025-11-15T20:00:00Z",
+  "gameTimeUTC": "2025-11-16T01:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-min-0022500232",
+  "fetched_at_utc": "2026-10-21T06:57:59.011255+00:00",
+  "html_sha256": "8ee7b270c7e72b2a2be0c1b1c8da413d95c2a5f65490170112d26041fbf3749c"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501198",
+  "GAMEDATE": "2026-04-12",
+  "teams": [
+    "LAL",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "UTA",
+  "gameEt": "2026-04-12T20:30:00Z",
+  "gameTimeUTC": "2026-04-13T00:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-uta-0022501198",
+  "fetched_at_utc": "2026-10-21T07:04:24.743000+00:00",
+  "html_sha256": "3f23bb570eef5e6f7bdec594dfdc069a6404a39e2e934b071dcb7df10bde7a00"
+}

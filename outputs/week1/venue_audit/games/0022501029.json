@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501029",
+  "GAMEDATE": "2026-03-21",
+  "teams": [
+    "DAL",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "LAC",
+  "gameEt": "2026-03-21T20:30:00Z",
+  "gameTimeUTC": "2026-03-22T00:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-lac-0022501029",
+  "fetched_at_utc": "2026-10-21T07:03:13.701561+00:00",
+  "html_sha256": "f6807f5c17e7c9d54eda1ff98567c0319ddeee134cbc71c830f0ffdd510b1505"
+}

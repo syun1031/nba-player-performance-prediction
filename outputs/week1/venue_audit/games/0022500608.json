@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500608",
+  "GAMEDATE": "2026-01-19",
+  "teams": [
+    "LAC",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "LAC",
+  "gameEt": "2026-01-19T15:00:00Z",
+  "gameTimeUTC": "2026-01-19T20:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-was-0022500608",
+  "fetched_at_utc": "2026-10-21T07:00:26.806178+00:00",
+  "html_sha256": "a12ca5bedb1eae08f11f1a61e9119882f4dc49c2fee11d8c4e643fc83f72192e"
+}

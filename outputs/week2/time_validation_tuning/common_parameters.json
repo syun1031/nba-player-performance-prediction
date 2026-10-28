@@ -1,0 +1,38 @@
+{
+  "selected": {
+    "linear": {
+      "parameter_id": "linear_01",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    "tree": {
+      "parameter_id": "tree_01",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    "xgboost": {
+      "parameter_id": "xgboost_02",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    }
+  },
+  "basis": "starter pooled F1-F3 MAE, then RMSE, then simplicity",
+  "february_used_for_parameter_selection": false
+}

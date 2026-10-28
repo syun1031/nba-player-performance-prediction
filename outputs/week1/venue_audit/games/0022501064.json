@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501064",
+  "GAMEDATE": "2026-03-26",
+  "teams": [
+    "DET",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "NOP",
+  "gameEt": "2026-03-26T19:00:00Z",
+  "gameTimeUTC": "2026-03-26T23:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-nop-0022501064",
+  "fetched_at_utc": "2026-10-21T07:03:27.079774+00:00",
+  "html_sha256": "d885a9fdf119e42ed9f2863a53ed1504dc79ff9476752777f7f36c8fe3427fdf"
+}

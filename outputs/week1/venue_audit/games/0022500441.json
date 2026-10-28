@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500441",
+  "GAMEDATE": "2025-12-28",
+  "teams": [
+    "GSW",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "GSW",
+  "gameEt": "2025-12-28T15:30:00Z",
+  "gameTimeUTC": "2025-12-28T20:30:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-tor-0022500441",
+  "fetched_at_utc": "2026-10-21T06:59:23.639248+00:00",
+  "html_sha256": "f9cd398d2a60a519765e56c192150609d1d7d36ab476d3f7690b090100724e3d"
+}

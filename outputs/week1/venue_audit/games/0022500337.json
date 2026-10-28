@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500337",
+  "GAMEDATE": "2025-12-04",
+  "teams": [
+    "MIN",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "MIN",
+  "gameEt": "2025-12-04T20:00:00Z",
+  "gameTimeUTC": "2025-12-05T01:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-nop-0022500337",
+  "fetched_at_utc": "2026-10-21T06:58:42.337125+00:00",
+  "html_sha256": "365e09d7887e3aa0c44978b79256610c7d2e88a5e32739604f11f0770104fa1c"
+}

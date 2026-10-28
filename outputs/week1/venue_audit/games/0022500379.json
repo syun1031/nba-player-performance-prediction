@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500379",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "LAL",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "LAL",
+  "gameEt": "2025-12-18T21:00:00Z",
+  "gameTimeUTC": "2025-12-19T02:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-uta-0022500379",
+  "fetched_at_utc": "2026-10-21T06:58:57.971371+00:00",
+  "html_sha256": "5437eb13e73e159be57999e3c0e8f053ae2fa63388c5ded4a0dd29d798a307ae"
+}

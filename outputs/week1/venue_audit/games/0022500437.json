@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500437",
+  "GAMEDATE": "2025-12-27",
+  "teams": [
+    "CHI",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "MIL",
+  "gameEt": "2025-12-27T20:00:00Z",
+  "gameTimeUTC": "2025-12-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-mil-0022500437",
+  "fetched_at_utc": "2026-10-21T06:59:22.211267+00:00",
+  "html_sha256": "893697ecc8ae774d24c7a068932e31a240b4558293d4b62f4809bc0b4879fc84"
+}

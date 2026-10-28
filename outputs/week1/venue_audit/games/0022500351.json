@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500351",
+  "GAMEDATE": "2025-12-06",
+  "teams": [
+    "ATL",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "ATL",
+  "gameEt": "2025-12-06T19:00:00Z",
+  "gameTimeUTC": "2025-12-07T00:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-was-0022500351",
+  "fetched_at_utc": "2026-10-21T06:58:47.509284+00:00",
+  "html_sha256": "250df6d3d3e8f38c94083ecbeef9a247065bf08dec20dc9ce1f1d65ee7fa2002"
+}

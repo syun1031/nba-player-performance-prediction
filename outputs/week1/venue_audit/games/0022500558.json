@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500558",
+  "GAMEDATE": "2026-01-12",
+  "teams": [
+    "CLE",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "UTA",
+  "gameEt": "2026-01-12T19:00:00Z",
+  "gameTimeUTC": "2026-01-13T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-uta-0022500558",
+  "fetched_at_utc": "2026-10-21T07:00:08.829179+00:00",
+  "html_sha256": "e0632bfe3121e89bbef93670cc9acd0a33d1c1a3b86da3a06aef44dd7cb34714"
+}

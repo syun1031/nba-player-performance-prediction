@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500287",
+  "GAMEDATE": "2025-11-24",
+  "teams": [
+    "DEN",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "DEN",
+  "gameEt": "2025-11-24T20:00:00Z",
+  "gameTimeUTC": "2025-11-25T01:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-mem-0022500287",
+  "fetched_at_utc": "2026-10-21T06:58:22.359139+00:00",
+  "html_sha256": "a549333e62ae3224edbd653c5f30a7136dbd124c1a4dc0954d5680f184e5b7c8"
+}

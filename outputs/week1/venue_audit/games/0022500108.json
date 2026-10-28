@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500108",
+  "GAMEDATE": "2025-10-26",
+  "teams": [
+    "MIA",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "NYK",
+  "gameEt": "2025-10-26T18:00:00Z",
+  "gameTimeUTC": "2025-10-26T22:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-nyk-0022500108",
+  "fetched_at_utc": "2026-10-21T06:57:12.619417+00:00",
+  "html_sha256": "029f29e4231ffa233c776fa7be277be00d5d3f3c037f6e545e0e96f03e99bc7a"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501181",
+  "GAMEDATE": "2026-04-10",
+  "teams": [
+    "MEM",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "MEM",
+  "gameEt": "2026-04-10T21:30:00Z",
+  "gameTimeUTC": "2026-04-11T01:30:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-uta-0022501181",
+  "fetched_at_utc": "2026-10-21T07:04:16.926601+00:00",
+  "html_sha256": "f0c28c41cc1e3a4049ec03c6f1b4d40850143e09d6115894684ab88b1cca8da6"
+}

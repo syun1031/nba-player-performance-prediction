@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500798",
+  "GAMEDATE": "2026-02-19",
+  "teams": [
+    "PHX",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000080,
+    "arenaName": "Moody Center",
+    "arenaCity": "Austin",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "PHX",
+  "gameEt": "2026-02-19T20:30:00Z",
+  "gameTimeUTC": "2026-02-20T01:30:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-sas-0022500798",
+  "fetched_at_utc": "2026-10-21T07:01:46.239665+00:00",
+  "html_sha256": "5cd5bce5f99154037e49589b39afc8b1d28c5831c5b4ac0ffd65e3b487dbc391"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500390",
+  "GAMEDATE": "2025-12-20",
+  "teams": [
+    "CHA",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "CHA",
+  "gameEt": "2025-12-20T19:30:00Z",
+  "gameTimeUTC": "2025-12-21T00:30:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-det-0022500390",
+  "fetched_at_utc": "2026-10-21T06:59:01.195427+00:00",
+  "html_sha256": "2aceb68e718707783a9be70592578ab9a0897c501448acf42bae1ff23844f516"
+}

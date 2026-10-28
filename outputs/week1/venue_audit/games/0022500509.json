@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500509",
+  "GAMEDATE": "2026-01-05",
+  "teams": [
+    "POR",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "UTA",
+  "gameEt": "2026-01-05T22:00:00Z",
+  "gameTimeUTC": "2026-01-06T03:00:00Z",
+  "source_url": "https://www.nba.com/game/por-vs-uta-0022500509",
+  "fetched_at_utc": "2026-10-21T06:59:49.678012+00:00",
+  "html_sha256": "feb2837898131c342124e9132910d6a4fb85bf1d11ac08ba7621c8e372467ebb"
+}

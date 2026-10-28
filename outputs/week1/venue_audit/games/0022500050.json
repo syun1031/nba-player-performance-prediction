@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500050",
+  "GAMEDATE": "2025-11-21",
+  "teams": [
+    "TOR",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "WAS",
+  "gameEt": "2025-11-21T19:30:00Z",
+  "gameTimeUTC": "2025-11-22T00:30:00Z",
+  "source_url": "https://www.nba.com/game/tor-vs-was-0022500050",
+  "fetched_at_utc": "2026-10-21T06:56:49.836193+00:00",
+  "html_sha256": "25b5cb3c6c2cdb9d2b1184e95f01aea82c22518cfd4b15912f2e8fff4ea53e22"
+}

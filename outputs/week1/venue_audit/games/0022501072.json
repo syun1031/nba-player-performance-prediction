@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501072",
+  "GAMEDATE": "2026-03-27",
+  "teams": [
+    "DEN",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "UTA",
+  "gameEt": "2026-03-27T21:00:00Z",
+  "gameTimeUTC": "2026-03-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-uta-0022501072",
+  "fetched_at_utc": "2026-10-21T07:03:30.232026+00:00",
+  "html_sha256": "cc55b28759a5e7f67c2bbe1935cd2c21a179ccbade71d9bf6054d94ca210d862"
+}

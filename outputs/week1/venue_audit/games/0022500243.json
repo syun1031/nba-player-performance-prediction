@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500243",
+  "GAMEDATE": "2025-11-17",
+  "teams": [
+    "LAC",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "LAC",
+  "gameEt": "2025-11-17T19:00:00Z",
+  "gameTimeUTC": "2025-11-18T00:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-phi-0022500243",
+  "fetched_at_utc": "2026-10-21T06:58:03.594665+00:00",
+  "html_sha256": "dc67efe0804dc8bd3023570626cb7890cfa3fc7970063c7208785f3d100b4dcd"
+}

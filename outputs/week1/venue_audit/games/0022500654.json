@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500654",
+  "GAMEDATE": "2026-01-25",
+  "teams": [
+    "NOP",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "NOP",
+  "gameEt": "2026-01-25T19:00:00Z",
+  "gameTimeUTC": "2026-01-26T00:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-sas-0022500654",
+  "fetched_at_utc": "2026-10-21T07:00:45.086649+00:00",
+  "html_sha256": "ed54d88712c7bc3819e008c3b81210d8586bc50703395f8febcd8fbcf20ec72b"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500040",
+  "GAMEDATE": "2025-11-14",
+  "teams": [
+    "BKN",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "BKN",
+  "gameEt": "2025-11-14T19:00:00Z",
+  "gameTimeUTC": "2025-11-15T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-orl-0022500040",
+  "fetched_at_utc": "2026-10-21T06:56:46.611092+00:00",
+  "html_sha256": "1a35b4482cb8966756cb0c85225c65cd930585ae5ae245e5130245b35f9edff7"
+}

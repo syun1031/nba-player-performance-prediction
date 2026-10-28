@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500675",
+  "GAMEDATE": "2026-01-28",
+  "teams": [
+    "NYK",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "NYK",
+  "gameEt": "2026-01-28T19:30:00Z",
+  "gameTimeUTC": "2026-01-29T00:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-tor-0022500675",
+  "fetched_at_utc": "2026-10-21T07:00:54.749420+00:00",
+  "html_sha256": "0071c70d3934a0d0bd6134b081caa4f7d6aa503e7f46ddce147764d90da1ae2f"
+}

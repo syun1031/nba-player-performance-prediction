@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500451",
+  "GAMEDATE": "2025-12-29",
+  "teams": [
+    "ORL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "ORL",
+  "gameEt": "2025-12-29T19:30:00Z",
+  "gameTimeUTC": "2025-12-30T00:30:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-tor-0022500451",
+  "fetched_at_utc": "2026-10-21T06:59:28.251477+00:00",
+  "html_sha256": "6b42a8fe2b79fb62d80377cd129be1ad965b95037a29ccc189723a4e04f269e9"
+}

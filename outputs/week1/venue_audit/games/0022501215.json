@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501215",
+  "GAMEDATE": "2025-12-12",
+  "teams": [
+    "GSW",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "MIN",
+  "gameEt": "2025-12-12T22:00:00Z",
+  "gameTimeUTC": "2025-12-13T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-min-0022501215",
+  "fetched_at_utc": "2026-10-21T07:04:30.821019+00:00",
+  "html_sha256": "f585573e65ca878b42b6e015f133b9b33c159d199a8d8eb9f98a772fe2f86193"
+}

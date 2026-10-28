@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500865",
+  "GAMEDATE": "2026-02-28",
+  "teams": [
+    "TOR",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "TOR",
+  "gameEt": "2026-02-28T19:00:00Z",
+  "gameTimeUTC": "2026-03-01T00:00:00Z",
+  "source_url": "https://www.nba.com/game/tor-vs-was-0022500865",
+  "fetched_at_utc": "2026-10-21T07:02:14.065520+00:00",
+  "html_sha256": "81a1d9e053beb57a9e93400694862d9fb0984d1221d197fdb4274ffd5f4b23bc"
+}

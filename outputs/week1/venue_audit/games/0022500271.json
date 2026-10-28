@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500271",
+  "GAMEDATE": "2025-11-22",
+  "teams": [
+    "CHI",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "WAS",
+  "gameEt": "2025-11-22T20:00:00Z",
+  "gameTimeUTC": "2025-11-23T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-was-0022500271",
+  "fetched_at_utc": "2026-10-21T06:58:15.071078+00:00",
+  "html_sha256": "b54abed73e0b073a3ecebfdf99acf87edaad53e1594d0a371610db9a83ea9e0b"
+}

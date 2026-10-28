@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500788",
+  "GAMEDATE": "2026-02-11",
+  "teams": [
+    "GSW",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "SAS",
+  "gameEt": "2026-02-11T22:00:00Z",
+  "gameTimeUTC": "2026-02-12T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-sas-0022500788",
+  "fetched_at_utc": "2026-10-21T07:01:41.487534+00:00",
+  "html_sha256": "b5c5fb03363809ce87388aac6dede0e1872e2987df01cd7dd530af953f339648"
+}

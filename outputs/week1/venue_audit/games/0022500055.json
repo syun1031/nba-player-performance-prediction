@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500055",
+  "GAMEDATE": "2025-11-21",
+  "teams": [
+    "OKC",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "OKC",
+  "gameEt": "2025-11-21T22:00:00Z",
+  "gameTimeUTC": "2025-11-22T03:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-uta-0022500055",
+  "fetched_at_utc": "2026-10-21T06:56:51.597556+00:00",
+  "html_sha256": "cf83ed302188d563b88c8ab550c88f71e583b73abd1cbce0ecc010e269d2e9e7"
+}

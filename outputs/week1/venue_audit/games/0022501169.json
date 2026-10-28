@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501169",
+  "GAMEDATE": "2026-04-09",
+  "teams": [
+    "HOU",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "PHI",
+  "gameEt": "2026-04-09T20:00:00Z",
+  "gameTimeUTC": "2026-04-10T00:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-phi-0022501169",
+  "fetched_at_utc": "2026-10-21T07:04:12.201721+00:00",
+  "html_sha256": "d71a5de5a11ccea1b1aa3bd6be2a9717b3915d69230d84bf36a3dfac4135d24f"
+}

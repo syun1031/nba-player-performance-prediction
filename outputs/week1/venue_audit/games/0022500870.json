@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500870",
+  "GAMEDATE": "2026-03-01",
+  "teams": [
+    "CHI",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "MIL",
+  "gameEt": "2026-03-01T15:30:00Z",
+  "gameTimeUTC": "2026-03-01T20:30:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-mil-0022500870",
+  "fetched_at_utc": "2026-10-21T07:02:15.432261+00:00",
+  "html_sha256": "ea0fd5feb07ef32c61c0824baba09a9a0c8a6498449685bcd5e127cf5d38e388"
+}

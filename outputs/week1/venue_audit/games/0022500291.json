@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500291",
+  "GAMEDATE": "2025-11-24",
+  "teams": [
+    "GSW",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "UTA",
+  "gameEt": "2025-11-24T22:00:00Z",
+  "gameTimeUTC": "2025-11-25T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-uta-0022500291",
+  "fetched_at_utc": "2026-10-21T06:58:23.433174+00:00",
+  "html_sha256": "251cf59a806f317ca174376e9d0b3f9983818eed07b15716b11d1f54f4e6a403"
+}

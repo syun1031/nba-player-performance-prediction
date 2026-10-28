@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500852",
+  "GAMEDATE": "2026-02-26",
+  "teams": [
+    "HOU",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "HOU",
+  "gameEt": "2026-02-26T19:30:00Z",
+  "gameTimeUTC": "2026-02-27T00:30:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-orl-0022500852",
+  "fetched_at_utc": "2026-10-21T07:02:08.662655+00:00",
+  "html_sha256": "b1f8d145f4306489b7783c4d74c82ffcfaa32c2cac1a5453f4be5b5fcfc077fb"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500940",
+  "GAMEDATE": "2026-03-10",
+  "teams": [
+    "HOU",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "TOR",
+  "gameEt": "2026-03-10T20:00:00Z",
+  "gameTimeUTC": "2026-03-11T00:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-tor-0022500940",
+  "fetched_at_utc": "2026-10-21T07:02:43.530858+00:00",
+  "html_sha256": "4b4942fcc7ef09a4c04276971424a74490331735186d060dcffc20e251bea52a"
+}

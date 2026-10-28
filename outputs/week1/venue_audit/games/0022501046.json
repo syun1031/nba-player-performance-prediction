@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501046",
+  "GAMEDATE": "2026-03-23",
+  "teams": [
+    "LAC",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "MIL",
+  "gameEt": "2026-03-23T22:30:00Z",
+  "gameTimeUTC": "2026-03-24T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-mil-0022501046",
+  "fetched_at_utc": "2026-10-21T07:03:20.785709+00:00",
+  "html_sha256": "59cb0dc7f91cb69587987afe0977f58ba81d37c28ff796686408034407956b8f"
+}

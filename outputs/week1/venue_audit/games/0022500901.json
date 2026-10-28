@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500901",
+  "GAMEDATE": "2026-03-05",
+  "teams": [
+    "BKN",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "BKN",
+  "gameEt": "2026-03-05T19:30:00Z",
+  "gameTimeUTC": "2026-03-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-mia-0022500901",
+  "fetched_at_utc": "2026-10-21T07:02:28.901553+00:00",
+  "html_sha256": "fa8e6ff5ebe620e97af94b29ae42a805cfb8ace0bf78b508da52c69064fb7e05"
+}

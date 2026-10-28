@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500986",
+  "GAMEDATE": "2026-03-16",
+  "teams": [
+    "BOS",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "PHX",
+  "gameEt": "2026-03-16T19:30:00Z",
+  "gameTimeUTC": "2026-03-16T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-phx-0022500986",
+  "fetched_at_utc": "2026-10-21T07:02:58.148615+00:00",
+  "html_sha256": "9c2c6d5eacaec755e568b9cf07991bcc3cee8c5f7452c6df0235de6cc2240617"
+}

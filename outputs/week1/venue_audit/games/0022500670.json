@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500670",
+  "GAMEDATE": "2026-01-27",
+  "teams": [
+    "LAC",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "LAC",
+  "gameEt": "2026-01-27T22:00:00Z",
+  "gameTimeUTC": "2026-01-28T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-uta-0022500670",
+  "fetched_at_utc": "2026-10-21T07:00:52.371858+00:00",
+  "html_sha256": "a81852724ecb7093e3be8b1a2de39fbbfc5e7bf7d9320391439ffb6a65e83ee5"
+}

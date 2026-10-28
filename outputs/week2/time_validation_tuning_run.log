@@ -1,0 +1,505 @@
+F1 complete: 45/144 fits; vocabulary=284
+F2 complete: 90/144 fits; vocabulary=325
+F3 complete: 135/144 fits; vocabulary=345
+February complete: 144/144 fits; test data unused
+{
+  "verified": true,
+  "fits": 144,
+  "common_parameters": {
+    "linear": {
+      "parameter_id": "linear_01",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    "tree": {
+      "parameter_id": "tree_01",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    "xgboost": {
+      "parameter_id": "xgboost_02",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    }
+  },
+  "winner": {
+    "model": "xgboost",
+    "features": "starter",
+    "parameter_id": "xgboost_02",
+    "split": "validation",
+    "n": 3462,
+    "mae": 4.611462583265023,
+    "rmse": 5.971036372030776
+  },
+  "february_scores": [
+    {
+      "model": "baseline",
+      "features": "basic",
+      "parameter_id": "none",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.797746967071057,
+      "rmse": 6.278220171900877
+    },
+    {
+      "model": "linear",
+      "features": "basic",
+      "parameter_id": "linear_01",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.654905908947221,
+      "rmse": 6.021683313612061
+    },
+    {
+      "model": "linear",
+      "features": "starter",
+      "parameter_id": "linear_01",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.616342580573694,
+      "rmse": 5.971692871315816
+    },
+    {
+      "model": "linear",
+      "features": "teammates",
+      "parameter_id": "linear_01",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.745123866577152,
+      "rmse": 6.111090088597712
+    },
+    {
+      "model": "tree",
+      "features": "basic",
+      "parameter_id": "tree_01",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.704666794904699,
+      "rmse": 6.064376692023871
+    },
+    {
+      "model": "tree",
+      "features": "starter",
+      "parameter_id": "tree_01",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.655278230979934,
+      "rmse": 6.019831128343113
+    },
+    {
+      "model": "tree",
+      "features": "teammates",
+      "parameter_id": "tree_01",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.655278230979934,
+      "rmse": 6.019831128343113
+    },
+    {
+      "model": "xgboost",
+      "features": "basic",
+      "parameter_id": "xgboost_02",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.654238792322468,
+      "rmse": 6.023484221422099
+    },
+    {
+      "model": "xgboost",
+      "features": "starter",
+      "parameter_id": "xgboost_02",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.611462583265023,
+      "rmse": 5.971036372030776
+    },
+    {
+      "model": "xgboost",
+      "features": "teammates",
+      "parameter_id": "xgboost_02",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.613571588666642,
+      "rmse": 5.9647515611325765
+    }
+  ],
+  "paired": [
+    {
+      "period": "F1",
+      "model": "linear",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.039295464691732764,
+      "lower_95": -0.06517412099021112,
+      "upper_95": -0.014432582290459498,
+      "delta_rmse": -0.038155797004851166,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F1",
+      "model": "linear",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.29356568001383454,
+      "lower_95": 0.22375371663937735,
+      "upper_95": 0.3729567234993203,
+      "delta_rmse": 0.36428074129051335,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F1",
+      "model": "tree",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.02212419969087128,
+      "lower_95": -0.055036405962622326,
+      "upper_95": 0.008680858965652323,
+      "delta_rmse": -0.04570394903557595,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F1",
+      "model": "tree",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.0,
+      "lower_95": 0.0,
+      "upper_95": 0.0,
+      "delta_rmse": 0.0,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F1",
+      "model": "xgboost",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.031214064005290323,
+      "lower_95": -0.058262201864310796,
+      "upper_95": -0.004800276894647992,
+      "delta_rmse": -0.035972509168071376,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F1",
+      "model": "xgboost",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": -0.011544335974819712,
+      "lower_95": -0.022171785634498092,
+      "upper_95": 0.0006593751244293917,
+      "delta_rmse": -0.014752563680136888,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F2",
+      "model": "linear",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.03559694677660393,
+      "lower_95": -0.05585585525245376,
+      "upper_95": -0.013814288028807757,
+      "delta_rmse": -0.04025626660472259,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F2",
+      "model": "linear",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.1157881689439148,
+      "lower_95": 0.05180108655584288,
+      "upper_95": 0.17889818392590526,
+      "delta_rmse": 0.18499878175586915,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F2",
+      "model": "tree",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.029362422622636927,
+      "lower_95": -0.05946229445206701,
+      "upper_95": -0.0023950315008588745,
+      "delta_rmse": -0.03568600275513312,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F2",
+      "model": "tree",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.0,
+      "lower_95": 0.0,
+      "upper_95": 0.0,
+      "delta_rmse": 0.0,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F2",
+      "model": "xgboost",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.034235975498212064,
+      "lower_95": -0.04910723359820714,
+      "upper_95": -0.019374823099484483,
+      "delta_rmse": -0.039057694189778225,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F2",
+      "model": "xgboost",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.00016883333097500412,
+      "lower_95": -0.013402850412587172,
+      "upper_95": 0.01289003590773735,
+      "delta_rmse": -0.005516054361620171,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F3",
+      "model": "linear",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.0139338746601166,
+      "lower_95": -0.049043124144511875,
+      "upper_95": 0.016617231755915732,
+      "delta_rmse": -0.041931980355897736,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F3",
+      "model": "linear",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.07278388775671421,
+      "lower_95": 0.026892235468527193,
+      "upper_95": 0.11502387394477623,
+      "delta_rmse": 0.11488984116030743,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F3",
+      "model": "tree",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.004254657034602847,
+      "lower_95": -0.03603185948458488,
+      "upper_95": 0.02466261064751404,
+      "delta_rmse": -0.005048418543375455,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F3",
+      "model": "tree",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.0,
+      "lower_95": 0.0,
+      "upper_95": 0.0,
+      "delta_rmse": 0.0,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F3",
+      "model": "xgboost",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.017345678820627233,
+      "lower_95": -0.044834874946597436,
+      "upper_95": 0.007921968854952343,
+      "delta_rmse": -0.038841671078280626,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "F3",
+      "model": "xgboost",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": -0.0007287807162876458,
+      "lower_95": -0.010414153605977219,
+      "upper_95": 0.008669182110753307,
+      "delta_rmse": -0.0047784212572388185,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "pooled",
+      "model": "linear",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.03128419341838824,
+      "lower_95": -0.047171878485791775,
+      "upper_95": -0.015355496955338152,
+      "delta_rmse": -0.03969790131804629,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "pooled",
+      "model": "linear",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.18474718648869046,
+      "lower_95": 0.1479643545713006,
+      "upper_95": 0.2275679535758434,
+      "delta_rmse": 0.2512850691925639,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "pooled",
+      "model": "tree",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.019121952980025007,
+      "lower_95": -0.03707282894682694,
+      "upper_95": -6.59739502815688e-05,
+      "delta_rmse": -0.03212226499017845,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "pooled",
+      "model": "tree",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.0,
+      "lower_95": 0.0,
+      "upper_95": 0.0,
+      "delta_rmse": 0.0,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "pooled",
+      "model": "xgboost",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.028187322547876238,
+      "lower_95": -0.043437402092464134,
+      "upper_95": -0.013367361169983147,
+      "delta_rmse": -0.037529423918901905,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "pooled",
+      "model": "xgboost",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": -0.005407160142038001,
+      "lower_95": -0.01234455704784148,
+      "upper_95": 0.0017545345272009963,
+      "delta_rmse": -0.009656761548582082,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "February",
+      "model": "linear",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.03856332837352582,
+      "lower_95": -0.059625708339741776,
+      "upper_95": -0.013984140363428195,
+      "delta_rmse": -0.04999044229624516,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "February",
+      "model": "linear",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.1287812860034569,
+      "lower_95": 0.051346440444229986,
+      "upper_95": 0.21845310026022738,
+      "delta_rmse": 0.13939721728189625,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "February",
+      "model": "tree",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.04938856392476559,
+      "lower_95": -0.0810498501521896,
+      "upper_95": -0.015380029263500829,
+      "delta_rmse": -0.04454556368075835,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "February",
+      "model": "tree",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.0,
+      "lower_95": 0.0,
+      "upper_95": 0.0,
+      "delta_rmse": 0.0,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "February",
+      "model": "xgboost",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.04277620905744486,
+      "lower_95": -0.06662608236417049,
+      "upper_95": -0.020289168126810628,
+      "delta_rmse": -0.05244784939132341,
+      "iterations": 2000,
+      "seed": 42
+    },
+    {
+      "period": "February",
+      "model": "xgboost",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.0021090054016179396,
+      "lower_95": -0.0049561386178716225,
+      "upper_95": 0.010206974756010392,
+      "delta_rmse": -0.006284810898199211,
+      "iterations": 2000,
+      "seed": 42
+    }
+  ]
+}

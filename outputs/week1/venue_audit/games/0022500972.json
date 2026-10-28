@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500972",
+  "GAMEDATE": "2026-03-14",
+  "teams": [
+    "MIA",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "ORL",
+  "gameEt": "2026-03-14T20:00:00Z",
+  "gameTimeUTC": "2026-03-15T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-orl-0022500972",
+  "fetched_at_utc": "2026-10-21T07:02:54.203343+00:00",
+  "html_sha256": "1f418b249b0b0011536cff3b6701a0c06b81706242a0a8168e2a2abfaf5d51a8"
+}

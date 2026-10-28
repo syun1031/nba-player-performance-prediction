@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500382",
+  "GAMEDATE": "2025-12-19",
+  "teams": [
+    "NYK",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "PHI",
+  "gameEt": "2025-12-19T19:00:00Z",
+  "gameTimeUTC": "2025-12-20T00:00:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-phi-0022500382",
+  "fetched_at_utc": "2026-10-21T06:58:58.335735+00:00",
+  "html_sha256": "6c1265046ca6171a72ca9228ecdb9c3fc6d410b59047c6931c89ebfb79db27be"
+}

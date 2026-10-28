@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500547",
+  "GAMEDATE": "2026-01-10",
+  "teams": [
+    "CHA",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "CHA",
+  "gameEt": "2026-01-10T21:30:00Z",
+  "gameTimeUTC": "2026-01-11T02:30:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-uta-0022500547",
+  "fetched_at_utc": "2026-10-21T07:00:04.479214+00:00",
+  "html_sha256": "d35a8be8879a8ad3b96bbb0dfaad069c3fb81c999fc1fd00dd19f6f73f01c359"
+}

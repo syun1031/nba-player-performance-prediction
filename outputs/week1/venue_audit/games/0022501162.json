@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501162",
+  "GAMEDATE": "2026-04-08",
+  "teams": [
+    "DEN",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "MEM",
+  "gameEt": "2026-04-08T21:00:00Z",
+  "gameTimeUTC": "2026-04-09T01:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-mem-0022501162",
+  "fetched_at_utc": "2026-10-21T07:04:09.399439+00:00",
+  "html_sha256": "6d93957b4b43b7f367296ba494c152a0b7b15bc8dd4e3317884fa854a6ab3b28"
+}

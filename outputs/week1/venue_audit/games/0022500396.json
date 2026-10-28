@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500396",
+  "GAMEDATE": "2025-12-21",
+  "teams": [
+    "ATL",
+    "CHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "CHI",
+  "gameEt": "2025-12-21T15:30:00Z",
+  "gameTimeUTC": "2025-12-21T20:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-chi-0022500396",
+  "fetched_at_utc": "2026-10-21T06:59:03.709541+00:00",
+  "html_sha256": "16d247c803a8fea5d03cb99953860e4830fbbe7fec8c3cef8672f61460fa2890"
+}

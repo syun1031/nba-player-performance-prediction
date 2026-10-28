@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500137",
+  "GAMEDATE": "2025-10-29",
+  "teams": [
+    "MEM",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "MEM",
+  "gameEt": "2025-10-29T22:00:00Z",
+  "gameTimeUTC": "2025-10-30T02:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-phx-0022500137",
+  "fetched_at_utc": "2026-10-21T06:57:24.321431+00:00",
+  "html_sha256": "49aee4b9bd96a714fb07db593e3c6e8ef4f8f7fc6dc7533a7f91d26b22a65800"
+}

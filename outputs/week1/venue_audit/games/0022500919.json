@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500919",
+  "GAMEDATE": "2026-03-07",
+  "teams": [
+    "MIL",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "UTA",
+  "gameEt": "2026-03-07T20:00:00Z",
+  "gameTimeUTC": "2026-03-08T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-uta-0022500919",
+  "fetched_at_utc": "2026-10-21T07:02:35.701454+00:00",
+  "html_sha256": "8f5704d7e666543a5c609fc135cefefaffcb3773496be68fda5cadc870348e28"
+}

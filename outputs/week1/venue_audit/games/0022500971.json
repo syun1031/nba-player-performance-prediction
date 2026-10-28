@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500971",
+  "GAMEDATE": "2026-03-14",
+  "teams": [
+    "BOS",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "WAS",
+  "gameEt": "2026-03-14T18:00:00Z",
+  "gameTimeUTC": "2026-03-14T22:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-was-0022500971",
+  "fetched_at_utc": "2026-10-21T07:02:53.949449+00:00",
+  "html_sha256": "78e0a819ec49aebb217e70b7abef13f3c3bb6480d8d03f5597dbfef5d50445d2"
+}

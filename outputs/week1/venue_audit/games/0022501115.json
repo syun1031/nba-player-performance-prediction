@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501115",
+  "GAMEDATE": "2026-04-02",
+  "teams": [
+    "DET",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "MIN",
+  "gameEt": "2026-04-02T19:00:00Z",
+  "gameTimeUTC": "2026-04-02T23:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-min-0022501115",
+  "fetched_at_utc": "2026-10-21T07:03:45.531832+00:00",
+  "html_sha256": "2c5c4268c19b3316e3145eaa4db00bf545d8456d3a56753ab1b12e93fe517acf"
+}

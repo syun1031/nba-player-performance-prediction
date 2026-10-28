@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500347",
+  "GAMEDATE": "2025-12-05",
+  "teams": [
+    "LAC",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "LAC",
+  "gameEt": "2025-12-05T20:00:00Z",
+  "gameTimeUTC": "2025-12-06T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-mem-0022500347",
+  "fetched_at_utc": "2026-10-21T06:58:45.823353+00:00",
+  "html_sha256": "d8cfb8133ce5b84760b716f24a83cee0e42bbf52e640574f60d6ec98da34a0b9"
+}

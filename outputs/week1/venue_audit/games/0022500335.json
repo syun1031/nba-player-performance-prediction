@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500335",
+  "GAMEDATE": "2025-12-04",
+  "teams": [
+    "BKN",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "UTA",
+  "gameEt": "2025-12-04T19:30:00Z",
+  "gameTimeUTC": "2025-12-05T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-uta-0022500335",
+  "fetched_at_utc": "2026-10-21T06:58:40.285139+00:00",
+  "html_sha256": "a746283946785b951dcc555ff08e1df6f61179ba67fedefbe1dd65d0c8a1cc6b"
+}

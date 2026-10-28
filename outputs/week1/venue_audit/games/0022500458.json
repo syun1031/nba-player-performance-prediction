@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500458",
+  "GAMEDATE": "2025-12-30",
+  "teams": [
+    "MEM",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "PHI",
+  "gameEt": "2025-12-30T20:00:00Z",
+  "gameTimeUTC": "2025-12-31T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-phi-0022500458",
+  "fetched_at_utc": "2026-10-21T06:59:30.719305+00:00",
+  "html_sha256": "4a00e75b765a8e72c2d010a713e90c0015b8aa15bb9f1b364c6b0d91b0e6b57a"
+}

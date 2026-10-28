@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500915",
+  "GAMEDATE": "2026-03-07",
+  "teams": [
+    "MIN",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "ORL",
+  "gameEt": "2026-03-07T15:00:00Z",
+  "gameTimeUTC": "2026-03-07T20:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-orl-0022500915",
+  "fetched_at_utc": "2026-10-21T07:02:33.574328+00:00",
+  "html_sha256": "0a5ef1826aed43030ada73cc443a37980e144f0ade4c50c1bee94f1be9d244ba"
+}

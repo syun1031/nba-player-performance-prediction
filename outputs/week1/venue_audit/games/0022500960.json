@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500960",
+  "GAMEDATE": "2026-03-12",
+  "teams": [
+    "CHI",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "CHI",
+  "gameEt": "2026-03-12T22:30:00Z",
+  "gameTimeUTC": "2026-03-13T02:30:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-lal-0022500960",
+  "fetched_at_utc": "2026-10-21T07:02:50.945490+00:00",
+  "html_sha256": "c00aad79f54423ce8ebe652693ecf5e40f94250654afa0df69b06cec92036cff"
+}

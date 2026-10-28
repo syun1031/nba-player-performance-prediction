@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501175",
+  "GAMEDATE": "2026-04-10",
+  "teams": [
+    "IND",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "PHI",
+  "gameEt": "2026-04-10T19:30:00Z",
+  "gameTimeUTC": "2026-04-10T23:30:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-phi-0022501175",
+  "fetched_at_utc": "2026-10-21T07:04:13.463172+00:00",
+  "html_sha256": "d95b4e552375f2efa11e8567fbfe46eb594705b187bff4b442d8e6e0cd726d1b"
+}

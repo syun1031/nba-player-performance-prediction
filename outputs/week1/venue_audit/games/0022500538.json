@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500538",
+  "GAMEDATE": "2026-01-09",
+  "teams": [
+    "NYK",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "NYK",
+  "gameEt": "2026-01-09T21:00:00Z",
+  "gameTimeUTC": "2026-01-10T02:00:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-phx-0022500538",
+  "fetched_at_utc": "2026-10-21T07:00:00.419945+00:00",
+  "html_sha256": "5487f61fea1bb2cd98d0f0f3cdb3d85f9084d01e054be676347a3ca143894e7a"
+}

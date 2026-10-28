@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500565",
+  "GAMEDATE": "2026-01-13",
+  "teams": [
+    "CHI",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "CHI",
+  "gameEt": "2026-01-13T20:00:00Z",
+  "gameTimeUTC": "2026-01-14T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-hou-0022500565",
+  "fetched_at_utc": "2026-10-21T07:00:11.248038+00:00",
+  "html_sha256": "d9e701bcdc4a09dfeda5968e194fc269e4f5edb9a3ded65af905a54463d9bb07"
+}

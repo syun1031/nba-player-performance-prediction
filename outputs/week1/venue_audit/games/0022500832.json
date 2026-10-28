@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500832",
+  "GAMEDATE": "2026-02-24",
+  "teams": [
+    "ATL",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "WAS",
+  "gameEt": "2026-02-24T19:30:00Z",
+  "gameTimeUTC": "2026-02-25T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-was-0022500832",
+  "fetched_at_utc": "2026-10-21T07:02:01.450891+00:00",
+  "html_sha256": "16da15c2f71faa5e4ca3dd50b6bc08aae12bcc5d5dd00843af615b92741402b1"
+}

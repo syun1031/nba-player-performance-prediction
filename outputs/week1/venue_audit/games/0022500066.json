@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500066",
+  "GAMEDATE": "2025-11-26",
+  "teams": [
+    "GSW",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "HOU",
+  "gameEt": "2025-11-26T22:00:00Z",
+  "gameTimeUTC": "2025-11-27T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-hou-0022500066",
+  "fetched_at_utc": "2026-10-21T06:56:55.601739+00:00",
+  "html_sha256": "4bdd3a0f033018ff11d76a0f07226d02477c8c939c519d8739fad4f0dca3c379"
+}

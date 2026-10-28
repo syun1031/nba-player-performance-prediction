@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500766",
+  "GAMEDATE": "2026-02-09",
+  "teams": [
+    "NOP",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "SAC",
+  "gameEt": "2026-02-09T20:00:00Z",
+  "gameTimeUTC": "2026-02-10T01:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-sac-0022500766",
+  "fetched_at_utc": "2026-10-21T07:01:32.528138+00:00",
+  "html_sha256": "781dd9f90b7dce0b0f185e8f8092c2952d5353703f72b1444118f289d4661439"
+}

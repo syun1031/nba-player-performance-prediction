@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500174",
+  "GAMEDATE": "2025-11-05",
+  "teams": [
+    "BOS",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "WAS",
+  "gameEt": "2025-11-05T19:30:00Z",
+  "gameTimeUTC": "2025-11-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-was-0022500174",
+  "fetched_at_utc": "2026-10-21T06:57:37.637316+00:00",
+  "html_sha256": "2877738420749df290f643a5ee1d5aef6e433c3de5a76dac190f07915125521f"
+}

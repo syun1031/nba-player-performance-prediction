@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501171",
+  "GAMEDATE": "2026-04-10",
+  "teams": [
+    "CHA",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "DET",
+  "gameEt": "2026-04-10T19:00:00Z",
+  "gameTimeUTC": "2026-04-10T23:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-det-0022501171",
+  "fetched_at_utc": "2026-10-21T07:04:11.805767+00:00",
+  "html_sha256": "60134b0da73c7f307498f23c80be215eba1918d7885b2b4beecd8844404b26b5"
+}

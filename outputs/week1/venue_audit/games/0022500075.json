@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500075",
+  "GAMEDATE": "2025-11-28",
+  "teams": [
+    "OKC",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "PHX",
+  "gameEt": "2025-11-28T21:30:00Z",
+  "gameTimeUTC": "2025-11-29T02:30:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-phx-0022500075",
+  "fetched_at_utc": "2026-10-21T06:56:59.639114+00:00",
+  "html_sha256": "f64e7fecc09f397b81e5d96c9d974bddb4b64f3fa28c33d3f7f01253d859929f"
+}

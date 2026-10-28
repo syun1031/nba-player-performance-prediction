@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500008",
+  "GAMEDATE": "2025-10-27",
+  "teams": [
+    "DEN",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "DEN",
+  "gameEt": "2025-10-27T21:30:00Z",
+  "gameTimeUTC": "2025-10-28T01:30:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-min-0022500008",
+  "fetched_at_utc": "2026-10-21T06:56:34.439230+00:00",
+  "html_sha256": "36865d049a52e6b81e98af6f578a8a070c583deb7c30e6cced446c1b8cddc936"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500297",
+  "GAMEDATE": "2025-11-29",
+  "teams": [
+    "BKN",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "BKN",
+  "gameEt": "2025-11-29T20:00:00Z",
+  "gameTimeUTC": "2025-11-30T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-mil-0022500297",
+  "fetched_at_utc": "2026-10-21T06:58:26.201596+00:00",
+  "html_sha256": "6f47b7c3e74b00a175069f0ea2e54a454402fc8858b495223372ba98b18b3b64"
+}

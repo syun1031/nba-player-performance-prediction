@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500758",
+  "GAMEDATE": "2026-02-08",
+  "teams": [
+    "MIA",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "MIA",
+  "gameEt": "2026-02-08T14:00:00Z",
+  "gameTimeUTC": "2026-02-08T19:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-was-0022500758",
+  "fetched_at_utc": "2026-10-21T07:01:29.839216+00:00",
+  "html_sha256": "d72537c329704880e2b739c92b03aa288673e8167e24184585a90df49c84cad7"
+}

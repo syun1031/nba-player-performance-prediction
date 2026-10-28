@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500484",
+  "GAMEDATE": "2026-01-02",
+  "teams": [
+    "GSW",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "OKC",
+  "gameEt": "2026-01-02T22:00:00Z",
+  "gameTimeUTC": "2026-01-03T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-okc-0022500484",
+  "fetched_at_utc": "2026-10-21T06:59:40.295876+00:00",
+  "html_sha256": "a2ee112a941a080edb050027adc3ca5b9d3fa8e3fddf5cb5ef681abab98faeae"
+}

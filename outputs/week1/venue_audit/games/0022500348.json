@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500348",
+  "GAMEDATE": "2025-12-05",
+  "teams": [
+    "MIL",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "PHI",
+  "gameEt": "2025-12-05T20:00:00Z",
+  "gameTimeUTC": "2025-12-06T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-phi-0022500348",
+  "fetched_at_utc": "2026-10-21T06:58:45.682425+00:00",
+  "html_sha256": "a2b47fb88f59a0199fa2e7d5b64c3660c1743c79684f8b803515b9e82188d37f"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500477",
+  "GAMEDATE": "2026-01-02",
+  "teams": [
+    "BKN",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "BKN",
+  "gameEt": "2026-01-02T19:00:00Z",
+  "gameTimeUTC": "2026-01-03T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-was-0022500477",
+  "fetched_at_utc": "2026-10-21T06:59:38.004061+00:00",
+  "html_sha256": "b271752e754cf74ba576261020ad5775ee1bb90381d9b739b120311af422c8d8"
+}

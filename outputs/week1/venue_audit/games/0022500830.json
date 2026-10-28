@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500830",
+  "GAMEDATE": "2026-02-23",
+  "teams": [
+    "HOU",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "UTA",
+  "gameEt": "2026-02-23T21:30:00Z",
+  "gameTimeUTC": "2026-02-24T02:30:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-uta-0022500830",
+  "fetched_at_utc": "2026-10-21T07:02:00.883955+00:00",
+  "html_sha256": "dd78934f383e2b41a1d067862da35e2ed65cd300053ad44df0c9ca0b8b775e19"
+}

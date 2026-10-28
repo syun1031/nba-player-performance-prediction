@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500956",
+  "GAMEDATE": "2026-03-12",
+  "teams": [
+    "ATL",
+    "BKN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "BKN",
+  "gameEt": "2026-03-12T19:30:00Z",
+  "gameTimeUTC": "2026-03-12T23:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-bkn-0022500956",
+  "fetched_at_utc": "2026-10-21T07:02:49.762946+00:00",
+  "html_sha256": "bff15ff1c30d9c49d05e3b7450f445a023e4e259f03ec0a33cfee63427b3c440"
+}

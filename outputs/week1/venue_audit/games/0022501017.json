@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501017",
+  "GAMEDATE": "2026-03-20",
+  "teams": [
+    "DET",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "GSW",
+  "gameEt": "2026-03-20T19:30:00Z",
+  "gameTimeUTC": "2026-03-20T23:30:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-gsw-0022501017",
+  "fetched_at_utc": "2026-10-21T07:03:09.865998+00:00",
+  "html_sha256": "fd92ec7c0b43963f7aad594d610089eaadd63f8202ed55b6b5bec157853cef80"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500301",
+  "GAMEDATE": "2025-11-30",
+  "teams": [
+    "HOU",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "HOU",
+  "gameEt": "2025-11-30T15:00:00Z",
+  "gameTimeUTC": "2025-11-30T20:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-uta-0022500301",
+  "fetched_at_utc": "2026-10-21T06:58:27.551466+00:00",
+  "html_sha256": "4d575317a3cbcbbc97a1941ddcce11889f960f1c7382c10ca10e2d907f6f23a2"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500186",
+  "GAMEDATE": "2025-11-08",
+  "teams": [
+    "CHI",
+    "CLE"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "CHI",
+  "gameEt": "2025-11-08T20:00:00Z",
+  "gameTimeUTC": "2025-11-09T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-cle-0022500186",
+  "fetched_at_utc": "2026-10-21T06:57:41.918957+00:00",
+  "html_sha256": "7a3e75567ad8ca035e9aa80dbb4e196c67a5f80c45febc355491b84d227718b3"
+}

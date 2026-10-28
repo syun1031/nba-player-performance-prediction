@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500734",
+  "GAMEDATE": "2026-02-05",
+  "teams": [
+    "BKN",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "BKN",
+  "gameEt": "2026-02-05T19:00:00Z",
+  "gameTimeUTC": "2026-02-06T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-orl-0022500734",
+  "fetched_at_utc": "2026-10-21T07:01:20.101537+00:00",
+  "html_sha256": "f4e3b94b91c1944e4e08e76b0e709bad31bd7f7452ad3594c2edaf10225cf3f5"
+}

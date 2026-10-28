@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500247",
+  "GAMEDATE": "2025-11-17",
+  "teams": [
+    "NOP",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "OKC",
+  "gameEt": "2025-11-17T20:00:00Z",
+  "gameTimeUTC": "2025-11-18T01:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-okc-0022500247",
+  "fetched_at_utc": "2026-10-21T06:58:06.351148+00:00",
+  "html_sha256": "130e84c5e98f0b092213923594b0723ad1ed0e406510527e09510c9dadf359f6"
+}

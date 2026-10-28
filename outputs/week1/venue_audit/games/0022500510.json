@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500510",
+  "GAMEDATE": "2026-01-06",
+  "teams": [
+    "CLE",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "CLE",
+  "gameEt": "2026-01-06T19:00:00Z",
+  "gameTimeUTC": "2026-01-07T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-ind-0022500510",
+  "fetched_at_utc": "2026-10-21T06:59:50.679063+00:00",
+  "html_sha256": "ecd57c3726212d7a67ecc14d9ff680367a06545ec550ea0f2b1599ec597e902f"
+}

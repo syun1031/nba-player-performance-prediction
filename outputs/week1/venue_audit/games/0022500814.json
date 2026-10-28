@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500814",
+  "GAMEDATE": "2026-02-21",
+  "teams": [
+    "CHI",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "DET",
+  "gameEt": "2026-02-21T20:00:00Z",
+  "gameTimeUTC": "2026-02-22T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-det-0022500814",
+  "fetched_at_utc": "2026-10-21T07:01:52.063739+00:00",
+  "html_sha256": "b74c7c8658363c7cf25de51acd85068a6db505d07cb031f8e2c07aef424485b5"
+}

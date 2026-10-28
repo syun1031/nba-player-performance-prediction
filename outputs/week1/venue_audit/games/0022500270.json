@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500270",
+  "GAMEDATE": "2025-11-22",
+  "teams": [
+    "ATL",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "ATL",
+  "gameEt": "2025-11-22T19:00:00Z",
+  "gameTimeUTC": "2025-11-23T00:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-nop-0022500270",
+  "fetched_at_utc": "2026-10-21T06:58:15.269641+00:00",
+  "html_sha256": "8ae4e8362ded9ced63b111285794ac72a34f566c8006c8109ecae5210a290c00"
+}

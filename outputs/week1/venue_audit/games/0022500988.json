@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500988",
+  "GAMEDATE": "2026-03-16",
+  "teams": [
+    "DAL",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "DAL",
+  "gameEt": "2026-03-16T20:00:00Z",
+  "gameTimeUTC": "2026-03-17T00:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-nop-0022500988",
+  "fetched_at_utc": "2026-10-21T07:02:59.679596+00:00",
+  "html_sha256": "3e2d2445516c6abe9c6680e1fa799fd1f38e90c20eab3a819544e2adf38502ad"
+}

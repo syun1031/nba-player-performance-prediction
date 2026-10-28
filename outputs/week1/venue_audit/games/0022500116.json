@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500116",
+  "GAMEDATE": "2025-10-27",
+  "teams": [
+    "BKN",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "BKN",
+  "gameEt": "2025-10-27T20:00:00Z",
+  "gameTimeUTC": "2025-10-28T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-hou-0022500116",
+  "fetched_at_utc": "2026-10-21T06:57:15.597810+00:00",
+  "html_sha256": "50dca4c4b37196728a9a0fbc6e8dca71ada1a751a3a8ebfa9407e040efb63009"
+}

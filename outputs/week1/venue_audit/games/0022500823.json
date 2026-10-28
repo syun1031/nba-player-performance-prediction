@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500823",
+  "GAMEDATE": "2026-02-22",
+  "teams": [
+    "BOS",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "BOS",
+  "gameEt": "2026-02-22T18:30:00Z",
+  "gameTimeUTC": "2026-02-22T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-lal-0022500823",
+  "fetched_at_utc": "2026-10-21T07:01:55.125662+00:00",
+  "html_sha256": "cd29944e0ad7116708c82ec7c3d745f0ea8070ac620b95302d6ca6ecc39c378e"
+}

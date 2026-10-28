@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500856",
+  "GAMEDATE": "2026-02-26",
+  "teams": [
+    "NOP",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "NOP",
+  "gameEt": "2026-02-26T21:00:00Z",
+  "gameTimeUTC": "2026-02-27T02:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-uta-0022500856",
+  "fetched_at_utc": "2026-10-21T07:02:10.015300+00:00",
+  "html_sha256": "3618a3c51138f1ccd7a12f206d304e3753cacffb805430354a434f966bcd6028"
+}

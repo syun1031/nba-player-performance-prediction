@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500023",
+  "GAMEDATE": "2025-10-31",
+  "teams": [
+    "CHI",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "NYK",
+  "gameEt": "2025-10-31T20:00:00Z",
+  "gameTimeUTC": "2025-11-01T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-nyk-0022500023",
+  "fetched_at_utc": "2026-10-21T06:56:39.999402+00:00",
+  "html_sha256": "f17fb4c2db58d29da639de6a9846a233fd9be69ccc762baa641fddded78e2aeb"
+}

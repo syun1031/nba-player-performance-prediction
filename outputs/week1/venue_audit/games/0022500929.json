@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500929",
+  "GAMEDATE": "2026-03-08",
+  "teams": [
+    "IND",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "IND",
+  "gameEt": "2026-03-08T21:00:00Z",
+  "gameTimeUTC": "2026-03-09T01:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-por-0022500929",
+  "fetched_at_utc": "2026-10-21T07:02:39.587849+00:00",
+  "html_sha256": "90fe64acd2881677bcd927d25507c6a13e99b131cb3bdc96982ca64d3077877d"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501144",
+  "GAMEDATE": "2026-04-06",
+  "teams": [
+    "DET",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "DET",
+  "gameEt": "2026-04-06T19:00:00Z",
+  "gameTimeUTC": "2026-04-06T23:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-orl-0022501144",
+  "fetched_at_utc": "2026-10-21T07:03:59.403552+00:00",
+  "html_sha256": "a912c923fd69a9380a682650227709da6cd39057da4ab62e20bf54b3e6f07b69"
+}

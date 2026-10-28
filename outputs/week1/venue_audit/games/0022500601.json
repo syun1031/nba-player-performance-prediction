@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500601",
+  "GAMEDATE": "2026-01-17",
+  "teams": [
+    "LAL",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "LAL",
+  "gameEt": "2026-01-17T22:00:00Z",
+  "gameTimeUTC": "2026-01-18T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-por-0022500601",
+  "fetched_at_utc": "2026-10-21T07:00:25.011248+00:00",
+  "html_sha256": "437569b33e54f23d15c3e0bcb084ef63cf2565d6fa02cdbda5ebee5063f3854c"
+}

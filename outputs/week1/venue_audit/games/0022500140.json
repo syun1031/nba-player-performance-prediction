@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500140",
+  "GAMEDATE": "2025-10-30",
+  "teams": [
+    "OKC",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "WAS",
+  "gameEt": "2025-10-30T20:00:00Z",
+  "gameTimeUTC": "2025-10-31T00:00:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-was-0022500140",
+  "fetched_at_utc": "2026-10-21T06:57:24.186142+00:00",
+  "html_sha256": "d6bc86d7040c8f4eccb7bd7bdd635ac7de901215b61a5536ea0226c5d9cd7d66"
+}

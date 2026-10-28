@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500091",
+  "GAMEDATE": "2025-10-24",
+  "teams": [
+    "BKN",
+    "CLE"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "CLE",
+  "gameEt": "2025-10-24T19:30:00Z",
+  "gameTimeUTC": "2025-10-24T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-cle-0022500091",
+  "fetched_at_utc": "2026-10-21T06:57:05.441325+00:00",
+  "html_sha256": "fd0487a8c6e488c8b31000761400886aa54d75afe015651dfe34f0d265de3f50"
+}

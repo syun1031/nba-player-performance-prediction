@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500063",
+  "GAMEDATE": "2025-11-26",
+  "teams": [
+    "IND",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "IND",
+  "gameEt": "2025-11-26T19:30:00Z",
+  "gameTimeUTC": "2025-11-27T00:30:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-tor-0022500063",
+  "fetched_at_utc": "2026-10-21T06:56:55.301583+00:00",
+  "html_sha256": "0cda73914b862c75ad6611d8d23db8ee2d9dc6159f86e386c87f506aeea620af"
+}

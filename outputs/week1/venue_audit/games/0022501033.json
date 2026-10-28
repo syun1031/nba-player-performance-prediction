@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501033",
+  "GAMEDATE": "2026-03-22",
+  "teams": [
+    "BKN",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "BKN",
+  "gameEt": "2026-03-22T18:00:00Z",
+  "gameTimeUTC": "2026-03-22T22:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-sac-0022501033",
+  "fetched_at_utc": "2026-10-21T07:03:15.204684+00:00",
+  "html_sha256": "ad190359e1289ee5e3ef1c06fde1a796919191b20fe70d4456c026dd2174a404"
+}

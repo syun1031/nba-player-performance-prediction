@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501026",
+  "GAMEDATE": "2026-03-21",
+  "teams": [
+    "ATL",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "GSW",
+  "gameEt": "2026-03-21T20:00:00Z",
+  "gameTimeUTC": "2026-03-22T00:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-gsw-0022501026",
+  "fetched_at_utc": "2026-10-21T07:03:12.609789+00:00",
+  "html_sha256": "56b22efbb1d654b3772763b6b3e8453f528bd13b57352b4bf9b35df76a5405fb"
+}

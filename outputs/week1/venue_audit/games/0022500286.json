@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500286",
+  "GAMEDATE": "2025-11-24",
+  "teams": [
+    "DAL",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "DAL",
+  "gameEt": "2025-11-24T19:30:00Z",
+  "gameTimeUTC": "2025-11-25T00:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-mia-0022500286",
+  "fetched_at_utc": "2026-10-21T06:58:21.656322+00:00",
+  "html_sha256": "846715639214805cc13f3e5627fdaec688dab260ac8e857a7780674e35e505ed"
+}

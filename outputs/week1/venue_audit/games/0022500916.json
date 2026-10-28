@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500916",
+  "GAMEDATE": "2026-03-07",
+  "teams": [
+    "BKN",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "BKN",
+  "gameEt": "2026-03-07T18:00:00Z",
+  "gameTimeUTC": "2026-03-07T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-det-0022500916",
+  "fetched_at_utc": "2026-10-21T07:02:34.239561+00:00",
+  "html_sha256": "5e664f4f76f5baf6d69f7eab9b14ca69a20c73e94c850e97001817251526561a"
+}

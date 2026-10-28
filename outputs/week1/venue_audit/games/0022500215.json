@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500215",
+  "GAMEDATE": "2025-11-12",
+  "teams": [
+    "NYK",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "ORL",
+  "gameEt": "2025-11-12T19:00:00Z",
+  "gameTimeUTC": "2025-11-13T00:00:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-orl-0022500215",
+  "fetched_at_utc": "2026-10-21T06:57:53.076713+00:00",
+  "html_sha256": "1c65fabab989394f3ed66ff72aed01ec160f0781fe1929fc2bdf2da7044be558"
+}

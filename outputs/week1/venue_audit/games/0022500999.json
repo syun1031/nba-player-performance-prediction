@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500999",
+  "GAMEDATE": "2026-03-18",
+  "teams": [
+    "BOS",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "GSW",
+  "gameEt": "2026-03-18T19:00:00Z",
+  "gameTimeUTC": "2026-03-18T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-gsw-0022500999",
+  "fetched_at_utc": "2026-10-21T07:03:04.135343+00:00",
+  "html_sha256": "cc14e8e297fbb050cdc6fc80496e6f338c2c97899f061fca64f024ba5f0cf7ce"
+}

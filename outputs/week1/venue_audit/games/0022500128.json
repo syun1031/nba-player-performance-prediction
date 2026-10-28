@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500128",
+  "GAMEDATE": "2025-10-29",
+  "teams": [
+    "BOS",
+    "CLE"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "CLE",
+  "gameEt": "2025-10-29T19:00:00Z",
+  "gameTimeUTC": "2025-10-29T23:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-cle-0022500128",
+  "fetched_at_utc": "2026-10-21T06:57:20.359016+00:00",
+  "html_sha256": "a1f661e77caf009dcd56704a662ca5bd65cf5b320f061a7dee22836916898fd8"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501089",
+  "GAMEDATE": "2026-03-29",
+  "teams": [
+    "NYK",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "NYK",
+  "gameEt": "2026-03-29T19:30:00Z",
+  "gameTimeUTC": "2026-03-29T23:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-okc-0022501089",
+  "fetched_at_utc": "2026-10-21T07:03:35.822886+00:00",
+  "html_sha256": "2c022da5757c93ab647fe8b3a7e2c31940acb53ae79ed4918df126079e34889c"
+}

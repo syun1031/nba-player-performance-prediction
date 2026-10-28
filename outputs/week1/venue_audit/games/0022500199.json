@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500199",
+  "GAMEDATE": "2025-11-10",
+  "teams": [
+    "DET",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "WAS",
+  "gameEt": "2025-11-10T19:00:00Z",
+  "gameTimeUTC": "2025-11-11T00:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-was-0022500199",
+  "fetched_at_utc": "2026-10-21T06:57:46.960300+00:00",
+  "html_sha256": "89de02451ee7ddcc82e1e88db96945aefcce161640c41707e73d8ffdfe32d90c"
+}

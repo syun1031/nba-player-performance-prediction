@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500046",
+  "GAMEDATE": "2025-11-14",
+  "teams": [
+    "DAL",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "LAC",
+  "gameEt": "2025-11-14T20:30:00Z",
+  "gameTimeUTC": "2025-11-15T01:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-lac-0022500046",
+  "fetched_at_utc": "2026-10-21T06:56:48.509388+00:00",
+  "html_sha256": "7d6eba957a3773016fa6edfe5112fe5c6ebaa1fe6f6e14d288c228ef29867fb8"
+}

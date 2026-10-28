@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500409",
+  "GAMEDATE": "2025-12-23",
+  "teams": [
+    "CHA",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "WAS",
+  "gameEt": "2025-12-23T19:00:00Z",
+  "gameTimeUTC": "2025-12-24T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-was-0022500409",
+  "fetched_at_utc": "2026-10-21T06:59:09.171590+00:00",
+  "html_sha256": "c92aa2dbf107282d6b534a127f397faecc8b807398cdbcadcde424f8a31d5548"
+}

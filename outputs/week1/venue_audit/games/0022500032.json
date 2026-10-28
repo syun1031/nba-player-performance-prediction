@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500032",
+  "GAMEDATE": "2025-11-07",
+  "teams": [
+    "HOU",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000118,
+    "arenaName": "Frost Bank Center",
+    "arenaCity": "San Antonio",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "HOU",
+  "gameEt": "2025-11-07T19:30:00Z",
+  "gameTimeUTC": "2025-11-08T00:30:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-sas-0022500032",
+  "fetched_at_utc": "2026-10-21T06:56:42.801793+00:00",
+  "html_sha256": "7e144b0685991e11a34bcb256f8eb2598e9fa29bba855b1ea8088c0b60bc72bf"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500633",
+  "GAMEDATE": "2026-01-22",
+  "teams": [
+    "LAC",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "LAL",
+  "gameEt": "2026-01-22T22:00:00Z",
+  "gameTimeUTC": "2026-01-23T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-lal-0022500633",
+  "fetched_at_utc": "2026-10-21T07:00:37.445563+00:00",
+  "html_sha256": "ad8ec3266638d4776a368f48c68b043904ec401fb9e20e2f84e09db16f18ac44"
+}

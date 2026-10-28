@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500542",
+  "GAMEDATE": "2026-01-10",
+  "teams": [
+    "CLE",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "MIN",
+  "gameEt": "2026-01-10T13:00:00Z",
+  "gameTimeUTC": "2026-01-10T18:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-min-0022500542",
+  "fetched_at_utc": "2026-10-21T07:00:03.890552+00:00",
+  "html_sha256": "3f60c8606d056fed6b2ff327211ea4715e6378c4f77df70f2dcc2e9463a83b2f"
+}

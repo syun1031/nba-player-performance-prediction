@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500378",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "GSW",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "GSW",
+  "gameEt": "2025-12-18T21:00:00Z",
+  "gameTimeUTC": "2025-12-19T02:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-phx-0022500378",
+  "fetched_at_utc": "2026-10-21T06:58:57.227651+00:00",
+  "html_sha256": "b9134bafa8e610cbb9a8029c0a8655308770b4214ba1734f7619aa5a91192cc0"
+}

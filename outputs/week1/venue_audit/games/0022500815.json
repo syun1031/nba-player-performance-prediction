@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500815",
+  "GAMEDATE": "2026-02-21",
+  "teams": [
+    "SAC",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000080,
+    "arenaName": "Moody Center",
+    "arenaCity": "Austin",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAS",
+  "awayTeam": "SAC",
+  "gameEt": "2026-02-21T20:00:00Z",
+  "gameTimeUTC": "2026-02-22T01:00:00Z",
+  "source_url": "https://www.nba.com/game/sac-vs-sas-0022500815",
+  "fetched_at_utc": "2026-10-21T07:01:52.039225+00:00",
+  "html_sha256": "39e21fcce5899a5cad6944861324098f178642d85a33dff3675b7df36a513f66"
+}

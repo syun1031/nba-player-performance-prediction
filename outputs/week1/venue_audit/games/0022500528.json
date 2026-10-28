@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500528",
+  "GAMEDATE": "2026-01-08",
+  "teams": [
+    "CHA",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "IND",
+  "gameEt": "2026-01-08T19:00:00Z",
+  "gameTimeUTC": "2026-01-09T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-ind-0022500528",
+  "fetched_at_utc": "2026-10-21T06:59:57.067276+00:00",
+  "html_sha256": "dbc3222faf18e4e583031e2622ebeca9f1b0c5c53ac09d7169c4878ce851e676"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500697",
+  "GAMEDATE": "2026-01-31",
+  "teams": [
+    "CHA",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "SAS",
+  "gameEt": "2026-01-31T12:00:00Z",
+  "gameTimeUTC": "2026-01-31T17:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-sas-0022500697",
+  "fetched_at_utc": "2026-10-21T07:01:03.753505+00:00",
+  "html_sha256": "9c064eb5969864a4aee729b9091821fc788dbd5fad787a83a1cf2ce15f96b229"
+}

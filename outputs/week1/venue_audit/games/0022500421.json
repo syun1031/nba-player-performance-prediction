@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500421",
+  "GAMEDATE": "2025-12-23",
+  "teams": [
+    "DET",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "DET",
+  "gameEt": "2025-12-23T22:00:00Z",
+  "gameTimeUTC": "2025-12-24T03:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-sac-0022500421",
+  "fetched_at_utc": "2026-10-21T06:59:14.732178+00:00",
+  "html_sha256": "77c16acfea565c523894a43e1b1050846f5ebc4c36436485d71535c765cda8b6"
+}

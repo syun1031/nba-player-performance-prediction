@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501135",
+  "GAMEDATE": "2026-04-05",
+  "teams": [
+    "MEM",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "MEM",
+  "gameEt": "2026-04-05T15:30:00Z",
+  "gameTimeUTC": "2026-04-05T19:30:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-mil-0022501135",
+  "fetched_at_utc": "2026-10-21T07:03:54.775538+00:00",
+  "html_sha256": "d2fb61f7bb55836568a3862c3f53f5c5818879734a9e9495c7f9d54d6f53babd"
+}

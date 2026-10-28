@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500496",
+  "GAMEDATE": "2026-01-04",
+  "teams": [
+    "BKN",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "DEN",
+  "gameEt": "2026-01-04T15:30:00Z",
+  "gameTimeUTC": "2026-01-04T20:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-den-0022500496",
+  "fetched_at_utc": "2026-10-21T06:59:44.563543+00:00",
+  "html_sha256": "6490c625d763bd290f650945a5f278082253f9fd7bad731651d69ba4e6e6b089"
+}

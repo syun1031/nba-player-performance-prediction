@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500952",
+  "GAMEDATE": "2026-03-11",
+  "teams": [
+    "LAC",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "MIN",
+  "gameEt": "2026-03-11T22:30:00Z",
+  "gameTimeUTC": "2026-03-12T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-min-0022500952",
+  "fetched_at_utc": "2026-10-21T07:02:48.265525+00:00",
+  "html_sha256": "f0832bc53f857001f7f1c67e6fa4f670b592e8f0edcc92a338093e5d220f0a5e"
+}

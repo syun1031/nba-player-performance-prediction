@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500909",
+  "GAMEDATE": "2026-03-06",
+  "teams": [
+    "CHA",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "MIA",
+  "gameEt": "2026-03-06T19:00:00Z",
+  "gameTimeUTC": "2026-03-07T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-mia-0022500909",
+  "fetched_at_utc": "2026-10-21T07:02:32.196745+00:00",
+  "html_sha256": "5055b25d6fda2f2b027183ef35eac19b1f7fcc56235688ae351c5551f2a06367"
+}

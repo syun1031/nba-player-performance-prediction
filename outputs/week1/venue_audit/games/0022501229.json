@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501229",
+  "GAMEDATE": "2025-12-13",
+  "teams": [
+    "NYK",
+    "ORL"
+  ],
+  "isNeutral": true,
+  "arena": {
+    "arenaId": 606,
+    "arenaName": "T-Mobile Arena",
+    "arenaCity": "Las Vegas",
+    "arenaState": "NV",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "NYK",
+  "gameEt": "2025-12-13T17:30:00Z",
+  "gameTimeUTC": "2025-12-13T22:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-orl-0022501229",
+  "fetched_at_utc": "2026-10-21T07:04:36.534954+00:00",
+  "html_sha256": "e60d8f3de7f228470e34f10273e97f3696331c141f6d2d57c3dca844c3e9629c"
+}

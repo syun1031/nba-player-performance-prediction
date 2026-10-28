@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501204",
+  "GAMEDATE": "2025-12-10",
+  "teams": [
+    "LAL",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "SAS",
+  "gameEt": "2025-12-10T22:00:00Z",
+  "gameTimeUTC": "2025-12-11T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-sas-0022501204",
+  "fetched_at_utc": "2026-10-21T07:04:26.834950+00:00",
+  "html_sha256": "01fd5258f69409e8cba261bd6ec58760dd66b8a3b34b0f875fe09963373ca202"
+}

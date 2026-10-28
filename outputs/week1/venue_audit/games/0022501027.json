@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501027",
+  "GAMEDATE": "2026-03-21",
+  "teams": [
+    "HOU",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "MIA",
+  "gameEt": "2026-03-21T20:00:00Z",
+  "gameTimeUTC": "2026-03-22T00:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-mia-0022501027",
+  "fetched_at_utc": "2026-10-21T07:03:12.615825+00:00",
+  "html_sha256": "11137d6a8d66b635f6b42b715f1de4e134f0ee73ac2228ad324c4537530ef304"
+}

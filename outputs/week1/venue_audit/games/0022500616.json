@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500616",
+  "GAMEDATE": "2026-01-20",
+  "teams": [
+    "MIN",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "MIN",
+  "gameEt": "2026-01-20T21:00:00Z",
+  "gameTimeUTC": "2026-01-21T02:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-uta-0022500616",
+  "fetched_at_utc": "2026-10-21T07:00:30.331203+00:00",
+  "html_sha256": "ba5afa3d7e5399fbfc7297f918c7909f7c04189133863fe010c48a9d1124b739"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500206",
+  "GAMEDATE": "2025-11-10",
+  "teams": [
+    "ATL",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "ATL",
+  "gameEt": "2025-11-10T22:30:00Z",
+  "gameTimeUTC": "2025-11-11T03:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-lac-0022500206",
+  "fetched_at_utc": "2026-10-21T06:57:49.376587+00:00",
+  "html_sha256": "1d1e28efdc9cd1fa28a9d14cef8ce8d793cf480a29e527e463a429d0c605c098"
+}

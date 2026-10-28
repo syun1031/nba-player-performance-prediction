@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500246",
+  "GAMEDATE": "2025-11-17",
+  "teams": [
+    "DAL",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "DAL",
+  "gameEt": "2025-11-17T20:00:00Z",
+  "gameTimeUTC": "2025-11-18T01:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-min-0022500246",
+  "fetched_at_utc": "2026-10-21T06:58:06.069276+00:00",
+  "html_sha256": "80aa776abbe4e0f92b2284b4bdc858822af74dc42eb7c16d8bf207fec12f7e91"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500638",
+  "GAMEDATE": "2026-01-23",
+  "teams": [
+    "CLE",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "SAC",
+  "gameEt": "2026-01-23T19:30:00Z",
+  "gameTimeUTC": "2026-01-24T00:30:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-sac-0022500638",
+  "fetched_at_utc": "2026-10-21T07:00:39.051776+00:00",
+  "html_sha256": "5f8e62065c7026880ac14ab2a984a742119b06a5fde6d81d3a5e02e8ac428679"
+}

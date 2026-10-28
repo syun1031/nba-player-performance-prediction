@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500184",
+  "GAMEDATE": "2025-11-08",
+  "teams": [
+    "PHI",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "TOR",
+  "gameEt": "2025-11-08T19:30:00Z",
+  "gameTimeUTC": "2025-11-09T00:30:00Z",
+  "source_url": "https://www.nba.com/game/phi-vs-tor-0022500184",
+  "fetched_at_utc": "2026-10-21T06:57:41.301696+00:00",
+  "html_sha256": "57e5bc025f0752a2c1c88a256e081e037560617c2395fff18b2a6c7160350df8"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501050",
+  "GAMEDATE": "2026-03-24",
+  "teams": [
+    "DEN",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "DEN",
+  "gameEt": "2026-03-24T23:00:00Z",
+  "gameTimeUTC": "2026-03-25T03:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-phx-0022501050",
+  "fetched_at_utc": "2026-10-21T07:03:21.879353+00:00",
+  "html_sha256": "a7b1ca039f16d55b85f91cbce4053c63969a1fd444cadae187e5c32db6c72982"
+}

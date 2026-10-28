@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500326",
+  "GAMEDATE": "2025-12-03",
+  "teams": [
+    "ORL",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "SAS",
+  "gameEt": "2025-12-03T19:00:00Z",
+  "gameTimeUTC": "2025-12-04T00:00:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-sas-0022500326",
+  "fetched_at_utc": "2026-10-21T06:58:37.159156+00:00",
+  "html_sha256": "9025d83510530a47d15c77b1c4177172c195f3d32b60c2c0ed7a7e4416a3babc"
+}

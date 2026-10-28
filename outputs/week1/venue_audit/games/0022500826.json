@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500826",
+  "GAMEDATE": "2026-02-22",
+  "teams": [
+    "PHX",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "POR",
+  "gameEt": "2026-02-22T20:00:00Z",
+  "gameTimeUTC": "2026-02-23T01:00:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-por-0022500826",
+  "fetched_at_utc": "2026-10-21T07:01:56.709710+00:00",
+  "html_sha256": "c2c77f0935916e13a9ac63560a6aa2377aa96a142fe2a1033b28fd837dbdafa8"
+}

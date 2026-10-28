@@ -1,0 +1,9 @@
+﻿period,variant,n_train,n_validation,fit_number
+F1,v1,4258,4104,1
+F1,v2,4258,4104,2
+F2,v1,8362,2422,3
+F2,v2,8362,2422,4
+F3,v1,10784,2497,5
+F3,v2,10784,2497,6
+February,v1,13281,3462,7
+February,v2,13281,3462,8

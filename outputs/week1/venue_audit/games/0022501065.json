@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501065",
+  "GAMEDATE": "2026-03-26",
+  "teams": [
+    "ORL",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "SAC",
+  "gameEt": "2026-03-26T19:00:00Z",
+  "gameTimeUTC": "2026-03-26T23:00:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-sac-0022501065",
+  "fetched_at_utc": "2026-10-21T07:03:27.386155+00:00",
+  "html_sha256": "40b9d1fa76f72eb23a64d045886b2d7cc13c0b81f99ba756950a0d9a141a6913"
+}

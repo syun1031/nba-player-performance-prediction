@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500625",
+  "GAMEDATE": "2026-01-21",
+  "teams": [
+    "MIL",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "OKC",
+  "gameEt": "2026-01-21T21:30:00Z",
+  "gameTimeUTC": "2026-01-22T02:30:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-okc-0022500625",
+  "fetched_at_utc": "2026-10-21T07:00:33.669996+00:00",
+  "html_sha256": "d9e715708859782e58cd849e3f97a371aa04904e130e023cae98340800380f22"
+}

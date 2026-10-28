@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500142",
+  "GAMEDATE": "2025-11-01",
+  "teams": [
+    "MIL",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "SAC",
+  "gameEt": "2025-11-01T17:00:00Z",
+  "gameTimeUTC": "2025-11-01T21:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-sac-0022500142",
+  "fetched_at_utc": "2026-10-21T06:57:25.861389+00:00",
+  "html_sha256": "d80c5d611e1673f997388a5825774f3ab6a7bb8c4071c49ac5871c8f8c10504c"
+}

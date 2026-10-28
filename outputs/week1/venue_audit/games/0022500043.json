@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500043",
+  "GAMEDATE": "2025-11-14",
+  "teams": [
+    "CHA",
+    "MIL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "CHA",
+  "gameEt": "2025-11-14T20:00:00Z",
+  "gameTimeUTC": "2025-11-15T01:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-mil-0022500043",
+  "fetched_at_utc": "2026-10-21T06:56:47.862285+00:00",
+  "html_sha256": "801cfa8a431d61e5f8fbaf4eaa1b30e87cf2e52a912d2ae7f2c910e7d6981b8a"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500684",
+  "GAMEDATE": "2026-01-29",
+  "teams": [
+    "BKN",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "BKN",
+  "gameEt": "2026-01-29T21:00:00Z",
+  "gameTimeUTC": "2026-01-30T02:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-den-0022500684",
+  "fetched_at_utc": "2026-10-21T07:00:57.960095+00:00",
+  "html_sha256": "983b4072e13ccdfdaa35f171da83763a0ccb9f2382c79fc688ce5e4c3dae3543"
+}

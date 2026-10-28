@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501010",
+  "GAMEDATE": "2026-03-19",
+  "teams": [
+    "LAL",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "LAL",
+  "gameEt": "2026-03-19T20:00:00Z",
+  "gameTimeUTC": "2026-03-20T00:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-mia-0022501010",
+  "fetched_at_utc": "2026-10-21T07:03:07.239276+00:00",
+  "html_sha256": "706fbc7db44cb428e982335bcb617ee223ead76ce68dd7fcee17c24209699049"
+}

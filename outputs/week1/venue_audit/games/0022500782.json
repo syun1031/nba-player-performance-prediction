@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500782",
+  "GAMEDATE": "2026-02-11",
+  "teams": [
+    "HOU",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "LAC",
+  "gameEt": "2026-02-11T20:00:00Z",
+  "gameTimeUTC": "2026-02-12T01:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-lac-0022500782",
+  "fetched_at_utc": "2026-10-21T07:01:38.579276+00:00",
+  "html_sha256": "da51a7a2d96772599ceedd9617bdbdf37bec7416e1d78fe32b01a70df1b44531"
+}

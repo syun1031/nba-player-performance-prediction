@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500614",
+  "GAMEDATE": "2026-01-20",
+  "teams": [
+    "CHI",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "LAC",
+  "gameEt": "2026-01-20T20:00:00Z",
+  "gameTimeUTC": "2026-01-21T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-lac-0022500614",
+  "fetched_at_utc": "2026-10-21T07:00:29.022468+00:00",
+  "html_sha256": "823870e9878b068754cc321e08f826ec717962768d6c4bf2c5995b8e1c8a1275"
+}

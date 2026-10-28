@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500537",
+  "GAMEDATE": "2026-01-09",
+  "teams": [
+    "ATL",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "ATL",
+  "gameEt": "2026-01-09T21:00:00Z",
+  "gameTimeUTC": "2026-01-10T02:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-den-0022500537",
+  "fetched_at_utc": "2026-10-21T07:00:01.026695+00:00",
+  "html_sha256": "978830104a6da254e1eb8d95bd86cd78e18af4ca6891267a911446737c5ab3b3"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500064",
+  "GAMEDATE": "2025-11-26",
+  "teams": [
+    "MIN",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "MIN",
+  "gameEt": "2025-11-26T19:30:00Z",
+  "gameTimeUTC": "2025-11-27T00:30:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-okc-0022500064",
+  "fetched_at_utc": "2026-10-21T06:56:56.200082+00:00",
+  "html_sha256": "029f9f879b76551b352b7a9ee3a5ef73a291ac4f76201622c01cf41a0e400aa3"
+}

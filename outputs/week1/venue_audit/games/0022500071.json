@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500071",
+  "GAMEDATE": "2025-11-28",
+  "teams": [
+    "CHA",
+    "CHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "CHI",
+  "gameEt": "2025-11-28T19:30:00Z",
+  "gameTimeUTC": "2025-11-29T00:30:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-chi-0022500071",
+  "fetched_at_utc": "2026-10-21T06:56:58.350614+00:00",
+  "html_sha256": "8d2897c6eb3252c34d3ef07ef7d58b7f441af580807f9b7bb8e475ab5ff63765"
+}

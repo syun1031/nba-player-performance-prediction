@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500666",
+  "GAMEDATE": "2026-01-27",
+  "teams": [
+    "MIL",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "MIL",
+  "gameEt": "2026-01-27T20:00:00Z",
+  "gameTimeUTC": "2026-01-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-phi-0022500666",
+  "fetched_at_utc": "2026-10-21T07:00:50.809629+00:00",
+  "html_sha256": "3cf89e658963e592385aeced5f58ffad43dd1fe4b81c158783659025908eb695"
+}

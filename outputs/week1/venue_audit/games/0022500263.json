@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500263",
+  "GAMEDATE": "2025-11-19",
+  "teams": [
+    "CHI",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "CHI",
+  "gameEt": "2025-11-19T22:00:00Z",
+  "gameTimeUTC": "2025-11-20T03:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-por-0022500263",
+  "fetched_at_utc": "2026-10-21T06:58:12.079352+00:00",
+  "html_sha256": "c1d0752e0faaf33d153a401dceacf0e7fce09f0f66bba8d9b23bd64f32123a5a"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500834",
+  "GAMEDATE": "2026-02-24",
+  "teams": [
+    "OKC",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "OKC",
+  "gameEt": "2026-02-24T19:30:00Z",
+  "gameTimeUTC": "2026-02-25T00:30:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-tor-0022500834",
+  "fetched_at_utc": "2026-10-21T07:02:01.843750+00:00",
+  "html_sha256": "83a5d717b35bc09d1181d181bda9b2be227d96516500ee8d5bf79d6475822fb0"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "GAMEDATE": "2025-11-01", "teams": ["DAL", "DET"],
+    "venue": "Arena CDMX, Mexico City", "designated_home_team": "DET",
+    "source_url": "https://statsdmz.nba.com/pdfs/20251101/20251101_DALDET_book.pdf",
+    "source_page": 1, "verified_date": "2026-10-21"
+  },
+  {
+    "GAMEDATE": "2025-12-13", "teams": ["NYK", "ORL"],
+    "venue": "T-Mobile Arena, Las Vegas", "designated_home_team": null,
+    "source_url": "https://statsdmz.nba.com/pdfs/20251213/20251213_NYKORL_book.pdf",
+    "source_page": 1, "verified_date": "2026-10-21"
+  },
+  {
+    "GAMEDATE": "2025-12-13", "teams": ["SAS", "OKC"],
+    "venue": "T-Mobile Arena, Las Vegas", "designated_home_team": null,
+    "source_url": "https://statsdmz.nba.com/pdfs/20251213/20251213_SASOKC_book.pdf",
+    "source_page": 1, "verified_date": "2026-10-21"
+  },
+  {
+    "GAMEDATE": "2026-01-15", "teams": ["MEM", "ORL"],
+    "venue": "Uber Arena, Berlin", "designated_home_team": "ORL",
+    "source_url": "https://statsdmz.nba.com/pdfs/20260115/20260115_MEMORL_book.pdf",
+    "source_page": 1, "verified_date": "2026-10-21"
+  },
+  {
+    "GAMEDATE": "2026-01-18", "teams": ["ORL", "MEM"],
+    "venue": "The O2 Arena, London", "designated_home_team": "MEM",
+    "source_url": "https://statsdmz.nba.com/pdfs/20260118/20260118_ORLMEM_book.pdf",
+    "source_page": 1, "verified_date": "2026-10-21"
+  }
+]

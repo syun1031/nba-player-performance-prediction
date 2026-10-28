@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500482",
+  "GAMEDATE": "2026-01-02",
+  "teams": [
+    "NOP",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "POR",
+  "gameEt": "2026-01-02T20:00:00Z",
+  "gameTimeUTC": "2026-01-03T01:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-por-0022500482",
+  "fetched_at_utc": "2026-10-21T06:59:39.252649+00:00",
+  "html_sha256": "931826a47302d722ba06c4cf8ff071fdb85baf0b68689cc1a4b99518a104525a"
+}

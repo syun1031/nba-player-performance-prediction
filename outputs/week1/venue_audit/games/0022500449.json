@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500449",
+  "GAMEDATE": "2025-12-29",
+  "teams": [
+    "BKN",
+    "GSW"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "GSW",
+  "gameEt": "2025-12-29T19:30:00Z",
+  "gameTimeUTC": "2025-12-30T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-gsw-0022500449",
+  "fetched_at_utc": "2026-10-21T06:59:27.164478+00:00",
+  "html_sha256": "ed967369dcf15d77314dcf4c73e017b6453bb85e961d38710efcd2c37b4407b2"
+}

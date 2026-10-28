@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501159",
+  "GAMEDATE": "2026-04-08",
+  "teams": [
+    "MIN",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "MIN",
+  "gameEt": "2026-04-08T19:00:00Z",
+  "gameTimeUTC": "2026-04-08T23:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-orl-0022501159",
+  "fetched_at_utc": "2026-10-21T07:04:05.129629+00:00",
+  "html_sha256": "131da570a9168eda2e85f78a80064210ff907133fd845acbcc49ee330f9e0fc2"
+}

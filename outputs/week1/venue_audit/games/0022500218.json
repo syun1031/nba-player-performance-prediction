@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500218",
+  "GAMEDATE": "2025-11-12",
+  "teams": [
+    "HOU",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "WAS",
+  "gameEt": "2025-11-12T20:00:00Z",
+  "gameTimeUTC": "2025-11-13T01:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-was-0022500218",
+  "fetched_at_utc": "2026-10-21T06:57:54.701749+00:00",
+  "html_sha256": "36679dc654bf4c8f55f8b29f0ab30a3202e1cc3887a91d0436b695e54ba60696"
+}

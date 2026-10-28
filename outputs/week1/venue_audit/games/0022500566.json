@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500566",
+  "GAMEDATE": "2026-01-13",
+  "teams": [
+    "MIL",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "MIN",
+  "gameEt": "2026-01-13T20:00:00Z",
+  "gameTimeUTC": "2026-01-14T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-min-0022500566",
+  "fetched_at_utc": "2026-10-21T07:00:11.826996+00:00",
+  "html_sha256": "3cb6d81ddce4bf186954b3ca98e163900702c0fd19ec6698020d8117d0f30d28"
+}

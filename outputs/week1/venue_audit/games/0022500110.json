@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500110",
+  "GAMEDATE": "2025-10-26",
+  "teams": [
+    "IND",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "IND",
+  "gameEt": "2025-10-26T19:00:00Z",
+  "gameTimeUTC": "2025-10-26T23:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-min-0022500110",
+  "fetched_at_utc": "2026-10-21T06:57:13.365125+00:00",
+  "html_sha256": "abe35923ec51d6920f4d8fc6d236cb942fdaa1f40d2db551a2635315c8786abd"
+}

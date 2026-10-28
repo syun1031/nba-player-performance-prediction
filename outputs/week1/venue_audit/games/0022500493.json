@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500493",
+  "GAMEDATE": "2026-01-03",
+  "teams": [
+    "BOS",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "BOS",
+  "gameEt": "2026-01-03T22:30:00Z",
+  "gameTimeUTC": "2026-01-04T03:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-lac-0022500493",
+  "fetched_at_utc": "2026-10-21T06:59:43.501537+00:00",
+  "html_sha256": "0c1b32fc02face035e711cd01657c046ab7c612e47a2801ffdb1ff1b4e69eab8"
+}

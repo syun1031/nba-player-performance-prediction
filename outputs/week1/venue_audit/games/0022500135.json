@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500135",
+  "GAMEDATE": "2025-10-29",
+  "teams": [
+    "POR",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "POR",
+  "gameEt": "2025-10-29T21:00:00Z",
+  "gameTimeUTC": "2025-10-30T01:00:00Z",
+  "source_url": "https://www.nba.com/game/por-vs-uta-0022500135",
+  "fetched_at_utc": "2026-10-21T06:57:22.869467+00:00",
+  "html_sha256": "01d550d246f82862d7157a6d9d0ff7b25272d81d51e71f8371f0257b1ae3caa0"
+}

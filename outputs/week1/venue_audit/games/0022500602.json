@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500602",
+  "GAMEDATE": "2026-01-18",
+  "teams": [
+    "MEM",
+    "ORL"
+  ],
+  "isNeutral": true,
+  "arena": {
+    "arenaId": 315,
+    "arenaName": "The O2 Arena",
+    "arenaCity": "London",
+    "arenaState": "",
+    "arenaCountry": "GB",
+    "arenaTimezone": "",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "ORL",
+  "gameEt": "2026-01-18T12:00:00Z",
+  "gameTimeUTC": "2026-01-18T17:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-orl-0022500602",
+  "fetched_at_utc": "2026-10-21T07:00:25.207324+00:00",
+  "html_sha256": "54d075d6ce327b0f2b7e2ce446c9423ee03cb3784a4d6ef7ec9b2cac57d9d2f5"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500155",
+  "GAMEDATE": "2025-11-02",
+  "teams": [
+    "LAL",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "MIA",
+  "gameEt": "2025-11-02T21:30:00Z",
+  "gameTimeUTC": "2025-11-03T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-mia-0022500155",
+  "fetched_at_utc": "2026-10-21T06:57:30.838896+00:00",
+  "html_sha256": "05ac34f5f4e4a62fcd6445f956d04bfee92ff28afdc64f59bdf40bb8268a6755"
+}

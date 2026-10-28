@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500147",
+  "GAMEDATE": "2025-11-01",
+  "teams": [
+    "DAL",
+    "DET"
+  ],
+  "isNeutral": true,
+  "arena": {
+    "arenaId": 1000121,
+    "arenaName": "Arena CDMX",
+    "arenaCity": "Mexico City",
+    "arenaState": "MX",
+    "arenaCountry": "MX",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "DAL",
+  "gameEt": "2025-11-01T22:00:00Z",
+  "gameTimeUTC": "2025-11-02T02:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-det-0022500147",
+  "fetched_at_utc": "2026-10-21T06:57:27.263371+00:00",
+  "html_sha256": "898fa2a4ba1bab7d57df8e04158e55b07f3ad7d9fce29531bc66653edda4b081"
+}

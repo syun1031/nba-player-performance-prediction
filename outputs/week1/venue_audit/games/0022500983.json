@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500983",
+  "GAMEDATE": "2026-03-16",
+  "teams": [
+    "ATL",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "ORL",
+  "gameEt": "2026-03-16T19:00:00Z",
+  "gameTimeUTC": "2026-03-16T23:00:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-orl-0022500983",
+  "fetched_at_utc": "2026-10-21T07:02:57.489553+00:00",
+  "html_sha256": "aed6add410c4b9390913ff32ce967fda3741b81ab2c806e835725b04a6222c49"
+}

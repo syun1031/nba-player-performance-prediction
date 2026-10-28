@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500355",
+  "GAMEDATE": "2025-12-06",
+  "teams": [
+    "LAC",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "LAC",
+  "gameEt": "2025-12-06T20:00:00Z",
+  "gameTimeUTC": "2025-12-07T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-min-0022500355",
+  "fetched_at_utc": "2026-10-21T06:58:48.532873+00:00",
+  "html_sha256": "84516db08882281a23a59849255ce0279178158547fee7e4663774ce515d0f6e"
+}

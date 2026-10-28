@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500699",
+  "GAMEDATE": "2026-01-31",
+  "teams": [
+    "NOP",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "NOP",
+  "gameEt": "2026-01-31T19:30:00Z",
+  "gameTimeUTC": "2026-02-01T00:30:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-phi-0022500699",
+  "fetched_at_utc": "2026-10-21T07:01:04.579426+00:00",
+  "html_sha256": "e81368fc1fff05a69ca5d8fbcda3e3e7034076165ebd8700366a0f8c60e52a35"
+}

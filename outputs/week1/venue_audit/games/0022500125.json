@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500125",
+  "GAMEDATE": "2025-10-28",
+  "teams": [
+    "MIL",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 642,
+    "arenaName": "Fiserv Forum",
+    "arenaCity": "Milwaukee",
+    "arenaState": "WI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIL",
+  "awayTeam": "NYK",
+  "gameEt": "2025-10-28T20:00:00Z",
+  "gameTimeUTC": "2025-10-29T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mil-vs-nyk-0022500125",
+  "fetched_at_utc": "2026-10-21T06:57:19.428055+00:00",
+  "html_sha256": "e49fcb71fadee651c3b7a82d85454b978d332934a39c6d511903684fc37a4598"
+}

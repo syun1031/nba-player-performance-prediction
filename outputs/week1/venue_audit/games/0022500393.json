@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500393",
+  "GAMEDATE": "2025-12-20",
+  "teams": [
+    "ORL",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "ORL",
+  "gameEt": "2025-12-20T21:30:00Z",
+  "gameTimeUTC": "2025-12-21T02:30:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-uta-0022500393",
+  "fetched_at_utc": "2026-10-21T06:59:02.202908+00:00",
+  "html_sha256": "c9fbbad4f3741753d7e057b783aaa6f06d6fff9c7e7c3c5e6da20d0c9272134c"
+}

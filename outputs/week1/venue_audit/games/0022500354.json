@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500354",
+  "GAMEDATE": "2025-12-06",
+  "teams": [
+    "MIA",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "SAC",
+  "gameEt": "2025-12-06T20:00:00Z",
+  "gameTimeUTC": "2025-12-07T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-sac-0022500354",
+  "fetched_at_utc": "2026-10-21T06:58:48.970534+00:00",
+  "html_sha256": "8ff963e5f28f4e296f8d205a98b82d0d2599eb1df16286d3a2356db923a15366"
+}

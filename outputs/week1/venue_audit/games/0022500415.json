@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500415",
+  "GAMEDATE": "2025-12-23",
+  "teams": [
+    "DAL",
+    "DEN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "DEN",
+  "gameEt": "2025-12-23T20:00:00Z",
+  "gameTimeUTC": "2025-12-24T01:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-den-0022500415",
+  "fetched_at_utc": "2026-10-21T06:59:11.709019+00:00",
+  "html_sha256": "cebd8fd0c194209f4a70592c458f95a0a7b45a51e96b88b22e8eea4a5d6751f8"
+}

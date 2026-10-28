@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500817",
+  "GAMEDATE": "2026-02-22",
+  "teams": [
+    "CLE",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "CLE",
+  "gameEt": "2026-02-22T13:00:00Z",
+  "gameTimeUTC": "2026-02-22T18:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-okc-0022500817",
+  "fetched_at_utc": "2026-10-21T07:01:53.773844+00:00",
+  "html_sha256": "a8f1ad8873c6d282b73ffd77fea10f2f9a1d30e2d01298697c45fba7626f6da7"
+}

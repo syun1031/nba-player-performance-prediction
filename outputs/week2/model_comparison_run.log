@@ -1,0 +1,212 @@
+Training linear/basic: 8 inputs
+Training linear/starter: 9 inputs
+Training linear/teammates: 366 inputs
+Training tree/basic: 8 inputs
+Training tree/starter: 9 inputs
+Training tree/teammates: 366 inputs
+Training xgboost/basic: 8 inputs
+Training xgboost/starter: 9 inputs
+Training xgboost/teammates: 366 inputs
+{
+  "verified": true,
+  "best": {
+    "model": "xgboost",
+    "features": "teammates",
+    "split": "validation",
+    "n": 3462,
+    "mae": 4.60723213926345,
+    "rmse": 5.966676133092088
+  },
+  "validation": [
+    {
+      "model": "baseline",
+      "features": "basic",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.797746967071057,
+      "rmse": 6.278220171900877
+    },
+    {
+      "model": "linear",
+      "features": "basic",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.654905908947221,
+      "rmse": 6.021683313612061
+    },
+    {
+      "model": "linear",
+      "features": "starter",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.616342580573694,
+      "rmse": 5.971692871315816
+    },
+    {
+      "model": "linear",
+      "features": "teammates",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.745123866577152,
+      "rmse": 6.111090088597712
+    },
+    {
+      "model": "tree",
+      "features": "basic",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.702651859224706,
+      "rmse": 6.0971049366787815
+    },
+    {
+      "model": "tree",
+      "features": "starter",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.654538655155788,
+      "rmse": 6.04481822574947
+    },
+    {
+      "model": "tree",
+      "features": "teammates",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.65697419815676,
+      "rmse": 6.041082650573158
+    },
+    {
+      "model": "xgboost",
+      "features": "basic",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.660422306643408,
+      "rmse": 6.046348291440956
+    },
+    {
+      "model": "xgboost",
+      "features": "starter",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.621206689645347,
+      "rmse": 5.994764713859097
+    },
+    {
+      "model": "xgboost",
+      "features": "teammates",
+      "split": "validation",
+      "n": 3462,
+      "mae": 4.60723213926345,
+      "rmse": 5.966676133092088
+    }
+  ],
+  "paired": [
+    {
+      "model": "linear",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.03856332837352582,
+      "lower_95": -0.059625708339741776,
+      "upper_95": -0.013984140363428195,
+      "date_groups": 22,
+      "iterations": 2000,
+      "seed": 42,
+      "delta_rmse": -0.04999044229624516
+    },
+    {
+      "model": "linear",
+      "old_features": "basic",
+      "new_features": "teammates",
+      "delta_mae": 0.0902179576299311,
+      "lower_95": 0.01668554712131523,
+      "upper_95": 0.17233053204959636,
+      "date_groups": 22,
+      "iterations": 2000,
+      "seed": 42,
+      "delta_rmse": 0.08940677498565108
+    },
+    {
+      "model": "linear",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.1287812860034569,
+      "lower_95": 0.051346440444229986,
+      "upper_95": 0.21845310026022738,
+      "date_groups": 22,
+      "iterations": 2000,
+      "seed": 42,
+      "delta_rmse": 0.13939721728189625
+    },
+    {
+      "model": "tree",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.04811320406891804,
+      "lower_95": -0.088970436880825,
+      "upper_95": -0.003383241041057284,
+      "date_groups": 22,
+      "iterations": 2000,
+      "seed": 42,
+      "delta_rmse": -0.052286710929311475
+    },
+    {
+      "model": "tree",
+      "old_features": "basic",
+      "new_features": "teammates",
+      "delta_mae": -0.04567766106794495,
+      "lower_95": -0.08278063143368351,
+      "upper_95": -0.004530822650900655,
+      "date_groups": 22,
+      "iterations": 2000,
+      "seed": 42,
+      "delta_rmse": -0.05602228610562321
+    },
+    {
+      "model": "tree",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": 0.002435543000973088,
+      "lower_95": -0.012194294275861777,
+      "upper_95": 0.017284727325537257,
+      "date_groups": 22,
+      "iterations": 2000,
+      "seed": 42,
+      "delta_rmse": -0.003735575176311734
+    },
+    {
+      "model": "xgboost",
+      "old_features": "basic",
+      "new_features": "starter",
+      "delta_mae": -0.03921561699806094,
+      "lower_95": -0.0667763946274199,
+      "upper_95": -0.014158611806087802,
+      "date_groups": 22,
+      "iterations": 2000,
+      "seed": 42,
+      "delta_rmse": -0.05158357758185872
+    },
+    {
+      "model": "xgboost",
+      "old_features": "basic",
+      "new_features": "teammates",
+      "delta_mae": -0.053190167379957756,
+      "lower_95": -0.0829714571210843,
+      "upper_95": -0.0249939454448886,
+      "date_groups": 22,
+      "iterations": 2000,
+      "seed": 42,
+      "delta_rmse": -0.07967215834886776
+    },
+    {
+      "model": "xgboost",
+      "old_features": "starter",
+      "new_features": "teammates",
+      "delta_mae": -0.013974550381896813,
+      "lower_95": -0.03397433868498575,
+      "upper_95": 0.009992591394960828,
+      "date_groups": 22,
+      "iterations": 2000,
+      "seed": 42,
+      "delta_rmse": -0.02808858076700904
+    }
+  ]
+}

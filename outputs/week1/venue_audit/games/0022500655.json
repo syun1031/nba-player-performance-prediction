@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500655",
+  "GAMEDATE": "2026-01-25",
+  "teams": [
+    "MIA",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "MIA",
+  "gameEt": "2026-01-25T20:00:00Z",
+  "gameTimeUTC": "2026-01-26T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-phx-0022500655",
+  "fetched_at_utc": "2026-10-21T07:00:45.691489+00:00",
+  "html_sha256": "0bd785ed65977935ec50317711c0e326c6b30e796cd01ac42b4ef781c3162965"
+}

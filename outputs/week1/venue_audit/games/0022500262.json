@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500262",
+  "GAMEDATE": "2025-11-19",
+  "teams": [
+    "DAL",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "NYK",
+  "gameEt": "2025-11-19T21:30:00Z",
+  "gameTimeUTC": "2025-11-20T02:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-nyk-0022500262",
+  "fetched_at_utc": "2026-10-21T06:58:11.593356+00:00",
+  "html_sha256": "34a551c00f226e1cba5137ded8d7c90347f355a278053d23b73bc68bd7c7f8aa"
+}

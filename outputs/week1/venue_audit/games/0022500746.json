@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500746",
+  "GAMEDATE": "2026-02-06",
+  "teams": [
+    "LAC",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "LAC",
+  "gameEt": "2026-02-06T22:00:00Z",
+  "gameTimeUTC": "2026-02-07T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-sac-0022500746",
+  "fetched_at_utc": "2026-10-21T07:01:25.210020+00:00",
+  "html_sha256": "605af7b04161a0a8e572001d40543ac0bd67f64bd40fe10324e08c9ba3c5ee62"
+}

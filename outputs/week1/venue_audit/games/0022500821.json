@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500821",
+  "GAMEDATE": "2026-02-22",
+  "teams": [
+    "DAL",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "DAL",
+  "gameEt": "2026-02-22T17:00:00Z",
+  "gameTimeUTC": "2026-02-22T22:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-ind-0022500821",
+  "fetched_at_utc": "2026-10-21T07:01:54.764337+00:00",
+  "html_sha256": "fa7eddea602e87cdbae1c82888efce8ca04ffc6f27c57e48b894ecac6d768bd3"
+}

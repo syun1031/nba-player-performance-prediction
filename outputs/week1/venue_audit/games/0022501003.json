@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501003",
+  "GAMEDATE": "2026-04-01",
+  "teams": [
+    "MEM",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "NYK",
+  "gameEt": "2026-04-01T20:00:00Z",
+  "gameTimeUTC": "2026-04-02T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-nyk-0022501003",
+  "fetched_at_utc": "2026-10-21T07:03:04.389400+00:00",
+  "html_sha256": "98ac484625682c31e5a743d86d8b7cddb8d0be23b9532999296ede62829e8b40"
+}

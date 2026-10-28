@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500813",
+  "GAMEDATE": "2026-02-21",
+  "teams": [
+    "MEM",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "MEM",
+  "gameEt": "2026-02-21T20:00:00Z",
+  "gameTimeUTC": "2026-02-22T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-mia-0022500813",
+  "fetched_at_utc": "2026-10-21T07:01:52.485830+00:00",
+  "html_sha256": "f6eeeddf08e282918a3288ce58fe8855ab8afb664ff1f2cd1241e4223baef81d"
+}

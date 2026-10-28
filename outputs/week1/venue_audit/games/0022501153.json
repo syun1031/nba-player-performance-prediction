@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501153",
+  "GAMEDATE": "2026-04-07",
+  "teams": [
+    "NOP",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "UTA",
+  "gameEt": "2026-04-07T20:00:00Z",
+  "gameTimeUTC": "2026-04-08T00:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-uta-0022501153",
+  "fetched_at_utc": "2026-10-21T07:04:02.184945+00:00",
+  "html_sha256": "8d8b70c3214337c3b18b55af1a3388e20124a09900709351a2f73218b0a20dde"
+}

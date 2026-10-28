@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500303",
+  "GAMEDATE": "2025-11-30",
+  "teams": [
+    "NYK",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "TOR",
+  "gameEt": "2025-11-30T18:00:00Z",
+  "gameTimeUTC": "2025-11-30T23:00:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-tor-0022500303",
+  "fetched_at_utc": "2026-10-21T06:58:29.034999+00:00",
+  "html_sha256": "1348727d6f6373c208883e566723ff58930b198a045aade294a18ca60f20d6ee"
+}

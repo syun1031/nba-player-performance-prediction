@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500833",
+  "GAMEDATE": "2026-02-24",
+  "teams": [
+    "BKN",
+    "DAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "DAL",
+  "gameEt": "2026-02-24T19:30:00Z",
+  "gameTimeUTC": "2026-02-25T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-dal-0022500833",
+  "fetched_at_utc": "2026-10-21T07:02:00.423697+00:00",
+  "html_sha256": "3ce94cf7faa91f10922a5d966caf8866d9d2f7b48d661d89c6c3ccf512cd1b74"
+}

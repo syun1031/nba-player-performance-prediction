@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500859",
+  "GAMEDATE": "2026-02-27",
+  "teams": [
+    "BKN",
+    "BOS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "BKN",
+  "gameEt": "2026-02-27T19:30:00Z",
+  "gameTimeUTC": "2026-02-28T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-bos-0022500859",
+  "fetched_at_utc": "2026-10-21T07:02:11.514914+00:00",
+  "html_sha256": "865cc70cf5ab64ea508b16bce447e599df4911aa90e1d0de7e04de15d07e7ed1"
+}

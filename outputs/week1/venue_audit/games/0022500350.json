@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500350",
+  "GAMEDATE": "2025-12-06",
+  "teams": [
+    "BKN",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "NOP",
+  "gameEt": "2025-12-06T17:00:00Z",
+  "gameTimeUTC": "2025-12-06T22:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-nop-0022500350",
+  "fetched_at_utc": "2026-10-21T06:58:46.766681+00:00",
+  "html_sha256": "5adf3d18fdcaf88558624b563b5cb54970b5dc2b14a4837193c985394538b9be"
+}

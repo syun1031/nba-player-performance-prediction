@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500269",
+  "GAMEDATE": "2025-11-22",
+  "teams": [
+    "NYK",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "NYK",
+  "gameEt": "2025-11-22T17:00:00Z",
+  "gameTimeUTC": "2025-11-22T22:00:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-orl-0022500269",
+  "fetched_at_utc": "2026-10-21T06:58:14.533281+00:00",
+  "html_sha256": "a33597e02c177e6f22e824a1780b6c979a579b89cd710bd37e6eb32accd9d5e8"
+}

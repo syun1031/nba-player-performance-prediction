@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500646",
+  "GAMEDATE": "2026-01-24",
+  "teams": [
+    "CLE",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "CLE",
+  "gameEt": "2026-01-24T19:00:00Z",
+  "gameTimeUTC": "2026-01-25T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-orl-0022500646",
+  "fetched_at_utc": "2026-10-21T07:00:41.833827+00:00",
+  "html_sha256": "78e5b188bd26db2f90e82f0fc20eb85ac76ea875d8cfb1b641d25caa4b61d68b"
+}

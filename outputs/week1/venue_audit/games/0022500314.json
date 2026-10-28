@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500314",
+  "GAMEDATE": "2025-12-01",
+  "teams": [
+    "CHI",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "CHI",
+  "gameEt": "2025-12-01T19:30:00Z",
+  "gameTimeUTC": "2025-12-02T00:30:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-orl-0022500314",
+  "fetched_at_utc": "2026-10-21T06:58:32.609327+00:00",
+  "html_sha256": "f272e0198998d3d5432536f8c33528bab70d3876f3b7010008ed32cc439f8d79"
+}

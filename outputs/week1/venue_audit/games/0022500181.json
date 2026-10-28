@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500181",
+  "GAMEDATE": "2025-11-05",
+  "teams": [
+    "GSW",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 609,
+    "arenaName": "Golden 1 Center",
+    "arenaCity": "Sacramento",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "SAC",
+  "awayTeam": "GSW",
+  "gameEt": "2025-11-05T22:00:00Z",
+  "gameTimeUTC": "2025-11-06T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-sac-0022500181",
+  "fetched_at_utc": "2026-10-21T06:57:40.209345+00:00",
+  "html_sha256": "1e26f2285eb16514e52d26844f4a03c46be7d3cf655c047ee0404be8d69b7f75"
+}

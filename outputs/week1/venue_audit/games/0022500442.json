@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500442",
+  "GAMEDATE": "2025-12-28",
+  "teams": [
+    "OKC",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "PHI",
+  "gameEt": "2025-12-28T15:30:00Z",
+  "gameTimeUTC": "2025-12-28T20:30:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-phi-0022500442",
+  "fetched_at_utc": "2026-10-21T06:59:25.019096+00:00",
+  "html_sha256": "02720041242830f379e24797492cd86aa72f9b49e02985ed0f960183a68dc8bf"
+}

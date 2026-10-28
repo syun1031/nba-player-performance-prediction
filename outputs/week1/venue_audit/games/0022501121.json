@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501121",
+  "GAMEDATE": "2026-04-03",
+  "teams": [
+    "MIN",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "MIN",
+  "gameEt": "2026-04-03T19:00:00Z",
+  "gameTimeUTC": "2026-04-03T23:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-phi-0022501121",
+  "fetched_at_utc": "2026-10-21T07:03:48.094794+00:00",
+  "html_sha256": "739f9b12d5b099e3857c4a879403e330c09f6303b8d3ba74b11deb55a3942a61"
+}

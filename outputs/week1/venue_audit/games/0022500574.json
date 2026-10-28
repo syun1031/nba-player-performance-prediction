@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500574",
+  "GAMEDATE": "2026-01-14",
+  "teams": [
+    "BKN",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "BKN",
+  "gameEt": "2026-01-14T20:00:00Z",
+  "gameTimeUTC": "2026-01-15T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-nop-0022500574",
+  "fetched_at_utc": "2026-10-21T07:00:15.014296+00:00",
+  "html_sha256": "0db77737d48d2f0e5562a2e7aa72789489b30f4e21891cf50d8ce5a356b266ff"
+}

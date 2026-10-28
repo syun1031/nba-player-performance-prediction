@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500013",
+  "GAMEDATE": "2025-12-25",
+  "teams": [
+    "DEN",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "MIN",
+  "gameEt": "2025-12-25T22:30:00Z",
+  "gameTimeUTC": "2025-12-26T03:30:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-min-0022500013",
+  "fetched_at_utc": "2026-10-21T06:56:35.883585+00:00",
+  "html_sha256": "162b2c480f201c9bbabaf0fefa9173347f15d61e20ca8ca96ea30f8f8b5dabcd"
+}

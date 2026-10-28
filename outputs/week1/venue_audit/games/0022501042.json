@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501042",
+  "GAMEDATE": "2026-03-23",
+  "teams": [
+    "CHI",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 66,
+    "arenaName": "United Center",
+    "arenaCity": "Chicago",
+    "arenaState": "IL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHI",
+  "awayTeam": "HOU",
+  "gameEt": "2026-03-23T20:00:00Z",
+  "gameTimeUTC": "2026-03-24T00:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-hou-0022501042",
+  "fetched_at_utc": "2026-10-21T07:03:18.635135+00:00",
+  "html_sha256": "5b523da9de28b6bce3f7cdb75ed0c909af019719273a62359330867e50d1dbc9"
+}

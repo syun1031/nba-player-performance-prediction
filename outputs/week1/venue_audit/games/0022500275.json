@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500275",
+  "GAMEDATE": "2025-11-23",
+  "teams": [
+    "MIA",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "MIA",
+  "gameEt": "2025-11-23T13:00:00Z",
+  "gameTimeUTC": "2025-11-23T18:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-phi-0022500275",
+  "fetched_at_utc": "2026-10-21T06:58:16.869405+00:00",
+  "html_sha256": "66e62f74aba1765b2d1a8959bea9332c44ef2e077adea780a21e053e877ea5e9"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500120",
+  "GAMEDATE": "2025-10-27",
+  "teams": [
+    "PHX",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000106,
+    "arenaName": "Delta Center",
+    "arenaCity": "Salt Lake City",
+    "arenaState": "UT",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "UTA",
+  "awayTeam": "PHX",
+  "gameEt": "2025-10-27T21:00:00Z",
+  "gameTimeUTC": "2025-10-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/phx-vs-uta-0022500120",
+  "fetched_at_utc": "2026-10-21T06:57:17.742410+00:00",
+  "html_sha256": "dfff980e458b54f6fed802a12c94b72868e99bb3706f83b54b1739c3ef4bd337"
+}

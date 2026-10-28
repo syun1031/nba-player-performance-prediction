@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500662",
+  "GAMEDATE": "2026-01-26",
+  "teams": [
+    "HOU",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "MEM",
+  "gameEt": "2026-01-26T20:00:00Z",
+  "gameTimeUTC": "2026-01-27T01:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-mem-0022500662",
+  "fetched_at_utc": "2026-10-21T07:00:48.471438+00:00",
+  "html_sha256": "6f4f19f4d0adf42fe541efbad965d195e984d76feaf7ab233cdb62b204616e22"
+}

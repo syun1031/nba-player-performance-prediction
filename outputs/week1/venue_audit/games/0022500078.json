@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500078",
+  "GAMEDATE": "2025-11-28",
+  "teams": [
+    "DAL",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "DAL",
+  "gameEt": "2025-11-28T22:00:00Z",
+  "gameTimeUTC": "2025-11-29T03:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-lal-0022500078",
+  "fetched_at_utc": "2026-10-21T06:57:01.223030+00:00",
+  "html_sha256": "7ca7455908257d52efa5168beeb6d7a4fb8adfcd1707820e03d61efbc1d23cc5"
+}

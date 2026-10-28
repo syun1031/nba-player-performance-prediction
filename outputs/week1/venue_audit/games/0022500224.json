@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500224",
+  "GAMEDATE": "2025-11-12",
+  "teams": [
+    "DEN",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "DEN",
+  "gameEt": "2025-11-12T22:30:00Z",
+  "gameTimeUTC": "2025-11-13T03:30:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-lac-0022500224",
+  "fetched_at_utc": "2026-10-21T06:57:56.203410+00:00",
+  "html_sha256": "5664e17924fe558044da877474549fc657fad08171c9a28d444aa545f0fea0a2"
+}

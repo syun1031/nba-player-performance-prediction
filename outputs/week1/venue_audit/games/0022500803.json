@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500803",
+  "GAMEDATE": "2026-02-20",
+  "teams": [
+    "IND",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "IND",
+  "gameEt": "2026-02-20T19:00:00Z",
+  "gameTimeUTC": "2026-02-21T00:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-was-0022500803",
+  "fetched_at_utc": "2026-10-21T07:01:47.528137+00:00",
+  "html_sha256": "e589a1eade6f38752710be93f39c543375378292037960740423ac6a6c7c95da"
+}

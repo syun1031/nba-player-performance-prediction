@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500187",
+  "GAMEDATE": "2025-11-08",
+  "teams": [
+    "MIA",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "POR",
+  "gameEt": "2025-11-08T20:00:00Z",
+  "gameTimeUTC": "2025-11-09T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-por-0022500187",
+  "fetched_at_utc": "2026-10-21T06:57:42.589296+00:00",
+  "html_sha256": "f07d6acfbe387011bb8d5fdcc11670f787d295dfb1aba1c67b62af690be98fd1"
+}

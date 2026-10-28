@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500514",
+  "GAMEDATE": "2026-01-06",
+  "teams": [
+    "LAL",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "LAL",
+  "gameEt": "2026-01-06T20:00:00Z",
+  "gameTimeUTC": "2026-01-07T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-nop-0022500514",
+  "fetched_at_utc": "2026-10-21T06:59:51.797547+00:00",
+  "html_sha256": "43a7671098f7384e432ab9e28c1d6648339286b1a3aed0200e813e6dc210e905"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501201",
+  "GAMEDATE": "2025-12-09",
+  "teams": [
+    "MIA",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "MIA",
+  "gameEt": "2025-12-09T18:00:00Z",
+  "gameTimeUTC": "2025-12-09T23:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-orl-0022501201",
+  "fetched_at_utc": "2026-10-21T07:04:25.593331+00:00",
+  "html_sha256": "dc783e03c9c7ab71fdff86bf1ef713bf9d8a85f70a91992d366f71dad215734b"
+}

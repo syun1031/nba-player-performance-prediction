@@ -1,0 +1,44 @@
+{
+  "verified": true,
+  "source_sha256": {
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_player_game_logs.csv": "4b1e53a3ac29426555b34609c1f4035c2dc8059ca27b68096ec8798885782629",
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_game_rosters.csv": "b110fd023c73c98af5fa459141210e37be43cd305d197baf60752c389d39c08c"
+  },
+  "input_log_rows": 26651,
+  "input_team_roster_rows": 2460,
+  "games": 1230,
+  "roster_appearances": 26648,
+  "merged_positive_minute_rows": 26568,
+  "excluded_zero_minute_rows": 83,
+  "positive_minute_unmatched": 0,
+  "zero_minute_unmatched": 3,
+  "roster_unmatched_after_aliases": 0,
+  "alias_pairs": 7,
+  "matchup_conflict_team_games": 5,
+  "positive_minute_rows_with_unknown_home": 0,
+  "resolved_conflict_rows": 53,
+  "verified_neutral_games": 5,
+  "verified_neutral_positive_minute_rows": 101,
+  "neutral_status_unverified_rows": 0,
+  "official_venue_verified_rows": 26568,
+  "merge_eligible_rows": 26568,
+  "missing_history_eligibility_not_yet_evaluated": true,
+  "starter_distribution": {
+    "1": 12299,
+    "0": 14269
+  },
+  "exclusion_reason_counts": {
+    "zero_minutes": 80,
+    "zero_minutes;roster_player_missing": 3
+  },
+  "source_files_unchanged": true,
+  "output_readback_verified": true,
+  "pregame_information_verified": false,
+  "limitations": [
+    "Actual postgame roster, no pregame publication timestamps",
+    "Alias mappings are explicit snapshot-local contextual matches",
+    "Unverified neutral status is blank, not assumed false",
+    "Raw direction differences preserved; verified neutral venues have is_home=0",
+    "Historical windows and regular-starter absence not implemented"
+  ]
+}

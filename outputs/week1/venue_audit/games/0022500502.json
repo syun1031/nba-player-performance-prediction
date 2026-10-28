@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500502",
+  "GAMEDATE": "2026-01-05",
+  "teams": [
+    "DET",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "NYK",
+  "gameEt": "2026-01-05T19:00:00Z",
+  "gameTimeUTC": "2026-01-06T00:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-nyk-0022500502",
+  "fetched_at_utc": "2026-10-21T06:59:46.503301+00:00",
+  "html_sha256": "b74a232613fd99c1b02ccabf20d4f1979a582e03fe4445a59ba70f8bdcc0605b"
+}

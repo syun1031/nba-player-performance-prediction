@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500692",
+  "GAMEDATE": "2026-01-31",
+  "teams": [
+    "CHI",
+    "MIA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000100,
+    "arenaName": "Kaseya Center",
+    "arenaCity": "Miami",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIA",
+  "awayTeam": "CHI",
+  "gameEt": "2026-01-31T20:00:00Z",
+  "gameTimeUTC": "2026-02-01T01:00:00Z",
+  "source_url": "https://www.nba.com/game/chi-vs-mia-0022500692",
+  "fetched_at_utc": "2026-10-21T07:01:01.101803+00:00",
+  "html_sha256": "8251f7078cd1f8ab44e4a4662ef36bc1068f228c2d13971ad703d5a0933d043d"
+}

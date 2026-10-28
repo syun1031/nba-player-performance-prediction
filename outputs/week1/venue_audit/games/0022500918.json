@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500918",
+  "GAMEDATE": "2026-03-07",
+  "teams": [
+    "LAC",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "LAC",
+  "gameEt": "2026-03-07T20:00:00Z",
+  "gameTimeUTC": "2026-03-08T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-mem-0022500918",
+  "fetched_at_utc": "2026-10-21T07:02:35.530133+00:00",
+  "html_sha256": "986c220bf09b1dd93785821524e1d66070767321692043c148a24cb4e6c0b11e"
+}

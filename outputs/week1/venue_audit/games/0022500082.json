@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500082",
+  "GAMEDATE": "2025-10-22",
+  "teams": [
+    "ATL",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "TOR",
+  "gameEt": "2025-10-22T19:30:00Z",
+  "gameTimeUTC": "2025-10-22T23:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-tor-0022500082",
+  "fetched_at_utc": "2026-10-21T06:57:02.685058+00:00",
+  "html_sha256": "ee3b5e3a760d54633969b2d7c569b1ee6f4613243605a4db4b322883202f1329"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500536",
+  "GAMEDATE": "2026-01-09",
+  "teams": [
+    "MEM",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 242,
+    "arenaName": "FedExForum",
+    "arenaCity": "Memphis",
+    "arenaState": "TN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MEM",
+  "awayTeam": "OKC",
+  "gameEt": "2026-01-09T20:00:00Z",
+  "gameTimeUTC": "2026-01-10T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mem-vs-okc-0022500536",
+  "fetched_at_utc": "2026-10-21T07:00:00.094344+00:00",
+  "html_sha256": "892948661d6c99d75c4e43464bbe183d70633fdb82d9c25692dfaa86e3f82fa1"
+}

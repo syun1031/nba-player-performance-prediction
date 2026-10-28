@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500049",
+  "GAMEDATE": "2025-11-21",
+  "teams": [
+    "BKN",
+    "BOS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "BKN",
+  "gameEt": "2025-11-21T19:30:00Z",
+  "gameTimeUTC": "2025-11-22T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-bos-0022500049",
+  "fetched_at_utc": "2026-10-21T06:56:49.858016+00:00",
+  "html_sha256": "5d3f8a95dfd2a270eb6aebf952fee1af6631c38f8ff64869ff1a3c2255941b39"
+}

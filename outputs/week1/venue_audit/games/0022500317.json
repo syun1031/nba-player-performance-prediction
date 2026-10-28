@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500317",
+  "GAMEDATE": "2025-12-01",
+  "teams": [
+    "LAL",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "PHX",
+  "gameEt": "2025-12-01T22:00:00Z",
+  "gameTimeUTC": "2025-12-02T03:00:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-phx-0022500317",
+  "fetched_at_utc": "2026-10-21T06:58:33.701776+00:00",
+  "html_sha256": "eb8038a5872cce1bd9e1f173c7c782db37469373d77377b078bb3e0a2bff6161"
+}

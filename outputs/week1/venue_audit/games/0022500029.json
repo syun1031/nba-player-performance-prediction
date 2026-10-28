@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500029",
+  "GAMEDATE": "2025-11-07",
+  "teams": [
+    "CLE",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 77,
+    "arenaName": "Capital One Arena",
+    "arenaCity": "Washington",
+    "arenaState": "DC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "WAS",
+  "awayTeam": "CLE",
+  "gameEt": "2025-11-07T19:00:00Z",
+  "gameTimeUTC": "2025-11-08T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-was-0022500029",
+  "fetched_at_utc": "2026-10-21T06:56:41.813050+00:00",
+  "html_sha256": "4ae0436b60d2f8c86a35b1ccd0bd7de8108a16916574ce4b5bbcadcce0d1c06e"
+}

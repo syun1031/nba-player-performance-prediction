@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500044",
+  "GAMEDATE": "2025-11-14",
+  "teams": [
+    "MIN",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "SAC",
+  "gameEt": "2025-11-14T20:00:00Z",
+  "gameTimeUTC": "2025-11-15T01:00:00Z",
+  "source_url": "https://www.nba.com/game/min-vs-sac-0022500044",
+  "fetched_at_utc": "2026-10-21T06:56:47.634972+00:00",
+  "html_sha256": "7e8d85abbecd0ef84b7ed8f51faf85c930336f635f79178b48c8c2a889d5338c"
+}

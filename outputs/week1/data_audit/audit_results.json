@@ -1,0 +1,1697 @@
+{
+  "executed_at_utc": "2026-10-13T05:39:45.828755+00:00",
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "verification": {
+    "command": [
+      "C:\\Users\\wangs\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "C:\\Users\\wangs\\codex\\outputs\\nba_2025_26\\verify_csv.py"
+    ],
+    "exit_code": 0,
+    "stdout": "{\"verified\": true, \"rows\": 26651, \"players\": 582, \"columns\": [\"PLAYER\", \"TEAM\", \"MATCHUP\", \"GAMEDATE\", \"MIN\", \"PTS\", \"FG%\", \"REB\", \"AST\"], \"bytes\": 1479501, \"source_match\": \"all rows match\"}\n",
+    "stderr": ""
+  },
+  "rows": 26651,
+  "source_rows": 26651,
+  "players_by_name": 582,
+  "players_by_id": 582,
+  "games": 1230,
+  "teams": 30,
+  "date_from": "2025-10-21",
+  "date_to": "2026-04-12",
+  "columns": {
+    "PLAYER": {
+      "blank": 0,
+      "dash": 0,
+      "distinct": 582
+    },
+    "TEAM": {
+      "blank": 0,
+      "dash": 0,
+      "distinct": 30
+    },
+    "MATCHUP": {
+      "blank": 0,
+      "dash": 0,
+      "distinct": 1737
+    },
+    "GAMEDATE": {
+      "blank": 0,
+      "dash": 0,
+      "distinct": 164,
+      "invalid_dates": 0
+    },
+    "MIN": {
+      "blank": 0,
+      "dash": 0,
+      "distinct": 52,
+      "min": 0.0,
+      "max": 52.0,
+      "non_integer": 0,
+      "decimal_places": {
+        "0": 26651
+      },
+      "invalid_numeric": 0
+    },
+    "PTS": {
+      "blank": 0,
+      "dash": 0,
+      "distinct": 59,
+      "min": 0.0,
+      "max": 83.0,
+      "non_integer": 0,
+      "decimal_places": {
+        "0": 26651
+      },
+      "invalid_numeric": 0
+    },
+    "FG%": {
+      "blank": 0,
+      "dash": 1311,
+      "distinct": 189,
+      "min": 0.0,
+      "max": 100.0,
+      "non_integer": 13512,
+      "decimal_places": {
+        "1": 25340
+      },
+      "invalid_numeric": 0
+    },
+    "REB": {
+      "blank": 0,
+      "dash": 0,
+      "distinct": 25,
+      "min": 0.0,
+      "max": 25.0,
+      "non_integer": 0,
+      "decimal_places": {
+        "0": 26651
+      },
+      "invalid_numeric": 0
+    },
+    "AST": {
+      "blank": 0,
+      "dash": 0,
+      "distinct": 22,
+      "min": 0.0,
+      "max": 23.0,
+      "non_integer": 0,
+      "decimal_places": {
+        "0": 26651
+      },
+      "invalid_numeric": 0
+    }
+  },
+  "duplicate_full_rows": 0,
+  "duplicate_player_game": 0,
+  "duplicate_player_date": 0,
+  "source_shape_bad": 0,
+  "id_link_bad": 0,
+  "mapping_candidate_counts": {
+    "1": 26651
+  },
+  "source_csv_multiset_equal": true,
+  "same_name_multiple_ids": {},
+  "same_id_multiple_names": {},
+  "normalized_name_collisions": {},
+  "team_id_multiple_names": {},
+  "team_games": {
+    "1610612746": 82,
+    "1610612747": 82,
+    "1610612748": 82,
+    "1610612750": 82,
+    "1610612752": 82,
+    "1610612753": 82,
+    "1610612755": 82,
+    "1610612756": 82,
+    "1610612757": 82,
+    "1610612758": 82,
+    "1610612759": 82,
+    "1610612760": 82,
+    "1610612761": 82,
+    "1610612762": 82,
+    "1610612763": 82,
+    "1610612764": 82,
+    "1610612765": 82,
+    "1610612766": 82,
+    "1610612737": 82,
+    "1610612739": 82,
+    "1610612740": 82,
+    "1610612741": 82,
+    "1610612742": 82,
+    "1610612743": 82,
+    "1610612744": 82,
+    "1610612749": 82,
+    "1610612751": 82,
+    "1610612754": 82,
+    "1610612738": 82,
+    "1610612745": 82
+  },
+  "games_not_two_teams_one_date": 0,
+  "zero_points": 2942,
+  "zero_minutes": 83,
+  "zero_minutes_positive_points": 0,
+  "zero_points_positive_minutes": 2859,
+  "fg_formula_bad": 0,
+  "points_formula_bad": 0,
+  "matchup_format_bad": 0,
+  "appearance_count_min": 1,
+  "appearance_count_max": 82,
+  "appearance_count_distribution": {
+    "1": 4,
+    "2": 7,
+    "3": 6,
+    "4": 15,
+    "5": 12,
+    "6": 12,
+    "7": 9,
+    "8": 3,
+    "9": 8,
+    "10": 7,
+    "11": 8,
+    "12": 7,
+    "13": 5,
+    "14": 8,
+    "15": 7,
+    "16": 4,
+    "17": 2,
+    "18": 3,
+    "19": 3,
+    "20": 4,
+    "21": 5,
+    "22": 4,
+    "23": 4,
+    "24": 3,
+    "25": 4,
+    "26": 4,
+    "27": 5,
+    "28": 2,
+    "29": 3,
+    "30": 5,
+    "31": 3,
+    "32": 7,
+    "33": 2,
+    "34": 4,
+    "35": 4,
+    "36": 6,
+    "37": 7,
+    "38": 7,
+    "39": 2,
+    "40": 6,
+    "41": 6,
+    "42": 8,
+    "43": 6,
+    "44": 6,
+    "45": 5,
+    "46": 7,
+    "47": 4,
+    "48": 10,
+    "49": 5,
+    "50": 8,
+    "51": 6,
+    "52": 5,
+    "53": 10,
+    "54": 10,
+    "55": 8,
+    "56": 11,
+    "57": 12,
+    "58": 5,
+    "59": 5,
+    "60": 11,
+    "61": 4,
+    "62": 9,
+    "63": 7,
+    "64": 14,
+    "65": 14,
+    "66": 9,
+    "67": 10,
+    "68": 12,
+    "69": 17,
+    "70": 13,
+    "71": 7,
+    "72": 14,
+    "73": 6,
+    "74": 8,
+    "75": 10,
+    "76": 6,
+    "77": 17,
+    "78": 9,
+    "79": 3,
+    "80": 4,
+    "81": 2,
+    "82": 18
+  },
+  "history_availability": {
+    "5": {
+      "rows_with_at_least_w_prior_appearances": 23805,
+      "rows_without_w_prior": 2846,
+      "players_with_at_least_w_total": 550,
+      "players_with_at_least_one_eligible_row": 538
+    },
+    "10": {
+      "rows_with_at_least_w_prior_appearances": 21204,
+      "rows_without_w_prior": 5447,
+      "players_with_at_least_w_total": 506,
+      "players_with_at_least_one_eligible_row": 499
+    }
+  },
+  "multi_team_players": 72,
+  "transfers": [
+    {
+      "PLAYER_ID": "1629599",
+      "names": [
+        "Amir Coffey"
+      ],
+      "teams": [
+        "MIL",
+        "PHX"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-10",
+          "from": "MIL",
+          "to": "PHX"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629632",
+      "names": [
+        "Coby White"
+      ],
+      "teams": [
+        "CHA",
+        "CHI"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-24",
+          "from": "CHI",
+          "to": "CHA"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1627741",
+      "names": [
+        "Buddy Hield"
+      ],
+      "teams": [
+        "ATL",
+        "GSW"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-09",
+          "from": "GSW",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631132",
+      "names": [
+        "Christian Koloko"
+      ],
+      "teams": [
+        "ATL",
+        "LAL",
+        "MEM"
+      ],
+      "transitions": [
+        {
+          "date": "2025-12-22",
+          "from": "LAL",
+          "to": "MEM"
+        },
+        {
+          "date": "2026-01-21",
+          "from": "MEM",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629636",
+      "names": [
+        "Darius Garland"
+      ],
+      "teams": [
+        "CLE",
+        "LAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-03-02",
+          "from": "CLE",
+          "to": "LAC"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631097",
+      "names": [
+        "Bennedict Mathurin"
+      ],
+      "teams": [
+        "IND",
+        "LAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-10",
+          "from": "IND",
+          "to": "LAC"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631172",
+      "names": [
+        "Ousmane Dieng"
+      ],
+      "teams": [
+        "MIL",
+        "OKC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-09",
+          "from": "OKC",
+          "to": "MIL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631213",
+      "names": [
+        "Tyrese Martin"
+      ],
+      "teams": [
+        "BKN",
+        "PHI"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-21",
+          "from": "BKN",
+          "to": "PHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642484",
+      "names": [
+        "RayJ Dennis"
+      ],
+      "teams": [
+        "ATL",
+        "IND",
+        "LAC"
+      ],
+      "transitions": [
+        {
+          "date": "2025-12-18",
+          "from": "IND",
+          "to": "LAC"
+        },
+        {
+          "date": "2026-01-17",
+          "from": "LAC",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630625",
+      "names": [
+        "Dalano Banton"
+      ],
+      "teams": [
+        "BOS",
+        "LAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-24",
+          "from": "LAC",
+          "to": "BOS"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629012",
+      "names": [
+        "Collin Sexton"
+      ],
+      "teams": [
+        "CHA",
+        "CHI"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "CHA",
+          "to": "CHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631159",
+      "names": [
+        "Leonard Miller"
+      ],
+      "teams": [
+        "CHI",
+        "MIN"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "MIN",
+          "to": "CHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "203114",
+      "names": [
+        "Khris Middleton"
+      ],
+      "teams": [
+        "DAL",
+        "WAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-10",
+          "from": "WAS",
+          "to": "DAL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "204001",
+      "names": [
+        "Kristaps Porziņģis"
+      ],
+      "teams": [
+        "ATL",
+        "GSW"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-19",
+          "from": "ATL",
+          "to": "GSW"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631218",
+      "names": [
+        "Trayce Jackson-Davis"
+      ],
+      "teams": [
+        "GSW",
+        "TOR"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-08",
+          "from": "GSW",
+          "to": "TOR"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630702",
+      "names": [
+        "Jaden Hardy"
+      ],
+      "teams": [
+        "DAL",
+        "WAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-11",
+          "from": "DAL",
+          "to": "WAS"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630557",
+      "names": [
+        "Corey Kispert"
+      ],
+      "teams": [
+        "ATL",
+        "WAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-01-11",
+          "from": "WAS",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642434",
+      "names": [
+        "Riley Minix"
+      ],
+      "teams": [
+        "CLE",
+        "SAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-03-09",
+          "from": "SAS",
+          "to": "CLE"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1626145",
+      "names": [
+        "Tyus Jones"
+      ],
+      "teams": [
+        "DAL",
+        "DEN",
+        "ORL"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "ORL",
+          "to": "DAL"
+        },
+        {
+          "date": "2026-03-05",
+          "from": "DAL",
+          "to": "DEN"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630249",
+      "names": [
+        "Vít Krejčí"
+      ],
+      "teams": [
+        "ATL",
+        "POR"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-03",
+          "from": "ATL",
+          "to": "POR"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642265",
+      "names": [
+        "Rob Dillingham"
+      ],
+      "teams": [
+        "CHI",
+        "MIN"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "MIN",
+          "to": "CHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631207",
+      "names": [
+        "Dalen Terry"
+      ],
+      "teams": [
+        "CHI",
+        "PHI"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-11",
+          "from": "CHI",
+          "to": "PHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "203486",
+      "names": [
+        "Mason Plumlee"
+      ],
+      "teams": [
+        "CHA",
+        "SAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-03-10",
+          "from": "CHA",
+          "to": "SAS"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642272",
+      "names": [
+        "Jared McCain"
+      ],
+      "teams": [
+        "OKC",
+        "PHI"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "PHI",
+          "to": "OKC"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1641712",
+      "names": [
+        "Rayan Rupert"
+      ],
+      "teams": [
+        "MEM",
+        "POR"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-23",
+          "from": "POR",
+          "to": "MEM"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642403",
+      "names": [
+        "Isaac Jones"
+      ],
+      "teams": [
+        "DET",
+        "SAC"
+      ],
+      "transitions": [
+        {
+          "date": "2025-11-17",
+          "from": "SAC",
+          "to": "DET"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1628396",
+      "names": [
+        "Tony Bradley"
+      ],
+      "teams": [
+        "ATL",
+        "IND"
+      ],
+      "transitions": [
+        {
+          "date": "2026-04-06",
+          "from": "IND",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642933",
+      "names": [
+        "Keshon Gilbert"
+      ],
+      "teams": [
+        "ATL",
+        "WAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-04-12",
+          "from": "WAS",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630644",
+      "names": [
+        "Mac McClung"
+      ],
+      "teams": [
+        "CHI",
+        "IND"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-05",
+          "from": "IND",
+          "to": "CHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642358",
+      "names": [
+        "AJ Johnson"
+      ],
+      "teams": [
+        "DAL",
+        "WAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "WAS",
+          "to": "DAL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1628379",
+      "names": [
+        "Luke Kennard"
+      ],
+      "teams": [
+        "ATL",
+        "LAL"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "ATL",
+          "to": "LAL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630631",
+      "names": [
+        "Jose Alvarado"
+      ],
+      "teams": [
+        "NOP",
+        "NYK"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-08",
+          "from": "NOP",
+          "to": "NYK"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631110",
+      "names": [
+        "Jeremy Sochan"
+      ],
+      "teams": [
+        "NYK",
+        "SAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-19",
+          "from": "SAS",
+          "to": "NYK"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1628975",
+      "names": [
+        "Jevon Carter"
+      ],
+      "teams": [
+        "CHI",
+        "ORL"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-09",
+          "from": "CHI",
+          "to": "ORL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1628989",
+      "names": [
+        "Kevin Huerter"
+      ],
+      "teams": [
+        "CHI",
+        "DET"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-05",
+          "from": "CHI",
+          "to": "DET"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629646",
+      "names": [
+        "Charles Bassey"
+      ],
+      "teams": [
+        "BOS",
+        "GSW",
+        "MEM",
+        "PHI"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-11",
+          "from": "MEM",
+          "to": "PHI"
+        },
+        {
+          "date": "2026-03-18",
+          "from": "PHI",
+          "to": "BOS"
+        },
+        {
+          "date": "2026-04-05",
+          "from": "BOS",
+          "to": "GSW"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1641763",
+      "names": [
+        "Julian Phillips"
+      ],
+      "teams": [
+        "CHI",
+        "MIN"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-08",
+          "from": "CHI",
+          "to": "MIN"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1641738",
+      "names": [
+        "Kobe Brown"
+      ],
+      "teams": [
+        "IND",
+        "LAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-10",
+          "from": "LAC",
+          "to": "IND"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629723",
+      "names": [
+        "John Konchar"
+      ],
+      "teams": [
+        "MEM",
+        "UTA"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "MEM",
+          "to": "UTA"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630214",
+      "names": [
+        "Xavier Tillman"
+      ],
+      "teams": [
+        "BOS",
+        "CHA"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-11",
+          "from": "BOS",
+          "to": "CHA"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "201935",
+      "names": [
+        "James Harden"
+      ],
+      "teams": [
+        "CLE",
+        "LAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "LAC",
+          "to": "CLE"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631165",
+      "names": [
+        "Keon Ellis"
+      ],
+      "teams": [
+        "CLE",
+        "SAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-04",
+          "from": "SAC",
+          "to": "CLE"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "203471",
+      "names": [
+        "Dennis Schröder"
+      ],
+      "teams": [
+        "CLE",
+        "SAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-04",
+          "from": "SAC",
+          "to": "CLE"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1628963",
+      "names": [
+        "Marvin Bagley III"
+      ],
+      "teams": [
+        "DAL",
+        "WAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "WAS",
+          "to": "DAL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642959",
+      "names": [
+        "Chris Youngblood"
+      ],
+      "teams": [
+        "OKC",
+        "POR"
+      ],
+      "transitions": [
+        {
+          "date": "2026-03-23",
+          "from": "OKC",
+          "to": "POR"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "203468",
+      "names": [
+        "CJ McCollum"
+      ],
+      "teams": [
+        "ATL",
+        "WAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-01-11",
+          "from": "WAS",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630228",
+      "names": [
+        "Jonathan Kuminga"
+      ],
+      "teams": [
+        "ATL",
+        "GSW"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-24",
+          "from": "GSW",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642354",
+      "names": [
+        "KJ Simpson"
+      ],
+      "teams": [
+        "CHA",
+        "DEN"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-20",
+          "from": "CHA",
+          "to": "DEN"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "203937",
+      "names": [
+        "Kyle Anderson"
+      ],
+      "teams": [
+        "MEM",
+        "MIN",
+        "UTA"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "UTA",
+          "to": "MEM"
+        },
+        {
+          "date": "2026-03-03",
+          "from": "MEM",
+          "to": "MIN"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630245",
+      "names": [
+        "Ayo Dosunmu"
+      ],
+      "teams": [
+        "CHI",
+        "MIN"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-08",
+          "from": "CHI",
+          "to": "MIN"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629216",
+      "names": [
+        "Gabe Vincent"
+      ],
+      "teams": [
+        "ATL",
+        "LAL"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-09",
+          "from": "LAL",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "202696",
+      "names": [
+        "Nikola Vučević"
+      ],
+      "teams": [
+        "BOS",
+        "CHI"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-06",
+          "from": "CHI",
+          "to": "BOS"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1627824",
+      "names": [
+        "Guerschon Yabusele"
+      ],
+      "teams": [
+        "CHI",
+        "NYK"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-05",
+          "from": "NYK",
+          "to": "CHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1641707",
+      "names": [
+        "Taylor Hendricks"
+      ],
+      "teams": [
+        "MEM",
+        "UTA"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-06",
+          "from": "UTA",
+          "to": "MEM"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1642383",
+      "names": [
+        "Walter Clayton Jr."
+      ],
+      "teams": [
+        "MEM",
+        "UTA"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-06",
+          "from": "UTA",
+          "to": "MEM"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631169",
+      "names": [
+        "Josh Minott"
+      ],
+      "teams": [
+        "BKN",
+        "BOS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-26",
+          "from": "BOS",
+          "to": "BKN"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630534",
+      "names": [
+        "Ochai Agbaji"
+      ],
+      "teams": [
+        "BKN",
+        "TOR"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-11",
+          "from": "TOR",
+          "to": "BKN"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629111",
+      "names": [
+        "Jock Landale"
+      ],
+      "teams": [
+        "ATL",
+        "MEM"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-05",
+          "from": "MEM",
+          "to": "ATL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630543",
+      "names": [
+        "Isaiah Jackson"
+      ],
+      "teams": [
+        "IND",
+        "LAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-10",
+          "from": "IND",
+          "to": "LAC"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630208",
+      "names": [
+        "Nick Richards"
+      ],
+      "teams": [
+        "CHI",
+        "PHX"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "PHX",
+          "to": "CHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631116",
+      "names": [
+        "Patrick Baldwin Jr."
+      ],
+      "teams": [
+        "LAC",
+        "PHI",
+        "SAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-09",
+          "from": "LAC",
+          "to": "PHI"
+        },
+        {
+          "date": "2026-02-25",
+          "from": "PHI",
+          "to": "SAC"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630560",
+      "names": [
+        "Cam Thomas"
+      ],
+      "teams": [
+        "BKN",
+        "MIL"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-09",
+          "from": "BKN",
+          "to": "MIL"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1627826",
+      "names": [
+        "Ivica Zubac"
+      ],
+      "teams": [
+        "IND",
+        "LAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-03-12",
+          "from": "LAC",
+          "to": "IND"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629027",
+      "names": [
+        "Trae Young"
+      ],
+      "teams": [
+        "ATL",
+        "WAS"
+      ],
+      "transitions": [
+        {
+          "date": "2026-03-05",
+          "from": "ATL",
+          "to": "WAS"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1628964",
+      "names": [
+        "Mo Bamba"
+      ],
+      "teams": [
+        "TOR",
+        "UTA"
+      ],
+      "transitions": [
+        {
+          "date": "2026-03-04",
+          "from": "TOR",
+          "to": "UTA"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631246",
+      "names": [
+        "Vince Williams Jr."
+      ],
+      "teams": [
+        "MEM",
+        "UTA"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "MEM",
+          "to": "UTA"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1641790",
+      "names": [
+        "PJ Hall"
+      ],
+      "teams": [
+        "CHA",
+        "MEM"
+      ],
+      "transitions": [
+        {
+          "date": "2025-12-26",
+          "from": "MEM",
+          "to": "CHA"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629014",
+      "names": [
+        "Anfernee Simons"
+      ],
+      "teams": [
+        "BOS",
+        "CHI"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-05",
+          "from": "BOS",
+          "to": "CHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1628991",
+      "names": [
+        "Jaren Jackson Jr."
+      ],
+      "teams": [
+        "MEM",
+        "UTA"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-07",
+          "from": "MEM",
+          "to": "UTA"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1631093",
+      "names": [
+        "Jaden Ivey"
+      ],
+      "teams": [
+        "CHI",
+        "DET"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-05",
+          "from": "DET",
+          "to": "CHI"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1629631",
+      "names": [
+        "De'Andre Hunter"
+      ],
+      "teams": [
+        "CLE",
+        "SAC"
+      ],
+      "transitions": [
+        {
+          "date": "2026-02-04",
+          "from": "CLE",
+          "to": "SAC"
+        }
+      ]
+    },
+    {
+      "PLAYER_ID": "1630526",
+      "names": [
+        "Jeremiah Robinson-Earl"
+      ],
+      "teams": [
+        "DAL",
+        "IND"
+      ],
+      "transitions": [
+        {
+          "date": "2026-01-15",
+          "from": "IND",
+          "to": "DAL"
+        }
+      ]
+    }
+  ],
+  "source_pages_metadata": {
+    "url": "https://www.nba.com/stats/players/boxscores?Season=2025-26&SeasonType=Regular%20Season",
+    "season": "2025-26",
+    "seasonType": "Regular Season",
+    "expectedRows": 26651,
+    "headers": [
+      "PLAYER",
+      "TEAM",
+      "MATCH UP",
+      "GAME DATE",
+      "W/L",
+      "MIN",
+      "PTS",
+      "FGM",
+      "FGA",
+      "FG%",
+      "3PM",
+      "3PA",
+      "3P%",
+      "FTM",
+      "FTA",
+      "FT%",
+      "OREB",
+      "DREB",
+      "REB",
+      "AST",
+      "STL",
+      "BLK",
+      "TOV",
+      "PF",
+      "+/-",
+      "FP"
+    ]
+  },
+  "source_page_count": 534,
+  "source_page_rows_sum": 26651,
+  "existing_validation": {
+    "source": "https://www.nba.com/stats/players/boxscores?Season=2025-26&SeasonType=Regular%20Season",
+    "rows": 26651,
+    "players": 582,
+    "games": 1230,
+    "teams": 30,
+    "dateFrom": "2025-10-21",
+    "dateTo": "2026-04-12",
+    "headers": [
+      "PLAYER",
+      "TEAM",
+      "MATCHUP",
+      "GAMEDATE",
+      "MIN",
+      "PTS",
+      "FG%",
+      "REB",
+      "AST"
+    ],
+    "first": [
+      "Aaron Gordon",
+      "DEN",
+      "DEN @ GSW",
+      "2025-10-23",
+      39,
+      50,
+      81,
+      8,
+      2
+    ],
+    "last": [
+      "Zyon Pullin",
+      "MIN",
+      "MIN VS. NOP",
+      "2026-04-12",
+      31,
+      19,
+      66.7,
+      3,
+      5
+    ],
+    "uniquePlayerGames": 26651,
+    "eachTeamGames": 82
+  },
+  "protected_hashes_before": {
+    "outputs\\nba_2025_26\\export_nba.mjs": "cc955ba3c7afafaade479297ad3258ee5f1273f3bb1e92586d42aa85b2205caf",
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_player_game_logs.csv": "4b1e53a3ac29426555b34609c1f4035c2dc8059ca27b68096ec8798885782629",
+    "outputs\\nba_2025_26\\preview.png": "8746df42d94d3135acd1e41ffa7e245c86520c575180152f547c083e9b37cdcd",
+    "outputs\\nba_2025_26\\source_pages.json": "f266a1dbdbc1ae23385b2883e06111c7889f22da920375ff3334c3054d34da3a",
+    "outputs\\nba_2025_26\\source_rows.json": "dcf5b797a8738eb691cae1592a834677f4abd48e97332d472e830f2d4066e294",
+    "outputs\\nba_2025_26\\validation.json": "ba8f2751e139501c5ec31c6505b3c338cf587f55172a7d7ba53a074b0f4d5e8b",
+    "outputs\\nba_2025_26\\verify_csv.py": "0ce906bee482ac2bd9774c372d4ec07151e3cc5d1509121d3dabf9c16e2f04cd",
+    "PRD.md": "d6102e87fb41972a9a0929cdc876f470925442b2d2108fb732b12546199e721e",
+    "TODO.md": "3047e1e0c58949ce827a4efb9be8e58f92ce387f8cad8e98b4e89e32124b4106",
+    "PROGRESS.md": "6c26985d9b74b2fd616b4ca4bb1e4f5d0b07d93a524cd4f64fb8d99498805a63"
+  },
+  "protected_hashes_after": {
+    "outputs\\nba_2025_26\\export_nba.mjs": "cc955ba3c7afafaade479297ad3258ee5f1273f3bb1e92586d42aa85b2205caf",
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_player_game_logs.csv": "4b1e53a3ac29426555b34609c1f4035c2dc8059ca27b68096ec8798885782629",
+    "outputs\\nba_2025_26\\preview.png": "8746df42d94d3135acd1e41ffa7e245c86520c575180152f547c083e9b37cdcd",
+    "outputs\\nba_2025_26\\source_pages.json": "f266a1dbdbc1ae23385b2883e06111c7889f22da920375ff3334c3054d34da3a",
+    "outputs\\nba_2025_26\\source_rows.json": "dcf5b797a8738eb691cae1592a834677f4abd48e97332d472e830f2d4066e294",
+    "outputs\\nba_2025_26\\validation.json": "ba8f2751e139501c5ec31c6505b3c338cf587f55172a7d7ba53a074b0f4d5e8b",
+    "outputs\\nba_2025_26\\verify_csv.py": "0ce906bee482ac2bd9774c372d4ec07151e3cc5d1509121d3dabf9c16e2f04cd",
+    "PRD.md": "d6102e87fb41972a9a0929cdc876f470925442b2d2108fb732b12546199e721e",
+    "TODO.md": "3047e1e0c58949ce827a4efb9be8e58f92ce387f8cad8e98b4e89e32124b4106",
+    "PROGRESS.md": "6c26985d9b74b2fd616b4ca4bb1e4f5d0b07d93a524cd4f64fb8d99498805a63"
+  },
+  "protected_files_unchanged": true,
+  "zero_minute_examples": [
+    {
+      "PLAYER": "AJ Johnson",
+      "TEAM": "DAL",
+      "MATCHUP": "DAL @ PHX",
+      "GAMEDATE": "2026-02-10",
+      "MIN": "0",
+      "PTS": "0",
+      "FG%": "-",
+      "REB": "0",
+      "AST": "0"
+    },
+    {
+      "PLAYER": "A.J. Lawson",
+      "TEAM": "TOR",
+      "MATCHUP": "TOR VS. CHI",
+      "GAMEDATE": "2026-02-05",
+      "MIN": "0",
+      "PTS": "0",
+      "FG%": "-",
+      "REB": "0",
+      "AST": "0"
+    },
+    {
+      "PLAYER": "Amari Williams",
+      "TEAM": "BOS",
+      "MATCHUP": "BOS VS. NYK",
+      "GAMEDATE": "2025-12-02",
+      "MIN": "0",
+      "PTS": "0",
+      "FG%": "-",
+      "REB": "0",
+      "AST": "0"
+    },
+    {
+      "PLAYER": "Andre Jackson Jr.",
+      "TEAM": "MIL",
+      "MATCHUP": "MIL VS. CHA",
+      "GAMEDATE": "2025-11-14",
+      "MIN": "0",
+      "PTS": "0",
+      "FG%": "-",
+      "REB": "0",
+      "AST": "0"
+    },
+    {
+      "PLAYER": "Andre Jackson Jr.",
+      "TEAM": "MIL",
+      "MATCHUP": "MIL VS. PHX",
+      "GAMEDATE": "2026-03-10",
+      "MIN": "0",
+      "PTS": "0",
+      "FG%": "-",
+      "REB": "0",
+      "AST": "0"
+    }
+  ],
+  "raw_minute_decimal_places": {
+    "0": 26651
+  },
+  "team_abbreviation_multiple_ids": {},
+  "pages_sequence_valid": true,
+  "page_size_distribution": {
+    "50": 533,
+    "1": 1
+  }
+}

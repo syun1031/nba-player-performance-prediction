@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500835",
+  "GAMEDATE": "2026-02-24",
+  "teams": [
+    "CLE",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000144,
+    "arenaName": "Rocket Arena",
+    "arenaCity": "Cleveland",
+    "arenaState": "OH",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CLE",
+  "awayTeam": "NYK",
+  "gameEt": "2026-02-24T19:30:00Z",
+  "gameTimeUTC": "2026-02-25T00:30:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-nyk-0022500835",
+  "fetched_at_utc": "2026-10-21T07:02:01.967513+00:00",
+  "html_sha256": "23a888a1641d18d998080307f49aed2caaf02ce99162aef58ce815d84dc82045"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500380",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "POR",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 51,
+    "arenaName": "Moda Center",
+    "arenaCity": "Portland",
+    "arenaState": "OR",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "POR",
+  "awayTeam": "SAC",
+  "gameEt": "2025-12-18T22:00:00Z",
+  "gameTimeUTC": "2025-12-19T03:00:00Z",
+  "source_url": "https://www.nba.com/game/por-vs-sac-0022500380",
+  "fetched_at_utc": "2026-10-21T06:58:57.643190+00:00",
+  "html_sha256": "063084083300f5af459a87b090304a56dec343f645251e83d35652d00b780bdf"
+}

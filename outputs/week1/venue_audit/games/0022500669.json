@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500669",
+  "GAMEDATE": "2026-01-27",
+  "teams": [
+    "BKN",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "BKN",
+  "gameEt": "2026-01-27T21:00:00Z",
+  "gameTimeUTC": "2026-01-28T02:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-phx-0022500669",
+  "fetched_at_utc": "2026-10-21T07:00:52.050257+00:00",
+  "html_sha256": "acbdc37e131b7c7d4b6acd79bdffefb133b0cb50f46961919f1a6935c2a28dd7"
+}

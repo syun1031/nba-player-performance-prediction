@@ -1,0 +1,73 @@
+{
+  "variants": {
+    "v1": [
+      "pts_mean_5",
+      "pts_mean_10",
+      "min_mean_5",
+      "reb_mean_5",
+      "ast_mean_5",
+      "is_home",
+      "is_neutral_site",
+      "rest_days",
+      "is_starter"
+    ],
+    "v2": [
+      "pts_mean_5",
+      "pts_mean_10",
+      "min_mean_5",
+      "reb_mean_5",
+      "ast_mean_5",
+      "is_home",
+      "is_neutral_site",
+      "rest_days",
+      "is_starter",
+      "pts_last_1",
+      "min_mean_3",
+      "min_change_last_vs_5",
+      "pts_std_5",
+      "min_std_5"
+    ]
+  },
+  "parameters": {
+    "n_estimators": 150,
+    "max_depth": 2,
+    "learning_rate": 0.05,
+    "min_child_weight": 10,
+    "subsample": 1.0,
+    "colsample_bytree": 1.0,
+    "reg_alpha": 0.0,
+    "reg_lambda": 1.0,
+    "objective": "reg:squarederror",
+    "tree_method": "hist",
+    "device": "cpu",
+    "n_jobs": 2,
+    "random_state": 42
+  },
+  "fit_cap": 8,
+  "folds": [
+    {
+      "name": "F1",
+      "train_end": "2025-11-30",
+      "validation_start": "2025-12-01",
+      "validation_end": "2025-12-31"
+    },
+    {
+      "name": "F2",
+      "train_end": "2025-12-31",
+      "validation_start": "2026-01-01",
+      "validation_end": "2026-01-15"
+    },
+    {
+      "name": "F3",
+      "train_end": "2026-01-15",
+      "validation_start": "2026-01-16",
+      "validation_end": "2026-01-31"
+    }
+  ],
+  "exploratory_after_test_observed": true,
+  "selection_data_reused": true,
+  "test_scoring_allowed": false,
+  "auto_promotion": false,
+  "bootstrap_iterations": 2000,
+  "seed": 42
+}

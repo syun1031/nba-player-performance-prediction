@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500256",
+  "GAMEDATE": "2025-11-19",
+  "teams": [
+    "CHA",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "CHA",
+  "gameEt": "2025-11-19T19:00:00Z",
+  "gameTimeUTC": "2025-11-20T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-ind-0022500256",
+  "fetched_at_utc": "2026-10-21T06:58:09.819906+00:00",
+  "html_sha256": "b7114455f269c8a0b9ae57a327b8c9b077b9e8f4a005e450ecdefcf5ad06e2d4"
+}

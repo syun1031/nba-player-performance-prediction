@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500429",
+  "GAMEDATE": "2025-12-26",
+  "teams": [
+    "NOP",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "PHX",
+  "gameEt": "2025-12-26T20:00:00Z",
+  "gameTimeUTC": "2025-12-27T01:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-phx-0022500429",
+  "fetched_at_utc": "2026-10-21T06:59:19.068441+00:00",
+  "html_sha256": "0e3d31593c5a1b2dd764796672b762f810ab91b87df7ec3896681724d63b0f2b"
+}

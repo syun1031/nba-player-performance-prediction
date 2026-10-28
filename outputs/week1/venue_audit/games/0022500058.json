@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500058",
+  "GAMEDATE": "2025-11-25",
+  "teams": [
+    "ORL",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "ORL",
+  "gameEt": "2025-11-25T20:00:00Z",
+  "gameTimeUTC": "2025-11-26T01:00:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-phi-0022500058",
+  "fetched_at_utc": "2026-10-21T06:56:52.783297+00:00",
+  "html_sha256": "3721dec6192da80454bf646bf06872d2e35a29b9a60a45621c4bf2789311e452"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500422",
+  "GAMEDATE": "2025-12-23",
+  "teams": [
+    "HOU",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "HOU",
+  "gameEt": "2025-12-23T22:30:00Z",
+  "gameTimeUTC": "2025-12-24T03:30:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-lac-0022500422",
+  "fetched_at_utc": "2026-10-21T06:59:20.228026+00:00",
+  "html_sha256": "f5c506d6f6bd4b17ee0e0b0bcc57fbaa040a8d2a93440d2cfc88b6a91242c2f4"
+}

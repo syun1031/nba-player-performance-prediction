@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500264",
+  "GAMEDATE": "2025-11-20",
+  "teams": [
+    "LAC",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "LAC",
+  "gameEt": "2025-11-20T19:00:00Z",
+  "gameTimeUTC": "2025-11-21T00:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-orl-0022500264",
+  "fetched_at_utc": "2026-10-21T06:58:11.794630+00:00",
+  "html_sha256": "656ae4c8b6027e0944412eef253fbf3a4b961abcd40189d110f582935fa8a6b5"
+}

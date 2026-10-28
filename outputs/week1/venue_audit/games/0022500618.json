@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500618",
+  "GAMEDATE": "2026-01-20",
+  "teams": [
+    "GSW",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000011,
+    "arenaName": "Chase Center",
+    "arenaCity": "San Francisco",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "GSW",
+  "awayTeam": "TOR",
+  "gameEt": "2026-01-20T22:00:00Z",
+  "gameTimeUTC": "2026-01-21T03:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-tor-0022500618",
+  "fetched_at_utc": "2026-10-21T07:00:30.839186+00:00",
+  "html_sha256": "6e39c7311b0d1696ab55164fb28bb8187f0b87ef37a51ea61ad9fb3cf0f8d04f"
+}

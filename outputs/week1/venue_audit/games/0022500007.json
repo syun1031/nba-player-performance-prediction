@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500007",
+  "GAMEDATE": "2025-10-27",
+  "teams": [
+    "CLE",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 624,
+    "arenaName": "Little Caesars Arena",
+    "arenaCity": "Detroit",
+    "arenaState": "MI",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DET",
+  "awayTeam": "CLE",
+  "gameEt": "2025-10-27T19:00:00Z",
+  "gameTimeUTC": "2025-10-27T23:00:00Z",
+  "source_url": "https://www.nba.com/game/cle-vs-det-0022500007",
+  "fetched_at_utc": "2026-10-21T06:56:33.235061+00:00",
+  "html_sha256": "9d19828c9255a918e2392726ee94f94fd5af7d29d67c76846a0c9c3020b032cc"
+}

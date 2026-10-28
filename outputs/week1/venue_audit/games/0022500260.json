@@ -1,0 +1,24 @@
+{
+  "gameId": "0022500260",
+  "GAMEDATE": "2025-11-19",
+  "teams": [
+    "DEN",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US"
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "DEN",
+  "gameEt": null,
+  "gameTimeUTC": null,
+  "source_url": "https://statsdmz.nba.com/pdfs/20251119/20251119_DENNOP.pdf",
+  "fetched_at_utc": "2026-10-21T07:00:34.239297+00:00",
+  "pdf_sha256": "f98cca85e04df58cc6f6516eae026f978cdaca7083b0014287f79757029f9568",
+  "evidence_method": "official_pdf_home_arena",
+  "classification_basis": "Official scorer report venue and HOME/VISITOR; arena checked against other official non-neutral home games of this home team"
+}

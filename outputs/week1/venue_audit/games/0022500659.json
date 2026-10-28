@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500659",
+  "GAMEDATE": "2026-01-26",
+  "teams": [
+    "ATL",
+    "IND"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "IND",
+  "gameEt": "2026-01-26T13:30:00Z",
+  "gameTimeUTC": "2026-01-26T18:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-ind-0022500659",
+  "fetched_at_utc": "2026-10-21T07:00:47.117524+00:00",
+  "html_sha256": "95790b3a5d5715bfaccd7e17bfb1fb3ce0fda8554bc3d8b8e9bd0b840e348659"
+}

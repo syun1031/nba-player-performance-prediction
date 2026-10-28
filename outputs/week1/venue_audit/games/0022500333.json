@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500333",
+  "GAMEDATE": "2025-12-04",
+  "teams": [
+    "GSW",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "GSW",
+  "gameEt": "2025-12-04T19:00:00Z",
+  "gameTimeUTC": "2025-12-05T00:00:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-phi-0022500333",
+  "fetched_at_utc": "2026-10-21T06:58:39.727862+00:00",
+  "html_sha256": "be5f0e0097277e754b69fab7b7c5143b3d7a48ae586c9dfa2e48fef5dd419c91"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500583",
+  "GAMEDATE": "2026-01-15",
+  "teams": [
+    "DAL",
+    "UTA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "UTA",
+  "gameEt": "2026-01-15T20:30:00Z",
+  "gameTimeUTC": "2026-01-16T01:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-uta-0022500583",
+  "fetched_at_utc": "2026-10-21T07:00:18.519256+00:00",
+  "html_sha256": "6d58b2f3d0f49f5141327a11d01dbf1e07d318e768e2229927869d3fe416a72e"
+}

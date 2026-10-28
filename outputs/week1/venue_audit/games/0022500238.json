@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500238",
+  "GAMEDATE": "2025-11-16",
+  "teams": [
+    "DAL",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "POR",
+  "gameEt": "2025-11-16T19:30:00Z",
+  "gameTimeUTC": "2025-11-17T00:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-por-0022500238",
+  "fetched_at_utc": "2026-10-21T06:58:01.679210+00:00",
+  "html_sha256": "e544a7bd6ef29c7fbfefc4b84f0f4a99eadc49170c3dd7eaed16e84231e4a26e"
+}

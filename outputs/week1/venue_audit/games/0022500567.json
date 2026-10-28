@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500567",
+  "GAMEDATE": "2026-01-13",
+  "teams": [
+    "DEN",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "DEN",
+  "gameEt": "2026-01-13T20:00:00Z",
+  "gameTimeUTC": "2026-01-14T01:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-nop-0022500567",
+  "fetched_at_utc": "2026-10-21T07:00:11.660359+00:00",
+  "html_sha256": "63c3a7d20bac329e1c9d7a7a3553868ca638c4db8a1071d2166cbdcc3bcff09b"
+}

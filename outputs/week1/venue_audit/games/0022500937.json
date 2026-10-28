@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500937",
+  "GAMEDATE": "2026-03-10",
+  "teams": [
+    "BKN",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "DET",
+  "gameEt": "2026-03-10T19:30:00Z",
+  "gameTimeUTC": "2026-03-10T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-det-0022500937",
+  "fetched_at_utc": "2026-10-21T07:02:42.087046+00:00",
+  "html_sha256": "fad012cb4fc5fb26f0bf071e07b61842394c4559df132715be5f8a30cbf163ac"
+}

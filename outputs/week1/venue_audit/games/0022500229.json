@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500229",
+  "GAMEDATE": "2025-11-15",
+  "teams": [
+    "CHA",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "OKC",
+  "gameEt": "2025-11-15T19:00:00Z",
+  "gameTimeUTC": "2025-11-16T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-okc-0022500229",
+  "fetched_at_utc": "2026-10-21T06:57:58.264506+00:00",
+  "html_sha256": "e0306895e9957a8e757ebec441c78a41cf1a4406e74f7dd639a38d07a23860fc"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500060",
+  "GAMEDATE": "2025-11-26",
+  "teams": [
+    "BOS",
+    "DET"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "DET",
+  "gameEt": "2025-11-26T17:00:00Z",
+  "gameTimeUTC": "2025-11-26T22:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-det-0022500060",
+  "fetched_at_utc": "2026-10-21T06:56:53.945831+00:00",
+  "html_sha256": "207c4db1b7f5f7a9d34b41d4ac147bf48c3ab126381f8ba8a3b22b2aa7abcbce"
+}

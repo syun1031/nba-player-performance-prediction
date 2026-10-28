@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500513",
+  "GAMEDATE": "2026-01-06",
+  "teams": [
+    "MIA",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "MIA",
+  "gameEt": "2026-01-06T20:00:00Z",
+  "gameTimeUTC": "2026-01-07T01:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-min-0022500513",
+  "fetched_at_utc": "2026-10-21T06:59:50.969459+00:00",
+  "html_sha256": "1cf1689479cf8d429de3854fffac834693844b9389ec896cb8487e92f07f8055"
+}

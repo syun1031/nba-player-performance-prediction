@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500439",
+  "GAMEDATE": "2025-12-27",
+  "teams": [
+    "BKN",
+    "MIN"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 61,
+    "arenaName": "Target Center",
+    "arenaCity": "Minneapolis",
+    "arenaState": "MN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "MIN",
+  "awayTeam": "BKN",
+  "gameEt": "2025-12-27T20:00:00Z",
+  "gameTimeUTC": "2025-12-28T01:00:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-min-0022500439",
+  "fetched_at_utc": "2026-10-21T06:59:23.409197+00:00",
+  "html_sha256": "f53a9b4f3451cac9804dcfdf8f76425c0ce0d433b67081d9617834467fa11dab"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500093",
+  "GAMEDATE": "2025-10-24",
+  "teams": [
+    "DET",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "DET",
+  "gameEt": "2025-10-24T20:00:00Z",
+  "gameTimeUTC": "2025-10-25T00:00:00Z",
+  "source_url": "https://www.nba.com/game/det-vs-hou-0022500093",
+  "fetched_at_utc": "2026-10-21T06:57:06.814162+00:00",
+  "html_sha256": "5c0e9b961936f1bc4568e0ca920f961a8c115f45d3c10373335649e8e76b4a3f"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500285",
+  "GAMEDATE": "2025-11-24",
+  "teams": [
+    "BKN",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "NYK",
+  "gameEt": "2025-11-24T19:30:00Z",
+  "gameTimeUTC": "2025-11-25T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-nyk-0022500285",
+  "fetched_at_utc": "2026-10-21T06:58:21.223723+00:00",
+  "html_sha256": "9ea05fcf491144e7c3b9f0e7d37ff15eadc72dcdbdfbc96dea3c84c82fdb70c3"
+}

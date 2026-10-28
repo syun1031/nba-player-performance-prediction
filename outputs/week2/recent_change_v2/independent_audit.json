@@ -1,0 +1,19 @@
+{
+  "independent_feature_rows": 16743,
+  "cohort_original_values_equal": true,
+  "manual_window_formulas_equal": true,
+  "saved_scores_recomputed": true,
+  "residual_definition": "actual_minus_prediction",
+  "additional_fits": 0,
+  "test_predictions_computed": false,
+  "environment": {
+    "python": "3.12.14",
+    "packages": {
+      "numpy": "2.5.4",
+      "scikit-learn": "1.9.1",
+      "xgboost": "3.4.1",
+      "joblib": "1.6.0",
+      "matplotlib": "3.11.2"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500636",
+  "GAMEDATE": "2026-01-23",
+  "teams": [
+    "ATL",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "PHX",
+  "gameEt": "2026-01-23T19:30:00Z",
+  "gameTimeUTC": "2026-01-24T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-phx-0022500636",
+  "fetched_at_utc": "2026-10-21T07:00:37.685083+00:00",
+  "html_sha256": "01f0188942f5bcd6c4aa17f090fc1a9f4a27220a6bd177937e2727ef193cc4a0"
+}

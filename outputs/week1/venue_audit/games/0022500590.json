@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500590",
+  "GAMEDATE": "2026-01-16",
+  "teams": [
+    "LAC",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 643,
+    "arenaName": "Scotiabank Arena",
+    "arenaCity": "Toronto",
+    "arenaState": "ON",
+    "arenaCountry": "CA",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "TOR",
+  "awayTeam": "LAC",
+  "gameEt": "2026-01-16T19:30:00Z",
+  "gameTimeUTC": "2026-01-17T00:30:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-tor-0022500590",
+  "fetched_at_utc": "2026-10-21T07:00:21.410360+00:00",
+  "html_sha256": "39c5285d5c821137f4f5c5dea6213c45d18be2e163d4d7ae5c0d9718a9b135cb"
+}

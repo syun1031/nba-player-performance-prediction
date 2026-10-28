@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500061",
+  "GAMEDATE": "2025-11-26",
+  "teams": [
+    "CHA",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "NYK",
+  "gameEt": "2025-11-26T19:00:00Z",
+  "gameTimeUTC": "2025-11-27T00:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-nyk-0022500061",
+  "fetched_at_utc": "2026-10-21T06:56:54.383784+00:00",
+  "html_sha256": "d28b2a73f1267faa64c11a5921365f9456da8c098c5824d969664f07e2839982"
+}

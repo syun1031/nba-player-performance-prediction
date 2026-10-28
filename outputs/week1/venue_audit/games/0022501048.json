@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501048",
+  "GAMEDATE": "2026-03-24",
+  "teams": [
+    "NOP",
+    "NYK"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "NOP",
+  "gameEt": "2026-03-24T19:30:00Z",
+  "gameTimeUTC": "2026-03-24T23:30:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-nyk-0022501048",
+  "fetched_at_utc": "2026-10-21T07:03:21.566655+00:00",
+  "html_sha256": "6930099033134d5e885add77b0d6c43b4ecd75eb38fc8e5eed6b5f4d3553173a"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500902",
+  "GAMEDATE": "2026-03-05",
+  "teams": [
+    "GSW",
+    "HOU"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "GSW",
+  "gameEt": "2026-03-05T19:30:00Z",
+  "gameTimeUTC": "2026-03-06T00:30:00Z",
+  "source_url": "https://www.nba.com/game/gsw-vs-hou-0022500902",
+  "fetched_at_utc": "2026-10-21T07:02:28.787927+00:00",
+  "html_sha256": "8502013e20fcc20d03c2adfd616044e543231db85842c55bc622f38937b996e8"
+}

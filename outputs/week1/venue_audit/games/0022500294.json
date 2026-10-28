@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500294",
+  "GAMEDATE": "2025-11-29",
+  "teams": [
+    "CHA",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 9,
+    "arenaName": "Spectrum Center",
+    "arenaCity": "Charlotte",
+    "arenaState": "NC",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "CHA",
+  "awayTeam": "TOR",
+  "gameEt": "2025-11-29T18:00:00Z",
+  "gameTimeUTC": "2025-11-29T23:00:00Z",
+  "source_url": "https://www.nba.com/game/cha-vs-tor-0022500294",
+  "fetched_at_utc": "2026-10-21T06:58:24.811356+00:00",
+  "html_sha256": "f1be0596c86942936310958f602b3bcf92bedae9cda7463c5da0cc56eed4d2f8"
+}

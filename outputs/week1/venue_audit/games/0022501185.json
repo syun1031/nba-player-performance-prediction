@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501185",
+  "GAMEDATE": "2026-04-10",
+  "teams": [
+    "LAL",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "PHX",
+  "gameEt": "2026-04-10T22:30:00Z",
+  "gameTimeUTC": "2026-04-11T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-phx-0022501185",
+  "fetched_at_utc": "2026-10-21T07:04:19.101736+00:00",
+  "html_sha256": "f860ad102916fa9f5af2a3de625002b1377a5fd792abb4cd2019684bc1491adc"
+}

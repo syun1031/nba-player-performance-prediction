@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500387",
+  "GAMEDATE": "2025-12-20",
+  "teams": [
+    "DAL",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000152,
+    "arenaName": "Xfinity Mobile Arena",
+    "arenaCity": "Philadelphia",
+    "arenaState": "PA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHI",
+  "awayTeam": "DAL",
+  "gameEt": "2025-12-20T19:00:00Z",
+  "gameTimeUTC": "2025-12-21T00:00:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-phi-0022500387",
+  "fetched_at_utc": "2026-10-21T06:59:01.103753+00:00",
+  "html_sha256": "d864c0dfa7f02c9bec6d85f3c6a809a9020e00050bf72783f3a331eb44eaa58a"
+}

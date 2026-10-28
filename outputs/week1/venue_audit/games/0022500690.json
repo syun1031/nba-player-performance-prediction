@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500690",
+  "GAMEDATE": "2026-01-30",
+  "teams": [
+    "NYK",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "POR",
+  "gameEt": "2026-01-30T19:30:00Z",
+  "gameTimeUTC": "2026-01-31T00:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-por-0022500690",
+  "fetched_at_utc": "2026-10-21T07:01:00.382026+00:00",
+  "html_sha256": "68ab042c3c236bb733bc7f9e9d143305dc52101062e7eb7ee2af16220a325d20"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500076",
+  "GAMEDATE": "2025-11-28",
+  "teams": [
+    "DEN",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "SAS",
+  "gameEt": "2025-11-28T21:30:00Z",
+  "gameTimeUTC": "2025-11-29T02:30:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-sas-0022500076",
+  "fetched_at_utc": "2026-10-21T06:57:00.521224+00:00",
+  "html_sha256": "42945900d9a4e519c8e2d108022b99d00901332deb6d94ede320dfa45da29c11"
+}

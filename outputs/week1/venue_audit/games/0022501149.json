@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501149",
+  "GAMEDATE": "2026-04-07",
+  "teams": [
+    "BOS",
+    "CHA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "CHA",
+  "gameEt": "2026-04-07T20:00:00Z",
+  "gameTimeUTC": "2026-04-08T00:00:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-cha-0022501149",
+  "fetched_at_utc": "2026-10-21T07:04:00.807108+00:00",
+  "html_sha256": "d0ce6ccb5ee0d75e6076b1a78e884688e0cde81df0162d543a35eeffe78c4b1e"
+}

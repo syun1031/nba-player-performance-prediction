@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500042",
+  "GAMEDATE": "2025-11-14",
+  "teams": [
+    "HOU",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "POR",
+  "gameEt": "2025-11-14T20:00:00Z",
+  "gameTimeUTC": "2025-11-15T01:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-por-0022500042",
+  "fetched_at_utc": "2026-10-21T06:56:46.739104+00:00",
+  "html_sha256": "0ff6e5d2800736e89d7496e18ab1cd43ac3c2cbc3b26ef4adbdd8f8cf298bdb6"
+}

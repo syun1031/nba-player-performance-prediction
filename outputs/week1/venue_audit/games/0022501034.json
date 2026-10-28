@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501034",
+  "GAMEDATE": "2026-03-22",
+  "teams": [
+    "NYK",
+    "WAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 30,
+    "arenaName": "Madison Square Garden",
+    "arenaCity": "New York",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NYK",
+  "awayTeam": "WAS",
+  "gameEt": "2026-03-22T19:30:00Z",
+  "gameTimeUTC": "2026-03-22T23:30:00Z",
+  "source_url": "https://www.nba.com/game/nyk-vs-was-0022501034",
+  "fetched_at_utc": "2026-10-21T07:03:16.062781+00:00",
+  "html_sha256": "038451c09bb4a67241ee5a810063403aec4ccb52b24099ca092760996c4ed82a"
+}

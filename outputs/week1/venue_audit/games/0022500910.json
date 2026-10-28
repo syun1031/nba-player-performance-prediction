@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500910",
+  "GAMEDATE": "2026-03-06",
+  "teams": [
+    "HOU",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 215,
+    "arenaName": "Toyota Center",
+    "arenaCity": "Houston",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "HOU",
+  "awayTeam": "POR",
+  "gameEt": "2026-03-06T20:00:00Z",
+  "gameTimeUTC": "2026-03-07T01:00:00Z",
+  "source_url": "https://www.nba.com/game/hou-vs-por-0022500910",
+  "fetched_at_utc": "2026-10-21T07:02:31.797918+00:00",
+  "html_sha256": "e7d9cc2247bbe9f33134eeca08178ff7caf049b048f008276246130b4c7e7d8c"
+}

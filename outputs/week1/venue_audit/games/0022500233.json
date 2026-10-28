@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500233",
+  "GAMEDATE": "2025-11-16",
+  "teams": [
+    "BOS",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 17,
+    "arenaName": "TD Garden",
+    "arenaCity": "Boston",
+    "arenaState": "MA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BOS",
+  "awayTeam": "LAC",
+  "gameEt": "2025-11-16T15:30:00Z",
+  "gameTimeUTC": "2025-11-16T20:30:00Z",
+  "source_url": "https://www.nba.com/game/bos-vs-lac-0022500233",
+  "fetched_at_utc": "2026-10-21T06:57:59.773920+00:00",
+  "html_sha256": "886d47611490056e29274e2c2684c758ff7f1bf38ec92a9219b8d17abb8a4ca9"
+}

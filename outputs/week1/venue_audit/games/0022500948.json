@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500948",
+  "GAMEDATE": "2026-03-11",
+  "teams": [
+    "NOP",
+    "TOR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "TOR",
+  "gameEt": "2026-03-11T20:00:00Z",
+  "gameTimeUTC": "2026-03-12T00:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-tor-0022500948",
+  "fetched_at_utc": "2026-10-21T07:02:46.379696+00:00",
+  "html_sha256": "a9396c28dd9006484e7aefec599821db5adfc7a585b45d750af94fa9462d5603"
+}

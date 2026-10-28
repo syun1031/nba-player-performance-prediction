@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500070",
+  "GAMEDATE": "2025-11-28",
+  "teams": [
+    "BKN",
+    "PHI"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "PHI",
+  "gameEt": "2025-11-28T19:30:00Z",
+  "gameTimeUTC": "2025-11-29T00:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-phi-0022500070",
+  "fetched_at_utc": "2026-10-21T06:56:57.793386+00:00",
+  "html_sha256": "6e38de9585b6a40647b068b789ef4e7442ba5dfc12e5b3d8e5cba874a69046c1"
+}

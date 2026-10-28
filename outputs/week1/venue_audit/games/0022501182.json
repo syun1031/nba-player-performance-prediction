@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501182",
+  "GAMEDATE": "2026-04-10",
+  "teams": [
+    "DEN",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "OKC",
+  "gameEt": "2026-04-10T21:00:00Z",
+  "gameTimeUTC": "2026-04-11T01:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-okc-0022501182",
+  "fetched_at_utc": "2026-10-21T07:04:19.333112+00:00",
+  "html_sha256": "54e10bd48261ba18a267308e4ac953a1fa5459f7732bb2149079bf05680a7eea"
+}

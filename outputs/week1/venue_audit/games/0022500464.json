@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500464",
+  "GAMEDATE": "2025-12-31",
+  "teams": [
+    "IND",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000063,
+    "arenaName": "Gainbridge Fieldhouse",
+    "arenaCity": "Indianapolis",
+    "arenaState": "IN",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "IND",
+  "awayTeam": "ORL",
+  "gameEt": "2025-12-31T15:00:00Z",
+  "gameTimeUTC": "2025-12-31T20:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-orl-0022500464",
+  "fetched_at_utc": "2026-10-21T06:59:33.032034+00:00",
+  "html_sha256": "de9ca864a48357d876e1e217e9787b922bbf39124bb39daf4db75384c2e173f2"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500751",
+  "GAMEDATE": "2026-02-07",
+  "teams": [
+    "ATL",
+    "CHA"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 650,
+    "arenaName": "State Farm Arena",
+    "arenaCity": "Atlanta",
+    "arenaState": "GA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ATL",
+  "awayTeam": "CHA",
+  "gameEt": "2026-02-07T19:30:00Z",
+  "gameTimeUTC": "2026-02-08T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-cha-0022500751",
+  "fetched_at_utc": "2026-10-21T07:01:27.929405+00:00",
+  "html_sha256": "6ef005b92759c67e599b4368f7f926a5df60a41b69c12020a02e9cef8208261c"
+}

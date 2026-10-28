@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501155",
+  "GAMEDATE": "2026-04-07",
+  "teams": [
+    "LAL",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "OKC",
+  "gameEt": "2026-04-07T22:30:00Z",
+  "gameTimeUTC": "2026-04-08T02:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-okc-0022501155",
+  "fetched_at_utc": "2026-10-21T07:04:02.136503+00:00",
+  "html_sha256": "7d3719f46205289a880cd4e5ba3c7d8942abea934d1eab60092359e056c6a629"
+}

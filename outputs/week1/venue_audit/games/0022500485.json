@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500485",
+  "GAMEDATE": "2026-01-02",
+  "teams": [
+    "LAL",
+    "MEM"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000069,
+    "arenaName": "Crypto.com Arena",
+    "arenaCity": "Los Angeles",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAL",
+  "awayTeam": "MEM",
+  "gameEt": "2026-01-02T22:30:00Z",
+  "gameTimeUTC": "2026-01-03T03:30:00Z",
+  "source_url": "https://www.nba.com/game/lal-vs-mem-0022500485",
+  "fetched_at_utc": "2026-10-21T06:59:40.979771+00:00",
+  "html_sha256": "ba4e6dca7e8c08b71a703e4a634d71d681564a1e9a25cdde5e4154cdd5c2b7a6"
+}

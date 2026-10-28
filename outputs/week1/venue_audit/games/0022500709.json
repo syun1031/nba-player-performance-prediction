@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500709",
+  "GAMEDATE": "2026-02-01",
+  "teams": [
+    "LAC",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000159,
+    "arenaName": "Mortgage Matchup Center",
+    "arenaCity": "Phoenix",
+    "arenaState": "AZ",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "PHX",
+  "awayTeam": "LAC",
+  "gameEt": "2026-02-01T20:00:00Z",
+  "gameTimeUTC": "2026-02-02T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-phx-0022500709",
+  "fetched_at_utc": "2026-10-21T07:01:09.147410+00:00",
+  "html_sha256": "4e49cc4ca4d0f3a2e5a0fff48eb8fe009618bfd7d1c8c45f95e5b973746c28bf"
+}

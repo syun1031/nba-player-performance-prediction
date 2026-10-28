@@ -1,0 +1,2450 @@
+{
+  "spec_version": "time-tuning-v1",
+  "seed": 42,
+  "folds": [
+    [
+      "F1",
+      "2025-11-30",
+      "2025-12-01",
+      "2025-12-31"
+    ],
+    [
+      "F2",
+      "2025-12-31",
+      "2026-01-01",
+      "2026-01-15"
+    ],
+    [
+      "F3",
+      "2026-01-15",
+      "2026-01-16",
+      "2026-01-31"
+    ]
+  ],
+  "parameter_grid": {
+    "linear": [
+      {
+        "parameter_id": "linear_01",
+        "params": {
+          "fit_intercept": true
+        }
+      }
+    ],
+    "tree": [
+      {
+        "parameter_id": "tree_01",
+        "params": {
+          "max_depth": 4,
+          "min_samples_leaf": 30,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "tree_02",
+        "params": {
+          "max_depth": 4,
+          "min_samples_leaf": 60,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "tree_03",
+        "params": {
+          "max_depth": 6,
+          "min_samples_leaf": 30,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "tree_04",
+        "params": {
+          "max_depth": 6,
+          "min_samples_leaf": 60,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "tree_05",
+        "params": {
+          "max_depth": 8,
+          "min_samples_leaf": 30,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "tree_06",
+        "params": {
+          "max_depth": 8,
+          "min_samples_leaf": 60,
+          "random_state": 42
+        }
+      }
+    ],
+    "xgboost": [
+      {
+        "parameter_id": "xgboost_01",
+        "params": {
+          "n_estimators": 150,
+          "max_depth": 2,
+          "learning_rate": 0.05,
+          "min_child_weight": 1,
+          "subsample": 1.0,
+          "colsample_bytree": 1.0,
+          "reg_alpha": 0.0,
+          "reg_lambda": 1.0,
+          "objective": "reg:squarederror",
+          "tree_method": "hist",
+          "device": "cpu",
+          "n_jobs": 2,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "xgboost_02",
+        "params": {
+          "n_estimators": 150,
+          "max_depth": 2,
+          "learning_rate": 0.05,
+          "min_child_weight": 10,
+          "subsample": 1.0,
+          "colsample_bytree": 1.0,
+          "reg_alpha": 0.0,
+          "reg_lambda": 1.0,
+          "objective": "reg:squarederror",
+          "tree_method": "hist",
+          "device": "cpu",
+          "n_jobs": 2,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "xgboost_03",
+        "params": {
+          "n_estimators": 300,
+          "max_depth": 2,
+          "learning_rate": 0.05,
+          "min_child_weight": 1,
+          "subsample": 1.0,
+          "colsample_bytree": 1.0,
+          "reg_alpha": 0.0,
+          "reg_lambda": 1.0,
+          "objective": "reg:squarederror",
+          "tree_method": "hist",
+          "device": "cpu",
+          "n_jobs": 2,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "xgboost_04",
+        "params": {
+          "n_estimators": 300,
+          "max_depth": 2,
+          "learning_rate": 0.05,
+          "min_child_weight": 10,
+          "subsample": 1.0,
+          "colsample_bytree": 1.0,
+          "reg_alpha": 0.0,
+          "reg_lambda": 1.0,
+          "objective": "reg:squarederror",
+          "tree_method": "hist",
+          "device": "cpu",
+          "n_jobs": 2,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "xgboost_05",
+        "params": {
+          "n_estimators": 150,
+          "max_depth": 3,
+          "learning_rate": 0.05,
+          "min_child_weight": 1,
+          "subsample": 1.0,
+          "colsample_bytree": 1.0,
+          "reg_alpha": 0.0,
+          "reg_lambda": 1.0,
+          "objective": "reg:squarederror",
+          "tree_method": "hist",
+          "device": "cpu",
+          "n_jobs": 2,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "xgboost_06",
+        "params": {
+          "n_estimators": 150,
+          "max_depth": 3,
+          "learning_rate": 0.05,
+          "min_child_weight": 10,
+          "subsample": 1.0,
+          "colsample_bytree": 1.0,
+          "reg_alpha": 0.0,
+          "reg_lambda": 1.0,
+          "objective": "reg:squarederror",
+          "tree_method": "hist",
+          "device": "cpu",
+          "n_jobs": 2,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "xgboost_07",
+        "params": {
+          "n_estimators": 300,
+          "max_depth": 3,
+          "learning_rate": 0.05,
+          "min_child_weight": 1,
+          "subsample": 1.0,
+          "colsample_bytree": 1.0,
+          "reg_alpha": 0.0,
+          "reg_lambda": 1.0,
+          "objective": "reg:squarederror",
+          "tree_method": "hist",
+          "device": "cpu",
+          "n_jobs": 2,
+          "random_state": 42
+        }
+      },
+      {
+        "parameter_id": "xgboost_08",
+        "params": {
+          "n_estimators": 300,
+          "max_depth": 3,
+          "learning_rate": 0.05,
+          "min_child_weight": 10,
+          "subsample": 1.0,
+          "colsample_bytree": 1.0,
+          "reg_alpha": 0.0,
+          "reg_lambda": 1.0,
+          "objective": "reg:squarederror",
+          "tree_method": "hist",
+          "device": "cpu",
+          "n_jobs": 2,
+          "random_state": 42
+        }
+      }
+    ]
+  },
+  "feature_groups": [
+    "basic",
+    "starter",
+    "teammates"
+  ],
+  "cv_run_manifest": [
+    {
+      "fold": "F1",
+      "model": "linear",
+      "parameter_id": "linear_01",
+      "features": "basic",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "linear",
+      "parameter_id": "linear_01",
+      "features": "starter",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "linear",
+      "parameter_id": "linear_01",
+      "features": "teammates",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_01",
+      "features": "basic",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_01",
+      "features": "starter",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_01",
+      "features": "teammates",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_02",
+      "features": "basic",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_02",
+      "features": "starter",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_02",
+      "features": "teammates",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_03",
+      "features": "basic",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_03",
+      "features": "starter",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_03",
+      "features": "teammates",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_04",
+      "features": "basic",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_04",
+      "features": "starter",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_04",
+      "features": "teammates",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_05",
+      "features": "basic",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_05",
+      "features": "starter",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_05",
+      "features": "teammates",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_06",
+      "features": "basic",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_06",
+      "features": "starter",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "tree",
+      "parameter_id": "tree_06",
+      "features": "teammates",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_01",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_01",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_01",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_02",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_02",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_02",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_03",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_03",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_03",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_04",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_04",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_04",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_05",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_05",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_05",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_06",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_06",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_06",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_07",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_07",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_07",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_08",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_08",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F1",
+      "model": "xgboost",
+      "parameter_id": "xgboost_08",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "linear",
+      "parameter_id": "linear_01",
+      "features": "basic",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "linear",
+      "parameter_id": "linear_01",
+      "features": "starter",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "linear",
+      "parameter_id": "linear_01",
+      "features": "teammates",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_01",
+      "features": "basic",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_01",
+      "features": "starter",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_01",
+      "features": "teammates",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_02",
+      "features": "basic",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_02",
+      "features": "starter",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_02",
+      "features": "teammates",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_03",
+      "features": "basic",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_03",
+      "features": "starter",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_03",
+      "features": "teammates",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_04",
+      "features": "basic",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_04",
+      "features": "starter",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_04",
+      "features": "teammates",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_05",
+      "features": "basic",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_05",
+      "features": "starter",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_05",
+      "features": "teammates",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_06",
+      "features": "basic",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_06",
+      "features": "starter",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "tree",
+      "parameter_id": "tree_06",
+      "features": "teammates",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_01",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_01",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_01",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_02",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_02",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_02",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_03",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_03",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_03",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_04",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_04",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_04",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_05",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_05",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_05",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_06",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_06",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_06",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_07",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_07",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_07",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_08",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_08",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F2",
+      "model": "xgboost",
+      "parameter_id": "xgboost_08",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "linear",
+      "parameter_id": "linear_01",
+      "features": "basic",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "linear",
+      "parameter_id": "linear_01",
+      "features": "starter",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "linear",
+      "parameter_id": "linear_01",
+      "features": "teammates",
+      "params": {
+        "fit_intercept": true
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_01",
+      "features": "basic",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_01",
+      "features": "starter",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_01",
+      "features": "teammates",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_02",
+      "features": "basic",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_02",
+      "features": "starter",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_02",
+      "features": "teammates",
+      "params": {
+        "max_depth": 4,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_03",
+      "features": "basic",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_03",
+      "features": "starter",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_03",
+      "features": "teammates",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_04",
+      "features": "basic",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_04",
+      "features": "starter",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_04",
+      "features": "teammates",
+      "params": {
+        "max_depth": 6,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_05",
+      "features": "basic",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_05",
+      "features": "starter",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_05",
+      "features": "teammates",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 30,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_06",
+      "features": "basic",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_06",
+      "features": "starter",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "tree",
+      "parameter_id": "tree_06",
+      "features": "teammates",
+      "params": {
+        "max_depth": 8,
+        "min_samples_leaf": 60,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_01",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_01",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_01",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_02",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_02",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_02",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_03",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_03",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_03",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_04",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_04",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_04",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_05",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_05",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_05",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_06",
+      "features": "basic",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_06",
+      "features": "starter",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_06",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_07",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_07",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_07",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 1,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_08",
+      "features": "basic",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_08",
+      "features": "starter",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    },
+    {
+      "fold": "F3",
+      "model": "xgboost",
+      "parameter_id": "xgboost_08",
+      "features": "teammates",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 10,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "objective": "reg:squarederror",
+        "tree_method": "hist",
+        "device": "cpu",
+        "n_jobs": 2,
+        "random_state": 42
+      }
+    }
+  ],
+  "cv_fit_count": 135,
+  "february_fit_count": 9,
+  "fit_limit": 144,
+  "parameter_selection_features": "starter",
+  "selection_metric_order": [
+    "pooled_mae",
+    "pooled_rmse",
+    "simpler_parameters"
+  ],
+  "early_stopping": false,
+  "extra_search": false,
+  "refit_through": "2026-01-31",
+  "test_evaluation": false,
+  "versions": {
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "matplotlib": "3.11.2",
+    "joblib": "1.6.0"
+  },
+  "source_sha256": {
+    "outputs\\week1\\team_lineup_features\\train.csv": "4c20d4e32a5c74cda7506c216c04d9f1c9272c0a35df9d909195fbfa1dd3096e",
+    "outputs\\week1\\team_lineup_features\\validation.csv": "62038b51346eb2e049df30f50109711b3e45dfa9b5c67cdf7a32438b69456151",
+    "outputs\\nba_2025_26\\nba_2025_26_regular_season_game_rosters.csv": "b110fd023c73c98af5fa459141210e37be43cd305d197baf60752c389d39c08c",
+    "outputs\\week1\\teammate_encoding\\teammate_encoder.json": "ea877f64a64c4cbc93832194b478824a2f6c69573137d3d2df9930023d9e0aa2"
+  }
+}

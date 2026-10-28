@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500553",
+  "GAMEDATE": "2026-01-11",
+  "teams": [
+    "MIA",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "MIA",
+  "gameEt": "2026-01-11T19:00:00Z",
+  "gameTimeUTC": "2026-01-12T00:00:00Z",
+  "source_url": "https://www.nba.com/game/mia-vs-okc-0022500553",
+  "fetched_at_utc": "2026-10-21T07:00:06.833145+00:00",
+  "html_sha256": "f510a446aceb981d5c9627674f3ea2f162269c11703c8da402951aa081f685e8"
+}

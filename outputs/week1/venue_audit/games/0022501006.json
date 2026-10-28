@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501006",
+  "GAMEDATE": "2026-03-18",
+  "teams": [
+    "ATL",
+    "DAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 193,
+    "arenaName": "American Airlines Center",
+    "arenaCity": "Dallas",
+    "arenaState": "TX",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DAL",
+  "awayTeam": "ATL",
+  "gameEt": "2026-03-18T20:30:00Z",
+  "gameTimeUTC": "2026-03-19T00:30:00Z",
+  "source_url": "https://www.nba.com/game/atl-vs-dal-0022501006",
+  "fetched_at_utc": "2026-10-21T07:03:06.896717+00:00",
+  "html_sha256": "8699dd16a55734f1eb126b218476c944a41a79fc393cdc1ee20189156aff814f"
+}

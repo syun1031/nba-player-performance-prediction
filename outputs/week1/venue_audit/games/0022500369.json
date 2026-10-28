@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500369",
+  "GAMEDATE": "2025-12-18",
+  "teams": [
+    "LAC",
+    "OKC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "LAC",
+  "gameEt": "2025-12-18T20:00:00Z",
+  "gameTimeUTC": "2025-12-19T01:00:00Z",
+  "source_url": "https://www.nba.com/game/lac-vs-okc-0022500369",
+  "fetched_at_utc": "2026-10-21T06:58:53.889370+00:00",
+  "html_sha256": "c2e36fe9fc26095a21a1b644f8ae22c3ed20008a59b64676161ec71b4ed29668"
+}

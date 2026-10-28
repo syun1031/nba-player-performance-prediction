@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500389",
+  "GAMEDATE": "2025-12-20",
+  "teams": [
+    "IND",
+    "NOP"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "IND",
+  "gameEt": "2025-12-20T19:00:00Z",
+  "gameTimeUTC": "2025-12-21T00:00:00Z",
+  "source_url": "https://www.nba.com/game/ind-vs-nop-0022500389",
+  "fetched_at_utc": "2026-10-21T06:59:00.958160+00:00",
+  "html_sha256": "88a06742a39f6dbaabfb2d06954d7c7832d1a7c78c7e3645ddb85daa4a7981e6"
+}

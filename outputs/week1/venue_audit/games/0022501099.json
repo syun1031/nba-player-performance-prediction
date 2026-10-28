@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501099",
+  "GAMEDATE": "2026-03-31",
+  "teams": [
+    "ORL",
+    "PHX"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "PHX",
+  "gameEt": "2026-03-31T19:00:00Z",
+  "gameTimeUTC": "2026-03-31T23:00:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-phx-0022501099",
+  "fetched_at_utc": "2026-10-21T07:03:39.898599+00:00",
+  "html_sha256": "ef7ec3fc8ae1b0c8c19c1ef57de1e2ff258acb0dd6cd087b762fd6c8c59a2fda"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500162",
+  "GAMEDATE": "2025-11-03",
+  "teams": [
+    "DEN",
+    "SAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "SAC",
+  "gameEt": "2025-11-03T21:00:00Z",
+  "gameTimeUTC": "2025-11-04T02:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-sac-0022500162",
+  "fetched_at_utc": "2026-10-21T06:57:33.616922+00:00",
+  "html_sha256": "9281f1a8f30a4b16272d500b63577fb789faef7da014b943efdf52b04ce530db"
+}

@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500200",
+  "GAMEDATE": "2025-11-10",
+  "teams": [
+    "ORL",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000125,
+    "arenaName": "Kia Center",
+    "arenaCity": "Orlando",
+    "arenaState": "FL",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "ORL",
+  "awayTeam": "POR",
+  "gameEt": "2025-11-10T19:00:00Z",
+  "gameTimeUTC": "2025-11-11T00:00:00Z",
+  "source_url": "https://www.nba.com/game/orl-vs-por-0022500200",
+  "fetched_at_utc": "2026-10-21T06:57:47.949126+00:00",
+  "html_sha256": "bb6b82457ae50e8e42ade8e1c6b21750d5754b1e05c1a901361908c0c0cf5901"
+}

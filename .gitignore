@@ -1,0 +1,20 @@
+.venv/
+.venv-nba/
+__pycache__/
+*.py[cod]
+
+# 可重新安裝的套件與本機暫存
+node_modules/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+
+# 本機認證與環境設定（不得提交）
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key

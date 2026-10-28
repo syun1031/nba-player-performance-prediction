@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500010",
+  "GAMEDATE": "2025-12-25",
+  "teams": [
+    "OKC",
+    "SAS"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000052,
+    "arenaName": "Paycom Center",
+    "arenaCity": "Oklahoma City",
+    "arenaState": "OK",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "OKC",
+  "awayTeam": "SAS",
+  "gameEt": "2025-12-25T14:30:00Z",
+  "gameTimeUTC": "2025-12-25T19:30:00Z",
+  "source_url": "https://www.nba.com/game/okc-vs-sas-0022500010",
+  "fetched_at_utc": "2026-10-21T06:56:34.728134+00:00",
+  "html_sha256": "3502a096839a75609df93573e70cd8eacefc9bdd78458b32337893a5cef4bd12"
+}

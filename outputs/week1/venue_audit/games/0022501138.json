@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501138",
+  "GAMEDATE": "2026-04-05",
+  "teams": [
+    "NOP",
+    "ORL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 160,
+    "arenaName": "Smoothie King Center",
+    "arenaCity": "New Orleans",
+    "arenaState": "LA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Central",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "NOP",
+  "awayTeam": "ORL",
+  "gameEt": "2026-04-05T19:00:00Z",
+  "gameTimeUTC": "2026-04-05T23:00:00Z",
+  "source_url": "https://www.nba.com/game/nop-vs-orl-0022501138",
+  "fetched_at_utc": "2026-10-21T07:03:54.938460+00:00",
+  "html_sha256": "e3043f42f90859bf30c973f8f9e2f290f66c14ca426e0b37fc6e0aa8f5dc412b"
+}

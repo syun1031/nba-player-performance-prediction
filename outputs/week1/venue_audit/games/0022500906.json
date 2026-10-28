@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500906",
+  "GAMEDATE": "2026-03-05",
+  "teams": [
+    "DEN",
+    "LAL"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000046,
+    "arenaName": "Ball Arena",
+    "arenaCity": "Denver",
+    "arenaState": "CO",
+    "arenaCountry": "US",
+    "arenaTimezone": "Mountain",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "DEN",
+  "awayTeam": "LAL",
+  "gameEt": "2026-03-05T22:00:00Z",
+  "gameTimeUTC": "2026-03-06T03:00:00Z",
+  "source_url": "https://www.nba.com/game/den-vs-lal-0022500906",
+  "fetched_at_utc": "2026-10-21T07:02:30.049539+00:00",
+  "html_sha256": "daa74acf9d300cfa1187d7953be807de9661b6607b924a8e648889674dd61ca8"
+}

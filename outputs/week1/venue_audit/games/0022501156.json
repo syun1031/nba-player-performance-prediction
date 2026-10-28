@@ -1,0 +1,26 @@
+{
+  "gameId": "0022501156",
+  "GAMEDATE": "2026-04-07",
+  "teams": [
+    "DAL",
+    "LAC"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 1000137,
+    "arenaName": "Intuit Dome",
+    "arenaCity": "Inglewood",
+    "arenaState": "CA",
+    "arenaCountry": "US",
+    "arenaTimezone": "Pacific",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "LAC",
+  "awayTeam": "DAL",
+  "gameEt": "2026-04-07T22:30:00Z",
+  "gameTimeUTC": "2026-04-08T02:30:00Z",
+  "source_url": "https://www.nba.com/game/dal-vs-lac-0022501156",
+  "fetched_at_utc": "2026-10-21T07:04:04.850035+00:00",
+  "html_sha256": "0975cd04e924c7429e8001da14fcd584f6ed2398101a3bc2ef0d81a7a8f0839e"
+}

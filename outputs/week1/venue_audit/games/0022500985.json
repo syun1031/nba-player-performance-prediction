@@ -1,0 +1,26 @@
+{
+  "gameId": "0022500985",
+  "GAMEDATE": "2026-03-16",
+  "teams": [
+    "BKN",
+    "POR"
+  ],
+  "isNeutral": false,
+  "arena": {
+    "arenaId": 461,
+    "arenaName": "Barclays Center",
+    "arenaCity": "Brooklyn",
+    "arenaState": "NY",
+    "arenaCountry": "US",
+    "arenaTimezone": "Eastern",
+    "arenaStreetAddress": "",
+    "arenaPostalCode": ""
+  },
+  "homeTeam": "BKN",
+  "awayTeam": "POR",
+  "gameEt": "2026-03-16T19:30:00Z",
+  "gameTimeUTC": "2026-03-16T23:30:00Z",
+  "source_url": "https://www.nba.com/game/bkn-vs-por-0022500985",
+  "fetched_at_utc": "2026-10-21T07:02:58.219286+00:00",
+  "html_sha256": "6a431137906994b460569283cdb150d9c2b548c5b88a51f606c6317d859a51f1"
+}
