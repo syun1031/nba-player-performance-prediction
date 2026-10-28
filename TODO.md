@@ -7,7 +7,7 @@
 - [x] 使用 gh 建立私人儲存庫 syun1031/nba-player-performance-prediction，連結本機 origin。
 - [x] 排除虛擬環境、node_modules、認證設定；保留資料、模型與凍結證據。
 - [x] 暫存提交取出後逐檔位元組一致，介面成功載入6979筆測試與3462筆驗證；16項介面測試通過。
-- [ ] 完成初始 commit、push 並核對遠端提交。
+- [x] 完成初始 commit、push；GitHub main 的1490個檔案 blob與本機完全一致，私人設定確認。
 - [ ] Streamlit 雲端部署與線上驗收（本次不執行）。
 
 ## 目前摘要
@@ -124,8 +124,8 @@ Streamlit 歷史回測與模型比較兩頁已可在本機使用，入口 stream
 - [ ] 驗證特徵無未來資料洩漏、訓練與推論規則一致。
 - [ ] 從乾淨環境驗證更新、訓練與應用啟動。
 - [x] 整理本機 README、應用 requirements.txt、資料來源與使用限制；部署環境的乾淨安裝驗收另待完成。
-- [ ] 確認 GitHub 儲存庫及 Streamlit 部署設定。
-- [ ] 發布 GitHub 並部署 Streamlit。
+- [x] 建立私人 GitHub 儲存庫並發布初始版本。
+- [ ] 確認 Streamlit 部署設定並部署。
 - [ ] 驗證部署後歷史回測與未來預測流程。
 - [ ] 準備 Demo 說明與展示案例。
 
