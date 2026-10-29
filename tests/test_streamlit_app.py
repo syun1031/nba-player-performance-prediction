@@ -32,6 +32,12 @@ class StreamlitPageTests(unittest.TestCase):
             app.selectbox(key='history_game').set_value(other).run()
             expected=data.loc[(data['player_id']==player)&(data['game_id']==other)].iloc[0]
             self.assertEqual(self.metric(app,'實際得分'),f'{expected["target_pts"]:.0f} 分')
+            raw=self.bundle.history
+            matchup,day=other.rsplit('|',1)
+            minutes=raw.loc[(raw['PLAYER']==player)&(raw['GAMEDATE']==day)&(raw['MATCHUP']==matchup),'MIN'].iloc[0]
+            self.assertEqual(self.metric(app,'實際上場時間'),f'{minutes:.2f} 分鐘')
+            labels=[m.label for m in app.metric]
+            self.assertEqual(labels.index('實際上場時間')+1,labels.index('實際得分'))
             self.assertEqual(len(app.exception),0)
 
     def test_navigation_and_dataset_high_score_switch_reconciles_counts(self):

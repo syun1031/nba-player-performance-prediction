@@ -159,7 +159,7 @@ def load_bundle(root):
             if len(reference)!=1 or int(reference.iloc[0]['n'])!=r['n'] or not np.allclose(
                     [r['mae'],r['rmse']],[reference.iloc[0]['mae'],reference.iloc[0]['rmse']],rtol=1e-12,atol=1e-12):
                 raise DataIssue('驗證指標與逐筆紀錄不一致，暫時無法展示。')
-        history=pd.read_csv(paths['history'],usecols=['PLAYER','GAMEDATE','MIN','PTS'])
+        history=pd.read_csv(paths['history'],usecols=['PLAYER','MATCHUP','GAMEDATE','MIN','PTS'])
         if history[['PLAYER','GAMEDATE','MIN','PTS']].isna().any().any() or not np.isfinite(history[['MIN','PTS']].to_numpy(dtype=float)).all():
             raise DataIssue('近期歷史資料不完整，暫時無法展示。')
         version=datetime.fromisoformat(protocol['created_at_utc']).date().isoformat()

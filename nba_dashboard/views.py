@@ -72,11 +72,18 @@ def render_history():
     row=games.loc[games['game_id']==game_id].iloc[0]
     predicted=float(row['pred_'+bundle.primary]); actual=float(row['target_pts'])
     residual=actual-predicted
-    cards=st.columns(4)
+    matchup,day=game_id.rsplit('|',1)
+    played=bundle.history.loc[(bundle.history['PLAYER']==player)&(bundle.history['GAMEDATE']==day)
+                              &(bundle.history['MATCHUP']==matchup),'MIN']
+    if len(played)!=1 or float(played.iloc[0])<=0:
+        st.error('無法核對這場比賽的實際上場時間，請確認比賽資料完整。')
+        st.stop()
+    cards=st.columns(5)
     cards[0].metric('模型預測',f'{predicted:.2f} 分')
-    cards[1].metric('實際得分',f'{actual:.0f} 分')
-    cards[2].metric('絕對誤差',f'{abs(residual):.2f} 分')
-    cards[3].metric('五場均值基準',f'{row["pred_baseline"]:.2f} 分')
+    cards[1].metric('實際上場時間',f'{float(played.iloc[0]):.2f} 分鐘')
+    cards[2].metric('實際得分',f'{actual:.0f} 分')
+    cards[3].metric('絕對誤差',f'{abs(residual):.2f} 分')
+    cards[4].metric('五場均值基準',f'{row["pred_baseline"]:.2f} 分')
     direction=f'模型低估 {residual:.2f} 分' if residual>0 else f'模型高估 {-residual:.2f} 分' if residual<0 else '預測與實際相同'
     st.caption(f'{row["GAMEDATE"]} · {direction}。五場均值基準代表直接用此前五場平均得分作預測。')
     _risk(frame,bundle.primary,'test')
