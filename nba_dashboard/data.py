@@ -101,11 +101,22 @@ def comparison_metrics(frame,models,threshold=None):
     return pd.DataFrame(rows,columns=fields)
 
 
-def prediction_table(frame,primary):
-    data=frame.copy()
+def prediction_table(frame,primary,history):
+    minutes=history[['PLAYER','MATCHUP','GAMEDATE','MIN']].copy()
+    minutes['game_id']=minutes['MATCHUP']+'|'+minutes['GAMEDATE']
+    minutes=minutes.rename(columns={'PLAYER':'player_id','MIN':'actual_minutes'})
+    try:
+        data=frame.merge(minutes[['player_id','game_id','actual_minutes']],
+                         on=['player_id','game_id'],how='left',sort=False,validate='many_to_one')
+    except pd.errors.MergeError as exc:
+        raise DataIssue('逐場紀錄的上場時間有重複，請確認比賽資料完整。') from exc
+    values=pd.to_numeric(data['actual_minutes'],errors='coerce').to_numpy(dtype=float)
+    if not np.isfinite(values).all() or (values<=0).any():
+        raise DataIssue('無法核對逐場紀錄的實際上場時間，請確認比賽資料完整。')
     residual=data['target_pts']-data['pred_'+primary]
     return pd.DataFrame({
         '比賽日期':data['GAMEDATE'],'對戰':data['game_id'].str.rsplit('|',n=1).str[0],
+        '實際上場時間（分鐘）':values,
         '實際得分':data['target_pts'],'模型預測':data['pred_'+primary],'五場均值':data['pred_baseline'],
         '絕對誤差':residual.abs(),
         '預測狀況':['低估 %.2f 分'%r if r>0 else '高估 %.2f 分'%(-r) if r<0 else '與實際相同' for r in residual],

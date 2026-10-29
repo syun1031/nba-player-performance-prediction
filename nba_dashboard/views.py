@@ -110,9 +110,13 @@ def render_history():
                             '模型預測':chronological['pred_'+bundle.primary],
                             '實際得分':chronological['target_pts'],'五場均值':chronological['pred_baseline']})
         st.altair_chart(_line_chart(trend,'比賽日期',['模型預測','實際得分','五場均值']),width='stretch')
-        table=prediction_table(chronological,bundle.primary)
+        try:
+            table=prediction_table(chronological,bundle.primary,bundle.history)
+        except DataIssue as exc:
+            st.error(str(exc))
+            st.stop()
         st.dataframe(table,width='stretch',hide_index=True,column_config={
-            k:st.column_config.NumberColumn(format='%.2f') for k in ['模型預測','五場均值','絕對誤差']})
+            k:st.column_config.NumberColumn(format='%.2f') for k in ['實際上場時間（分鐘）','模型預測','五場均值','絕對誤差']})
         st.download_button('下載這位球員的回測紀錄',_csv(table),'player_backtest.csv','text/csv',key='history_download')
     st.caption('目前提供歷史研究展示；未來預測需先完成新球季資料與正式先發來源驗收。')
 

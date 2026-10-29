@@ -38,6 +38,11 @@ class StreamlitPageTests(unittest.TestCase):
             self.assertEqual(self.metric(app,'實際上場時間'),f'{minutes:.2f} 分鐘')
             labels=[m.label for m in app.metric]
             self.assertEqual(labels.index('實際上場時間')+1,labels.index('實際得分'))
+            table=app.dataframe[0].value
+            selected=table.loc[(table['比賽日期']==day)&(table['對戰']==matchup)].iloc[0]
+            self.assertEqual(selected['實際上場時間（分鐘）'],minutes)
+            columns=table.columns.tolist()
+            self.assertEqual(columns.index('實際上場時間（分鐘）')+1,columns.index('實際得分'))
             self.assertEqual(len(app.exception),0)
 
     def test_navigation_and_dataset_high_score_switch_reconciles_counts(self):

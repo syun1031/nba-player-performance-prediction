@@ -51,9 +51,32 @@ class DashboardDataTests(unittest.TestCase):
         self.assertTrue(result.empty)
 
     def test_prediction_table_uses_signed_description_and_human_headers(self):
-        table=prediction_table(self.predictions(),'xgboost_starter')
+        table=prediction_table(self.predictions(),'xgboost_starter',self.minute_history())
         self.assertEqual(table['預測狀況'].tolist(),['低估 5.00 分','高估 4.00 分'])
         self.assertEqual(table['絕對誤差'].tolist(),[5.,4.])
+
+    def minute_history(self):
+        return pd.DataFrame([
+            dict(PLAYER='Q',MATCHUP='BBB @ AAA',GAMEDATE='2026-03-01',MIN=18.5),
+            dict(PLAYER='P',MATCHUP='AAA VS. BBB',GAMEDATE='2026-03-01',MIN=32.75),
+            dict(PLAYER='P',MATCHUP='AAA VS. BBB',GAMEDATE='2026-03-02',MIN=40)])
+
+    def test_table_minutes_match_full_game_key_and_preserve_order_and_csv(self):
+        frame=self.predictions().iloc[::-1].copy()
+        frame.loc[frame['player_id']=='Q','target_pts']=0
+        table=prediction_table(frame,'xgboost_starter',self.minute_history())
+        self.assertEqual(table['實際上場時間（分鐘）'].tolist(),[18.5,32.75])
+        self.assertEqual(table['實際得分'].tolist(),[0,30])
+        columns=table.columns.tolist()
+        self.assertEqual(columns.index('實際上場時間（分鐘）')+1,columns.index('實際得分'))
+        self.assertIn('實際上場時間（分鐘）,實際得分',table.to_csv(index=False).splitlines()[0])
+
+    def test_table_rejects_missing_duplicate_or_invalid_minutes(self):
+        history=self.minute_history()
+        for bad in [history.iloc[:1],pd.concat([history,history.iloc[:1]]),
+                    history.assign(MIN=0),history.assign(MIN=float('nan'))]:
+            with self.assertRaises(DataIssue):
+                prediction_table(self.predictions(),'xgboost_starter',bad)
 
     def test_missing_data_is_reported_as_a_clear_data_issue(self):
         with self.assertRaises(DataIssue):
