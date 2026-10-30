@@ -1,0 +1,18 @@
+{
+  "new_fits": 0,
+  "models_checked": 3,
+  "source_test_rows": 7238,
+  "independent_feature_rows": 7060,
+  "excluded_n": 178,
+  "eligibility_counts": {
+    "eligible": 7060,
+    "insufficient_history": 151,
+    "zero_minutes": 27
+  },
+  "metrics_alerts_verified": true,
+  "human_csv_verified": true,
+  "hashes_verified": true,
+  "interval_bounds_reproduced_with_shared_bootstrap": true,
+  "test_evaluations": 1,
+  "production_changed": false
+}

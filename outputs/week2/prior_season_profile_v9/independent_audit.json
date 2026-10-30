@@ -1,0 +1,15 @@
+{
+  "fits": 0,
+  "saved_models_checked": 8,
+  "independent_raw_profiles": 569,
+  "feature_rows": 16683,
+  "matched_players": 414,
+  "missing_players": 70,
+  "cv_n": 9023,
+  "february_n": 3462,
+  "metrics_and_alerts_verified": true,
+  "hashes_verified": true,
+  "interval_bounds_reproduced_with_shared_bootstrap": true,
+  "production_changed": false,
+  "test_scored": false
+}

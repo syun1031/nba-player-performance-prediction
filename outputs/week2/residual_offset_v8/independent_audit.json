@@ -1,0 +1,13 @@
+{
+  "fits": 0,
+  "saved_models_checked": 8,
+  "target_rows": 16683,
+  "negative_delta_n": 8778,
+  "cv_n": 9023,
+  "february_n": 3462,
+  "luka_reused_n": 17,
+  "hashes_verified": true,
+  "metrics_verified": true,
+  "interval_bounds_recomputed": false,
+  "production_changed": false
+}

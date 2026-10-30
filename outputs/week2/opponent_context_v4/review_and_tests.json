@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-29",
+  "full_suite": {"command": ".venv/Scripts/python.exe -X utf8 -m unittest discover -s tests", "tests": 128, "exit_code": 0},
+  "new_tests": 13,
+  "reviewer": "review_opponent_context",
+  "review_status": "completed_no_remaining_actionable_findings",
+  "resolved_issue": "Canonicalize aliases before duplicate check; observed failing regression then 13 passing relevant tests",
+  "followup_review": "Independent verifier and manifest passed; 1790 team sums, 16743 samples, 16683 eligible windows, 12485 predictions, 12 saved models verified",
+  "additional_fits": 0,
+  "production_changed": false
+}

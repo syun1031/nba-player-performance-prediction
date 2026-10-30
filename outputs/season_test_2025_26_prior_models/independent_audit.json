@@ -1,0 +1,13 @@
+{
+  "new_fits": 0,
+  "models_checked": 3,
+  "independent_feature_rows": 6979,
+  "original_nine_alignment": true,
+  "metrics_alerts_verified": true,
+  "human_csv_verified": true,
+  "hashes_verified": true,
+  "interval_bounds_reproduced_with_shared_bootstrap": true,
+  "reused_consumed_test": true,
+  "independent_test": false,
+  "production_changed": false
+}

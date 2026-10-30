@@ -1,0 +1,22 @@
+{
+  "F1": {
+    "basic9": "outputs\\season_validation_2024_25_three_models\\models\\F1_basic9.joblib",
+    "basic_prior14": "outputs\\season_validation_2024_25\\models\\F1_basic_prior14.joblib",
+    "combined_prior25_w2": "outputs\\season_validation_2024_25\\models\\F1_combined_prior25_w2.joblib"
+  },
+  "F2": {
+    "basic9": "outputs\\season_validation_2024_25_three_models\\models\\F2_basic9.joblib",
+    "basic_prior14": "outputs\\season_validation_2024_25\\models\\F2_basic_prior14.joblib",
+    "combined_prior25_w2": "outputs\\season_validation_2024_25\\models\\F2_combined_prior25_w2.joblib"
+  },
+  "F3": {
+    "basic9": "outputs\\season_validation_2024_25_three_models\\models\\F3_basic9.joblib",
+    "basic_prior14": "outputs\\season_validation_2024_25\\models\\F3_basic_prior14.joblib",
+    "combined_prior25_w2": "outputs\\season_validation_2024_25\\models\\F3_combined_prior25_w2.joblib"
+  },
+  "February": {
+    "basic9": "outputs\\season_validation_2024_25_three_models\\models\\February_basic9.joblib",
+    "basic_prior14": "outputs\\season_validation_2024_25\\models\\February_basic_prior14.joblib",
+    "combined_prior25_w2": "outputs\\season_validation_2024_25\\models\\February_combined_prior25_w2.joblib"
+  }
+}

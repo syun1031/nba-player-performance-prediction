@@ -1,0 +1,42 @@
+[
+  {
+    "period": "February",
+    "reference": "v1",
+    "delta_mae": -0.01378354538341822,
+    "lower_95": -0.031205706125056264,
+    "upper_95": 0.0021441599691504575,
+    "delta_rmse": -0.004171304164117373,
+    "iterations": 2000,
+    "seed": 42
+  },
+  {
+    "period": "February",
+    "reference": "v2",
+    "delta_mae": -0.007349315470117672,
+    "lower_95": -0.02394693283653498,
+    "upper_95": 0.008689651059210764,
+    "delta_rmse": 0.004070740623601132,
+    "iterations": 2000,
+    "seed": 42
+  },
+  {
+    "period": "CV_pooled",
+    "reference": "v1",
+    "delta_mae": 0.0007670437308478319,
+    "lower_95": -0.009650027487141095,
+    "upper_95": 0.01152053399420085,
+    "delta_rmse": 1.675802800882309e-05,
+    "iterations": 2000,
+    "seed": 42
+  },
+  {
+    "period": "CV_pooled",
+    "reference": "v2",
+    "delta_mae": 0.00840338455820207,
+    "lower_95": -0.002015416305830992,
+    "upper_95": 0.01952229668391075,
+    "delta_rmse": 0.010344234454081835,
+    "iterations": 2000,
+    "seed": 42
+  }
+]

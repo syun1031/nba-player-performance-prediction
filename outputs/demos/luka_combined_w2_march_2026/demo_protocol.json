@@ -1,0 +1,18 @@
+{
+  "created_at_utc": "2026-10-30T06:10:38.900336+00:00",
+  "player": "Luka Dončić",
+  "requested_start": "2026-03-01",
+  "data_end": "2026-04-12",
+  "eligible_n": 17,
+  "scope": "explicit_user_requested_demonstration_on_previously_consumed_test_period",
+  "independent_test": false,
+  "fit_allowed": false,
+  "model_file": "outputs\\week2\\high_score_weighting_v7\\models\\February_combined_w2.joblib",
+  "model_sha256": "e495591393629109a771e77339919fb1c84aadf52e0c6f41ce20b8136529ab4a",
+  "trained_through": "2026-01-31",
+  "weight_multiplier": 2,
+  "model_selection_allowed": false,
+  "prior_experiment_protocols_unchanged": true,
+  "historical_lineup": "postgame_snapshot",
+  "date_isolation": "strictly earlier dates"
+}

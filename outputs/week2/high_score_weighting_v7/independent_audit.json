@@ -1,0 +1,13 @@
+{
+  "common_feature_rows": 16683,
+  "prediction_rows": 12485,
+  "models_reloaded": 16,
+  "fits": 16,
+  "additional_fits": 0,
+  "training_weights_verified": true,
+  "evaluation_unweighted_verified": true,
+  "all_scores_alerts_and_tied_ap_equal": true,
+  "paired_point_differences_checked": 24,
+  "bootstrap_intervals_independently_recomputed": false,
+  "test_predictions_computed": false
+}

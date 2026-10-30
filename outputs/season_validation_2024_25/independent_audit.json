@@ -1,0 +1,15 @@
+{
+  "fits": 0,
+  "saved_models_checked": 8,
+  "independent_feature_rows": 16334,
+  "prior_profiles": 571,
+  "train_n": 12700,
+  "february_n": 3634,
+  "cv_n": 8647,
+  "source_hashes_verified": true,
+  "feature_arithmetic_verified": true,
+  "metrics_alerts_verified": true,
+  "intervals_reproduced_with_shared_bootstrap": true,
+  "test_evaluations": 0,
+  "production_changed": false
+}

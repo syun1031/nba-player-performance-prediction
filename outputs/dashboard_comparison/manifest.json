@@ -1,0 +1,541 @@
+{
+  "schema": 1,
+  "models": [
+    "basic9",
+    "basic_prior14",
+    "combined_prior25_w2"
+  ],
+  "built_at_utc": "2026-10-30T14:57:07.942749+00:00",
+  "datasets": {
+    "2025-26": {
+      "CV": {
+        "file": "2025_26_CV.csv",
+        "sha256": "809748f8006853210e21aa74827bbee4740a4ea28e33f14d72f3578d66a33c82",
+        "source": "outputs/week2/prior_season_profile_v9/predictions_CV_pooled.csv",
+        "source_sha256": "f3a85189f2386906c4a31147b99e35612301443363efaa7193af8ea8372e554d",
+        "minutes_source": "outputs\\nba_2025_26\\nba_2025_26_regular_season_player_game_logs.csv",
+        "metrics": {
+          "all": {
+            "baseline": {
+              "n": 9023,
+              "mae": 4.738401861908456,
+              "rmse": 6.2033968379021065,
+              "mean_residual": -0.047722486977723584
+            },
+            "basic9": {
+              "n": 9023,
+              "mae": 4.569134619684398,
+              "rmse": 5.924869775206795,
+              "mean_residual": -0.18818507217771657
+            },
+            "basic_prior14": {
+              "n": 9023,
+              "mae": 4.545710171866308,
+              "rmse": 5.902442304325033,
+              "mean_residual": -0.1890645042354115
+            },
+            "combined_prior25_w2": {
+              "n": 9023,
+              "mae": 4.587667049727999,
+              "rmse": 5.94185848012845,
+              "mean_residual": -0.572606488314196
+            }
+          },
+          "20+": {
+            "baseline": {
+              "n": 1477,
+              "mae": 7.615572105619499,
+              "rmse": 9.34403310341842,
+              "mean_residual": 6.178605280974948
+            },
+            "basic9": {
+              "n": 1477,
+              "mae": 7.603268377508113,
+              "rmse": 9.238640783191286,
+              "mean_residual": 6.773431252529271
+            },
+            "basic_prior14": {
+              "n": 1477,
+              "mae": 7.493460292338357,
+              "rmse": 9.137757333143655,
+              "mean_residual": 6.581806601909826
+            },
+            "combined_prior25_w2": {
+              "n": 1477,
+              "mae": 7.037857648401383,
+              "rmse": 8.657068933022225,
+              "mean_residual": 5.3873066743968225
+            }
+          },
+          "30+": {
+            "baseline": {
+              "n": 345,
+              "mae": 10.4568115942029,
+              "rmse": 12.399962599289085,
+              "mean_residual": 10.214492753623189
+            },
+            "basic9": {
+              "n": 345,
+              "mae": 11.228852077152418,
+              "rmse": 12.792968316286885,
+              "mean_residual": 11.228852077152418
+            },
+            "basic_prior14": {
+              "n": 345,
+              "mae": 10.936849008090254,
+              "rmse": 12.576469124287463,
+              "mean_residual": 10.918511504021243
+            },
+            "combined_prior25_w2": {
+              "n": 345,
+              "mae": 9.361220614115398,
+              "rmse": 11.370816508185762,
+              "mean_residual": 9.18490351524906
+            }
+          }
+        }
+      },
+      "validation": {
+        "file": "2025_26_validation.csv",
+        "sha256": "bbba9cd2b425f1a46614a4ba184548fcbc5830d730f2332a55af99caa1e02b47",
+        "source": "outputs/week2/prior_season_profile_v9/predictions_February.csv",
+        "source_sha256": "bea8f15b4e50c296d65726c8cd1719603d14c558e560b93d491eb5a855d26115",
+        "minutes_source": "outputs\\nba_2025_26\\nba_2025_26_regular_season_player_game_logs.csv",
+        "metrics": {
+          "all": {
+            "baseline": {
+              "n": 3462,
+              "mae": 4.797746967071057,
+              "rmse": 6.278220171900877,
+              "mean_residual": 0.14228769497400348
+            },
+            "basic9": {
+              "n": 3462,
+              "mae": 4.61137582324682,
+              "rmse": 5.970231083187158,
+              "mean_residual": 0.2292191718507543
+            },
+            "basic_prior14": {
+              "n": 3462,
+              "mae": 4.601309946064037,
+              "rmse": 5.944116299537581,
+              "mean_residual": 0.22487249462539788
+            },
+            "combined_prior25_w2": {
+              "n": 3462,
+              "mae": 4.624600210470798,
+              "rmse": 5.976788923219043,
+              "mean_residual": -0.08852857898798104
+            }
+          },
+          "20+": {
+            "baseline": {
+              "n": 522,
+              "mae": 7.79808429118774,
+              "rmse": 9.507758477389284,
+              "mean_residual": 6.849425287356321
+            },
+            "basic9": {
+              "n": 522,
+              "mae": 8.002830599459651,
+              "rmse": 9.557474570631848,
+              "mean_residual": 7.468162857252976
+            },
+            "basic_prior14": {
+              "n": 522,
+              "mae": 7.914642164076882,
+              "rmse": 9.443869000914798,
+              "mean_residual": 7.2650540651489495
+            },
+            "combined_prior25_w2": {
+              "n": 522,
+              "mae": 7.442506334334041,
+              "rmse": 9.03490059072089,
+              "mean_residual": 6.270493698302813
+            }
+          },
+          "30+": {
+            "baseline": {
+              "n": 99,
+              "mae": 11.593939393939392,
+              "rmse": 13.523597035096719,
+              "mean_residual": 11.444444444444445
+            },
+            "basic9": {
+              "n": 99,
+              "mae": 12.168503462666212,
+              "rmse": 13.707420979335845,
+              "mean_residual": 12.168503462666212
+            },
+            "basic_prior14": {
+              "n": 99,
+              "mae": 11.736540736574115,
+              "rmse": 13.36754651517238,
+              "mean_residual": 11.716251402190238
+            },
+            "combined_prior25_w2": {
+              "n": 99,
+              "mae": 10.428127953500459,
+              "rmse": 12.44509850276594,
+              "mean_residual": 10.343674370736787
+            }
+          }
+        }
+      },
+      "test": {
+        "file": "2025_26_test.csv",
+        "sha256": "c21f1ea18d882341a649890cf9f7d9a5e4ee51634c71ccd3383211a9a81b90c3",
+        "source": "outputs/season_test_2025_26_prior_models/predictions_test.csv",
+        "source_sha256": "7a61f3cddf7be163fdbcd8f9386a73949d67678255b3cdecaaa4de70e58ea14b",
+        "minutes_source": "outputs/season_test_2025_26_prior_models/predictions_test.csv",
+        "metrics": {
+          "all": {
+            "baseline": {
+              "n": 6979,
+              "mae": 4.944375985098152,
+              "rmse": 6.500093135885262,
+              "mean_residual": 0.28084252758274825
+            },
+            "basic9": {
+              "n": 6979,
+              "mae": 4.746958229155403,
+              "rmse": 6.212468914480431,
+              "mean_residual": 0.23979240776321098
+            },
+            "basic_prior14": {
+              "n": 6979,
+              "mae": 4.724687505185152,
+              "rmse": 6.187909763754561,
+              "mean_residual": 0.28020381977025544
+            },
+            "combined_prior25_w2": {
+              "n": 6979,
+              "mae": 4.749857247926253,
+              "rmse": 6.200232175363949,
+              "mean_residual": -0.08608570543328266
+            }
+          },
+          "20+": {
+            "baseline": {
+              "n": 1103,
+              "mae": 8.392747053490481,
+              "rmse": 10.289675660777123,
+              "mean_residual": 7.283046237533998
+            },
+            "basic9": {
+              "n": 1103,
+              "mae": 8.54962475410074,
+              "rmse": 10.36448729636334,
+              "mean_residual": 7.884981434451161
+            },
+            "basic_prior14": {
+              "n": 1103,
+              "mae": 8.49748392961075,
+              "rmse": 10.323569398187558,
+              "mean_residual": 7.7846277406403726
+            },
+            "combined_prior25_w2": {
+              "n": 1103,
+              "mae": 7.97014404985976,
+              "rmse": 9.837944885452997,
+              "mean_residual": 6.722858184484169
+            }
+          },
+          "30+": {
+            "baseline": {
+              "n": 228,
+              "mae": 12.74561403508772,
+              "rmse": 14.721007783960939,
+              "mean_residual": 12.43859649122807
+            },
+            "basic9": {
+              "n": 228,
+              "mae": 13.747201817077503,
+              "rmse": 15.403118404116189,
+              "mean_residual": 13.747201817077503
+            },
+            "basic_prior14": {
+              "n": 228,
+              "mae": 13.440316075818581,
+              "rmse": 15.23685933197371,
+              "mean_residual": 13.430311212414189
+            },
+            "combined_prior25_w2": {
+              "n": 228,
+              "mae": 11.985570370105275,
+              "rmse": 14.143983887749307,
+              "mean_residual": 11.930093395082574
+            }
+          }
+        }
+      }
+    },
+    "2024-25": {
+      "CV": {
+        "file": "2024_25_CV.csv",
+        "sha256": "96199c32488f9f856a4016b89fa47bdf45416586f229c614208262a3d588eadd",
+        "source": "outputs/season_validation_2024_25_three_models/predictions_CV_pooled.csv",
+        "source_sha256": "4f0926a8d91e70c6fd0ce83c4b9e2a5ef1cfecc60457599f92ffe1a8ebfee8ea",
+        "minutes_source": "outputs\\nba_2024_25\\supplement_2026_10_30\\player_games_enriched.csv",
+        "metrics": {
+          "all": {
+            "baseline": {
+              "n": 8647,
+              "mae": 4.730981843413901,
+              "rmse": 6.218083581973171,
+              "mean_residual": 0.0017578350873135179
+            },
+            "basic9": {
+              "n": 8647,
+              "mae": 4.581844948613879,
+              "rmse": 5.921347741437963,
+              "mean_residual": -0.12507604739287417
+            },
+            "basic_prior14": {
+              "n": 8647,
+              "mae": 4.524709826923594,
+              "rmse": 5.86375527886506,
+              "mean_residual": -0.11078793984335172
+            },
+            "combined_prior25_w2": {
+              "n": 8647,
+              "mae": 4.574867669262472,
+              "rmse": 5.901552340569549,
+              "mean_residual": -0.4732749519202562
+            }
+          },
+          "20+": {
+            "baseline": {
+              "n": 1442,
+              "mae": 7.438973647711512,
+              "rmse": 9.272079395188525,
+              "mean_residual": 6.155478502080444
+            },
+            "basic9": {
+              "n": 1442,
+              "mae": 7.494887071244429,
+              "rmse": 9.223099249798931,
+              "mean_residual": 6.8058451425682
+            },
+            "basic_prior14": {
+              "n": 1442,
+              "mae": 7.340855840836418,
+              "rmse": 9.04886140433214,
+              "mean_residual": 6.552951400389122
+            },
+            "combined_prior25_w2": {
+              "n": 1442,
+              "mae": 6.846945655825399,
+              "rmse": 8.54895459007885,
+              "mean_residual": 5.429823228952458
+            }
+          },
+          "30+": {
+            "baseline": {
+              "n": 335,
+              "mae": 10.945074626865672,
+              "rmse": 12.788637680822116,
+              "mean_residual": 10.712238805970149
+            },
+            "basic9": {
+              "n": 335,
+              "mae": 11.824619799941333,
+              "rmse": 13.22299717923341,
+              "mean_residual": 11.815859228105687
+            },
+            "basic_prior14": {
+              "n": 335,
+              "mae": 11.398882260963099,
+              "rmse": 12.859226161935583,
+              "mean_residual": 11.30840722980784
+            },
+            "combined_prior25_w2": {
+              "n": 335,
+              "mae": 10.047917364604437,
+              "rmse": 11.724265457142748,
+              "mean_residual": 9.88914193253019
+            }
+          }
+        }
+      },
+      "validation": {
+        "file": "2024_25_validation.csv",
+        "sha256": "969da6e9e4ebf9fcf9305d095cdec36dad29aa820981ce2a73e75e4f82f1e6f4",
+        "source": "outputs/season_validation_2024_25_three_models/predictions_February.csv",
+        "source_sha256": "8ed9317efed7f4273a3c7a02e5f15afee95f2bd0486f819dbb2f3cc55b918531",
+        "minutes_source": "outputs\\nba_2024_25\\supplement_2026_10_30\\player_games_enriched.csv",
+        "metrics": {
+          "all": {
+            "baseline": {
+              "n": 3634,
+              "mae": 4.9394606494221245,
+              "rmse": 6.512322682835326,
+              "mean_residual": 0.019812878370941065
+            },
+            "basic9": {
+              "n": 3634,
+              "mae": 4.705506767817231,
+              "rmse": 6.141951030485534,
+              "mean_residual": 0.06433645919186766
+            },
+            "basic_prior14": {
+              "n": 3634,
+              "mae": 4.653087014868552,
+              "rmse": 6.086007829121857,
+              "mean_residual": 0.13161733167540193
+            },
+            "combined_prior25_w2": {
+              "n": 3634,
+              "mae": 4.693355789339405,
+              "rmse": 6.111649922634229,
+              "mean_residual": -0.30160813391963137
+            }
+          },
+          "20+": {
+            "baseline": {
+              "n": 609,
+              "mae": 7.991461412151067,
+              "rmse": 9.848634389761129,
+              "mean_residual": 6.507717569786535
+            },
+            "basic9": {
+              "n": 609,
+              "mae": 7.850044320565335,
+              "rmse": 9.71654869901178,
+              "mean_residual": 7.21577078524873
+            },
+            "basic_prior14": {
+              "n": 609,
+              "mae": 7.752119135582584,
+              "rmse": 9.627574362207163,
+              "mean_residual": 7.119178959105794
+            },
+            "combined_prior25_w2": {
+              "n": 609,
+              "mae": 7.210024973441815,
+              "rmse": 9.063073838912963,
+              "mean_residual": 5.901106786258115
+            }
+          },
+          "30+": {
+            "baseline": {
+              "n": 144,
+              "mae": 12.104166666666666,
+              "rmse": 13.867958673783889,
+              "mean_residual": 11.670833333333334
+            },
+            "basic9": {
+              "n": 144,
+              "mae": 12.84124751885732,
+              "rmse": 14.22401110204001,
+              "mean_residual": 12.84124751885732
+            },
+            "basic_prior14": {
+              "n": 144,
+              "mae": 12.569762945175171,
+              "rmse": 14.023550274061003,
+              "mean_residual": 12.549299134148491
+            },
+            "combined_prior25_w2": {
+              "n": 144,
+              "mae": 11.015591965781319,
+              "rmse": 12.724698993123491,
+              "mean_residual": 10.883546166949802
+            }
+          }
+        }
+      },
+      "test": {
+        "file": "2024_25_test.csv",
+        "sha256": "d7493829fdff35c324a8323c2f6b25e0cef66c267353de14ceecc26765d5b4d2",
+        "source": "outputs/season_test_2024_25_three_models/predictions_test.csv",
+        "source_sha256": "8d4f0e704798c01f1746af8c5fe2d1a8be76749d0774b1c7e87e489564dd4fdc",
+        "minutes_source": "outputs/season_test_2024_25_three_models/predictions_test.csv",
+        "metrics": {
+          "all": {
+            "baseline": {
+              "n": 7060,
+              "mae": 4.972974504249293,
+              "rmse": 6.600612041327177,
+              "mean_residual": 0.3511614730878187
+            },
+            "basic9": {
+              "n": 7060,
+              "mae": 4.773822603110889,
+              "rmse": 6.272664767156206,
+              "mean_residual": 0.3238846623863782
+            },
+            "basic_prior14": {
+              "n": 7060,
+              "mae": 4.743392476312837,
+              "rmse": 6.252614747753655,
+              "mean_residual": 0.5176398153683281
+            },
+            "combined_prior25_w2": {
+              "n": 7060,
+              "mae": 4.762018099824025,
+              "rmse": 6.253544801683075,
+              "mean_residual": 0.12969963523551356
+            }
+          },
+          "20+": {
+            "baseline": {
+              "n": 1146,
+              "mae": 8.5,
+              "rmse": 10.498242186444148,
+              "mean_residual": 7.158987783595114
+            },
+            "basic9": {
+              "n": 1146,
+              "mae": 8.410521842526308,
+              "rmse": 10.340045814150928,
+              "mean_residual": 7.761288332377429
+            },
+            "basic_prior14": {
+              "n": 1146,
+              "mae": 8.49996545042251,
+              "rmse": 10.433633855200087,
+              "mean_residual": 7.898526715046448
+            },
+            "combined_prior25_w2": {
+              "n": 1146,
+              "mae": 7.98680638018703,
+              "rmse": 9.948068625657605,
+              "mean_residual": 6.778792952159728
+            }
+          },
+          "30+": {
+            "baseline": {
+              "n": 277,
+              "mae": 12.23610108303249,
+              "rmse": 14.322802500912468,
+              "mean_residual": 11.981949458483754
+            },
+            "basic9": {
+              "n": 277,
+              "mae": 13.031490449870967,
+              "rmse": 14.632606640869612,
+              "mean_residual": 13.027486229631444
+            },
+            "basic_prior14": {
+              "n": 277,
+              "mae": 12.978441708354744,
+              "rmse": 14.676873379063137,
+              "mean_residual": 12.956502351519864
+            },
+            "combined_prior25_w2": {
+              "n": 277,
+              "mae": 11.5995080531289,
+              "rmse": 13.633915925700798,
+              "mean_residual": 11.477194743035932
+            }
+          }
+        }
+      }
+    }
+  },
+  "primary_model_changed": false,
+  "new_fits": 0,
+  "new_predictions": 0,
+  "note": "Existing immutable research predictions only; original nine means the same-cohort retrained reference, not a new deployed primary"
+}

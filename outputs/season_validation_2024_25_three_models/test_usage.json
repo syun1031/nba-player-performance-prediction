@@ -1,0 +1,9 @@
+{
+  "test_start": "2025-03-01",
+  "test_end": "2025-04-13",
+  "target_rows_reserved": 7238,
+  "features_built": false,
+  "predictions_computed": false,
+  "metrics_computed": false,
+  "evaluations": 0
+}

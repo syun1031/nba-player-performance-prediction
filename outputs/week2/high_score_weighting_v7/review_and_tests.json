@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-30",
+  "full_suite": {"command": ".venv/Scripts/python.exe -X utf8 -m unittest discover -s tests", "tests": 157, "exit_code": 0},
+  "new_tests": 10,
+  "reviewer": "review_high_score_weighting",
+  "review_status": "completed_no_actionable_findings",
+  "initial_review": "Train-only weights, feature separation, unweighted metrics, exact controls, 16 model reloads and fixed alerts/AP verified",
+  "verifier_followup": "16683 feature source chain, 12485 predictions, all train weight summaries, 16 reloads, all group scores/alerts/tied AP and 24 paired point differences verified",
+  "bootstrap_intervals_independently_recomputed": false,
+  "additional_fits": 0,
+  "production_changed": false
+}

@@ -1,0 +1,13 @@
+{
+  "common_feature_rows": 16683,
+  "prediction_rows": 12485,
+  "bundles_reloaded": 16,
+  "underlying_models": 28,
+  "fits": 28,
+  "additional_fits": 0,
+  "case13_exact": true,
+  "independent_scores_and_rankings_equal": true,
+  "cv_best": "case13",
+  "february_best": "case123",
+  "test_predictions_computed": false
+}

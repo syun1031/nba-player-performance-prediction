@@ -1,0 +1,14 @@
+{
+  "team_games": 1790,
+  "physical_games": 895,
+  "original_samples_audited": 16743,
+  "eligible_windows_checked": 16683,
+  "excluded_train_n": 60,
+  "predictions_checked": 12485,
+  "model_reloads": 12,
+  "fits": 12,
+  "additional_fits": 0,
+  "source_team_sums_equal": true,
+  "canonical_alias_fix_changes_current_data": false,
+  "test_predictions_computed": false
+}

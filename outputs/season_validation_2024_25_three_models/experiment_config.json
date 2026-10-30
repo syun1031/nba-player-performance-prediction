@@ -1,0 +1,83 @@
+{
+  "season": "2024-25",
+  "models": [
+    "basic9",
+    "basic_prior14",
+    "combined_prior25_w2"
+  ],
+  "basic9_columns": [
+    "pts_mean_5",
+    "pts_mean_10",
+    "min_mean_5",
+    "reb_mean_5",
+    "ast_mean_5",
+    "is_home",
+    "is_neutral_site",
+    "rest_days",
+    "is_starter"
+  ],
+  "params": {
+    "n_estimators": 150,
+    "max_depth": 2,
+    "learning_rate": 0.05,
+    "min_child_weight": 10,
+    "subsample": 1.0,
+    "colsample_bytree": 1.0,
+    "reg_alpha": 0.0,
+    "reg_lambda": 1.0,
+    "objective": "reg:squarederror",
+    "tree_method": "hist",
+    "device": "cpu",
+    "n_jobs": 2,
+    "random_state": 42
+  },
+  "fit_cap": 4,
+  "reused_model_count": 8,
+  "train_n": 12700,
+  "cv_n": 8647,
+  "february_n": 3634,
+  "folds": [
+    [
+      "F1",
+      "2024-11-30",
+      "2024-12-01",
+      "2024-12-31"
+    ],
+    [
+      "F2",
+      "2024-12-31",
+      "2025-01-01",
+      "2025-01-15"
+    ],
+    [
+      "F3",
+      "2025-01-15",
+      "2025-01-16",
+      "2025-01-31"
+    ]
+  ],
+  "pairs": [
+    [
+      "baseline",
+      "basic9"
+    ],
+    [
+      "basic9",
+      "basic_prior14"
+    ],
+    [
+      "basic9",
+      "combined_prior25_w2"
+    ],
+    [
+      "basic_prior14",
+      "combined_prior25_w2"
+    ]
+  ],
+  "bootstrap_iterations": 2000,
+  "seed": 42,
+  "multiplicity_adjusted": false,
+  "test_scoring_allowed": false,
+  "production_promoted": false,
+  "scope": "same retrospective development replication; fixed settings originated in later-season research"
+}

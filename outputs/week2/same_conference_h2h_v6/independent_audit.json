@@ -1,0 +1,13 @@
+{
+  "feature_rows": 16683,
+  "available_feature_rows": 6530,
+  "missing_feature_rows": 10153,
+  "prediction_rows": 12485,
+  "models_reloaded": 8,
+  "fits": 8,
+  "additional_fits": 0,
+  "independent_windows_scores_coverage_equal": true,
+  "missing_not_zero_verified": true,
+  "bootstrap_intervals_recomputed": false,
+  "test_predictions_computed": false
+}

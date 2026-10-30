@@ -1,0 +1,27 @@
+{
+  "raw_rows": 26554,
+  "raw_name_strings": 578,
+  "raw_official_player_ids": 576,
+  "positive_minute_rows": 26288,
+  "positive_minute_player_ids": 571,
+  "zero_minute_rows": 266,
+  "zero_display_seconds_rows": 161,
+  "positive_seconds_but_zero_rounded_minutes_rows": 105,
+  "all_zero_minute_rows_excluded_from_profiles": true,
+  "raw_zero_seconds_participation_not_verified": true,
+  "positive_model_inputs_unchanged": true,
+  "positive_minute_fingerprint_sha256": "700d44652aa57580d7a3d38028045b247e877b7c206e2a175804b86cd9f367ce",
+  "source_sha256": "cec905debffdaf24d75b30a253560eaa8d639075628779994c49382823dc1372",
+  "clean_sha256": "5bd954113eef60ad5efd3676c1e26b5ebe51bf63a784989ee448b987fd23be19",
+  "aliases": {
+    "1626246": {
+      "Boban Marjanovic": 1,
+      "Boban Marjanović": 13
+    },
+    "202711": {
+      "Bojan Bogdanovic": 2,
+      "Bojan Bogdanović": 55
+    }
+  },
+  "note": "Legacy data_validation players=578 counts display name strings, not distinct official IDs; 2023 venue flags are not verified neutral-game counts"
+}

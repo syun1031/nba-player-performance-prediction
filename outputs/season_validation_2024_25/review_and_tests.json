@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-30",
+  "tests": 184,
+  "new_tests": 8,
+  "command": ".venv/Scripts/python.exe -X utf8 -m unittest discover -s tests -q",
+  "exit_code": 0,
+  "reviewer": "review_season_2024",
+  "actionable_findings_remaining": 0,
+  "reviewer_reran_verifier": true,
+  "source_data_notes_reviewed": true,
+  "positive_minute_export_verified": true,
+  "extra_fits": 0,
+  "test_evaluations": 0
+}

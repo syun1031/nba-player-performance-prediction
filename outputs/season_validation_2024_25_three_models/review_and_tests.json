@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-30",
+  "tests": 186,
+  "new_tests": 2,
+  "exit_code": 0,
+  "command": ".venv/Scripts/python.exe -X utf8 -m unittest discover -s tests -q",
+  "reviewer": "review_three_2024",
+  "actionable_findings": 0,
+  "reviewer_reran_verifier": true,
+  "new_experiment_fits": 4,
+  "additional_fits_after_experiment": 0,
+  "reused_models": 8,
+  "test_evaluations": 0
+}

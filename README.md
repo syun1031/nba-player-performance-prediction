@@ -1,6 +1,16 @@
 # NBA 球員得分研究室
 
-用歷史資料預測球員單場得分，並透過 Streamlit 查看每場預測與模型誤差。已完成資料處理、模型訓練、最終測試，以及歷史回測／模型比較兩頁；尚未提供未來比賽預測或雲端部署。
+模型比較頁新增 **2025–26／2024–25球季**與 **三個研究候選**：原九項、原九項＋上季表現、1＋3＋同區＋上季表現＋2倍。兩季均可查看CV／二月／三月至季末與20+/30+分組，下載逐場預測。2025–26三月新增結果見 [追加比較報告](outputs/season_test_2025_26_prior_models/report.md)，屬已使用測試上的研究比較，並非新的獨立最終測試。
+
+**最新：2024–25三月至季末三模型已完成一次性預測。**[測試報告](outputs/season_test_2024_25_three_models/report.md)、[三模型逐場CSV](outputs/season_test_2024_25_three_models/三模型逐場預測_2025年3月至季末.csv)。7060筆共同樣本，原九項／原九項上季／組合上季2倍的整體MAE為4.7738／4.7434／4.7620，30+為13.0315／12.9784／11.5995。本輪0fit、189測試通過，線上不變。最新test_usage已消耗一次；較早封存檔案是歷史快照。唯讀核對：`.venv\Scripts\python.exe -X utf8 -m scripts.verify_march_2024`。
+
+目前保留三候選：只有原九項、原九項＋上季表現、1＋3＋同區＋上季表現＋2倍。[2024–25三模型結果](outputs/season_validation_2024_25_three_models/report.md)及[二月逐場預測](outputs/season_validation_2024_25_three_models/三模型逐場預測_February.csv)已完成。二月整體MAE依序4.7055／4.6531／4.6934，30+為12.8412／12.5698／11.0156。三月後已依後續指示完成一次性測試，線上模型不變。2023–24 [正分鐘建模資料](outputs/nba_2023_24/positive_minute_model_data.csv)及[來源說明](outputs/nba_2023_24/README.md)；2024–25原CSV不變，補充資料在 outputs/nba_2024_25/supplement_2026_10_30/。三模型唯讀驗證：`.venv\Scripts\python.exe -X utf8 -m scripts.verify_three_models_2024`。
+
+上季表現研究：[v9報告](outputs/week2/prior_season_profile_v9/report.md)。已比較「原九項＋上季表現」與「1＋3＋同區＋上季表現＋2倍」。後者二月MAE由4.6326降至4.6246、30+由10.8492降至10.4281；整體改善仍小，無上季資料者與30分警示並未同步變好，尚未換線上模型。唯讀核對：`.venv\Scripts\python.exe -X utf8 -m scripts.verify_prior_season_profile`。
+
+相對五場均值的增減研究已完成：[v8報告](outputs/week2/residual_offset_v8/report.md)、[Luka逐場CSV](outputs/week2/residual_offset_v8/luka_demo/Luka_均值增減預測.csv)。Luka同17場MAE從舊加權模型9.20降到7.99，但五場均值仍較佳（7.49）；全體CV／二月未勝過對應直接模型，因此保留為研究版本。唯讀驗證可執行 `.venv\Scripts\python.exe -X utf8 -m scripts.verify_residual_offset`，不重新訓練。
+
+用歷史資料預測球員單場得分，並透過 Streamlit 查看每場預測與模型誤差。已完成資料處理、模型訓練、最終測試，以及歷史回測／模型比較兩頁；未來比賽預測尚未提供。線上服務：[NBA得分研究室](https://nba-player-performance-prediction1.streamlit.app/)。
 
 ## 開啟介面
 
@@ -15,7 +25,7 @@
 .\.venv\Scripts\python.exe -m streamlit run streamlit_app.py --server.address 127.0.0.1 --server.port 8501
 ```
 
-停止服務可在執行它的終端按 Ctrl+C。目前只驗證本機 Windows／Python 3.12；GitHub 私人儲存庫已建立，尚未完成 Streamlit Community Cloud 部署。
+停止本機服務可在執行它的終端按 Ctrl+C。GitHub私人儲存庫已連接Streamlit Community Cloud；線上更新的實際驗收紀錄見PROGRESS.md。
 
 ## 兩頁怎麼用
 
@@ -40,6 +50,18 @@ MAE代表平均差幾分；RMSE較重視大誤差，兩者越低越好。殘差�
 ## 資料與限制
 
 另完成五項近期變化／波動特徵的十四項研究版本，固定原參數比較；二月MAE只從4.6115降至4.6050，30+略退步，目前不採用。研究模型與結果保存在 [研究報告](outputs/week2/recent_change_v2/report.md)，不影響上述正式模型與介面。三月至四月未重新評分；後續需新資料驗證。
+
+另有 [預估分鐘×得分效率兩階段研究](outputs/week2/two_stage_v3/report.md)：二月得分MAE 4.5977，三輪合併4.5719，改善不穩定且30+較差，因此仍保留原正式模型。分鐘預估本身較五場均值改善約5.90%～7.27%，留作後續研究；原測試未重新評分。
+
+第三項 [對手背景研究](outputs/week2/opponent_context_v4/report.md) 新增對手近五場失分與雙方總分平均。共同訓練十四項→十六項的二月MAE 4.6027→4.5956、CV 4.5661→4.5634，改善很小，二月30+反而較差，不替換正式模型。完整原始隊伍加總與名單已核對；總分是得分環境代理，不是真正Pace，仍需補回合數來源。
+
+[四種組合比較](outputs/week2/optimization_combinations_v5/report.md) 已用相同共同樣本完成28次固定fit：CV以1＋3最佳（MAE4.5634），二月以1＋2＋3最佳（4.5909）；兩期冠軍不同且差異很小。1＋3在兩期高分群組與二月RMSE較好，優先保留為研究候選，仍不更換原正式模型。完整四組排名、12個成對差異與限制見報告。
+
+[同區對陣記憶研究](outputs/week2/same_conference_h2h_v6/report.md) 新增是否同區、此前交手次數、最近／平均得分。沒有紀錄留空不補0，二月同區紀錄覆蓋率78.6%。加到1＋3後，CV MAE4.5634→4.5621、二月4.5956→4.5926，改善很小；高分略好，仍維持原正式模型。只支持已核對的2025–26分區版本，未使用舊測試重選模型。
+
+[高分樣本加權研究](outputs/week2/high_score_weighting_v7/report.md) 已先測九項，再加入1＋3＋同區20項，各用30+權重2／3倍共16fit。20項2倍的二月30+ MAE12.3160→10.8492，整體4.5926→4.6326；高分改善但一般場次與誤報變多，AP沒有一致改善。157項測試通過，僅保留研究候選，線上原模型不變。
+
+依使用者指定另作 [Luka三月起展示](outputs/demos/luka_combined_w2_march_2026/report.md)：固定上述加權模型對3/1～4/2全部17場推論，MAE9.20，原模型9.82、五場均值7.49；CSV與曲線同目錄。這是已使用資料的探索展示，不是新測試，沒有重訓或換線上模型。
 
 - 這是日期隔離的假設性回測，以球員實際出賽為前提。歷史先發來自賽後快照，不能稱為完整賽前資訊重建。
 - 個人歷史只用目標日期前一天或更早資料；個人與球隊都需至少五場歷史。零分鐘不納入個人樣本或近期窗口，正分鐘零分保留。
@@ -86,4 +108,4 @@ gh repo clone syun1031/nba-player-performance-prediction
 cd nba-player-performance-prediction
 ```
 
-再依上方步驟建立環境與啟動介面。`.gitignore` 排除虛擬環境、`node_modules/`、Python 暫存及本機認證設定；這些檔案不用上傳。舊企劃 Word、根目錄一次性文件修改腳本與空原始 JSON 保留在本機，不納入初始提交。雲端部署另行處理。
+再依上方步驟建立環境與啟動介面。`.gitignore` 排除虛擬環境、`node_modules/`、Python暫存及本機認證設定；這些檔案不用上傳。舊企劃Word、根目錄一次性文件修改腳本與空原始JSON保留在本機。線上app由部署main分支更新。

@@ -1,0 +1,10 @@
+{
+  "feature_rows": 16743,
+  "prediction_rows": 12485,
+  "fit_count": 8,
+  "exact_controls": true,
+  "reloaded_components_equal": true,
+  "independent_scores_equal": true,
+  "additional_fits": 0,
+  "test_predictions_computed": false
+}

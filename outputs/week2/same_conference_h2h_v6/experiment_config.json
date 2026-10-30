@@ -1,0 +1,108 @@
+{
+  "created_at_utc": "2026-10-29T06:25:50.794343+00:00",
+  "params": {
+    "n_estimators": 150,
+    "max_depth": 2,
+    "learning_rate": 0.05,
+    "min_child_weight": 10,
+    "subsample": 1.0,
+    "colsample_bytree": 1.0,
+    "reg_alpha": 0.0,
+    "reg_lambda": 1.0,
+    "objective": "reg:squarederror",
+    "tree_method": "hist",
+    "device": "cpu",
+    "n_jobs": 2,
+    "random_state": 42
+  },
+  "variants": {
+    "base_h2h13": [
+      "pts_mean_5",
+      "pts_mean_10",
+      "min_mean_5",
+      "reb_mean_5",
+      "ast_mean_5",
+      "is_home",
+      "is_neutral_site",
+      "rest_days",
+      "is_starter",
+      "same_conference",
+      "same_conf_h2h_count",
+      "same_conf_h2h_pts_last_1",
+      "same_conf_h2h_pts_mean"
+    ],
+    "case13_h2h20": [
+      "pts_mean_5",
+      "pts_mean_10",
+      "min_mean_5",
+      "reb_mean_5",
+      "ast_mean_5",
+      "is_home",
+      "is_neutral_site",
+      "rest_days",
+      "is_starter",
+      "pts_last_1",
+      "min_mean_3",
+      "min_change_last_vs_5",
+      "pts_std_5",
+      "min_std_5",
+      "opp_points_allowed_mean_5",
+      "opp_combined_points_mean_5",
+      "same_conference",
+      "same_conf_h2h_count",
+      "same_conf_h2h_pts_last_1",
+      "same_conf_h2h_pts_mean"
+    ]
+  },
+  "fit_cap": 8,
+  "folds": [
+    [
+      "F1",
+      "2025-11-30",
+      "2025-12-01",
+      "2025-12-31"
+    ],
+    [
+      "F2",
+      "2025-12-31",
+      "2026-01-01",
+      "2026-01-15"
+    ],
+    [
+      "F3",
+      "2026-01-15",
+      "2026-01-16",
+      "2026-01-31"
+    ]
+  ],
+  "common_train_n": 13221,
+  "cv_n": 9023,
+  "february_n": 3462,
+  "h2h_scope": "target same conference; same player vs opponent, this season, strictly prior date, MIN>0",
+  "mean_window": "all prior current-season meetings, no fixed schedule count cap",
+  "transfer_history_preserved": true,
+  "missing_score_policy": "native XGBoost NaN only in two H2H point columns; count=0; never fill with zero points",
+  "additional_exclusions": 0,
+  "pairs": [
+    [
+      "common9",
+      "base_h2h13"
+    ],
+    [
+      "case13",
+      "case13_h2h20"
+    ],
+    [
+      "base_h2h13",
+      "case13_h2h20"
+    ]
+  ],
+  "bootstrap_iterations": 2000,
+  "seed": 42,
+  "intervals_multiplicity_adjusted": false,
+  "test_scoring_allowed": false,
+  "auto_promotion": false,
+  "development_reused": true,
+  "exploratory_after_test_observed": true,
+  "conference_snapshot": "docs\\week1\\conferences_2025_26.json"
+}

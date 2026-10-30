@@ -1,0 +1,19 @@
+{
+  "updated_on": "2026-10-30",
+  "selection_source": "使用者追加只有原九項，目前保留三個候選；其他研究成果封存保留，不刪除",
+  "active_candidates": [
+    {"id": "basic9", "name": "只有原九項", "features": 9, "training_target": "points", "high_score_multiplier": 1},
+    {"id": "basic_prior14", "name": "原九項＋上季表現", "features": 14, "training_target": "points", "high_score_multiplier": 1},
+    {"id": "combined_prior25_w2", "name": "1＋3＋同區＋上季表現＋2倍權重", "features": 25, "training_target": "points", "high_score_multiplier": 2}
+  ],
+  "production_replaced": false,
+  "current_research_season": "2024-25",
+  "previous_season_features": "2023-24",
+  "test_period": "2025-03-01..2025-04-13",
+  "test_scoring_allowed": false,
+  "test_status": "evaluated_once_at_user_request",
+  "test_consumed": true,
+  "test_evaluations": 1,
+  "latest_test_usage": "outputs/season_test_2024_25_three_models/test_usage.json",
+  "test_note": "使用者已授權完成三月至季末一次性預測與評估；不能再稱未使用新測試，舊封存ledger保留為當時快照，不自動重評或調參"
+}

@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-30",
+  "full_suite": {"command": ".venv/Scripts/python.exe -X utf8 -m unittest discover -s tests", "tests": 161, "exit_code": 0},
+  "new_tests": 4,
+  "reviewer": "review_luka_demo",
+  "review_status": "completed_no_actionable_findings",
+  "independent_review": "All 17 raw PTS/MIN, all added 11 feature columns plus prior means, group scores, model reload predictions and original source/output hashes independently matched",
+  "fits": 0,
+  "independent_test": false,
+  "production_changed": false
+}

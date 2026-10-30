@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-29",
+  "full_suite": {"command": ".venv/Scripts/python.exe -X utf8 -m unittest discover -s tests", "tests": 115, "exit_code": 0},
+  "new_tests": 9,
+  "reviewer": "review_two_stage",
+  "review_status": "completed_no_actionable_findings",
+  "independent_review": "24 score rows recomputed, 4 paired models reloaded, all targets removed at inference, source/output hashes equal",
+  "post_run_change": "report wording clarified for minutes-weighted rate; model training and saved predictions unchanged",
+  "additional_fits": 0,
+  "production_changed": false
+}

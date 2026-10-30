@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-30",
+  "tests": 194,
+  "new_ui_tests": 5,
+  "full_suite_exit": 0,
+  "reviewer": "review_comparison_release",
+  "actionable_findings_remaining": 0,
+  "cv_label_regression_red_then_green": true,
+  "package_datasets": {
+    "2025-26": {
+      "CV": 9023,
+      "validation": 3462,
+      "test": 6979
+    },
+    "2024-25": {
+      "CV": 8647,
+      "validation": 3634,
+      "test": 7060
+    }
+  },
+  "new_fits": 0,
+  "existing_predictions_source_verified": true,
+  "original_primary_unchanged": true,
+  "live_verified": false
+}

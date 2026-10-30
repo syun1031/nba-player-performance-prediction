@@ -1,0 +1,20 @@
+{
+  "test_start": "2025-03-01",
+  "test_end": "2025-04-13",
+  "target_rows_reserved": 7238,
+  "eligible_n": 7060,
+  "excluded_n": 178,
+  "eligibility_counts": {
+    "eligible": 7060,
+    "insufficient_history": 151,
+    "zero_minutes": 27
+  },
+  "features_built": true,
+  "predictions_computed": true,
+  "metrics_computed": true,
+  "evaluations": 1,
+  "new_fits": 0,
+  "trained_through": "2025-01-31",
+  "production_promoted": false,
+  "consumed": true
+}

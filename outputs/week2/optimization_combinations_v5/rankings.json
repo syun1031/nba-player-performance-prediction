@@ -1,0 +1,252 @@
+{
+  "F1": [
+    {
+      "rank": 1,
+      "period": "F1",
+      "variant": "case123",
+      "group": "all",
+      "n": 4104,
+      "mae": 4.714391668220629,
+      "rmse": 6.123852760665161,
+      "baseline_mae": 4.871052631578948,
+      "baseline_rmse": 6.388638184758196,
+      "mean_residual": -0.17638433087969602
+    },
+    {
+      "rank": 2,
+      "period": "F1",
+      "variant": "case13",
+      "group": "all",
+      "n": 4104,
+      "mae": 4.714729212500431,
+      "rmse": 6.12009664050714,
+      "baseline_mae": 4.871052631578948,
+      "baseline_rmse": 6.388638184758196,
+      "mean_residual": -0.24898065516242274
+    },
+    {
+      "rank": 3,
+      "period": "F1",
+      "variant": "case23",
+      "group": "all",
+      "n": 4104,
+      "mae": 4.716171377977271,
+      "rmse": 6.127895567952545,
+      "baseline_mae": 4.871052631578948,
+      "baseline_rmse": 6.388638184758196,
+      "mean_residual": -0.1894794774412174
+    },
+    {
+      "rank": 4,
+      "period": "F1",
+      "variant": "case12",
+      "group": "all",
+      "n": 4104,
+      "mae": 4.71759778475688,
+      "rmse": 6.127039578384228,
+      "baseline_mae": 4.871052631578948,
+      "baseline_rmse": 6.388638184758196,
+      "mean_residual": -0.16843649086366938
+    }
+  ],
+  "F2": [
+    {
+      "rank": 1,
+      "period": "F2",
+      "variant": "case13",
+      "group": "all",
+      "n": 2422,
+      "mae": 4.420610533284314,
+      "rmse": 5.717103675116129,
+      "baseline_mae": 4.621056977704377,
+      "baseline_rmse": 6.027540701097392,
+      "mean_residual": -0.22693775676676894
+    },
+    {
+      "rank": 2,
+      "period": "F2",
+      "variant": "case123",
+      "group": "all",
+      "n": 2422,
+      "mae": 4.433335692085587,
+      "rmse": 5.726013581483552,
+      "baseline_mae": 4.621056977704377,
+      "baseline_rmse": 6.027540701097392,
+      "mean_residual": -0.19820451887136747
+    },
+    {
+      "rank": 3,
+      "period": "F2",
+      "variant": "case23",
+      "group": "all",
+      "n": 2422,
+      "mae": 4.43443009970348,
+      "rmse": 5.726002745574534,
+      "baseline_mae": 4.621056977704377,
+      "baseline_rmse": 6.027540701097392,
+      "mean_residual": -0.21480028788253933
+    },
+    {
+      "rank": 4,
+      "period": "F2",
+      "variant": "case12",
+      "group": "all",
+      "n": 2422,
+      "mae": 4.437252399134027,
+      "rmse": 5.728120145829887,
+      "baseline_mae": 4.621056977704377,
+      "baseline_rmse": 6.027540701097392,
+      "mean_residual": -0.22788334628027665
+    }
+  ],
+  "F3": [
+    {
+      "rank": 1,
+      "period": "F3",
+      "variant": "case13",
+      "group": "all",
+      "n": 2497,
+      "mae": 4.453254477233948,
+      "rmse": 5.762060228210095,
+      "baseline_mae": 4.6342010412495,
+      "baseline_rmse": 6.06091359518761,
+      "mean_residual": -0.06309529710493901
+    },
+    {
+      "rank": 2,
+      "period": "F3",
+      "variant": "case123",
+      "group": "all",
+      "n": 2497,
+      "mae": 4.453633550366321,
+      "rmse": 5.765648485397671,
+      "baseline_mae": 4.6342010412495,
+      "baseline_rmse": 6.06091359518761,
+      "mean_residual": -0.03215574988263558
+    },
+    {
+      "rank": 3,
+      "period": "F3",
+      "variant": "case23",
+      "group": "all",
+      "n": 2497,
+      "mae": 4.4541955426414,
+      "rmse": 5.763849645350192,
+      "baseline_mae": 4.6342010412495,
+      "baseline_rmse": 6.06091359518761,
+      "mean_residual": -0.0436509608116707
+    },
+    {
+      "rank": 4,
+      "period": "F3",
+      "variant": "case12",
+      "group": "all",
+      "n": 2497,
+      "mae": 4.462636334351653,
+      "rmse": 5.77442568923718,
+      "baseline_mae": 4.6342010412495,
+      "baseline_rmse": 6.06091359518761,
+      "mean_residual": -0.09824827099282146
+    }
+  ],
+  "February": [
+    {
+      "rank": 1,
+      "period": "February",
+      "variant": "case123",
+      "group": "all",
+      "n": 3462,
+      "mae": 4.590929117838178,
+      "rmse": 5.964062400900451,
+      "baseline_mae": 4.797746967071057,
+      "baseline_rmse": 6.278220171900877,
+      "mean_residual": 0.28664214166022106
+    },
+    {
+      "rank": 2,
+      "period": "February",
+      "variant": "case13",
+      "group": "all",
+      "n": 3462,
+      "mae": 4.5955751732138115,
+      "rmse": 5.952291178305402,
+      "baseline_mae": 4.797746967071057,
+      "baseline_rmse": 6.278220171900877,
+      "mean_residual": 0.2321816410101059
+    },
+    {
+      "rank": 3,
+      "period": "February",
+      "variant": "case12",
+      "group": "all",
+      "n": 3462,
+      "mae": 4.596289193905631,
+      "rmse": 5.966813670974809,
+      "baseline_mae": 4.797746967071057,
+      "baseline_rmse": 6.278220171900877,
+      "mean_residual": 0.2420230709288257
+    },
+    {
+      "rank": 4,
+      "period": "February",
+      "variant": "case23",
+      "group": "all",
+      "n": 3462,
+      "mae": 4.606838327550928,
+      "rmse": 5.976013728937977,
+      "baseline_mae": 4.797746967071057,
+      "baseline_rmse": 6.278220171900877,
+      "mean_residual": 0.30767959604764533
+    }
+  ],
+  "CV_pooled": [
+    {
+      "rank": 1,
+      "period": "CV_pooled",
+      "variant": "case13",
+      "group": "all",
+      "n": 9023,
+      "mae": 4.56342057291029,
+      "rmse": 5.91589420800309,
+      "baseline_mae": 4.738401861908456,
+      "baseline_rmse": 6.2033968379021065,
+      "mean_residual": -0.19162238862315528
+    },
+    {
+      "rank": 2,
+      "period": "CV_pooled",
+      "variant": "case123",
+      "group": "all",
+      "n": 9023,
+      "mae": 4.5667877011939995,
+      "rmse": 5.9209405554721055,
+      "baseline_mae": 4.738401861908456,
+      "baseline_rmse": 6.2033968379021065,
+      "mean_residual": -0.1423280002320365
+    },
+    {
+      "rank": 3,
+      "period": "CV_pooled",
+      "variant": "case23",
+      "group": "all",
+      "n": 9023,
+      "mae": 4.568046470871786,
+      "rmse": 5.9223553650037335,
+      "baseline_mae": 4.738401861908456,
+      "baseline_rmse": 6.2033968379021065,
+      "mean_residual": -0.15592004009941351
+    },
+    {
+      "rank": 4,
+      "period": "CV_pooled",
+      "variant": "case12",
+      "group": "all",
+      "n": 9023,
+      "mae": 4.571788711761158,
+      "rmse": 5.925352473506153,
+      "baseline_mae": 4.738401861908456,
+      "baseline_rmse": 6.2033968379021065,
+      "mean_residual": -0.16496982775844005
+    }
+  ]
+}

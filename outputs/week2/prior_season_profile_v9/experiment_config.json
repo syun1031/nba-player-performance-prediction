@@ -1,0 +1,121 @@
+{
+  "created_at_utc": "2026-10-30T06:48:32.185829+00:00",
+  "variants": {
+    "basic_prior14": {
+      "columns": [
+        "pts_mean_5",
+        "pts_mean_10",
+        "min_mean_5",
+        "reb_mean_5",
+        "ast_mean_5",
+        "is_home",
+        "is_neutral_site",
+        "rest_days",
+        "is_starter",
+        "prev_season_pts_mean",
+        "prev_season_min_mean",
+        "prev_season_pts_per_min",
+        "prev_season_games",
+        "has_prev_season"
+      ],
+      "multiplier": 1
+    },
+    "combined_prior25_w2": {
+      "columns": [
+        "pts_mean_5",
+        "pts_mean_10",
+        "min_mean_5",
+        "reb_mean_5",
+        "ast_mean_5",
+        "is_home",
+        "is_neutral_site",
+        "rest_days",
+        "is_starter",
+        "pts_last_1",
+        "min_mean_3",
+        "min_change_last_vs_5",
+        "pts_std_5",
+        "min_std_5",
+        "opp_points_allowed_mean_5",
+        "opp_combined_points_mean_5",
+        "same_conference",
+        "same_conf_h2h_count",
+        "same_conf_h2h_pts_last_1",
+        "same_conf_h2h_pts_mean",
+        "prev_season_pts_mean",
+        "prev_season_min_mean",
+        "prev_season_pts_per_min",
+        "prev_season_games",
+        "has_prev_season"
+      ],
+      "multiplier": 2
+    }
+  },
+  "params": {
+    "n_estimators": 150,
+    "max_depth": 2,
+    "learning_rate": 0.05,
+    "min_child_weight": 10,
+    "subsample": 1.0,
+    "colsample_bytree": 1.0,
+    "reg_alpha": 0.0,
+    "reg_lambda": 1.0,
+    "objective": "reg:squarederror",
+    "tree_method": "hist",
+    "device": "cpu",
+    "n_jobs": 2,
+    "random_state": 42
+  },
+  "fit_cap": 8,
+  "folds": [
+    [
+      "F1",
+      "2025-11-30",
+      "2025-12-01",
+      "2025-12-31"
+    ],
+    [
+      "F2",
+      "2025-12-31",
+      "2026-01-01",
+      "2026-01-15"
+    ],
+    [
+      "F3",
+      "2026-01-15",
+      "2026-01-16",
+      "2026-01-31"
+    ]
+  ],
+  "common_train_n": 13221,
+  "cv_n": 9023,
+  "february_n": 3462,
+  "profile_season": "2024-25",
+  "profile_cutoff": "2025-04-13",
+  "target_season": "2025-26",
+  "target": "target_pts",
+  "pairs": [
+    [
+      "basic9",
+      "basic_prior14"
+    ],
+    [
+      "combined20_w2",
+      "combined_prior25_w2"
+    ]
+  ],
+  "paired_groups": [
+    "all",
+    "30+"
+  ],
+  "iterations": 2000,
+  "seed": 42,
+  "multiplicity_adjusted": false,
+  "test_scoring_allowed": false,
+  "auto_promotion": false,
+  "development_reused": true,
+  "exploratory_after_test_observed": true,
+  "player_id_encoding": false,
+  "no_prior": "first three NaN, games=0, has=0; not necessarily rookie",
+  "rate": "sum PTS / sum MIN; positive MIN only"
+}

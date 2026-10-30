@@ -1,0 +1,11 @@
+{
+  "start": "2026-03-01",
+  "end": "2026-04-12",
+  "n": 6979,
+  "new_fits": 0,
+  "new_independent_test": false,
+  "reused_consumed_test": true,
+  "additional_model_comparisons": 1,
+  "old_test_usage_unchanged": true,
+  "production_promoted": false
+}

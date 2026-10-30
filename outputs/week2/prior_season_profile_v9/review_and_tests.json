@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-30",
+  "command": ".venv/Scripts/python.exe -X utf8 -m unittest discover -s tests -v",
+  "exit_code": 0,
+  "tests": 176,
+  "new_tests": 7,
+  "red_observed": "ModuleNotFoundError before implementation",
+  "independent_reviewer": "review_prior_profile",
+  "actionable_findings": 0,
+  "reviewer_verified_transfer_players": 81,
+  "reviewer_reran_readonly_verifier": true,
+  "additional_fits": 0,
+  "production_changed": false
+}

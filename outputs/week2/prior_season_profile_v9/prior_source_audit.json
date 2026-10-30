@@ -1,0 +1,20 @@
+{
+  "verified": true,
+  "rows": 26306,
+  "players": 569,
+  "columns": [
+    "PLAYER",
+    "TEAM",
+    "MATCHUP",
+    "GAMEDATE",
+    "MIN",
+    "PTS",
+    "REB",
+    "AST"
+  ],
+  "bytes": 1333416,
+  "source_match": "all rows match",
+  "zero_minutes_excluded": 100,
+  "positive_minutes_n": 26206,
+  "profile_players": 569
+}

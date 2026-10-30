@@ -1,0 +1,3 @@
+﻿feature,description,limitation
+opp_points_allowed_mean_5,對手前五場平均失分,非每百回合防守效率；含延長賽
+opp_combined_points_mean_5,對手前五場雙方總分平均,得分環境代理，不是回合數或Pace

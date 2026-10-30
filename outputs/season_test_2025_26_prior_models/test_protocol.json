@@ -1,0 +1,62 @@
+{
+  "authorized_by": "User requested 2025-26 prior-profile models too",
+  "opened_at_utc": "2026-10-30T14:56:17.819055+00:00",
+  "season": "2025-26",
+  "start": "2026-03-01",
+  "end": "2026-04-12",
+  "source_n": 6979,
+  "models": [
+    "basic9",
+    "basic_prior14",
+    "combined_prior25_w2"
+  ],
+  "model_sources": {
+    "basic9": "outputs/week2/opponent_context_v4/models/February_common9.joblib",
+    "basic_prior14": "outputs/week2/prior_season_profile_v9/models/February_basic_prior14.joblib",
+    "combined_prior25_w2": "outputs/week2/prior_season_profile_v9/models/February_combined_prior25_w2.joblib"
+  },
+  "model_sha256": {
+    "basic9": "87d401e8f261069ecd0ec37ca615fd21bb5fc94e88e639e29fbad181f214a6a6",
+    "basic_prior14": "6bfd011ab641547ef7caea7c6beeecc4c70a532d17e21e37b1019de3728a1801",
+    "combined_prior25_w2": "659346302abae581c4a05f77f047d7030bc1d1bdba7133d23b34de8499185606"
+  },
+  "trained_through": "2026-01-31",
+  "n_train": 13221,
+  "new_fits_allowed": 0,
+  "tuning_allowed": false,
+  "auto_promotion": false,
+  "independent_test": false,
+  "reused_consumed_test": true,
+  "history_rule": "strictly previous date; prior completed test games may update later windows without fitting",
+  "prior_profile_rule": "same exact PLAYER join and missing handling as original v9 training; no new ID re-encoding",
+  "pairs": [
+    [
+      "baseline",
+      "basic9"
+    ],
+    [
+      "baseline",
+      "basic_prior14"
+    ],
+    [
+      "baseline",
+      "combined_prior25_w2"
+    ],
+    [
+      "basic9",
+      "basic_prior14"
+    ],
+    [
+      "basic9",
+      "combined_prior25_w2"
+    ],
+    [
+      "basic_prior14",
+      "combined_prior25_w2"
+    ]
+  ],
+  "bootstrap_iterations": 2000,
+  "seed": 42,
+  "multiplicity_adjusted": false,
+  "original_protocols_unchanged": true
+}

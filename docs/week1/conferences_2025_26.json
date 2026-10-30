@@ -1,0 +1,14 @@
+{
+  "season": "2025-26",
+  "verified_on": "2026-10-29",
+  "sources": ["https://www.nba.com/news/about", "https://www.nba.com/standings?Season=2025-26"],
+  "note": "固定球季球隊分區對照，核對日不是歷史發布時間。新球季需另核對版本，未知球隊或球季不猜測。",
+  "teams": {
+    "ATL": "East", "BOS": "East", "BKN": "East", "CHA": "East", "CHI": "East",
+    "CLE": "East", "DET": "East", "IND": "East", "MIA": "East", "MIL": "East",
+    "NYK": "East", "ORL": "East", "PHI": "East", "TOR": "East", "WAS": "East",
+    "DAL": "West", "DEN": "West", "GSW": "West", "HOU": "West", "LAC": "West",
+    "LAL": "West", "MEM": "West", "MIN": "West", "NOP": "West", "OKC": "West",
+    "PHX": "West", "POR": "West", "SAC": "West", "SAS": "West", "UTA": "West"
+  }
+}

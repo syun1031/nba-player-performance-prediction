@@ -1,0 +1,5 @@
+﻿feature,definition
+same_conference,本場球隊與對手同conference為1，否則0
+same_conf_h2h_count,本季此前球員對同一對手的正分鐘次數；本場跨區固定0
+same_conf_h2h_pts_last_1,最近一次得分；沒有紀錄或跨區留空，不補0
+same_conf_h2h_pts_mean,此前所有本季對陣平均得分；無固定三或四場上限，無紀錄留空

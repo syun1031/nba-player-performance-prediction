@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-30",
+  "command": ".venv/Scripts/python.exe -X utf8 -m unittest discover -s tests -v",
+  "exit_code": 0,
+  "tests": 169,
+  "new_tests": 8,
+  "independent_review": "review_residual_offset",
+  "actionable_findings": 0,
+  "reviewer_reran_readonly_verifier": true,
+  "chart_visually_checked": true,
+  "additional_experiment_fits": 0
+}

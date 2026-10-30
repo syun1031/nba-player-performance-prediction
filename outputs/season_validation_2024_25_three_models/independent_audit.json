@@ -1,0 +1,15 @@
+{
+  "new_fits": 0,
+  "saved_models_checked": 12,
+  "new_saved_models": 4,
+  "reused_saved_models": 8,
+  "cv_n": 8647,
+  "february_n": 3634,
+  "common_predictions_verified": true,
+  "human_csv_verified": true,
+  "metrics_alerts_verified": true,
+  "hashes_verified": true,
+  "interval_bounds_reproduced_with_shared_bootstrap": true,
+  "test_evaluations": 0,
+  "production_changed": false
+}
