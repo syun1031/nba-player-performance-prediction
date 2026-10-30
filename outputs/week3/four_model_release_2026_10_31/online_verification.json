@@ -1,0 +1,30 @@
+{
+  "url": "https://nba-player-performance-prediction1.streamlit.app/comparison",
+  "functional_commit": "5a017a60a0646d89e20c032a33da8e428de66075",
+  "observed": {
+    "2024-25": {
+      "full_n": 7060,
+      "full_mae_display": "4.810",
+      "high_n": 277,
+      "high_mae_display": "11.578"
+    },
+    "2025-26": {
+      "full_n": 6979,
+      "full_mae_display": "4.803",
+      "high_n": 228,
+      "high_mae_display": "11.767"
+    }
+  },
+  "fourth_model_visible_both_seasons": true,
+  "live_download": {
+    "file": "predictions_2024-25_test.csv",
+    "rows": 277,
+    "sha256": "ac71eb499f33516cfa34078d44dcca41446bfc8837d1b5422f320c916b2fcccf",
+    "actual_minutes_before_points": true,
+    "offset_mae": 11.578482329901913
+  },
+  "clean_checkout_tests": 201,
+  "clean_checkout_used_existing_venv": true,
+  "new_environment_installation": false,
+  "primary_model_changed": false
+}

@@ -26,10 +26,12 @@
 
 ## Task 3: release
 - [x] 精確白名單提交、合併main並push（已獲使用者授權）。
-- [ ] 線上確認兩季第四模型、整體/高分與下載介面，記錄證據。
+- [x] 線上確認兩季第四模型、整體/高分與下載介面，記錄證據。
 
 ## Completion ledger
 - Task 1 complete: 24–25 training guard test RED→GREEN, exactly4fits, independent audit passed.
 - Task 2 complete: fourth-model test RED→GREEN, 201 suite passed; exact predicted values/minutes verified in AppTest. Fresh independent review found no blocking issues.
 - Historical UI intentionally changed; exact old research_views.py retained and checked by verify_four_model_release. Old model/data/output hashes unchanged.
 - Review minor deferred: release verifier checks fourth model per cell; reviewer independently additionally checked all old-model cells in six bundles. Future automatic audit can include these old-model cells too; present outputs confirmed equal.
+
+- Task 3 complete: functional commit5a017a6 pushed to deployment main; actual live 24/25 season all/high metrics verified, 277-row CSV downloaded and checked, screenshots saved. Clean staged checkout201 tests + release audit passed using existing venv.
