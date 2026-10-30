@@ -1,0 +1,50 @@
+{
+  "verified_at_utc": "2026-10-30T15:12:24.133876+00:00",
+  "url": "https://nba-player-performance-prediction1.streamlit.app/comparison",
+  "verified_ui_commit": "5cfb7eebfee9028caf9d87e8fb0c5633521f37ba",
+  "github_main_confirmed": true,
+  "live_verified": true,
+  "controls_exercised": [
+    "research scope",
+    "2025-26 season",
+    "2024-25 season",
+    "test period",
+    "actual 30+ filter"
+  ],
+  "seasons": {
+    "2025-26": {
+      "all_n": 6979,
+      "mae": [
+        4.747,
+        4.725,
+        4.75
+      ],
+      "high_n": 228,
+      "high_mae": [
+        13.747,
+        13.44,
+        11.986
+      ]
+    },
+    "2024-25": {
+      "all_n": 7060,
+      "mae": [
+        4.774,
+        4.743,
+        4.762
+      ],
+      "high_n": 277,
+      "high_mae": [
+        13.031,
+        12.978,
+        11.6
+      ]
+    }
+  },
+  "screenshot_files": [
+    "online_2025_26_high_scores.png",
+    "online_2024_25_high_scores.png"
+  ],
+  "primary_model_replaced": false,
+  "new_ui_inference": false
+}

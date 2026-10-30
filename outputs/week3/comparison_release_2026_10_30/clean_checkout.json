@@ -1,0 +1,8 @@
+{
+  "commit": "5cfb7eebfee9028caf9d87e8fb0c5633521f37ba",
+  "clean_git_archive": true,
+  "untracked_files_excluded": true,
+  "exit_code": 0,
+  "tests": 194,
+  "same_existing_virtualenv": true
+}

@@ -1,5 +1,7 @@
 # NBA 球員得分研究室
 
+**線上模型比較已同步兩季研究結果。**開啟 [模型比較頁](https://nba-player-performance-prediction1.streamlit.app/comparison)，在「比較範圍」選「三個研究候選」，即可切換2025–26／2024–25、CV／二月／三月至季末與高分分組。GitHub與線上驗收詳見PROGRESS.md。
+
 模型比較頁新增 **2025–26／2024–25球季**與 **三個研究候選**：原九項、原九項＋上季表現、1＋3＋同區＋上季表現＋2倍。兩季均可查看CV／二月／三月至季末與20+/30+分組，下載逐場預測。2025–26三月新增結果見 [追加比較報告](outputs/season_test_2025_26_prior_models/report.md)，屬已使用測試上的研究比較，並非新的獨立最終測試。
 
 **最新：2024–25三月至季末三模型已完成一次性預測。**[測試報告](outputs/season_test_2024_25_three_models/report.md)、[三模型逐場CSV](outputs/season_test_2024_25_three_models/三模型逐場預測_2025年3月至季末.csv)。7060筆共同樣本，原九項／原九項上季／組合上季2倍的整體MAE為4.7738／4.7434／4.7620，30+為13.0315／12.9784／11.5995。本輪0fit、189測試通過，線上不變。最新test_usage已消耗一次；較早封存檔案是歷史快照。唯讀核對：`.venv\Scripts\python.exe -X utf8 -m scripts.verify_march_2024`。

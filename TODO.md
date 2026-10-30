@@ -211,7 +211,7 @@ Streamlit 歷史回測與模型比較兩頁已可在本機使用，入口 stream
 - [x] 新增兩季／三研究候選及CV/Feb/Test選擇、20+/30+、MAE/RMSE圖表及比較／逐場CSV；保留原有模型與主模型。
 - [x] 展示包hash／schema／日期／樣本／指標核對，缺檔或tamper停止；完成兩季與原頁AppTest。
 - [x] 修正CV各輪截止日文字，新增兩季日期斷言RED→GREEN。
-- [ ] 完成乾淨checkout驗證、GitHub推送與Streamlit線上實際球季／分組切換驗收。
+- [x] 乾淨git archive副本194測試通過，GitHubmain已推送；Streamlit線上實際核對兩季、三研究候選、三月及30+切換，保存截圖與JSON。
 
 ## 第 3 週 Streamlit
 
@@ -230,7 +230,7 @@ Streamlit 歷史回測與模型比較兩頁已可在本機使用，入口 stream
 - [ ] 從乾淨環境驗證更新、訓練與應用啟動。
 - [x] 整理本機 README、應用 requirements.txt、資料來源與使用限制；部署環境的乾淨安裝驗收另待完成。
 - [x] 建立私人 GitHub 儲存庫並發布初始版本。
-- [ ] 確認 Streamlit 部署設定並部署。
+- [x] 確認 Streamlit 既有部署並發布兩季比較更新，線上實測通過。
 - [ ] 驗證部署後歷史回測與未來預測流程。
 - [ ] 準備 Demo 說明與展示案例。
 
