@@ -1,0 +1,11 @@
+{
+  "reviewer": "review_four_model_release",
+  "blocking_findings": [],
+  "targeted_tests": 7,
+  "full_suite": 201,
+  "old_three_model_predictions_independently_equal": true,
+  "hashes_2025_checked": 104,
+  "archived_ui_hashes": 1,
+  "production_files_unchanged": true,
+  "minor_suggestion": "Extend automated release verifier to compare every old direct-model cell; reviewer independently checked all six display bundles and found exact equality."
+}

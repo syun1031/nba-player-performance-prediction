@@ -1,0 +1,15 @@
+{
+  "new_fits": 0,
+  "offset_models_checked": 2,
+  "cv_n": 9023,
+  "february_n": 3462,
+  "test_n": 6979,
+  "component_arithmetic_verified": true,
+  "old_predictions_unchanged": true,
+  "metrics_alerts_verified": true,
+  "human_csv_verified": true,
+  "hashes_verified": true,
+  "intervals_reproduced_with_shared_bootstrap": 24,
+  "production_changed": false,
+  "reused_consumed_test": true
+}

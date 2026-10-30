@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-30",
+  "tests": 196,
+  "new_tests": 2,
+  "exit_code": 0,
+  "command": ".venv/Scripts/python.exe -X utf8 -m unittest discover -s tests -q",
+  "reviewer": "review_offset_prior_2025",
+  "actionable_findings": 0,
+  "reviewer_reran_verifier": true,
+  "new_fits": 0,
+  "new_ui": false,
+  "production_changed": false
+}

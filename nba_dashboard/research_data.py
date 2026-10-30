@@ -7,9 +7,10 @@ import numpy as np
 import pandas as pd
 from .data import DataIssue,validate_predictions
 
-MODELS=['basic9','basic_prior14','combined_prior25_w2']
+MODELS=['basic9','basic_prior14','combined_prior25_w2','residual25_w2']
 NAMES={'baseline':'五場均值基準','basic9':'原九項','basic_prior14':'原九項＋上季表現',
-       'combined_prior25_w2':'1＋3＋同區＋上季表現＋2倍'}
+       'combined_prior25_w2':'1＋3＋同區＋上季表現＋2倍',
+       'residual25_w2':'增減模型＋上季表現＋高分2倍'}
 EXPECTED={'2025-26':{'CV':('2025-12-01','2026-01-31',9023),'validation':('2026-02-01','2026-02-28',3462),'test':('2026-03-01','2026-04-12',6979)},
           '2024-25':{'CV':('2024-12-01','2025-01-31',8647),'validation':('2025-02-01','2025-02-28',3634),'test':('2025-03-01','2025-04-13',7060)}}
 
@@ -43,7 +44,7 @@ def load_research(root):
     folder=Path(root)/'outputs/dashboard_comparison'
     try:
         manifest=json.loads((folder/'manifest.json').read_text(encoding='utf-8'))
-        if manifest['schema']!=1 or manifest['models']!=MODELS or set(manifest['datasets'])!=set(EXPECTED):raise DataIssue('研究比較版本不相符。')
+        if manifest['schema']!=2 or manifest['models']!=MODELS or set(manifest['datasets'])!=set(EXPECTED):raise DataIssue('研究比較版本不相符。')
         frames={}
         for season,periods in EXPECTED.items():
             if set(manifest['datasets'][season])!=set(periods):raise DataIssue('研究比較期間不相符。')

@@ -1,0 +1,59 @@
+{
+  "created_at_utc": "2026-10-30T15:31:19.063593+00:00",
+  "season": "2025-26",
+  "models": [
+    "residual_w1",
+    "residual_w2",
+    "basic_prior14",
+    "combined_prior25_w2"
+  ],
+  "periods": {
+    "CV_pooled": 9023,
+    "February": 3462,
+    "Test": 6979
+  },
+  "new_fits_allowed": 0,
+  "tuning_allowed": false,
+  "production_promoted": false,
+  "train_n": 13221,
+  "trained_through": "2026-01-31",
+  "cv_note": "same expanding folds, with their earlier cutoffs",
+  "offset_features": 20,
+  "prior_feature_counts": [
+    14,
+    25
+  ],
+  "comparison_scope": "whole model schemes; not a controlled estimate of offset target alone",
+  "test_scope": "additional research on already consumed test, not new independent final test",
+  "model_sha256": {
+    "outputs\\week2\\residual_offset_v8\\models\\February_residual_w1.joblib": "c13d96928eb6046351e0df21879aada889bdd8894ef61fb5cc6c6b1da2c2b2ad",
+    "outputs\\week2\\residual_offset_v8\\models\\February_residual_w2.joblib": "766d9884b8eca89f5b687078e4236c652b587cd1ae699ee7e12df183e58da429",
+    "outputs\\week2\\prior_season_profile_v9\\models\\February_basic_prior14.joblib": "6bfd011ab641547ef7caea7c6beeecc4c70a532d17e21e37b1019de3728a1801",
+    "outputs\\week2\\prior_season_profile_v9\\models\\February_combined_prior25_w2.joblib": "659346302abae581c4a05f77f047d7030bc1d1bdba7133d23b34de8499185606"
+  },
+  "pairs": [
+    [
+      "residual_w1",
+      "basic_prior14"
+    ],
+    [
+      "residual_w1",
+      "combined_prior25_w2"
+    ],
+    [
+      "residual_w2",
+      "basic_prior14"
+    ],
+    [
+      "residual_w2",
+      "combined_prior25_w2"
+    ]
+  ],
+  "paired_groups": [
+    "all",
+    "30+"
+  ],
+  "bootstrap_iterations": 2000,
+  "seed": 42,
+  "multiplicity_adjusted": false
+}

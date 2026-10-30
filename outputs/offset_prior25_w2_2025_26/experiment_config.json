@@ -1,0 +1,91 @@
+{
+  "created_at_utc": "2026-10-30T15:48:51.024884+00:00",
+  "columns": [
+    "pts_mean_5",
+    "pts_mean_10",
+    "min_mean_5",
+    "reb_mean_5",
+    "ast_mean_5",
+    "is_home",
+    "is_neutral_site",
+    "rest_days",
+    "is_starter",
+    "pts_last_1",
+    "min_mean_3",
+    "min_change_last_vs_5",
+    "pts_std_5",
+    "min_std_5",
+    "opp_points_allowed_mean_5",
+    "opp_combined_points_mean_5",
+    "same_conference",
+    "same_conf_h2h_count",
+    "same_conf_h2h_pts_last_1",
+    "same_conf_h2h_pts_mean",
+    "prev_season_pts_mean",
+    "prev_season_min_mean",
+    "prev_season_pts_per_min",
+    "prev_season_games",
+    "has_prev_season"
+  ],
+  "params": {
+    "n_estimators": 150,
+    "max_depth": 2,
+    "learning_rate": 0.05,
+    "min_child_weight": 10,
+    "subsample": 1.0,
+    "colsample_bytree": 1.0,
+    "reg_alpha": 0.0,
+    "reg_lambda": 1.0,
+    "objective": "reg:squarederror",
+    "tree_method": "hist",
+    "device": "cpu",
+    "n_jobs": 2,
+    "random_state": 42
+  },
+  "fit_cap": 4,
+  "train_n": 13221,
+  "cv_n": 9023,
+  "february_n": 3462,
+  "reused_test_n": 6979,
+  "folds": [
+    [
+      "F1",
+      "2025-11-30",
+      "2025-12-01",
+      "2025-12-31"
+    ],
+    [
+      "F2",
+      "2025-12-31",
+      "2026-01-01",
+      "2026-01-15"
+    ],
+    [
+      "F3",
+      "2026-01-15",
+      "2026-01-16",
+      "2026-01-31"
+    ]
+  ],
+  "target": "target_pts - pts_mean_5",
+  "prediction": "max(0,pts_mean_5 + predicted_delta)",
+  "weight": "2 if original target_pts>=30 else 1; normalize by fold mean",
+  "evaluation_unweighted": true,
+  "pairs": [
+    [
+      "residual20_w2",
+      "residual25_w2"
+    ],
+    [
+      "direct25_w2",
+      "residual25_w2"
+    ]
+  ],
+  "bootstrap_iterations": 2000,
+  "seed": 42,
+  "multiplicity_adjusted": false,
+  "tuning_allowed": false,
+  "auto_promotion": false,
+  "test_is_additional_reused_research": true,
+  "independent_test": false
+}

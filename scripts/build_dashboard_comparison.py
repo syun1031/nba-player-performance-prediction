@@ -15,7 +15,7 @@ def main():
     specs={
         '2025-26':{'CV':'outputs/week2/prior_season_profile_v9/predictions_CV_pooled.csv','validation':'outputs/week2/prior_season_profile_v9/predictions_February.csv','test':'outputs/season_test_2025_26_prior_models/predictions_test.csv'},
         '2024-25':{'CV':'outputs/season_validation_2024_25_three_models/predictions_CV_pooled.csv','validation':'outputs/season_validation_2024_25_three_models/predictions_February.csv','test':'outputs/season_test_2024_25_three_models/predictions_test.csv'}}
-    manifest=dict(schema=1,models=MODELS,built_at_utc=datetime.now(timezone.utc).isoformat(),datasets={},
+    manifest=dict(schema=2,models=MODELS,built_at_utc=datetime.now(timezone.utc).isoformat(),datasets={},
         primary_model_changed=False,new_fits=0,new_predictions=0,
         note='Existing immutable research predictions only; original nine means the same-cohort retrained reference, not a new deployed primary')
     for season,periods in specs.items():
@@ -26,6 +26,13 @@ def main():
             minutes=h.rename(columns={'PLAYER':'player_id','MIN':'actual_minutes'})[['player_id','game_id','actual_minutes']]
         for period,relative in periods.items():
             source=ROOT/relative;frame=pd.read_csv(source)
+            offset_period={'CV':'CV_pooled','validation':'February','test':'Test'}[period]
+            offset_source=ROOT/('outputs/offset_prior25_w2_'+season.replace('-','_'))/f'predictions_{offset_period}.csv'
+            offset=pd.read_csv(offset_source)
+            keys=['player_id','game_id']
+            left=frame[keys+['GAMEDATE','target_pts','pred_baseline']].merge(offset[keys+['GAMEDATE','target_pts','pred_baseline','pred_residual25_w2']],on=keys,how='outer',validate='one_to_one',suffixes=('_old','_new'),indicator=True)
+            if not (left['_merge']=='both').all() or any(not (left[k+'_old']==left[k+'_new']).all() for k in ['GAMEDATE','target_pts','pred_baseline']):raise ValueError('Offset comparison does not use identical keys/outcomes/baselines')
+            frame=frame.merge(offset[keys+['pred_residual25_w2']],on=keys,how='left',validate='one_to_one')
             if 'actual_minutes' not in frame:
                 if season=='2024-25':
                     history_path=ROOT/'outputs/nba_2024_25/supplement_2026_10_30/player_games_enriched.csv'
@@ -35,7 +42,7 @@ def main():
             columns=['player_id','game_id','GAMEDATE','target_pts','actual_minutes','period','pred_baseline']+['pred_'+v for v in MODELS]
             frame=frame[columns];filename=season.replace('-','_')+'_'+period+'.csv';path=out/filename
             frame.to_csv(path,index=False)
-            info=dict(file=filename,sha256=sha(path),source=relative,source_sha256=sha(source),
+            info=dict(file=filename,sha256=sha(path),source=relative,source_sha256=sha(source),offset_source=str(offset_source.relative_to(ROOT)),offset_source_sha256=sha(offset_source),
                 minutes_source=str(history_path.relative_to(ROOT)) if 'actual_minutes' not in pd.read_csv(source,nrows=0).columns else relative,
                 metrics={})
             for group,threshold in [('all',None),('20+',20),('30+',30)]:

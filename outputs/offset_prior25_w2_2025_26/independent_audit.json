@@ -1,0 +1,18 @@
+{
+  "new_fits": 0,
+  "saved_models_checked": 4,
+  "training_target_rows": 16683,
+  "negative_delta_rows": 8778,
+  "cv_n": 9023,
+  "february_n": 3462,
+  "reused_test_n": 6979,
+  "original_points_weights_verified": true,
+  "components_verified": true,
+  "frozen_controls_verified": true,
+  "metrics_alerts_verified": true,
+  "human_csv_verified": true,
+  "hashes_verified": true,
+  "intervals_reproduced_with_shared_bootstrap": 12,
+  "production_changed": false,
+  "independent_test": false
+}

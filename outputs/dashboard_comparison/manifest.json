@@ -1,18 +1,21 @@
 {
-  "schema": 1,
+  "schema": 2,
   "models": [
     "basic9",
     "basic_prior14",
-    "combined_prior25_w2"
+    "combined_prior25_w2",
+    "residual25_w2"
   ],
-  "built_at_utc": "2026-10-30T14:57:07.942749+00:00",
+  "built_at_utc": "2026-10-30T16:02:17.696105+00:00",
   "datasets": {
     "2025-26": {
       "CV": {
         "file": "2025_26_CV.csv",
-        "sha256": "809748f8006853210e21aa74827bbee4740a4ea28e33f14d72f3578d66a33c82",
+        "sha256": "e07f3aaebb69785545b439cd7f3f4e806f8dc817c11cdd1c31bb971f187d12e2",
         "source": "outputs/week2/prior_season_profile_v9/predictions_CV_pooled.csv",
         "source_sha256": "f3a85189f2386906c4a31147b99e35612301443363efaa7193af8ea8372e554d",
+        "offset_source": "outputs\\offset_prior25_w2_2025_26\\predictions_CV_pooled.csv",
+        "offset_source_sha256": "5edea8086b3a5b818a32123655e41924eed5e39a795cd0f5ea0fe7b02b1c2662",
         "minutes_source": "outputs\\nba_2025_26\\nba_2025_26_regular_season_player_game_logs.csv",
         "metrics": {
           "all": {
@@ -39,6 +42,12 @@
               "mae": 4.587667049727999,
               "rmse": 5.94185848012845,
               "mean_residual": -0.572606488314196
+            },
+            "residual25_w2": {
+              "n": 9023,
+              "mae": 4.645612496935508,
+              "rmse": 6.026271377263471,
+              "mean_residual": -0.5002158581138276
             }
           },
           "20+": {
@@ -65,6 +74,12 @@
               "mae": 7.037857648401383,
               "rmse": 8.657068933022225,
               "mean_residual": 5.3873066743968225
+            },
+            "residual25_w2": {
+              "n": 1477,
+              "mae": 7.213187299047665,
+              "rmse": 8.831730668477297,
+              "mean_residual": 5.5256831532447315
             }
           },
           "30+": {
@@ -91,15 +106,23 @@
               "mae": 9.361220614115398,
               "rmse": 11.370816508185762,
               "mean_residual": 9.18490351524906
+            },
+            "residual25_w2": {
+              "n": 345,
+              "mae": 9.505299187814412,
+              "rmse": 11.499927345084835,
+              "mean_residual": 9.336035049965847
             }
           }
         }
       },
       "validation": {
         "file": "2025_26_validation.csv",
-        "sha256": "bbba9cd2b425f1a46614a4ba184548fcbc5830d730f2332a55af99caa1e02b47",
+        "sha256": "d71d11b8241df0488b113c2b8c80a1071263140de599884570136facd5544ce1",
         "source": "outputs/week2/prior_season_profile_v9/predictions_February.csv",
         "source_sha256": "bea8f15b4e50c296d65726c8cd1719603d14c558e560b93d491eb5a855d26115",
+        "offset_source": "outputs\\offset_prior25_w2_2025_26\\predictions_February.csv",
+        "offset_source_sha256": "f6377a6ed6bd94c8b4d8c98a39631041baf530ee73d451cb10128dfdf3a7e1a6",
         "minutes_source": "outputs\\nba_2025_26\\nba_2025_26_regular_season_player_game_logs.csv",
         "metrics": {
           "all": {
@@ -126,6 +149,12 @@
               "mae": 4.624600210470798,
               "rmse": 5.976788923219043,
               "mean_residual": -0.08852857898798104
+            },
+            "residual25_w2": {
+              "n": 3462,
+              "mae": 4.705184125528816,
+              "rmse": 6.097283464324801,
+              "mean_residual": -0.20870972840978422
             }
           },
           "20+": {
@@ -152,6 +181,12 @@
               "mae": 7.442506334334041,
               "rmse": 9.03490059072089,
               "mean_residual": 6.270493698302813
+            },
+            "residual25_w2": {
+              "n": 522,
+              "mae": 7.500537473866823,
+              "rmse": 9.116235726650258,
+              "mean_residual": 6.311790847939607
             }
           },
           "30+": {
@@ -178,15 +213,23 @@
               "mae": 10.428127953500459,
               "rmse": 12.44509850276594,
               "mean_residual": 10.343674370736787
+            },
+            "residual25_w2": {
+              "n": 99,
+              "mae": 10.595577763984299,
+              "rmse": 12.634430397838265,
+              "mean_residual": 10.462939754956299
             }
           }
         }
       },
       "test": {
         "file": "2025_26_test.csv",
-        "sha256": "c21f1ea18d882341a649890cf9f7d9a5e4ee51634c71ccd3383211a9a81b90c3",
+        "sha256": "c0050ea4489196fdd018f9352385d32d7e6c75c7c4a9e1e2e492992c75ef3d89",
         "source": "outputs/season_test_2025_26_prior_models/predictions_test.csv",
         "source_sha256": "7a61f3cddf7be163fdbcd8f9386a73949d67678255b3cdecaaa4de70e58ea14b",
+        "offset_source": "outputs\\offset_prior25_w2_2025_26\\predictions_Test.csv",
+        "offset_source_sha256": "a8bd3a8ee4dfcfa7340c64e5beff332ec2885b81cceffb5ca8084b7bfb843ad2",
         "minutes_source": "outputs/season_test_2025_26_prior_models/predictions_test.csv",
         "metrics": {
           "all": {
@@ -213,6 +256,12 @@
               "mae": 4.749857247926253,
               "rmse": 6.200232175363949,
               "mean_residual": -0.08608570543328266
+            },
+            "residual25_w2": {
+              "n": 6979,
+              "mae": 4.803002643475352,
+              "rmse": 6.277218478366253,
+              "mean_residual": -0.11563573037815306
             }
           },
           "20+": {
@@ -239,6 +288,12 @@
               "mae": 7.97014404985976,
               "rmse": 9.837944885452997,
               "mean_residual": 6.722858184484169
+            },
+            "residual25_w2": {
+              "n": 1103,
+              "mae": 7.9630758470143865,
+              "rmse": 9.816914755762578,
+              "mean_residual": 6.657454642628303
             }
           },
           "30+": {
@@ -265,6 +320,12 @@
               "mae": 11.985570370105275,
               "rmse": 14.143983887749307,
               "mean_residual": 11.930093395082574
+            },
+            "residual25_w2": {
+              "n": 228,
+              "mae": 11.767359444068484,
+              "rmse": 13.943407121954062,
+              "mean_residual": 11.595294345615496
             }
           }
         }
@@ -273,9 +334,11 @@
     "2024-25": {
       "CV": {
         "file": "2024_25_CV.csv",
-        "sha256": "96199c32488f9f856a4016b89fa47bdf45416586f229c614208262a3d588eadd",
+        "sha256": "0711c7d1eda99c8993b4fd0a165e27f5d5a75bd0660b33adddc998f2399f21cd",
         "source": "outputs/season_validation_2024_25_three_models/predictions_CV_pooled.csv",
         "source_sha256": "4f0926a8d91e70c6fd0ce83c4b9e2a5ef1cfecc60457599f92ffe1a8ebfee8ea",
+        "offset_source": "outputs\\offset_prior25_w2_2024_25\\predictions_CV_pooled.csv",
+        "offset_source_sha256": "2d6e0b0a7ced963c378ce48caa4cdacda0e0c9e23f1b511f26892676305fe590",
         "minutes_source": "outputs\\nba_2024_25\\supplement_2026_10_30\\player_games_enriched.csv",
         "metrics": {
           "all": {
@@ -302,6 +365,12 @@
               "mae": 4.574867669262472,
               "rmse": 5.901552340569549,
               "mean_residual": -0.4732749519202562
+            },
+            "residual25_w2": {
+              "n": 8647,
+              "mae": 4.62098568487329,
+              "rmse": 5.99621586553904,
+              "mean_residual": -0.42820061873086146
             }
           },
           "20+": {
@@ -328,6 +397,12 @@
               "mae": 6.846945655825399,
               "rmse": 8.54895459007885,
               "mean_residual": 5.429823228952458
+            },
+            "residual25_w2": {
+              "n": 1442,
+              "mae": 6.899812979874654,
+              "rmse": 8.668782544378288,
+              "mean_residual": 5.466216187302382
             }
           },
           "30+": {
@@ -354,15 +429,23 @@
               "mae": 10.047917364604437,
               "rmse": 11.724265457142748,
               "mean_residual": 9.88914193253019
+            },
+            "residual25_w2": {
+              "n": 335,
+              "mae": 10.127094348699076,
+              "rmse": 11.885637077932698,
+              "mean_residual": 9.89310321337585
             }
           }
         }
       },
       "validation": {
         "file": "2024_25_validation.csv",
-        "sha256": "969da6e9e4ebf9fcf9305d095cdec36dad29aa820981ce2a73e75e4f82f1e6f4",
+        "sha256": "0d841a950d1a6c707b475784e431d127f80c4bb9d8bdeb8100f7a571c8952a35",
         "source": "outputs/season_validation_2024_25_three_models/predictions_February.csv",
         "source_sha256": "8ed9317efed7f4273a3c7a02e5f15afee95f2bd0486f819dbb2f3cc55b918531",
+        "offset_source": "outputs\\offset_prior25_w2_2024_25\\predictions_February.csv",
+        "offset_source_sha256": "ff946d199e3e821743af772ca54976aa6fec15d442d3f780d05e6689ca9b05a7",
         "minutes_source": "outputs\\nba_2024_25\\supplement_2026_10_30\\player_games_enriched.csv",
         "metrics": {
           "all": {
@@ -389,6 +472,12 @@
               "mae": 4.693355789339405,
               "rmse": 6.111649922634229,
               "mean_residual": -0.30160813391963137
+            },
+            "residual25_w2": {
+              "n": 3634,
+              "mae": 4.78298558299809,
+              "rmse": 6.24488977890637,
+              "mean_residual": -0.3220682676696261
             }
           },
           "20+": {
@@ -415,6 +504,12 @@
               "mae": 7.210024973441815,
               "rmse": 9.063073838912963,
               "mean_residual": 5.901106786258115
+            },
+            "residual25_w2": {
+              "n": 609,
+              "mae": 7.367717210616311,
+              "rmse": 9.220078424318556,
+              "mean_residual": 5.837339178147941
             }
           },
           "30+": {
@@ -441,15 +536,23 @@
               "mae": 11.015591965781319,
               "rmse": 12.724698993123491,
               "mean_residual": 10.883546166949802
+            },
+            "residual25_w2": {
+              "n": 144,
+              "mae": 11.060649994385635,
+              "rmse": 12.806302493816917,
+              "mean_residual": 10.853443711455395
             }
           }
         }
       },
       "test": {
         "file": "2024_25_test.csv",
-        "sha256": "d7493829fdff35c324a8323c2f6b25e0cef66c267353de14ceecc26765d5b4d2",
+        "sha256": "cc65db31471be70eb4119a410f0e6db36a77e7123e596927d59028c605d286d1",
         "source": "outputs/season_test_2024_25_three_models/predictions_test.csv",
         "source_sha256": "8d4f0e704798c01f1746af8c5fe2d1a8be76749d0774b1c7e87e489564dd4fdc",
+        "offset_source": "outputs\\offset_prior25_w2_2024_25\\predictions_Test.csv",
+        "offset_source_sha256": "a146f7e19b274264bb65122f32823a163c97172d53318d5df979ad135d2b967a",
         "minutes_source": "outputs/season_test_2024_25_three_models/predictions_test.csv",
         "metrics": {
           "all": {
@@ -476,6 +579,12 @@
               "mae": 4.762018099824025,
               "rmse": 6.253544801683075,
               "mean_residual": 0.12969963523551356
+            },
+            "residual25_w2": {
+              "n": 7060,
+              "mae": 4.810237014290729,
+              "rmse": 6.331210479145035,
+              "mean_residual": 0.09648659031066474
             }
           },
           "20+": {
@@ -502,6 +611,12 @@
               "mae": 7.98680638018703,
               "rmse": 9.948068625657605,
               "mean_residual": 6.778792952159728
+            },
+            "residual25_w2": {
+              "n": 1146,
+              "mae": 7.998251131920381,
+              "rmse": 9.994181654372662,
+              "mean_residual": 6.690206501404404
             }
           },
           "30+": {
@@ -528,6 +643,12 @@
               "mae": 11.5995080531289,
               "rmse": 13.633915925700798,
               "mean_residual": 11.477194743035932
+            },
+            "residual25_w2": {
+              "n": 277,
+              "mae": 11.578482329901913,
+              "rmse": 13.628424086456764,
+              "mean_residual": 11.40252785219236
             }
           }
         }

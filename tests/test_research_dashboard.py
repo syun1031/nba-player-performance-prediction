@@ -16,7 +16,7 @@ class ResearchDashboardTests(unittest.TestCase):
             for period,n in periods.items():
                 f=bundle.predictions[season][period]
                 self.assertEqual(len(f),n)
-                self.assertEqual(research_metrics(f,['baseline']+MODELS)['n'].tolist(),[n]*4)
+                self.assertEqual(research_metrics(f,['baseline']+MODELS)['n'].tolist(),[n]*5)
         self.assertAlmostEqual(research_metrics(bundle.predictions['2024-25']['test'],['basic_prior14']).iloc[0]['mae'],4.743392476312837)
         self.assertEqual(len(bundle.predictions['2025-26']['test']),6979)
 
