@@ -1,3 +1,3 @@
-from nba_dashboard.research_views import render_comparison
+from nba_dashboard.routing_comparison import render_comparison
 
 render_comparison()

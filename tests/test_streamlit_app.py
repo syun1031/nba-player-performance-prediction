@@ -4,6 +4,7 @@ from unittest.mock import patch
 
 from streamlit.testing.v1 import AppTest
 from nba_dashboard.data import load_bundle
+from nba_dashboard.routing_data import load_routing
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -12,6 +13,7 @@ class StreamlitPageTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.bundle=load_bundle(ROOT)
+        cls.routing=load_routing(ROOT)
 
     def app(self):
         return AppTest.from_file(str(ROOT/'streamlit_app.py'),default_timeout=30).run()
@@ -25,9 +27,9 @@ class StreamlitPageTests(unittest.TestCase):
         for player in ['Luka Dončić','Jarrett Allen']:
             app.selectbox(key='history_player').set_value(player).run()
             game=app.selectbox(key='history_game').value
-            data=self.bundle.predictions['test']
+            data=self.routing.predictions['2025-26']['test']
             expected=data.loc[(data['player_id']==player)&(data['game_id']==game)].iloc[0]
-            self.assertEqual(self.metric(app,'模型預測'),f'{expected["pred_xgboost_starter"]:.2f} 分')
+            self.assertEqual(self.metric(app,'模型預測'),f'{expected["pred_route25"]:.2f} 分')
             other=data.loc[data['player_id']==player].iloc[0]['game_id']
             app.selectbox(key='history_game').set_value(other).run()
             expected=data.loc[(data['player_id']==player)&(data['game_id']==other)].iloc[0]
@@ -38,7 +40,7 @@ class StreamlitPageTests(unittest.TestCase):
             self.assertEqual(self.metric(app,'實際上場時間'),f'{minutes:.2f} 分鐘')
             labels=[m.label for m in app.metric]
             self.assertEqual(labels.index('實際上場時間')+1,labels.index('實際得分'))
-            table=app.dataframe[0].value
+            table=app.dataframe[1].value
             selected=table.loc[(table['比賽日期']==day)&(table['對戰']==matchup)].iloc[0]
             self.assertEqual(selected['實際上場時間（分鐘）'],minutes)
             columns=table.columns.tolist()
@@ -47,6 +49,7 @@ class StreamlitPageTests(unittest.TestCase):
 
     def test_navigation_and_dataset_high_score_switch_reconciles_counts(self):
         app=self.app().switch_page('dashboard_pages/comparison.py').run()
+        app.radio(key='comparison_scope').set_value('classic').run()
         self.assertEqual(len(app.exception),0)
         self.assertEqual(self.metric(app,'樣本數'),'6,979')
         app.selectbox(key='comparison_threshold').set_value(30).run()
@@ -57,6 +60,7 @@ class StreamlitPageTests(unittest.TestCase):
 
     def test_feature_version_changes_chart_not_locked_primary(self):
         app=self.app().switch_page('dashboard_pages/comparison.py').run()
+        app.radio(key='comparison_scope').set_value('classic').run()
         app.selectbox(key='comparison_features').set_value('teammates').run()
         self.assertEqual(self.metric(app,'主模型 MAE'),'4.747 分')
         table=app.dataframe[0].value
@@ -66,13 +70,14 @@ class StreamlitPageTests(unittest.TestCase):
 
     def test_empty_model_selection_keeps_baseline_and_explains_it(self):
         app=self.app().switch_page('dashboard_pages/comparison.py').run()
+        app.radio(key='comparison_scope').set_value('classic').run()
         app.multiselect(key='comparison_families').set_value([]).run()
         self.assertEqual(len(app.dataframe[0].value),1)
         self.assertTrue(any('只顯示五場均值' in item.value for item in app.info))
         self.assertEqual(len(app.exception),0)
 
     def test_missing_data_shows_a_clear_error_without_traceback(self):
-        with patch('nba_dashboard.views.ROOT',ROOT/'tests/not_a_data_directory'):
+        with patch('nba_dashboard.routing_views.ROOT',ROOT/'tests/not_a_data_directory'):
             app=self.app()
             self.assertEqual(len(app.exception),0)
             self.assertTrue(any('資料' in e.value for e in app.error))

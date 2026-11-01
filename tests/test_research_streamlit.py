@@ -14,7 +14,7 @@ class ResearchStreamlitTests(unittest.TestCase):
         self.assertEqual(len(app.exception),0);self.assertEqual(self.metric(app,'樣本數'),'7,060')
         self.assertEqual(self.metric(app,'原九項＋上季表現 MAE'),'4.743 分')
         self.assertEqual(self.metric(app,'增減模型＋上季表現＋高分2倍 MAE'),'4.810 分')
-        self.assertEqual(len(app.dataframe[0].value),5)
+        self.assertEqual(len(app.dataframe[0].value),6)
         app.selectbox(key='research_threshold').set_value(30).run()
         self.assertEqual(self.metric(app,'樣本數'),'277')
         self.assertEqual(self.metric(app,'1＋3＋同區＋上季表現＋2倍 MAE'),'11.600 分')
