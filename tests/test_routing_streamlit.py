@@ -45,6 +45,19 @@ class RoutingPageTests(unittest.TestCase):
         app.selectbox(key='history_season').set_value('2024-25').run()
         self.assertNotEqual(next(x for x in app.selectbox if x.label=='球員').proto.id,before_player)
         self.assertEqual(next(x for x in app.selectbox if x.label=='比賽').value,'LAL VS. HOU|2025-04-11')
+    def test_history_only_march_onward_without_period_selector(self):
+        app=self.app()
+        self.assertFalse(any(r.key=='history_period' for r in app.radio))
+        app.session_state['history_period']='validation'
+        for season,year in [('2025-26','2026'),('2024-25','2025')]:
+            app.selectbox(key='history_season').set_value(season).run()
+            options=next(x for x in app.selectbox if x.label=='比賽').options
+            self.assertTrue(all(str(day).startswith(year+'-03') or str(day).startswith(year+'-04') for day in options))
+            table=app.dataframe[1].value
+            self.assertTrue(table['比賽日期'].ge(year+'-03-01').all())
+            self.assertEqual(len(app.exception),0)
+        app.switch_page('dashboard_pages/comparison.py').run()
+        self.assertTrue(any('CV' in str(x) for x in app.radio(key='research_period').options))
     def test_history_missing_package_shows_clear_error(self):
         from unittest.mock import patch
         with patch('nba_dashboard.routing_views.ROOT',ROOT/'tests/missing-routing-data'):

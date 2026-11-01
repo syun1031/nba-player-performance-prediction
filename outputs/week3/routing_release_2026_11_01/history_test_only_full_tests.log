@@ -1,0 +1,19 @@
+...................................................................................................................................................2026-11-01 16:25:06.537 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:08.529 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+............2026-11-01 16:25:11.358 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:12.240 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:13.008 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:13.550 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:13.654 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-01 16:25:13.783 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+...........2026-11-01 16:25:14.559 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:14.681 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:14.968 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:15.284 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:15.584 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+.2026-11-01 16:25:15.680 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+..........................................
+----------------------------------------------------------------------
+Ran 222 tests in 12.864s
+
+OK
