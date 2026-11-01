@@ -20,10 +20,12 @@
 ## Tasks
 - [x] 1. 純分流/邊界/label隔離、載入驗證/近期歷史/兩季六期間測試RED→GREEN；生成獨立比較包。
 - [x] 2. 更新歷史與比較入口、AppTest涵蓋兩季/期間/球員/分支/分鐘/下載/缺檔，原單模型指標不變。
-- [ ] 3. 全套測試、獨立review、乾淨提交副本驗證、更新README/TODO/PROGRESS，白名單提交推送main。
-- [ ] 4. 實際線上核對兩季路由/比較/CSV，保存證據並更新交付紀錄。
+- [x] 3. 全套測試、獨立review、乾淨提交副本驗證、更新README/TODO/PROGRESS，白名單提交推送main。
+- [x] 4. 實際線上核對兩季路由/比較/CSV，保存證據並更新交付紀錄。
 
 ## Completion ledger
 - Tasks1/2 complete: boundary/fake-label test RED→GREEN; data/history validation and AppTest for both branches/seasons passed. Original expectations migrated to new default; archivedclassic checks retained.
 - Full local suite220 passed. Independent audit38,805rows and fresh review passed; reviewer additionally verified18cross-context switches.
 - No code/model changes in old frozen core/research data. Current release publishes only new routing modules/display bundle; prior untracked direction experiments remain local.
+
+- Tasks3/4 complete:functionalcd026bd merged/pushed main; clean staged checkout207tests +audit pass with existingvenv; live two-season high/low branch values, twohistory CSVs and comparison CSV checked, screenshots recorded. No remaining findings.

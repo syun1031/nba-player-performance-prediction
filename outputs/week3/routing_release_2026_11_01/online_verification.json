@@ -1,0 +1,80 @@
+{
+  "functional_commit": "cd026bd",
+  "url": "https://nba-player-performance-prediction1.streamlit.app/",
+  "online_history_branches": [
+    {
+      "season": "2025-26",
+      "player": "Luka Dončić",
+      "mean5": 38.2,
+      "branch": "residual25_w2",
+      "prediction_display": "35.37",
+      "minutes_display": "26.00"
+    },
+    {
+      "season": "2025-26",
+      "player": "Jarrett Allen",
+      "mean5": 14.6,
+      "branch": "combined_prior25_w2",
+      "prediction_display": "17.23",
+      "minutes_display": "29.00"
+    },
+    {
+      "season": "2024-25",
+      "player": "Luka Dončić",
+      "mean5": 30.4,
+      "branch": "residual25_w2",
+      "prediction_display": "31.12",
+      "minutes_display": "31.12"
+    },
+    {
+      "season": "2024-25",
+      "player": "Jarrett Allen",
+      "mean5": 9.4,
+      "branch": "combined_prior25_w2",
+      "prediction_display": "15.97",
+      "minutes_display": "0.68"
+    }
+  ],
+  "online_comparison": {
+    "season_2025_all_mae": "4.767",
+    "season_2024_all_mae": "4.771",
+    "season_2024_high_mae": "11.393",
+    "six_comparison_rows": true
+  },
+  "downloads": [
+    {
+      "kind": "history",
+      "season": "2025-26",
+      "file": "player_backtest_2025-26_test.csv",
+      "rows": 17,
+      "player": "Luka Dončić",
+      "sha256": "71d8acbf1bbc4134e8ea3d692e9f9ad2dd05c8d32f2796fc3029d716a385cf66",
+      "predictions_branches_minutes_verified": true
+    },
+    {
+      "kind": "history",
+      "season": "2024-25",
+      "file": "player_backtest_2024-25_test.csv",
+      "rows": 21,
+      "player": "Luka Dončić",
+      "sha256": "92653f56ed7d4fa525c28c7eaaee48baa009948952fc4359acb06e35a1ba912e",
+      "predictions_branches_minutes_verified": true
+    },
+    {
+      "kind": "comparison",
+      "season": "2024-25",
+      "group": "30+",
+      "file": "comparison_2024-25_test.csv",
+      "rows": 6,
+      "sha256": "d91d2d3a19e3e3be29166c919fa70c290b44df15f1ad2b462f6b24abc8a0a202",
+      "n": 277,
+      "route_mae": 11.393113125672409
+    }
+  ],
+  "local_tests": 220,
+  "clean_checkout_tests": 207,
+  "clean_checkout_used_existing_venv": true,
+  "new_dependency_installation": false,
+  "independent_rows_verified": 38805,
+  "new_model_fits": 0
+}
