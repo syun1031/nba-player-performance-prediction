@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-01",
+  "functional_commit": "6ccccda",
+  "url": "https://nba-player-performance-prediction1.streamlit.app/",
+  "history_period_selector_removed": true,
+  "fixed_period": "March through regular-season end",
+  "verified_seasons": {
+    "2025-26": "2026-04-12 · TOR VS. BKN",
+    "2024-25": "2025-04-13 · TOR @ SAS"
+  },
+  "comparison_period_selector_retained": [
+    "March through season end",
+    "February validation",
+    "time CV"
+  ],
+  "full_suite_passed": 222,
+  "new_training": false,
+  "screenshot": "history_test_only_online.png"
+}
