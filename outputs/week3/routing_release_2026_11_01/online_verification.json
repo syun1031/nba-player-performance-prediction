@@ -71,10 +71,34 @@
       "route_mae": 11.393113125672409
     }
   ],
-  "local_tests": 220,
-  "clean_checkout_tests": 207,
+  "local_tests": 221,
+  "clean_checkout_tests": 208,
   "clean_checkout_used_existing_venv": true,
   "new_dependency_installation": false,
   "independent_rows_verified": 38805,
-  "new_model_fits": 0
+  "new_model_fits": 0,
+  "selector_fix_commit": "415cfbf",
+  "client_dropdown_values_verified": true,
+  "verified_dropdown_cases": [
+    {
+      "season": "2025-26",
+      "player": "Luka Dončić",
+      "displayed_game": "2026-04-02 · LAL @ OKC"
+    },
+    {
+      "season": "2024-25",
+      "player": "Luka Dončić",
+      "displayed_game": "2025-04-11 · LAL VS. HOU"
+    },
+    {
+      "season": "2024-25",
+      "player": "Jarrett Allen",
+      "displayed_game": "2025-04-13 · CLE VS. IND"
+    },
+    {
+      "season": "2025-26",
+      "player": "Jarrett Allen",
+      "displayed_game": "2026-04-08 · CLE VS. ATL"
+    }
+  ]
 }

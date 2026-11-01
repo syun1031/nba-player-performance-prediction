@@ -29,3 +29,5 @@
 - No code/model changes in old frozen core/research data. Current release publishes only new routing modules/display bundle; prior untracked direction experiments remain local.
 
 - Tasks3/4 complete:functionalcd026bd merged/pushed main; clean staged checkout207tests +audit pass with existingvenv; live two-season high/low branch values, twohistory CSVs and comparison CSV checked, screenshots recorded. No remaining findings.
+
+- Online regression fix415cfbf: browserinput game labels remained stale despite correct backend numbers; new context-scoped keys and widgetidentity regression RED→GREEN. Fullsuite221, clean208, four real browser dropdown contexts verified. Replaced screenshots; no data/model changes.
