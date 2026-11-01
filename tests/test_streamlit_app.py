@@ -25,13 +25,13 @@ class StreamlitPageTests(unittest.TestCase):
         app=self.app()
         self.assertEqual(len(app.exception),0)
         for player in ['Luka Dončić','Jarrett Allen']:
-            app.selectbox(key='history_player').set_value(player).run()
-            game=app.selectbox(key='history_game').value
+            next(x for x in app.selectbox if x.label=='球員').set_value(player).run()
+            game=next(x for x in app.selectbox if x.label=='比賽').value
             data=self.routing.predictions['2025-26']['test']
             expected=data.loc[(data['player_id']==player)&(data['game_id']==game)].iloc[0]
             self.assertEqual(self.metric(app,'模型預測'),f'{expected["pred_route25"]:.2f} 分')
             other=data.loc[data['player_id']==player].iloc[0]['game_id']
-            app.selectbox(key='history_game').set_value(other).run()
+            next(x for x in app.selectbox if x.label=='比賽').set_value(other).run()
             expected=data.loc[(data['player_id']==player)&(data['game_id']==other)].iloc[0]
             self.assertEqual(self.metric(app,'實際得分'),f'{expected["target_pts"]:.0f} 分')
             raw=self.bundle.history

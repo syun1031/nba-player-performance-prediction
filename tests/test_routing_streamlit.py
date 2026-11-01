@@ -14,8 +14,8 @@ class RoutingPageTests(unittest.TestCase):
             f=bundle.predictions[season]['test']
             for branch in ['combined_prior25_w2','residual25_w2']:
                 r=f.loc[f.route25_model.eq(branch)].iloc[0]
-                app.selectbox(key='history_player').set_value(r.player_id).run()
-                app.selectbox(key='history_game').set_value(r.game_id).run()
+                next(x for x in app.selectbox if x.label=='球員').set_value(r.player_id).run()
+                next(x for x in app.selectbox if x.label=='比賽').set_value(r.game_id).run()
                 self.assertEqual(len(app.exception),0)
                 self.assertEqual(self.metric(app,'模型預測'),f'{r.pred_route25:.2f} 分')
                 self.assertTrue(any(('直接25項' if branch=='combined_prior25_w2' else '五場均值增減25項') in t.value for t in app.info))
@@ -32,6 +32,19 @@ class RoutingPageTests(unittest.TestCase):
             app.selectbox(key='research_threshold').set_value(30).run();self.assertEqual(len(app.exception),0)
             app.selectbox(key='research_threshold').set_value(None).run()
         app.radio(key='research_period').set_value('CV').run();self.assertEqual(self.metric(app,'樣本數'),'8,647')
+    def test_game_widget_identity_changes_with_player_context(self):
+        app=self.app()
+        player_box=next(x for x in app.selectbox if x.label=='球員')
+        game_box=next(x for x in app.selectbox if x.label=='比賽')
+        first_id=game_box.proto.id
+        player_box.set_value('Luka Dončić').run()
+        game_box=next(x for x in app.selectbox if x.label=='比賽')
+        self.assertNotEqual(game_box.proto.id,first_id)
+        self.assertEqual(game_box.value,'LAL @ OKC|2026-04-02')
+        before_player=next(x for x in app.selectbox if x.label=='球員').proto.id
+        app.selectbox(key='history_season').set_value('2024-25').run()
+        self.assertNotEqual(next(x for x in app.selectbox if x.label=='球員').proto.id,before_player)
+        self.assertEqual(next(x for x in app.selectbox if x.label=='比賽').value,'LAL VS. HOU|2025-04-11')
     def test_history_missing_package_shows_clear_error(self):
         from unittest.mock import patch
         with patch('nba_dashboard.routing_views.ROOT',ROOT/'tests/missing-routing-data'):

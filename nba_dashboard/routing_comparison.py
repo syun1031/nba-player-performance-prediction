@@ -83,8 +83,9 @@ def render_comparison():
         if season=='2024-25':st.write('此球季沿用後續2025–26研究的設定，屬較早球季重現驗證，不是當年鎖定模型的前瞻部署證據。')
     with st.expander('五方案逐場預測與下載'):
         players=['全部球員']+sorted(frame['player_id'].unique().tolist())
-        if st.session_state.get('research_player') not in players:st.session_state.pop('research_player',None)
-        player=st.selectbox('逐場球員',players,key='research_player')
+        player_key=f'research_player_{season}_{period}'
+        if st.session_state.get(player_key) not in players:st.session_state.pop(player_key,None)
+        player=st.selectbox('逐場球員',players,key=player_key)
         selected=frame if player=='全部球員' else frame.loc[frame['player_id']==player]
         if threshold is not None:selected=selected.loc[selected['target_pts']>=threshold]
         human=pd.DataFrame({'球員':selected['player_id'],'日期':selected['GAMEDATE'],'對戰':selected['game_id'].str.rsplit('|',n=1).str[0],

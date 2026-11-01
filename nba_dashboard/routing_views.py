@@ -38,11 +38,16 @@ def render_history():
     if period=='test':st.caption('此期間已用於測試或追加研究，不能當作未使用的新資料；25分門檻依使用者指定固定，不代表已證明優於單一模型。')
     else:st.caption('此為已使用的開發資料，不是獨立最終測試。')
     if season=='2024-25':st.caption('2024–25沿用後續球季研究設定作較早球季重現；本次套用相同25分規則，沒有依此球季再挑門檻。')
-    players=sorted(frame.player_id.unique().tolist());ensure_option('history_player',players)
-    left,right=st.columns([1,1.5]);player=left.selectbox('球員',players,key='history_player')
+    players=sorted(frame.player_id.unique().tolist())
+    player_key=f'history_player_{season}_{period}'
+    ensure_option(player_key,players)
+    preferred=st.session_state.get('last_history_player')
+    initial=players.index(preferred) if preferred in players else 0
+    left,right=st.columns([1,1.5]);player=left.selectbox('球員',players,index=initial,key=player_key)
+    st.session_state['last_history_player']=player
     games=frame.loc[frame.player_id.eq(player)].sort_values(['GAMEDATE','game_id'],ascending=False)
-    ids=games.game_id.tolist();ensure_option('history_game',ids)
-    game=right.selectbox('比賽',ids,format_func=lambda key:key.rsplit('|',1)[1]+' · '+key.rsplit('|',1)[0],key='history_game')
+    ids=games.game_id.tolist();game_key=f'history_game_{season}_{period}_{player}';ensure_option(game_key,ids)
+    game=right.selectbox('比賽',ids,format_func=lambda key:key.rsplit('|',1)[1]+' · '+key.rsplit('|',1)[0],key=game_key)
     r=games.loc[games.game_id.eq(game)].iloc[0];pred=float(r['pred_'+ROUTE]);actual=float(r.target_pts);residual=actual-pred
     st.info(f'本場使用：{SOURCE_NAMES[r.route25_model]} · 近5場平均 {r.pred_baseline:.2f} 分'+('（達25分門檻）' if r.pred_baseline>=25 else '（低於25分門檻）'))
     cards=st.columns(5)
