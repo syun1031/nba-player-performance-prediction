@@ -1,0 +1,353 @@
+[
+  {
+    "key": [
+      "0022600172",
+      "1630559"
+    ],
+    "player": "Austin Reaves",
+    "diff": {
+      "minutes_source": [
+        "PT34M10.00S",
+        "34:10"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1642355"
+    ],
+    "player": "Bronny James",
+    "diff": {
+      "minutes_source": [
+        "PT01M22.00S",
+        "1:22"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1643418"
+    ],
+    "player": "Cameron Carr",
+    "diff": {
+      "minutes_source": [
+        "PT01M22.00S",
+        "1:22"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1629012"
+    ],
+    "player": "Collin Sexton",
+    "diff": {
+      "minutes_source": [
+        "PT15M52.00S",
+        "15:52"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1630702"
+    ],
+    "player": "Jaden Hardy",
+    "diff": {
+      "minutes_source": [
+        "PT01M22.00S",
+        "1:22"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1631222"
+    ],
+    "player": "Jake LaRavia",
+    "diff": {
+      "minutes_source": [
+        "PT25M33.00S",
+        "25:33"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1629020"
+    ],
+    "player": "Jarred Vanderbilt",
+    "diff": {
+      "minutes_source": [
+        "PT06M26.00S",
+        "6:26"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1643133"
+    ],
+    "player": "Lawson Lovering",
+    "diff": {
+      "minutes_source": [
+        "PT01M22.00S",
+        "1:22"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1629029"
+    ],
+    "player": "Luka Dončić",
+    "diff": {
+      "minutes_source": [
+        "PT35M38.00S",
+        "35:38"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1629680"
+    ],
+    "player": "Matisse Thybulle",
+    "diff": {
+      "minutes_source": [
+        "PT19M00.00S",
+        "18:60"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1629656"
+    ],
+    "player": "Quentin Grimes",
+    "diff": {
+      "minutes_source": [
+        "PT22M39.00S",
+        "22:39"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1630572"
+    ],
+    "player": "Sandro Mamukelashvili",
+    "diff": {
+      "minutes_source": [
+        "PT27M53.00S",
+        "27:53"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1631117"
+    ],
+    "player": "Walker Kessler",
+    "diff": {
+      "minutes_source": [
+        "PT32M08.00S",
+        "32:08"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1630533"
+    ],
+    "player": "Ziaire Williams",
+    "diff": {
+      "minutes_source": [
+        "PT15M13.00S",
+        "15:13"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "203952"
+    ],
+    "player": "Andrew Wiggins",
+    "diff": {
+      "minutes_source": [
+        "PT23M54.00S",
+        "23:54"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1628389"
+    ],
+    "player": "Bam Adebayo",
+    "diff": {
+      "minutes_source": [
+        "PT30M54.00S",
+        "30:54"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1626171"
+    ],
+    "player": "Bobby Portis Jr.",
+    "diff": {
+      "minutes_source": [
+        "PT18M08.00S",
+        "18:08"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1630558"
+    ],
+    "player": "Davion Mitchell",
+    "diff": {
+      "minutes_source": [
+        "PT29M14.00S",
+        "29:14"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1630696"
+    ],
+    "player": "Dru Smith",
+    "diff": {
+      "minutes_source": [
+        "PT10M40.00S",
+        "10:40"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "203507"
+    ],
+    "player": "Giannis Antetokounmpo",
+    "diff": {
+      "minutes_source": [
+        "PT34M11.00S",
+        "34:11"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "202691"
+    ],
+    "player": "Klay Thompson",
+    "diff": {
+      "minutes_source": [
+        "PT26M34.00S",
+        "26:34"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1642066"
+    ],
+    "player": "Myron Gardner",
+    "diff": {
+      "minutes_source": [
+        "PT01M22.00S",
+        "1:22"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1630208"
+    ],
+    "player": "Nick Richards",
+    "diff": {
+      "minutes_source": [
+        "PT01M22.00S",
+        "1:22"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1631107"
+    ],
+    "player": "Nikola Jović",
+    "diff": {
+      "minutes_source": [
+        "PT06M32.00S",
+        "6:32"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1641796"
+    ],
+    "player": "Pelle Larsson",
+    "diff": {
+      "minutes_source": [
+        "PT29M44.00S",
+        "29:44"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "1643553"
+    ],
+    "player": "Ryan Conwell",
+    "diff": {
+      "minutes_source": [
+        "PT08M16.00S",
+        "8:16"
+      ]
+    }
+  },
+  {
+    "key": [
+      "0022600172",
+      "203501"
+    ],
+    "player": "Tim Hardaway Jr.",
+    "diff": {
+      "minutes_source": [
+        "PT19M09.00S",
+        "19:09"
+      ]
+    }
+  }
+]

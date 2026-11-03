@@ -105,6 +105,97 @@ def completed_rows(g):
     return players,teams,excluded
 
 
+def validate_final_box(g,now):
+    """Historical final evidence, never a pregame-confirmation shortcut."""
+    text=g.get('gameStatusText','').strip()
+    if not re.fullmatch(r'Final(?:/(?:\d*OT))?',text):raise ValueError('No explicit Final label')
+    period=g.get('period')
+    if isinstance(period,bool) or not isinstance(period,int) or period<4:raise ValueError('Incomplete regulation periods')
+    if played_seconds(g.get('gameClock'))!=0:raise ValueError('Game clock is not zero')
+    start=datetime.fromisoformat(g['gameTimeUTC'].replace('Z','+00:00'))
+    if start.utcoffset() is None or now.utcoffset() is None or now-start<timedelta(minutes=48+5*(period-4)):
+        raise ValueError('Final before minimum elapsed regulation time')
+    expected=(48+5*(period-4))*60*5
+    for side in ['homeTeam','awayTeam']:
+        seconds=[played_seconds((p.get('statistics') or {}).get('minutes')) or 0 for p in g[side]['players']]
+        # Public player minutes can be truncated to whole seconds (observed 3s
+        # team drift). Bound the accumulated error by 1s per appeared player.
+        tolerance=max(2,sum(s>0 for s in seconds))
+        total_minutes=(g[side].get('statistics') or {}).get('minutes')
+        if total_minutes is not None and played_seconds(total_minutes)!=expected:raise ValueError('Official team minutes disagree')
+        if not math.isclose(sum(seconds),expected,rel_tol=0,abs_tol=tolerance):raise ValueError('Final team minutes incomplete')
+    completed_rows(g)
+
+
+def resolve_final_status(g,reference,now):
+    """Return a derived historical Final only with a second official Final feed.
+
+    Raw source objects are preserved. A numeric 1/2 alone never means completed.
+    """
+    if g['gameStatus'] not in (1,2) or reference['gameStatus']!=3 or reference.get('gameStatusText')!='Final' or reference['gameId']!=g['gameId']:
+        raise ValueError('Independent official Final reference missing')
+    seen=set()
+    for side in ['homeTeam','awayTeam']:
+        team=g[side];ref=reference[side]
+        if team['teamId']!=ref['teamId'] or team['teamTricode']!=ref['teamAbbreviation']:raise ValueError('Final reference team mismatch')
+        expected=set()
+        for p in team['players']:
+            starter=int(p['starter']) if 'starter' in p else int(bool(p.get('position')))
+            if starter:expected.add(int(p['personId']))
+        starters=set()
+        for p in ref['players']:
+            pid=int(p['personId'])
+            if pid in seen or p['teamId']!=team['teamId']:raise ValueError('Final reference player identity mismatch')
+            seen.add(pid)
+            if p.get('position'):
+                if p['lineupStatus']!='Confirmed' or p['rosterStatus']!='Active':raise ValueError('Final reference starters unconfirmed')
+                starters.add(pid)
+        if len(starters)!=5 or starters!=expected:raise ValueError('Final reference starting five mismatch')
+    resolved=dict(g,gameStatus=3)
+    validate_final_box(resolved,now)
+    return resolved
+
+
+def reconcile_overdue_cards(cards,now,out):
+    """Inspect past scheduled non-final cards; preserve genuine pending games."""
+    resolved={};attempts=[]
+    for gid,c in sorted(cards.items()):
+        if c['gameStatus']==3:continue
+        start=datetime.fromisoformat(c['gameTimeUtc'].replace('Z','+00:00'))
+        if start.utcoffset() is None:raise ValueError('Schedule UTC missing')
+        if start>=now:continue
+        attempt=dict(nba_game_id=gid,daily_numeric_status=c['gameStatus'],resolved=False)
+        try:
+            props,box_evidence=page(f'https://www.nba.com/game/{gid}/box-score');g=props['game']
+            if g['gameId']!=gid or g['gameEt'][:10]!=c['gameTimeEastern'][:10]:raise ValueError('Reconciliation date/ID mismatch')
+            for side in ['homeTeam','awayTeam']:
+                if g[side]['teamId']!=c[side]['teamId'] or g[side]['teamTricode']!=c[side]['teamTricode']:
+                    raise ValueError('Reconciliation team mismatch')
+            attempt.update(box_numeric_status=g['gameStatus'],box_status_text=g.get('gameStatusText'),box_evidence=box_evidence)
+            if g['gameStatus']==3:
+                validate_final_box(g,now);fixed=g;attempt['method']='official_box_final'
+            elif re.fullmatch(r'Final(?:/(?:\d*OT))?',g.get('gameStatusText','').strip()):
+                day=g['gameEt'][:10];url='https://stats.nba.com/js/data/leaders/00_daily_lineups_'+day.replace('-','')+'.json'
+                raw=urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0','Referer':'https://www.nba.com/'}),timeout=15).read()
+                refs=[x for x in json.loads(raw)['games'] if x['gameId']==gid]
+                if len(refs)!=1:raise ValueError('Independent Final game not unique')
+                ref=refs[0];fixed=resolve_final_status(g,ref,now)
+                attempt.update(method='official_final_text_full_box_and_independent_final_feed',reference_numeric_status=ref['gameStatus'],
+                    reference_url=url,reference_observed_at_utc=datetime.now(timezone.utc).isoformat(),reference_sha256=hashlib.sha256(raw).hexdigest())
+                dump(out/'status_evidence'/f'{gid}_final_reference.json',dict(game=ref,source_url=url,sha256=attempt['reference_sha256'],fetched_at_utc=attempt['reference_observed_at_utc']))
+            else:
+                attempt['reason']='Source still not final';attempts.append(attempt);continue
+            # Only the derived card is adjusted; both original status codes remain in the audit.
+            derived=dict(c,gameStatus=3)
+            for side in ['homeTeam','awayTeam']:derived[side]=dict(c[side],score=fixed[side]['score'])
+            attempt['resolved']=True
+            resolved[gid]=dict(card=derived,game=fixed,box_evidence=box_evidence,resolution=attempt)
+        except (ValueError,KeyError,TypeError,OSError) as exc:attempt['reason']=str(exc)
+        attempts.append(attempt)
+    dump(out/'status_resolution.json',attempts)
+    return resolved
+
+
 def write_csv(path,rows,empty_fields):
     with path.open('w',encoding='utf-8-sig',newline='') as f:
         w=csv.DictWriter(f,fieldnames=list(rows[0]) if rows else empty_fields)
@@ -179,20 +270,27 @@ def main():
                 if c['gameTimeEastern'][:10]!=d:raise ValueError('Game/date mismatch')
                 cards[c['gameId']]=c
     dump(out/'daily_index.json',daily)
+    reconciled=reconcile_overdue_cards(cards,datetime.now(timezone.utc),out)
+    for gid,record in reconciled.items():cards[gid]=record['card']
     finals={gid:c for gid,c in cards.items() if c['gameStatus']==3}
     pending=[r for c in cards.values() if c['gameStatus']!=3 for r in schedule_rows(c)]
     players=[];teams=[];excluded=[];evidence=[]
     def box(item):
         gid,c=item
         try:
-            p,e=page(f'https://www.nba.com/game/{gid}/box-score');g=p['game']
+            resolution=reconciled.get(gid)
+            if resolution:g=resolution['game'];e=resolution['box_evidence']
+            else:
+                p,e=page(f'https://www.nba.com/game/{gid}/box-score');g=p['game']
             if g['gameId']!=gid or g['gameEt'][:10]!=c['gameTimeEastern'][:10]:raise ValueError('Box/index mismatch')
             for side in ['homeTeam','awayTeam']:
                 if g[side]['teamTricode']!=c[side]['teamTricode'] or stat(g[side]['score'])!=stat(c[side]['score']):
                     raise ValueError('Box/index team or score mismatch')
+            validate_final_box(g,datetime.now(timezone.utc))
             rows,t,ex=completed_rows(g)
-            dump(out/'evidence'/f'{gid}.json',dict(players=rows,teams=t,excluded=ex,**e))
-            return rows,t,ex,dict(nba_game_id=gid,**e),None
+            resolution_info=resolution['resolution'] if resolution else None
+            dump(out/'evidence'/f'{gid}.json',dict(players=rows,teams=t,excluded=ex,status_resolution=resolution_info,**e))
+            return rows,t,ex,dict(nba_game_id=gid,status_resolution=resolution_info,**e),None
         except Exception as exc:return [],[],[],None,dict(nba_game_id=gid,error=str(exc))
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         for i,(ps,ts,ex,ev,err) in enumerate(pool.map(box,sorted(finals.items())),1):
@@ -218,6 +316,7 @@ def main():
     summary=dict(season=SEASON,through=last.isoformat(),collected_at_utc=datetime.now(timezone.utc).isoformat(),
         completed_games_indexed=len(finals),completed_games_collected=len(evidence),player_rows=len(players),team_rows=len(teams),
         excluded_rows=len(excluded),pending_games=len(pending)//2,errors=errors,complete=not errors,
+        reconciled_games=sorted(reconciled),
         first_game_date=min((r['GAMEDATE'] for r in players),default=None),last_game_date=max((r['GAMEDATE'] for r in players),default=None),
         source_publication_time=None,pregame_lineups_collected=False,prediction_ready=False,
         previous_season_profiles=len(profiles),previous_season_source=str(prior_source.relative_to(ROOT)),

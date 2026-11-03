@@ -1,0 +1,30 @@
+{
+  "local_tests": 257,
+  "clean_baseline_tests": 244,
+  "focused_resolution_and_collection_tests": 13,
+  "old_research_rows_verified": 38805,
+  "review_blocking_issues": [],
+  "new_model_fits": 0,
+  "models_unchanged": true,
+  "raw_numeric_status_preserved": true,
+  "normal_final_evidence_checks": [
+    "Final label",
+    "zero clock",
+    "completed periods",
+    "team minutes",
+    "player score sums"
+  ],
+  "anomalous_status_additional_checks": [
+    "second official feed Final=3",
+    "matching game/team IDs",
+    "matching five confirmed active starter IDs"
+  ],
+  "active_pending_games": 0,
+  "active_completed_games": 107,
+  "real_pregame_success_observed": false,
+  "code_sha256": {
+    "scripts/fetch_current_season.py": "850151890080bee742dd2460d18c3ee21e207d38d3c93988601804827002f970",
+    "scripts/build_future_prediction_bundle.py": "2694fac6da04591012a2f1d6455b8cb041800225533aac19c2a30e58c7e094a8",
+    "nba_dashboard/future_data.py": "a58a5315336569af9682f2789dd4a6310d9eacb56e5fed4fb0a3b545abcfb272"
+  }
+}

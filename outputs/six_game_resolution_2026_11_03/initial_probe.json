@@ -1,0 +1,200 @@
+[
+  {
+    "game_id": "0022600129",
+    "kind": "page",
+    "url": "https://www.nba.com/game/0022600129/box-score",
+    "observed_at_utc": "2026-11-03T06:32:52.565350+00:00",
+    "sha256": "8827d6893cce5f469a670273df7079ce3feac00dc4c3628605a197110900a2cf",
+    "http_date": "Tue, 03 Nov 2026 06:32:53 GMT",
+    "age": null,
+    "status": 1,
+    "status_text": "Final",
+    "period": 4,
+    "clock": "PT00M00.00S",
+    "day": "2026-10-27",
+    "home": "NYK",
+    "away": "DET",
+    "home_score": 111,
+    "away_score": 97,
+    "canonical": "<link rel=\"canonical\" href=\"https://www.nba.com/game/det-vs-nyk-0022600129/box-score\"/>"
+  },
+  {
+    "game_id": "0022600129",
+    "kind": "cdn",
+    "url": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022600129.json",
+    "observed_at_utc": "2026-11-03T06:32:53.422748+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600129",
+    "kind": "legacy",
+    "url": "https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2026/scores/gamedetail/0022600129_gamedetail.json",
+    "observed_at_utc": "2026-11-03T06:32:53.507621+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600137",
+    "kind": "page",
+    "url": "https://www.nba.com/game/0022600137/box-score",
+    "observed_at_utc": "2026-11-03T06:32:52.566350+00:00",
+    "sha256": "467fb1774074e1622c20e3de6df9a060c575db254b8310c4f6a3d20ecaf02b85",
+    "http_date": "Tue, 03 Nov 2026 06:32:54 GMT",
+    "age": null,
+    "status": 1,
+    "status_text": "Final",
+    "period": 4,
+    "clock": "PT00M00.00S",
+    "day": "2026-10-28",
+    "home": "CHI",
+    "away": "NYK",
+    "home_score": 127,
+    "away_score": 133,
+    "canonical": "<link rel=\"canonical\" href=\"https://www.nba.com/game/nyk-vs-chi-0022600137/box-score\"/>"
+  },
+  {
+    "game_id": "0022600137",
+    "kind": "cdn",
+    "url": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022600137.json",
+    "observed_at_utc": "2026-11-03T06:32:54.570262+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600137",
+    "kind": "legacy",
+    "url": "https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2026/scores/gamedetail/0022600137_gamedetail.json",
+    "observed_at_utc": "2026-11-03T06:32:54.639361+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600017",
+    "kind": "page",
+    "url": "https://www.nba.com/game/0022600017/box-score",
+    "observed_at_utc": "2026-11-03T06:32:52.566350+00:00",
+    "sha256": "404672aad9bb60e9a309aee1bb6a97f5f0b5e3c5cd866f32dfbbd844eadcc114",
+    "http_date": "Tue, 03 Nov 2026 06:32:53 GMT",
+    "age": null,
+    "status": 2,
+    "status_text": "Final",
+    "period": 4,
+    "clock": "PT00M00.00S",
+    "day": "2026-10-30",
+    "home": "BKN",
+    "away": "DET",
+    "home_score": 94,
+    "away_score": 110,
+    "canonical": "<link rel=\"canonical\" href=\"https://www.nba.com/game/det-vs-bkn-0022600017/box-score\"/>"
+  },
+  {
+    "game_id": "0022600017",
+    "kind": "cdn",
+    "url": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022600017.json",
+    "observed_at_utc": "2026-11-03T06:32:53.697241+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600017",
+    "kind": "legacy",
+    "url": "https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2026/scores/gamedetail/0022600017_gamedetail.json",
+    "observed_at_utc": "2026-11-03T06:32:53.738238+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600018",
+    "kind": "page",
+    "url": "https://www.nba.com/game/0022600018/box-score",
+    "observed_at_utc": "2026-11-03T06:32:52.566350+00:00",
+    "sha256": "b870548c2035cf037975d5cc0475053b29a1d53da8a222cc7d69be7870d1b963",
+    "http_date": "Tue, 03 Nov 2026 06:32:53 GMT",
+    "age": null,
+    "status": 1,
+    "status_text": "Final",
+    "period": 4,
+    "clock": "PT00M00.00S",
+    "day": "2026-10-30",
+    "home": "PHI",
+    "away": "NYK",
+    "home_score": 98,
+    "away_score": 93,
+    "canonical": "<link rel=\"canonical\" href=\"https://www.nba.com/game/nyk-vs-phi-0022600018/box-score\"/>"
+  },
+  {
+    "game_id": "0022600018",
+    "kind": "cdn",
+    "url": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022600018.json",
+    "observed_at_utc": "2026-11-03T06:32:53.738238+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600018",
+    "kind": "legacy",
+    "url": "https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2026/scores/gamedetail/0022600018_gamedetail.json",
+    "observed_at_utc": "2026-11-03T06:32:53.777246+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600170",
+    "kind": "page",
+    "url": "https://www.nba.com/game/0022600170/box-score",
+    "observed_at_utc": "2026-11-03T06:32:54.500276+00:00",
+    "sha256": "9b869ae744a884a1cf78a5c05a8118587ee41de8a693575e5de3c5a5ad8bdce3",
+    "http_date": "Tue, 03 Nov 2026 06:32:54 GMT",
+    "age": null,
+    "status": 3,
+    "status_text": "Final",
+    "period": 4,
+    "clock": "PT00M00.00S",
+    "day": "2026-11-02",
+    "home": "GSW",
+    "away": "PHX",
+    "home_score": 116,
+    "away_score": 113,
+    "canonical": "<link rel=\"canonical\" href=\"https://www.nba.com/game/phx-vs-gsw-0022600170/box-score\"/>"
+  },
+  {
+    "game_id": "0022600170",
+    "kind": "cdn",
+    "url": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022600170.json",
+    "observed_at_utc": "2026-11-03T06:32:55.157199+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600170",
+    "kind": "legacy",
+    "url": "https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2026/scores/gamedetail/0022600170_gamedetail.json",
+    "observed_at_utc": "2026-11-03T06:32:55.195521+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600171",
+    "kind": "page",
+    "url": "https://www.nba.com/game/0022600171/box-score",
+    "observed_at_utc": "2026-11-03T06:32:54.509276+00:00",
+    "sha256": "353e4bc8afda08c744235724e7fadaaae3001cb591594b0f69c3889833143d34",
+    "http_date": "Tue, 03 Nov 2026 06:32:54 GMT",
+    "age": null,
+    "status": 3,
+    "status_text": "Final",
+    "period": 4,
+    "clock": "PT00M00.00S",
+    "day": "2026-11-02",
+    "home": "LAC",
+    "away": "TOR",
+    "home_score": 118,
+    "away_score": 125,
+    "canonical": "<link rel=\"canonical\" href=\"https://www.nba.com/game/tor-vs-lac-0022600171/box-score\"/>"
+  },
+  {
+    "game_id": "0022600171",
+    "kind": "cdn",
+    "url": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022600171.json",
+    "observed_at_utc": "2026-11-03T06:32:55.384345+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "game_id": "0022600171",
+    "kind": "legacy",
+    "url": "https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2026/scores/gamedetail/0022600171_gamedetail.json",
+    "observed_at_utc": "2026-11-03T06:32:55.425345+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

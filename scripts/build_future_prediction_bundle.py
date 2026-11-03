@@ -23,6 +23,7 @@ def build(snapshot,*,replace=False):
     staging.mkdir(parents=True,exist_ok=False)
     for name in ['player_games.csv','team_games.csv','pending_schedule.csv','conferences_2026_27.json','daily_index.json']:
         shutil.copyfile(src/name,staging/name)
+    if (src/'status_resolution.json').exists():shutil.copyfile(src/'status_resolution.json',staging/'status_resolution.json')
     id_by_name={}
     for r in json.loads((ROOT/'outputs/nba_2025_26/source_rows.json').read_text(encoding='utf-8')):
         name=ALIASES.get(r['values'][0],r['values'][0]);pid=r['links'][0].rsplit('/',1)[-1]
@@ -38,6 +39,7 @@ def build(snapshot,*,replace=False):
     manifest=dict(schema=1,season='2026-27',version=src.name,through=m['through'],
         collected_at_utc=m['collected_at_utc'],player_rows=m['player_rows'],team_rows=m['team_rows'],
         completed_games=m['completed_games_collected'],last_completed_date=m['last_game_date'],
+        reconciled_game_ids=m.get('reconciled_games',[]),
         unresolved_game_dates=pending_dates,source_manifest_sha256=sha(src/'manifest.json'),
         minute_feature_policy='nearest integer minute, half-up; rounded-zero excluded from personal model history',
         files={p.name:sha(p) for p in sorted(staging.iterdir())},

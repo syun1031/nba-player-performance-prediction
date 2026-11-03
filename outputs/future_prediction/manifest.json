@@ -1,28 +1,30 @@
 {
   "schema": 1,
   "season": "2026-27",
-  "version": "20261103T053942799184Z",
+  "version": "20261103T063855761797Z",
   "through": "2026-11-03",
-  "collected_at_utc": "2026-11-03T05:40:16.037358+00:00",
-  "player_rows": 2279,
-  "team_rows": 202,
-  "completed_games": 101,
+  "collected_at_utc": "2026-11-03T06:39:43.506230+00:00",
+  "player_rows": 2413,
+  "team_rows": 214,
+  "completed_games": 107,
   "last_completed_date": "2026-11-02",
-  "unresolved_game_dates": [
-    "2026-10-27",
-    "2026-10-28",
-    "2026-10-30",
-    "2026-11-02"
+  "reconciled_game_ids": [
+    "0022600017",
+    "0022600018",
+    "0022600129",
+    "0022600137"
   ],
-  "source_manifest_sha256": "fae4c07df3db5c7b0b045576fb652fbe7871c321e13c0df58d11d26f68190842",
+  "unresolved_game_dates": [],
+  "source_manifest_sha256": "a210acf648a48f71b3f09ebaca3def5e63fa9dd03ad7948ffe9773ecb74ceead",
   "minute_feature_policy": "nearest integer minute, half-up; rounded-zero excluded from personal model history",
   "files": {
-    "conferences_2026_27.json": "6084e2c9a562ca868216aedbf29c17ee00c431df666066f13a669133af281157",
-    "daily_index.json": "68bcd6e954b21ab4a2e9a49c0cc8aee8bf729ff5858323b5f25ce7a1bc0b7fd5",
-    "pending_schedule.csv": "11243c8ae39870dfa12b65c1f38cca5c532f5c2c8accd232de699c24d788e3cb",
-    "player_games.csv": "d0b4eb7a4ba07d73b412d78581e587f1d6e04b27566a2b897f2ee994548101fe",
+    "conferences_2026_27.json": "47732f1ddb1e7e907c391b0e21a7821726c6bdde44852820509578a19f3eea5c",
+    "daily_index.json": "ef781fb9f7f7a88f3c03bdc181a00bf75d869d77ec039bf9e1b46f19c83a7831",
+    "pending_schedule.csv": "2492899bce09a06c854b95c35a101a6405b1947cbc6d043c55a1c7422e6a747b",
+    "player_games.csv": "506a8e392461cee22c4e9b0cc34f5a0c38dc89de6f2186bf24f7eb4eec90a4a7",
     "previous_season_profiles.csv": "936bc71562291ffb89ef4f9daf455c0654a4fc6f6bd29f82ab6bd20fb433b969",
-    "team_games.csv": "853fe6ef8717cb235049a930fde51ab282a43b93ef46ad84168f006e1c625c39"
+    "status_resolution.json": "60c61da56efd746117f39c6e0e73ac50d8ec1215f4a301abacd74b2654d2f7f1",
+    "team_games.csv": "9e765b4a10d3361595410a6886b84751346dbee389618e919a38863f816676dd"
   },
   "models": {
     "combined_prior25_w2": {

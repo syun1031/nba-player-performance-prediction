@@ -44,6 +44,7 @@ def load_future(root,folder=None):
             with path.open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f))
         players=read('player_games.csv');teams=read('team_games.csv');pending=read('pending_schedule.csv')
         profiles=read('previous_season_profiles.csv');conferences=read('conferences_2026_27.json')
+        if 'status_resolution.json' in m['files']:read('status_resolution.json')
         if conferences['season']!='2026-27' or len(conferences['teams'])!=30 or any(list(conferences['teams'].values()).count(c)!=15 for c in ['East','West']):raise DataIssue('本季分區對照不完整。')
         ids={};names={};keys=set();model_history=[]
         for r in players:
