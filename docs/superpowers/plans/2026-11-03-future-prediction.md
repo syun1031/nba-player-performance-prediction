@@ -32,7 +32,7 @@ NBA官方ID與Confirmed/Active、兩隊五先發、賽前30分鐘內、嚴格前
   - `dashboard_pages/future.py`、`nba_dashboard/future_views.py`、`streamlit_app.py`。
   - `tests/test_future_streamlit.py`及既有導覽測試。
 - [x] 完整單元／AppTest、歷史38805筆獨立稽核、真人來源實測、瀏覽器等待畫面與下載確認；獨立審查。
-- [ ] 更新README／TODO／PROGRESS；明列尚未實際觀測到賽前Confirmed成功例，而不是把歷史名單變成賽前證據；提交GitHub與驗收線上版。
+- [x] 更新README／TODO／PROGRESS；明列尚未實際觀測到賽前Confirmed成功例，而不是把歷史名單變成賽前證據；提交GitHub與驗收線上版。
 
 ## Ledger
 
@@ -42,3 +42,5 @@ NBA官方ID與Confirmed/Active、兩隊五先發、賽前30分鐘內、嚴格前
 - 本次使用者明確要求先實作官方取得與驗證，因此按已選流程實作，不再要求重複許可；來源尚未通過的狀態維持等待。
 
 - 2026-11-03完成：22項future tests、完整253、乾淨輸出240與原38805筆回測audit均通過。獨立review兩項修正通過。真實官網11/4有14場賽程，先發未公布404，瀏覽器等待畫面已保存；沒有實際賽前Confirmed成功案例。
+
+- 功能commit c8d5d46已推送main。線上/future已開啟，實測11/4賽程與未公布先發提示，無數值預測；截圖與DOM已保存。6場來源待釐清及真實賽前成功觀測仍未完成，已保留TODO。

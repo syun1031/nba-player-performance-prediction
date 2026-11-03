@@ -1,0 +1,64 @@
+- iframe [active]:
+  - log
+  - log
+  - link "Skip to main content":
+    - /url: "#stMain"
+  - banner:
+    - button "Fork":
+      - generic: Fork
+    - button "source"
+    - button "Main menu":
+  - main:
+    - link "歷史回測":
+      - /url: ""
+      - generic: 🏀
+      - paragraph: 歷史回測
+    - link "模型比較":
+      - /url: comparison
+      - generic: 📊
+      - paragraph: 模型比較
+    - link "未來預測":
+      - /url: future
+      - generic: 🔮
+      - paragraph: 未來預測
+    - separator
+    - paragraph: NBA 得分研究室 · 2026–27 例行賽
+    - heading "未來預測" [level=1]:
+      - text: 未來預測
+      - link "Link to heading":
+        - /url: "#7febb101"
+    - paragraph: 先查詢NBA官網正式先發，資料與資格通過後，在開賽前30分鐘內產生球員得分預測。
+    - paragraph: 近5場平均得分 < 25：直接25項＋上季＋2倍；≥ 25：五場均值增減25項＋上季＋2倍
+    - paragraph: 以球員會出賽為前提。使用訓練至2026-01-31的既有模型，本季前瞻準確率尚未建立。
+    - paragraph: 歷史查詢至 2026-11-03 · 已收錄 101 場完賽 · 資料取得 2026-11-03 13:40（台灣）
+    - alert:
+      - paragraph: 資料包仍有 6 場狀態待核對；若早於目標比賽日期，會先停用預測。
+    - paragraph: NBA比賽日期（美東日期）
+    - group "NBA比賽日期（美東日期）":
+      - spinbutton "year, NBA比賽日期（美東日期）": "2026"
+      - generic: /
+      - spinbutton "month, NBA比賽日期（美東日期）": "11"
+      - generic: /
+      - spinbutton "day, NBA比賽日期（美東日期）": "04"
+    - textbox
+    - button "Choose date":
+    - paragraph: 開賽時間會轉為台灣時間顯示；歷史特徵仍按NBA日期隔離。
+    - button "查詢官網賽程":
+      - paragraph: 查詢官網賽程
+    - paragraph: 比賽
+    - combobox "比賽"
+    - button "Open":
+    - alert:
+      - paragraph: 較早日期仍有官網狀態未釐清的比賽，請先更新並核對歷史。
+    - button "查詢官網正式先發" [active]:
+      - paragraph: 查詢官網正式先發
+    - alert:
+      - paragraph: 官網尚未公布這個日期或比賽的資料。
+    - status:
+      - paragraph: 等待查詢並確認本場正式先發。
+- link:
+  - /url: https://streamlit.io/cloud
+- link "App Creator Avatar":
+  - /url: https://share.streamlit.io/user/syun1031
+  - img "App Creator Avatar"
+- iframe

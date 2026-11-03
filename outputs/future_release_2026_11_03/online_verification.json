@@ -1,0 +1,18 @@
+{
+  "functional_commit": "c8d5d46",
+  "url": "https://nba-player-performance-prediction1.streamlit.app/future",
+  "date": "2026-11-03",
+  "new_page_loaded": true,
+  "schedule_query_succeeded": true,
+  "selected_game": "PHI @ DET · 11/05 08:00 台灣",
+  "lineup_query_result": "official future daily lineup not published",
+  "numeric_prediction_displayed": false,
+  "history_pending_warning": 6,
+  "real_pregame_success_observed": false,
+  "local_tests": 253,
+  "clean_checkout_tests": 240,
+  "screenshots": [
+    "online_future_overview.png",
+    "online_future_waiting.png"
+  ]
+}
