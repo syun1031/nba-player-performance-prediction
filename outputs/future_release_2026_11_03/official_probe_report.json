@@ -1,0 +1,12 @@
+{
+  "official_confirmed_schema_received": true,
+  "confirmed_schema_game_states": [
+    2,
+    3
+  ],
+  "future_schedule_games": 14,
+  "future_context_ready": false,
+  "future_source_message": "官網尚未公布這個日期或比賽的資料。",
+  "checked_at_utc": "2026-11-03T05:48:11.121007+00:00",
+  "real_pregame_confirmed_success_observed": false
+}

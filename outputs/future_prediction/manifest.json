@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "season": "2026-27",
+  "version": "20261103T053942799184Z",
+  "through": "2026-11-03",
+  "collected_at_utc": "2026-11-03T05:40:16.037358+00:00",
+  "player_rows": 2279,
+  "team_rows": 202,
+  "completed_games": 101,
+  "last_completed_date": "2026-11-02",
+  "unresolved_game_dates": [
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-30",
+    "2026-11-02"
+  ],
+  "source_manifest_sha256": "fae4c07df3db5c7b0b045576fb652fbe7871c321e13c0df58d11d26f68190842",
+  "minute_feature_policy": "nearest integer minute, half-up; rounded-zero excluded from personal model history",
+  "files": {
+    "conferences_2026_27.json": "6084e2c9a562ca868216aedbf29c17ee00c431df666066f13a669133af281157",
+    "daily_index.json": "68bcd6e954b21ab4a2e9a49c0cc8aee8bf729ff5858323b5f25ce7a1bc0b7fd5",
+    "pending_schedule.csv": "11243c8ae39870dfa12b65c1f38cca5c532f5c2c8accd232de699c24d788e3cb",
+    "player_games.csv": "d0b4eb7a4ba07d73b412d78581e587f1d6e04b27566a2b897f2ee994548101fe",
+    "previous_season_profiles.csv": "936bc71562291ffb89ef4f9daf455c0654a4fc6f6bd29f82ab6bd20fb433b969",
+    "team_games.csv": "853fe6ef8717cb235049a930fde51ab282a43b93ef46ad84168f006e1c625c39"
+  },
+  "models": {
+    "combined_prior25_w2": {
+      "path": "outputs/week2/prior_season_profile_v9/models/February_combined_prior25_w2.joblib",
+      "sha256": "659346302abae581c4a05f77f047d7030bc1d1bdba7133d23b34de8499185606",
+      "trained_through": "2026-01-31"
+    },
+    "residual25_w2": {
+      "path": "outputs/offset_prior25_w2_2025_26/models/February_residual25_w2.joblib",
+      "sha256": "ff25cc6f3268e28161270b630f7534c2f904b24a4aee8b7e6f515413bc48839c",
+      "trained_through": "2026-01-31"
+    }
+  }
+}

@@ -14,7 +14,7 @@
 |2025–26|6979|4.7670|11.6435|244|
 |2024–25|7060|4.7713|11.3931|329|
 
-原模型、原四模型比較包與舊實驗雜湊完整保留。新展示資料在`outputs/dashboard_routing/`；發布稽核：`python -m scripts.verify_routing_dashboard`。原九項是較早凍結基準，歷史頁目前預設為25分切換；未來比賽預測尚未提供。
+原模型、原四模型比較包與舊實驗雜湊完整保留。新展示資料在`outputs/dashboard_routing/`；發布稽核：`python -m scripts.verify_routing_dashboard`。原九項是較早凍結基準，歷史頁目前預設為25分切換；已新增[未來預測](https://nba-player-performance-prediction1.streamlit.app/future)，需官方確認先發與完整資料通過才開放數值；使用方法與當前限制見[說明](docs/future_prediction.md)。
 
 ## 先前研究紀錄
 
@@ -36,6 +36,7 @@
 
 - 歷史回測：http://127.0.0.1:8501/
 - 模型比較：http://127.0.0.1:8501/comparison
+- 未來預測：http://127.0.0.1:8501/future
 
 若要重新啟動，在專案根目錄的 PowerShell 執行：
 

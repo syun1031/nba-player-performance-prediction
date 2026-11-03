@@ -1,0 +1,1 @@
+{"review":"fresh-context read-only","findings":["unknown ID borrowed same-name history","CSV omitted nested evidence"],"resolved":true,"regressions_red_then_green":true,"focused_tests_passed":22,"real_pregame_success_observed":false}

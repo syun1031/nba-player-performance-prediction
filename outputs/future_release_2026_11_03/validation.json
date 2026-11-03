@@ -1,0 +1,25 @@
+{
+  "local_tests_passed": 253,
+  "clean_checkout_tests_passed": 240,
+  "local_only_research_tests": 13,
+  "new_model_fits": 0,
+  "historical_rows_verified": 38805,
+  "models_unchanged": true,
+  "review_findings_resolved": true,
+  "official_future_games": 14,
+  "official_confirmed_schema_observed": true,
+  "real_pregame_confirmed_success_observed": false,
+  "current_history_completed_games": 101,
+  "current_history_unresolved_games": 6,
+  "blocked_when_history_incomplete": true,
+  "manual_update_only": true,
+  "code_sha256": {
+    "nba_dashboard/future_source.py": "71b8cd18a7fa419e63709e80a6e7944158e00f51d90c5946cfc3998df533c6c8",
+    "nba_dashboard/future_data.py": "b00b3ad03af46eea0af9c5593df73fd386af321f9c9a905d23e6f4fe239173fe",
+    "nba_dashboard/future_inference.py": "8384b013a7c91c77df713e5cfd9cfb5c21c2e1ba74b24a816f7d221442c53807",
+    "nba_dashboard/future_views.py": "aa7e9bc640427917b628d429eb677b70a48e600717763c184f6883a4f2a1498b",
+    "scripts/fetch_current_season.py": "6c2d0be3826d2c73c51d7f9e6dc6abc368593d14c09a5e38b1d1c778491821f0",
+    "scripts/build_future_prediction_bundle.py": "f84c1dd9d1d52d001c65cf1acc4b7520f554fd6f2c706c8cae5a96fb92da7659",
+    "streamlit_app.py": "aae8c1a62f8631275fe4120b43ebca06b22a7eb232dbbe6132453cfc6430854f"
+  }
+}

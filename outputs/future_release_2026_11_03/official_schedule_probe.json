@@ -1,0 +1,149 @@
+{
+  "games": [
+    {
+      "nba_game_id": "0022600173",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "DET",
+      "away_team": "PHI",
+      "home_team_id": 1610612765,
+      "away_team_id": 1610612755,
+      "scheduled_start_utc": "2026-11-05T00:00:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600174",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "WAS",
+      "away_team": "ATL",
+      "home_team_id": 1610612764,
+      "away_team_id": 1610612737,
+      "scheduled_start_utc": "2026-11-05T00:00:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600175",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "BOS",
+      "away_team": "MIL",
+      "home_team_id": 1610612738,
+      "away_team_id": 1610612749,
+      "scheduled_start_utc": "2026-11-05T00:30:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600176",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "BKN",
+      "away_team": "CHA",
+      "home_team_id": 1610612751,
+      "away_team_id": 1610612766,
+      "scheduled_start_utc": "2026-11-05T00:30:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600177",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "NYK",
+      "away_team": "CHI",
+      "home_team_id": 1610612752,
+      "away_team_id": 1610612741,
+      "scheduled_start_utc": "2026-11-05T00:30:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600178",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "MEM",
+      "away_team": "IND",
+      "home_team_id": 1610612763,
+      "away_team_id": 1610612754,
+      "scheduled_start_utc": "2026-11-05T01:00:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600179",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "NOP",
+      "away_team": "UTA",
+      "home_team_id": 1610612740,
+      "away_team_id": 1610612762,
+      "scheduled_start_utc": "2026-11-05T01:00:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600180",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "OKC",
+      "away_team": "CLE",
+      "home_team_id": 1610612760,
+      "away_team_id": 1610612739,
+      "scheduled_start_utc": "2026-11-05T01:00:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600181",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "HOU",
+      "away_team": "MIN",
+      "home_team_id": 1610612745,
+      "away_team_id": 1610612750,
+      "scheduled_start_utc": "2026-11-05T01:30:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600182",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "DEN",
+      "away_team": "TOR",
+      "home_team_id": 1610612743,
+      "away_team_id": 1610612761,
+      "scheduled_start_utc": "2026-11-05T02:00:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600183",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "PHX",
+      "away_team": "POR",
+      "home_team_id": 1610612756,
+      "away_team_id": 1610612757,
+      "scheduled_start_utc": "2026-11-05T02:00:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600184",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "SAS",
+      "away_team": "DAL",
+      "home_team_id": 1610612759,
+      "away_team_id": 1610612742,
+      "scheduled_start_utc": "2026-11-05T02:30:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600185",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "SAC",
+      "away_team": "LAL",
+      "home_team_id": 1610612758,
+      "away_team_id": 1610612747,
+      "scheduled_start_utc": "2026-11-05T03:00:00+00:00",
+      "game_status": 1
+    },
+    {
+      "nba_game_id": "0022600186",
+      "GAMEDATE": "2026-11-04",
+      "home_team": "LAC",
+      "away_team": "MIA",
+      "home_team_id": 1610612746,
+      "away_team_id": 1610612748,
+      "scheduled_start_utc": "2026-11-05T03:30:00+00:00",
+      "game_status": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.nba.com/games?date=2026-11-04",
+    "observed_at_utc": "2026-11-03T05:48:08.206053+00:00",
+    "sha256": "0bf61072f67e89e9781bfec68ff0633083060fc59b9047de9fc681ab62664f72"
+  }
+}
