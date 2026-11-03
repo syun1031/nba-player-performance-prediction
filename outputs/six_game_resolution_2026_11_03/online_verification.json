@@ -1,0 +1,16 @@
+{
+  "functional_commit": "383dafc",
+  "url": "https://nba-player-performance-prediction1.streamlit.app/future",
+  "date": "2026-11-03",
+  "active_snapshot": "20261103T063855761797Z",
+  "completed_games": 107,
+  "pending_games": 0,
+  "verified_target_day": "2026-11-04",
+  "live_schedule_query_succeeded": true,
+  "unresolved_history_warning_present": false,
+  "official_lineup_query_available": true,
+  "pregame_guards_unchanged": true,
+  "numeric_prediction_generated": false,
+  "real_pregame_success_observed": false,
+  "screenshot": "online_history_gate_cleared.png"
+}
