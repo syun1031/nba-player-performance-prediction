@@ -1,4 +1,5 @@
 from pathlib import Path
+from datetime import date
 from unittest.mock import patch
 import unittest
 import numpy as np
@@ -27,6 +28,30 @@ class FuturePageTests(unittest.TestCase):
             self.assertEqual(len(app.exception),0)
             self.assertIn('未來預測',[x.value for x in app.title])
             self.assertFalse(any(m.label=='預測得分' for m in app.metric))
+
+    def test_future_schedule_is_not_reported_as_history_problem(self):
+        bundle=history_fixture()
+        bundle['pending']=[dict(nba_game_id='0022600174',GAMEDATE='2026-11-04',
+            game_status='1',scheduled_start_utc='2026-11-05T00:00:00Z')]*2
+        with patch('nba_dashboard.future_views.utc_now',return_value=NOW),patch('nba_dashboard.future_views.load_future',return_value=bundle):
+            app=self.app()
+            self.assertEqual(len(app.exception),0)
+            self.assertFalse(any('狀態待核對' in x.value for x in app.warning))
+            self.assertTrue(any('1 場尚未開賽' in x.value for x in app.caption))
+            # The same scheduled game IS required history for a later target day.
+            app.date_input(key='fp_day').set_value(date(2026,11,5)).run()
+            self.assertTrue(any('1 場' in x.value and '停用預測' in x.value for x in app.warning))
+
+    def test_prior_pending_blocks_and_in_progress_is_not_called_upcoming(self):
+        bundle=history_fixture()
+        bundle['pending']=[dict(nba_game_id='0022600174',GAMEDATE='2026-11-04',
+            game_status='2',scheduled_start_utc='2026-11-04T22:00:00Z')]
+        with patch('nba_dashboard.future_views.utc_now',return_value=NOW),patch('nba_dashboard.future_views.load_future',return_value=bundle):
+            app=self.app()
+            self.assertFalse(any('尚未開賽' in x.value for x in app.caption))
+            self.assertTrue(any('1 場尚未收錄為完賽' in x.value for x in app.caption))
+            app.date_input(key='fp_day').set_value(date(2026,11,5)).run()
+            self.assertTrue(any('停用預測' in x.value for x in app.warning))
 
     def test_empty_schedule_and_source_error_show_no_prediction(self):
         with patch('nba_dashboard.future_views.utc_now',return_value=NOW),patch('nba_dashboard.future_views.query_schedule',return_value={'games':[],'source':{}}):

@@ -26,6 +26,26 @@ def get_models(root,version,_bundle):return load_models(Path(root),_bundle)
 def clear_result():st.session_state.pop('fp_result',None)
 
 
+def pending_notice(rows,day,now):
+    """Describe pending games relative to the selected NBA date, not wall clock alone."""
+    games={}
+    for row in rows:games.setdefault(row.get('nba_game_id',row['GAMEDATE']),[]).append(row)
+    prior=upcoming=other=0
+    for records in games.values():
+        if any(r['GAMEDATE']<day for r in records):
+            prior+=1;continue
+        try:scheduled=all(str(r['game_status'])=='1' and aware(r['scheduled_start_utc'])>now for r in records)
+        except (KeyError,ValueError,TypeError):scheduled=False
+        if scheduled:upcoming+=1
+        else:other+=1
+    if prior:
+        st.warning(f'所選NBA日期之前仍有 {prior} 場尚未收錄為完賽，會先停用預測；請等待每日更新或在GitHub Actions手動補跑。')
+    if upcoming:
+        st.caption(f'資料包另列有 {upcoming} 場尚未開賽的賽程，不屬於所選日期之前的歷史，不影響歷史完整性檢查。')
+    if other:
+        st.caption(f'另有 {other} 場尚未收錄為完賽（可能進行中或狀態待核對），不屬於所選日期之前的歷史。')
+
+
 def recent_table(bundle,pid,day):
     rows=[r for r in bundle['raw_history'] if r['nba_player_id']==str(pid) and r['GAMEDATE']<day]
     rows=sorted(rows,key=lambda r:r['GAMEDATE'])[-10:]
@@ -44,12 +64,10 @@ def render_future():
     except DataIssue as exc:st.error(str(exc));st.stop()
     m=bundle['manifest'];now=utc_now()
     st.caption(f"歷史查詢至 {m['through']} · 已收錄 {m.get('completed_games',len(bundle['team_games'])//2)} 場完賽 · 資料取得 {aware(m['collected_at_utc']).astimezone(TAIPEI):%Y-%m-%d %H:%M}（台灣）")
-    if bundle['pending']:
-        n=len({r.get('nba_game_id',r['GAMEDATE']) for r in bundle['pending']})
-        st.warning(f'資料包仍有 {n} 場狀態待核對；若早於目標比賽日期，會先停用預測。')
     day=st.date_input('NBA比賽日期（美東日期）',value=now.astimezone(ZoneInfo('America/New_York')).date(),
         min_value=pd.Timestamp('2026-07-01').date(),max_value=pd.Timestamp('2027-06-30').date(),key='fp_day').isoformat()
     st.caption('開賽時間會轉為台灣時間顯示；歷史特徵仍按NBA日期隔離。')
+    pending_notice(bundle['pending'],day,now)
     if st.button('查詢官網賽程',key='fp_schedule_query'):
         clear_result();st.session_state.pop('fp_context',None);st.session_state.pop('fp_source_error',None)
         try:
