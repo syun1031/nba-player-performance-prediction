@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "season": "2026-27",
-  "version": "20261104T080537901773Z",
+  "version": "20261104T095327776744Z",
   "through": "2026-11-04",
-  "collected_at_utc": "2026-11-04T08:06:24.765128+00:00",
+  "collected_at_utc": "2026-11-04T09:54:05.968834+00:00",
   "player_rows": 2413,
   "team_rows": 214,
   "completed_games": 107,
@@ -12,11 +12,11 @@
   "unresolved_game_dates": [
     "2026-11-04"
   ],
-  "source_manifest_sha256": "52a1226d44fa87220aa86ed6f6290f095244f6e924cc06c64296d321f1c78631",
+  "source_manifest_sha256": "6c9a9122f6f2f157c3e203a419147fdf66cc1b578c5e8e197fecc0f42a1c1d87",
   "minute_feature_policy": "nearest integer minute, half-up; rounded-zero excluded from personal model history",
   "files": {
-    "conferences_2026_27.json": "0ece0a77dbbd919162f4aeae37c6ba32a2e7dda2faba04eaf77855b3525a0fa5",
-    "daily_index.json": "b0905399b5f737416bafd9ccf257f263f82d0b47985ddf9551628db1fa669b70",
+    "conferences_2026_27.json": "faafe30d5c16df6f4e11ea70ac81ce77b0b098e87704497c1923cc69330a2267",
+    "daily_index.json": "8d04edfae8b3274360c4a32000b647b8da0e8c764e74bdf3b28f3f7f472b3f03",
     "pending_schedule.csv": "2b1c08221fa1013d51041d4a381e41ead5f95343f207d1a2c4e1b4ea75710dd8",
     "player_games.csv": "506a8e392461cee22c4e9b0cc34f5a0c38dc89de6f2186bf24f7eb4eec90a4a7",
     "previous_season_profiles.csv": "936bc71562291ffb89ef4f9daf455c0654a4fc6f6bd29f82ab6bd20fb433b969",

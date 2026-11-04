@@ -2,12 +2,12 @@
   "schema": 1,
   "season": "2026-27",
   "kind": "date_isolated_hypothetical_backtest",
-  "history_version": "20261104T080537901773Z",
-  "history_manifest_sha256": "975a482177c383517735511db8da5ff3a47d7488df2746ce28782f471d99d5cb",
+  "history_version": "20261104T095327776744Z",
+  "history_manifest_sha256": "b0ab4a578a4875ca83fdcbbeaf5d93385bf86bc75999df31ced2518cbc986f00",
   "through": "2026-11-04",
   "last_completed_date": "2026-11-02",
-  "collected_at_utc": "2026-11-04T08:06:24.765128+00:00",
-  "generated_at_utc": "2026-11-04T08:06:25.717102+00:00",
+  "collected_at_utc": "2026-11-04T09:54:05.968834+00:00",
+  "generated_at_utc": "2026-11-04T09:54:06.915863+00:00",
   "models": {
     "combined_prior25_w2": {
       "path": "outputs/week2/prior_season_profile_v9/models/February_combined_prior25_w2.joblib",
