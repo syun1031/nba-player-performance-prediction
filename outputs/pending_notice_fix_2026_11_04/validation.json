@@ -1,0 +1,18 @@
+{
+  "fix_commit": "9abd116",
+  "verified_at_utc": "2026-11-04T08:25:06.786550+00:00",
+  "pending_games": 14,
+  "pending_dates": [
+    "2026-11-04"
+  ],
+  "source_statuses": [
+    "1"
+  ],
+  "selected_date": "2026-11-04",
+  "history_issues": [],
+  "tests_passed": 24,
+  "prediction_gate_changed": false,
+  "online_verified": true,
+  "old_generic_warning_absent": true,
+  "online_caption": "資料包另列有 14 場尚未開賽的賽程，不屬於所選日期之前的歷史，不影響歷史完整性檢查。"
+}
