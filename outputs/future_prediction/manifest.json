@@ -1,29 +1,26 @@
 {
   "schema": 1,
   "season": "2026-27",
-  "version": "20261103T063855761797Z",
-  "through": "2026-11-03",
-  "collected_at_utc": "2026-11-03T06:39:43.506230+00:00",
+  "version": "20261104T080537901773Z",
+  "through": "2026-11-04",
+  "collected_at_utc": "2026-11-04T08:06:24.765128+00:00",
   "player_rows": 2413,
   "team_rows": 214,
   "completed_games": 107,
   "last_completed_date": "2026-11-02",
-  "reconciled_game_ids": [
-    "0022600017",
-    "0022600018",
-    "0022600129",
-    "0022600137"
+  "reconciled_game_ids": [],
+  "unresolved_game_dates": [
+    "2026-11-04"
   ],
-  "unresolved_game_dates": [],
-  "source_manifest_sha256": "a210acf648a48f71b3f09ebaca3def5e63fa9dd03ad7948ffe9773ecb74ceead",
+  "source_manifest_sha256": "52a1226d44fa87220aa86ed6f6290f095244f6e924cc06c64296d321f1c78631",
   "minute_feature_policy": "nearest integer minute, half-up; rounded-zero excluded from personal model history",
   "files": {
-    "conferences_2026_27.json": "47732f1ddb1e7e907c391b0e21a7821726c6bdde44852820509578a19f3eea5c",
-    "daily_index.json": "ef781fb9f7f7a88f3c03bdc181a00bf75d869d77ec039bf9e1b46f19c83a7831",
-    "pending_schedule.csv": "2492899bce09a06c854b95c35a101a6405b1947cbc6d043c55a1c7422e6a747b",
+    "conferences_2026_27.json": "0ece0a77dbbd919162f4aeae37c6ba32a2e7dda2faba04eaf77855b3525a0fa5",
+    "daily_index.json": "b0905399b5f737416bafd9ccf257f263f82d0b47985ddf9551628db1fa669b70",
+    "pending_schedule.csv": "2b1c08221fa1013d51041d4a381e41ead5f95343f207d1a2c4e1b4ea75710dd8",
     "player_games.csv": "506a8e392461cee22c4e9b0cc34f5a0c38dc89de6f2186bf24f7eb4eec90a4a7",
     "previous_season_profiles.csv": "936bc71562291ffb89ef4f9daf455c0654a4fc6f6bd29f82ab6bd20fb433b969",
-    "status_resolution.json": "60c61da56efd746117f39c6e0e73ac50d8ec1215f4a301abacd74b2654d2f7f1",
+    "status_resolution.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "team_games.csv": "9e765b4a10d3361595410a6886b84751346dbee389618e919a38863f816676dd"
   },
   "models": {
