@@ -442,5 +442,5 @@ player_id 使用 PLAYER，team_id 使用 TEAM，game_id 使用 MATCHUP＋GAMEDAT
 - [x] 實作固定模型歷史推論、同日前後隔離、球員ID及五場門檻，保留排除原因。
 - [x] 歷史回測新增2026–27，保留舊兩季3月至季末及原有成果。
 - [x] 工作流程只在整輪成功後提交歷史與回測兩包，失敗不發布。
-- [ ] GitHub runner手動實跑與線上驗收。
+- [x] GitHub runner手動實跑成功（run 41796731502），已自動提交f202675；線上確認資料取得2026-11-04 16:06、本季457筆合格回測。
 - 說明與補跑：[docs/daily_update.md](docs/daily_update.md)。

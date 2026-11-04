@@ -1,0 +1,197 @@
+Browser tab: 2, Title: "NBA 得分研究室 · Streamlit", URL: "https://nba-player-performance-prediction1.streamlit.app/".
+1 AXWebArea NBA 得分研究室 · Streamlit, URL: nba-player-performance-prediction1.streamlit.app/
+	2 container
+		3 container streamlitApp
+			4 AXWebArea NBA 得分研究室, URL: nba-player-performance-prediction1.streamlit.app/~/+/
+				5 container
+					11 container
+						12 link Description: Skip to main content, Value: nba-player-performance-prediction1.streamlit.app/~/+/#stMain
+						13 container
+							14 button Fork
+							15 button source
+							16 pop up button (collapsed) Description: Main menu, Secondary Actions: Expand
+						17 container stMain
+							18 link Description: 歷史回測, Value: nba-player-performance-prediction1.streamlit.app/~/+/
+							19 link Description: 模型比較, Value: nba-player-performance-prediction1.streamlit.app/~/+/comparison
+							20 link Description: 未來預測, Value: nba-player-performance-prediction1.streamlit.app/~/+/future
+							21 container
+								22 combo box (collapsed, settable) Description: 球季, Value: 2026–27 例行賽, ID: react-aria5705001613-:r7:, Secondary Actions: Expand
+								23 pop up button (collapsed) Description: Open, ID: react-aria5705001613-:r3:, Secondary Actions: Expand
+							24 text NBA 得分研究室 · 2026–27 例行賽
+							25 heading 歷史回測, Value: 1, ID: 73dabf05
+								26 text 歷史回測
+								27 link Description: Link to heading, Value: nba-player-performance-prediction1.streamlit.app/~/+/#73dabf05
+							28 text 本季開季至今，對已完賽且符合五場門檻的球員出賽回算。
+							29 text 日期隔離的假設性回測：只使用比賽日期前的歷史，但本場先發來自賽後資料；並非當時留存的賽前預測。
+							30 text 近5場平均得分 < 25：直接25項＋上季＋2倍；≥ 25：五場均值增減25項＋上季＋2倍；兩個固定模型均訓練至2026-01-31，沒有每日重訓。
+							31 container
+								32 text 資料取得 2026-11-04 16 :06 （台灣） · 最近完賽 2026-11-02 · 合格 457 筆 · 未納入 1,956 筆
+							33 container
+								34 text 每日台灣17 :00由GitHub  Actions開始更新；實際發布時間依執行狀況而定。未納入者包含五場不足或較早比賽尚待釐清。
+							35 container
+								36 combo box (collapsed, settable) Description: 球員, Value: AJ Green, ID: react-aria5705001613-:r36:, Secondary Actions: Expand
+								37 pop up button (collapsed) Description: Open, ID: react-aria5705001613-:r32:, Secondary Actions: Expand
+							38 container
+								39 combo box (collapsed, settable) Description: 比賽, Value: 2026-11-02 · MIL @ MIN, ID: react-aria5705001613-:r3k:, Secondary Actions: Expand
+								40 pop up button (collapsed) Description: Open, ID: react-aria5705001613-:r3g:, Secondary Actions: Expand
+							41 text 本場使用：直接25項＋上季＋2倍
+							42 container
+								43 text 模型預測
+								44 text 6.79 分
+							45 container
+								46 text 實際上場時間
+								47 text 23.53 分鐘
+							48 container
+								49 text 實際得分
+								50 text 13 分
+							51 container
+								52 text 絕對誤差
+								53 text 6.21 分
+							54 container
+								55 text 五場均值基準
+								56 text 6.80 分
+							57 heading 本場之前的近10場出賽, Value: 3, ID: 10
+								58 text 本場之前的近10場出賽
+								59 link Description: Link to heading, Value: nba-player-performance-prediction1.streamlit.app/~/+/#10
+							60 container
+								61 button Show data
+								62 button Download as PNG
+								63 button Fullscreen
+								64 container Vega visualization
+									65 image
+										66 container X-axis titled '比賽日期' for a time scale with values from 10/21 to 10/31 Y-axis titled '得分' for a linear scale with values from 0 to 11 比賽日期: 10/21; 得分: 6; 曲線: 實際得分; 日期: 2026-10-21比賽日期: 10/21; 得分: 6; 曲線: 實際得分; 日期: 2026-10-21 比賽日期: 10/23; 得分: 11; 曲線: 實際得分; 日期: 2026-10-23 比賽日期: 10/24; 得分: 11; 曲線: 實際得分; 日期: 2026-10-24 比賽日期: 10/26; 得分: 3; 曲線: 實際得分; 日期: 2026-10-26 比賽日期: 10/28; 得分: 9; 曲線: 實際得分; 日期: 2026-10-28 比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31 Symbol legend titled ' ' for fill color and stroke color with 1 value: 實際得分
+											67 axis X-axis titled '比賽日期' for a time scale with values from 10/21 to 10/31
+											68 axis Y-axis titled '得分' for a linear scale with values from 0 to 11
+											69 container 比賽日期: 10/21; 得分: 6; 曲線: 實際得分; 日期: 2026-10-21
+												70 container 比賽日期: 10/21; 得分: 6; 曲線: 實際得分; 日期: 2026-10-21
+													71 line mark 比賽日期: 10/21; 得分: 6; 曲線: 實際得分; 日期: 2026-10-21
+											72 container 比賽日期: 10/21; 得分: 6; 曲線: 實際得分; 日期: 2026-10-21 比賽日期: 10/23; 得分: 11; 曲線: 實際得分; 日期: 2026-10-23 比賽日期: 10/24; 得分: 11; 曲線: 實際得分; 日期: 2026-10-24 比賽日期: 10/26; 得分: 3; 曲線: 實際得分; 日期: 2026-10-26 比賽日期: 10/28; 得分: 9; 曲線: 實際得分; 日期: 2026-10-28 比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31
+												73 point 比賽日期: 10/21; 得分: 6; 曲線: 實際得分; 日期: 2026-10-21
+												74 point 比賽日期: 10/23; 得分: 11; 曲線: 實際得分; 日期: 2026-10-23
+												75 point 比賽日期: 10/24; 得分: 11; 曲線: 實際得分; 日期: 2026-10-24
+												76 point 比賽日期: 10/26; 得分: 3; 曲線: 實際得分; 日期: 2026-10-26
+												77 point 比賽日期: 10/28; 得分: 9; 曲線: 實際得分; 日期: 2026-10-28
+												78 point 比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31
+											79 legend Symbol legend titled ' ' for fill color and stroke color with 1 value: 實際得分
+							80 container
+								81 button Show/hide columns
+								82 button Download as CSV
+								83 button Search
+								84 button Fullscreen
+								85 container
+									86 image
+										87 table
+											88 row 比賽日期 對戰 實際上場時間（分鐘） 實際得分
+												89 cell (selectable) 比賽日期
+												90 cell (selectable) 對戰
+												91 cell (selectable) 實際上場時間（分鐘）
+												92 cell (selectable) 實際得分
+											93 container
+												94 row (selectable) 2026-10-21 MIL @ WAS 15.4 6
+													95 cell (selectable) Value: 2026-10-21, ID: glide-cell-0-0
+													96 cell (selectable) Value: MIL @ WAS, ID: glide-cell-1-0
+													97 cell (selectable) Value: 15.4, ID: glide-cell-2-0
+													98 cell (selectable) Value: 6, ID: glide-cell-3-0
+												99 row (selectable) 2026-10-23 MIL VS. CHI 16.983333333333334 11
+													100 cell (selectable) Value: 2026-10-23, ID: glide-cell-0-1
+													101 cell (selectable) Value: MIL VS. CHI, ID: glide-cell-1-1
+													102 cell (selectable) Value: 16.983333333333334, ID: glide-cell-2-1
+													103 cell (selectable) Value: 11, ID: glide-cell-3-1
+												104 row (selectable) 2026-10-24 MIL @ PHI 19.116666666666667 11
+													105 cell (selectable) Value: 2026-10-24, ID: glide-cell-0-2
+													106 cell (selectable) Value: MIL @ PHI, ID: glide-cell-1-2
+													107 cell (selectable) Value: 19.116666666666667, ID: glide-cell-2-2
+													108 cell (selectable) Value: 11, ID: glide-cell-3-2
+												109 row (selectable) 2026-10-26 MIL VS. IND 20.3 3
+													110 cell (selectable) Value: 2026-10-26, ID: glide-cell-0-3
+													111 cell (selectable) Value: MIL VS. IND, ID: glide-cell-1-3
+													112 cell (selectable) Value: 20.3, ID: glide-cell-2-3
+													113 cell (selectable) Value: 3, ID: glide-cell-3-3
+												114 row (selectable) 2026-10-28 MIL VS. HOU 24 9
+													115 cell (selectable) Value: 2026-10-28, ID: glide-cell-0-4
+													116 cell (selectable) Value: MIL VS. HOU, ID: glide-cell-1-4
+													117 cell (selectable) Value: 24, ID: glide-cell-2-4
+													118 cell (selectable) Value: 9, ID: glide-cell-3-4
+												119 row (selectable) 2026-10-31 MIL VS. CLE 20.45 0
+													120 cell (selectable) Value: 2026-10-31, ID: glide-cell-0-5
+													121 cell (selectable) Value: MIL VS. CLE, ID: glide-cell-1-5
+													122 cell (selectable) Value: 20.45, ID: glide-cell-2-5
+													123 cell (selectable) Value: 0, ID: glide-cell-3-5
+									124 image
+							125 heading 這位球員的本季合格出賽, Value: 3, ID: a32565
+								126 text 這位球員的本季合格出賽
+								127 link Description: Link to heading, Value: nba-player-performance-prediction1.streamlit.app/~/+/#a32565
+							128 text 2 場 · 平均絕對誤差 7.22 分。包含所選比賽之後的已完賽紀錄。
+							129 container
+								130 button Show data
+								131 button Download as PNG
+								132 button Fullscreen
+								133 container Vega visualization
+									134 image
+										135 container X-axis titled '比賽日期' for a time scale with values from 10/31 to 11/02 Y-axis titled '得分' for a linear scale with values from 0 to 13 比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31比賽日期: 10/31; 得分: 8.22056293488; 曲線: 切換方案預測; 日期: 2026-10-31比賽日期: 10/31; 得分: 8; 曲線: 五場均值; 日期: 2026-10-31比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31 比賽日期: 11/02; 得分: 13; 曲線: 實際得分; 日期: 2026-11-02 比賽日期: 10/31; 得分: 8.22056293488; 曲線: 切換方案預測; 日期: 2026-10-31 比賽日期: 11/02; 得分: 6.79010009766; 曲線: 切換方案預測; 日期: 2026-11-02 比賽日期: 10/31; 得分: 8; 曲線: 五場均值; 日期: 2026-10-31 比賽日期: 11/02; 得分: 6.8; 曲線: 五場均值; 日期: 2026-11-02 Symbol legend titled ' ' for fill color and stroke color with 3 values: 實際得分, 切換方案預測, 五場均值
+											136 axis X-axis titled '比賽日期' for a time scale with values from 10/31 to 11/02
+											137 axis Y-axis titled '得分' for a linear scale with values from 0 to 13
+											138 container 比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31比賽日期: 10/31; 得分: 8.22056293488; 曲線: 切換方案預測; 日期: 2026-10-31比賽日期: 10/31; 得分: 8; 曲線: 五場均值; 日期: 2026-10-31
+												139 container 比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31
+													140 line mark 比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31
+												141 container 比賽日期: 10/31; 得分: 8.22056293488; 曲線: 切換方案預測; 日期: 2026-10-31
+													142 line mark 比賽日期: 10/31; 得分: 8.22056293488; 曲線: 切換方案預測; 日期: 2026-10-31
+												143 container 比賽日期: 10/31; 得分: 8; 曲線: 五場均值; 日期: 2026-10-31
+													144 line mark 比賽日期: 10/31; 得分: 8; 曲線: 五場均值; 日期: 2026-10-31
+											145 container 比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31 比賽日期: 11/02; 得分: 13; 曲線: 實際得分; 日期: 2026-11-02 比賽日期: 10/31; 得分: 8.22056293488; 曲線: 切換方案預測; 日期: 2026-10-31 比賽日期: 11/02; 得分: 6.79010009766; 曲線: 切換方案預測; 日期: 2026-11-02 比賽日期: 10/31; 得分: 8; 曲線: 五場均值; 日期: 2026-10-31 比賽日期: 11/02; 得分: 6.8; 曲線: 五場均值; 日期: 2026-11-02
+												146 point 比賽日期: 10/31; 得分: 0; 曲線: 實際得分; 日期: 2026-10-31
+												147 point 比賽日期: 11/02; 得分: 13; 曲線: 實際得分; 日期: 2026-11-02
+												148 point 比賽日期: 10/31; 得分: 8.22056293488; 曲線: 切換方案預測; 日期: 2026-10-31
+												149 point 比賽日期: 11/02; 得分: 6.79010009766; 曲線: 切換方案預測; 日期: 2026-11-02
+												150 point 比賽日期: 10/31; 得分: 8; 曲線: 五場均值; 日期: 2026-10-31
+												151 point 比賽日期: 11/02; 得分: 6.8; 曲線: 五場均值; 日期: 2026-11-02
+											152 legend Symbol legend titled ' ' for fill color and stroke color with 3 values: 實際得分, 切換方案預測, 五場均值
+							153 container
+								154 button Show/hide columns
+								155 button Download as CSV
+								156 button Search
+								157 button Fullscreen
+								158 container
+									159 image
+										160 table
+											161 row 比賽日期 對戰 實際上場時間（分鐘） 實際得分 模型預測 近5場平均得分 本場選用模型 直接25項預測 五場均值增減25項預測 絕對誤差
+												162 cell (selectable) 比賽日期
+												163 cell (selectable) 對戰
+												164 cell (selectable) 實際上場時間（分鐘）
+												165 cell (selectable) 實際得分
+												166 cell (selectable) 模型預測
+												167 cell (selectable) 近5場平均得分
+												168 cell (selectable) 本場選用模型
+												169 cell (selectable) 直接25項預測
+												170 cell (selectable) 五場均值增減25項預測
+												171 cell (selectable) 絕對誤差
+											172 container
+												173 row (selectable) 2026-10-31 MIL VS. CLE 20.45 0 8.220562934875488 8 直接25項＋上季＋2倍 8.220562934875488 8.284274399280548 8.220562934875488
+													174 cell (selectable) Value: 2026-10-31, ID: glide-cell-0-0
+													175 cell (selectable) Value: MIL VS. CLE, ID: glide-cell-1-0
+													176 cell (selectable) Value: 20.45, ID: glide-cell-2-0
+													177 cell (selectable) Value: 0, ID: glide-cell-3-0
+													178 cell (selectable) Value: 8.220562934875488, ID: glide-cell-4-0
+													179 cell (selectable) Value: 8, ID: glide-cell-5-0
+													180 cell (selectable) Value: 直接25項＋上季＋2倍, ID: glide-cell-6-0
+													181 cell (selectable) Value: 8.220562934875488, ID: glide-cell-7-0
+													182 cell (selectable) Value: 8.284274399280548, ID: glide-cell-8-0
+													183 cell (selectable) Value: 8.220562934875488, ID: glide-cell-9-0
+												184 row (selectable) 2026-11-02 MIL @ MIN 23.533333333333335 13 6.79010009765625 6.8 直接25項＋上季＋2倍 6.79010009765625 6.379659759998321 6.20989990234375
+													185 cell (selectable) Value: 2026-11-02, ID: glide-cell-0-1
+													186 cell (selectable) Value: MIL @ MIN, ID: glide-cell-1-1
+													187 cell (selectable) Value: 23.533333333333335, ID: glide-cell-2-1
+													188 cell (selectable) Value: 13, ID: glide-cell-3-1
+													189 cell (selectable) Value: 6.79010009765625, ID: glide-cell-4-1
+													190 cell (selectable) Value: 6.8, ID: glide-cell-5-1
+													191 cell (selectable) Value: 直接25項＋上季＋2倍, ID: glide-cell-6-1
+													192 cell (selectable) Value: 6.79010009765625, ID: glide-cell-7-1
+													193 cell (selectable) Value: 6.379659759998321, ID: glide-cell-8-1
+													194 cell (selectable) Value: 6.20989990234375, ID: glide-cell-9-1
+									195 image
+							196 button 下載這位球員的本季回測紀錄
+								197 text 下載這位球員的本季回測紀錄
+		9 link streamlit.io/cloud
+		10 link (collapsed) Description: App Creator Avatar, Value: share.streamlit.io/user/syun1031, Secondary Actions: Expand
+
+The focused UI element is 22 combo box (collapsed, settable) Description: 球季, Value: 2026–27 例行賽, ID: react-aria5705001613-:r7:, Secondary Actions: Expand

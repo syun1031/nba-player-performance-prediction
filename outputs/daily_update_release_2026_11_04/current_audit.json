@@ -1,0 +1,18 @@
+{
+  "validated_rows": 457,
+  "raw_actual_minutes_verified": true,
+  "previous_five_independently_rebuilt": true,
+  "both_frozen_models_reproduced": true,
+  "model_hashes": {
+    "combined_prior25_w2": {
+      "path": "outputs/week2/prior_season_profile_v9/models/February_combined_prior25_w2.joblib",
+      "sha256": "659346302abae581c4a05f77f047d7030bc1d1bdba7133d23b34de8499185606",
+      "trained_through": "2026-01-31"
+    },
+    "residual25_w2": {
+      "path": "outputs/offset_prior25_w2_2025_26/models/February_residual25_w2.joblib",
+      "sha256": "ff25cc6f3268e28161270b630f7534c2f904b24a4aee8b7e6f515413bc48839c",
+      "trained_through": "2026-01-31"
+    }
+  }
+}
