@@ -1,0 +1,79 @@
+name: Update 2026-27 data and backtest
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # 17:00 Asia/Taipei
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: current-season-daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    env:
+      PYTHONUTF8: '1'
+      OMP_NUM_THREADS: '2'
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install project dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Check collectors, historical isolation and UI
+        run: >-
+          python -m unittest
+          tests.test_fetch_current_season tests.test_final_status_resolution
+          tests.test_future_source tests.test_future_inference
+          tests.test_current_season tests.test_daily_update
+          tests.test_current_streamlit tests.test_routing_streamlit
+      - name: Collect and build both packages
+        run: python -m scripts.update_current_season
+      - name: Verify refreshed packages and frozen backtests
+        run: |
+          python -m unittest tests.test_current_season tests.test_current_streamlit tests.test_future_streamlit
+          python -m scripts.verify_routing_dashboard
+      - name: Write update summary
+        run: |
+          python - <<'PY'
+          import json,os
+          from pathlib import Path
+          m=json.loads(Path('outputs/current_season_backtest/manifest.json').read_text())
+          h=json.loads(Path('outputs/future_prediction/manifest.json').read_text())
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:
+              f.write(f"## 2026–27 daily update\n\nThrough NBA date: {m['through']}\n\nCompleted games: {h['completed_games']}\n\nEligible player games: {m['eligible_rows']}\n\nExcluded: {m['excluded_rows']}\n\nKind: date-isolated hypothetical backtest; no model fitting.\n")
+          PY
+      - name: Publish both verified packages together
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- outputs/future_prediction/ outputs/current_season_backtest/
+          if git diff --cached --quiet; then
+            echo 'No package changes.'
+            exit 0
+          fi
+          git commit -m 'data: refresh 2026-27 history and hypothetical backtest'
+          git push origin HEAD:main
+      - name: Preserve collection receipts and diagnostics
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: nba-2026-27-update-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            outputs/nba_2026_27/
+            outputs/current_season_backtest/manifest.json
+            outputs/future_prediction/manifest.json
+          retention-days: 30
+          if-no-files-found: warn

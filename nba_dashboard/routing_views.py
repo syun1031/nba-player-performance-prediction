@@ -25,8 +25,11 @@ def ensure_option(key,options):
 
 
 def render_history():
+    season=st.selectbox('球季',['2025-26','2024-25','2026-27'],format_func=lambda s:s.replace('-','–')+' 例行賽',key='history_season')
+    if season=='2026-27':
+        from .current_views import render_current_history
+        render_current_history();return
     bundle=bundle_or_stop()
-    season=st.selectbox('球季',['2025-26','2024-25'],format_func=lambda s:s.replace('-','–')+' 例行賽',key='history_season')
     period='test'
     frame=bundle.predictions[season][period]
     st.caption('NBA 得分研究室 · '+season.replace('-','–')+' 例行賽')

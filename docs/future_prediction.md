@@ -40,7 +40,7 @@ $nbaLatest = Get-Content outputs/nba_2026_27/latest_success.json -Raw | ConvertF
 
 擷取不成功時先處理錯誤，勿繼續使用舊latest_success當作本次更新。打包會驗證來源雜湊、球員／比分／分區與模型；成功後才切換新包。`--replace`保留前一包於`outputs/future_prediction_archives/`，不刪原始快照。來源中尚有pending或矛盾比賽時會保留該狀態，並不因此聲稱歷史完整。
 
-打包成功後，將`outputs/future_prediction/`的新版本提交到GitHub，線上版才會更新歷史；官網賽程與先發則由頁面按鈕即時查詢。不設定自動排程。
+2026-11-04起改用GitHub Actions，每天台灣17:00開始更新歷史包及本季假設性回測；成功後同一個commit提交並供Streamlit部署，失敗保留上一份完整資料。亦可依上列方式手動更新；詳見[daily_update.md](daily_update.md)。官網賽程與正式先發仍由頁面按鈕即時查詢，不由每日更新推定。
 
 ## 驗證
 
