@@ -5,7 +5,9 @@ from nba_dashboard.routing_data import load_routing
 ROOT=Path(__file__).resolve().parents[1]
 
 class RoutingPageTests(unittest.TestCase):
-    def app(self):return AppTest.from_file(str(ROOT/'streamlit_app.py'),default_timeout=30).run()
+    def app(self):
+        app=AppTest.from_file(str(ROOT/'streamlit_app.py'),default_timeout=30).run()
+        return app.selectbox(key='history_season').set_value('2025-26').run()
     def metric(self,app,label):return next(m.value for m in app.metric if m.label==label)
     def test_history_both_seasons_minutes_and_both_branches(self):
         bundle=load_routing(ROOT);app=self.app()

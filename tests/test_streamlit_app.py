@@ -16,7 +16,8 @@ class StreamlitPageTests(unittest.TestCase):
         cls.routing=load_routing(ROOT)
 
     def app(self):
-        return AppTest.from_file(str(ROOT/'streamlit_app.py'),default_timeout=30).run()
+        app=AppTest.from_file(str(ROOT/'streamlit_app.py'),default_timeout=30).run()
+        return app.selectbox(key='history_season').set_value('2025-26').run()
 
     def metric(self,app,label):
         return next(m.value for m in app.metric if m.label==label)

@@ -9,6 +9,12 @@ ROOT=Path(__file__).resolve().parents[1]
 
 
 class CurrentPageTests(unittest.TestCase):
+    def test_history_seasons_newest_first_and_latest_default(self):
+        app=AppTest.from_file(str(ROOT/'streamlit_app.py'),default_timeout=30).run()
+        seasons=app.selectbox(key='history_season')
+        self.assertEqual(seasons.options,['2026–27 例行賽','2025–26 例行賽','2024–25 例行賽'])
+        self.assertEqual(seasons.value,'2026-27')
+
     def app(self):
         app=AppTest.from_file(str(ROOT/'streamlit_app.py'),default_timeout=30).run()
         return app.selectbox(key='history_season').set_value('2026-27').run()

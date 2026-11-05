@@ -25,7 +25,8 @@ def ensure_option(key,options):
 
 
 def render_history():
-    season=st.selectbox('球季',['2025-26','2024-25','2026-27'],format_func=lambda s:s.replace('-','–')+' 例行賽',key='history_season')
+    seasons=sorted(['2025-26','2024-25','2026-27'],key=lambda s:int(s.split('-')[0]),reverse=True)
+    season=st.selectbox('球季',seasons,format_func=lambda s:s.replace('-','–')+' 例行賽',key='history_season')
     if season=='2026-27':
         from .current_views import render_current_history
         render_current_history();return
