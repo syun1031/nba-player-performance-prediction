@@ -1,0 +1,55 @@
+Browser tab: 4, Title: "court notes · NBA 得分研究室 · Streamlit", URL: "https://nba-player-performance-prediction1.streamlit.app/future".
+0 AXWebArea court notes · NBA 得分研究室 · Streamlit, URL: nba-player-performance-prediction1.streamlit.app/future
+	1 container
+		2 container streamlitApp
+			3 AXWebArea court notes · NBA 得分研究室, URL: nba-player-performance-prediction1.streamlit.app/~/+/future
+				4 container
+					203 container
+						204 link Description: Skip to main content, Value: nba-player-performance-prediction1.streamlit.app/~/+/future#stMain
+						205 container Description: Sidebar, ID: stSidebar
+							206 container
+								226 button (expanded) Description: Collapse sidebar, Secondary Actions: Collapse
+								207 container
+									208 text court notes.
+								209 text NBA 球員表現研究
+								227 link Description: 歷史回測, Value: nba-player-performance-prediction1.streamlit.app/~/+/future
+								228 link Description: 模型比較, Value: nba-player-performance-prediction1.streamlit.app/~/+/comparison
+								210 link Description: 未來預測, Value: nba-player-performance-prediction1.streamlit.app/~/+/future
+								213 text 正在觀察
+								214 text 2026–27
+								215 text 例行賽
+								216 container
+									217 text 一場比賽，一份紀錄。
+									218 text NBA 得分研究室
+						219 container
+							220 button Fork
+							221 button source
+							222 pop up button (collapsed) Description: Main menu, Secondary Actions: Expand
+						223 container stMain
+							224 container
+								225 text 未來預測 / 賽前觀察 COURT NOTES · NBA ANALYTICS
+							229 text NBA 得分研究室 · 2026–27 例行賽
+							230 heading 未來預測, Value: 1, ID: 7febb101
+								231 text 未來預測
+								232 link Description: Link to heading, Value: nba-player-performance-prediction1.streamlit.app/~/+/future#7febb101
+							233 text 先查詢NBA官網正式先發，資料與資格通過後，在開賽前30分鐘內產生球員得分預測。
+							234 text 以球員會出賽為前提。使用訓練至2026-01-31的既有模型，本季前瞻準確率尚未建立。
+							235 button (collapsed) 預測方式與資料條件, Secondary Actions: Expand
+								236 text 預測方式與資料條件
+							237 container
+								238 text 歷史查詢至 2026-11-04 · 已收錄 107 場完賽 · 資料取得 2026-11-04 17 :54 （台灣）
+							239 container
+								240 container Description: NBA比賽日期（美東日期）, ID: react-aria6512392910-:r111:
+									241 stepper Description: year, NBA比賽日期（美東日期）, Value: 2026, ID: react-aria6512392910-:r116:
+									242 stepper Description: month, NBA比賽日期（美東日期）, Value: 11, ID: react-aria6512392910-:r11a:
+									243 stepper Description: day, NBA比賽日期（美東日期）, Value: 5, ID: react-aria6512392910-:r11e:
+								244 pop up button (collapsed) Description: Choose date, Secondary Actions: Expand
+							245 text 開賽時間會轉為台灣時間顯示；歷史特徵仍按NBA日期隔離。
+							246 text 所選NBA日期之前仍有 14 場尚未收錄為完賽，會先停用預測；請等待每日更新或在GitHub Actions手動補跑。
+							247 button 查詢官網賽程
+								248 text 查詢官網賽程
+							249 text 選擇日期後，查詢官網賽程。
+		201 link streamlit.io/cloud
+		202 link (collapsed) Description: App Creator Avatar, Value: share.streamlit.io/user/syun1031, Secondary Actions: Expand
+
+The focused UI element is 3 AXWebArea court notes · NBA 得分研究室, URL: nba-player-performance-prediction1.streamlit.app/~/+/future

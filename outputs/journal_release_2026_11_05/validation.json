@@ -1,0 +1,33 @@
+{
+  "style": "數據日誌",
+  "functional_commit": "4d3f410",
+  "pages": [
+    "歷史回測",
+    "模型比較",
+    "未來預測"
+  ],
+  "local_tests": 276,
+  "frozen_rows_audited": 38805,
+  "prediction_rules_changed": false,
+  "data_packages_changed": false,
+  "review": "No P1/P2 blockers; 17 initial and 9 follow-up UI checks passed",
+  "mobile_width": 390,
+  "mobile_main_width": 380,
+  "mobile_scroll_width": 380,
+  "native_sidebar_collapsible": true,
+  "viewport_restored": true,
+  "online_verified": true,
+  "online_pages": [
+    "/",
+    "/comparison",
+    "/future"
+  ],
+  "comparison_sample_count_verified": 6979,
+  "chart_palette_updated_without_changing_values": true,
+  "files": {
+    "online_history.png": "2564f270a46dcba5bf3b888513f5efaa26031f39e456c635007b3aed044e0ea9",
+    "online_comparison.png": "980798c9ef9db9c3472ab11856a4156039c11d32df8eaf8a00967b2549ec4ffe",
+    "online_future.png": "ef4490907e4f61d10c8a20ca695be81ca6370a18419c36919b84e8a4af7d819f",
+    "mobile_future.png": "d53faec8822d8b30be4fd77275c33fee45b1a5f1f44f6096c95d826ede25a354"
+  }
+}

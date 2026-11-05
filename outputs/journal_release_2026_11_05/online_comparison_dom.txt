@@ -1,0 +1,205 @@
+Browser tab: 4, Title: "court notes · NBA 得分研究室 · Streamlit", URL: "https://nba-player-performance-prediction1.streamlit.app/comparison".
+0 AXWebArea court notes · NBA 得分研究室 · Streamlit, URL: nba-player-performance-prediction1.streamlit.app/comparison
+	1 container
+		2 container streamlitApp
+			3 AXWebArea court notes · NBA 得分研究室, URL: nba-player-performance-prediction1.streamlit.app/~/+/comparison
+				4 container
+					203 container
+						204 link Description: Skip to main content, Value: nba-player-performance-prediction1.streamlit.app/~/+/comparison#stMain
+						205 container Description: Sidebar, ID: stSidebar
+							206 container
+								226 button (expanded) Description: Collapse sidebar, Secondary Actions: Collapse
+								207 container
+									208 text court notes.
+								209 text NBA 球員表現研究
+								227 link Description: 歷史回測, Value: nba-player-performance-prediction1.streamlit.app/~/+/comparison
+								210 link Description: 模型比較, Value: nba-player-performance-prediction1.streamlit.app/~/+/comparison
+								212 link Description: 未來預測, Value: nba-player-performance-prediction1.streamlit.app/~/+/future
+								213 text 正在觀察
+								214 text 2025–26
+								215 text 例行賽
+								216 container
+									217 text 一場比賽，一份紀錄。
+									218 text NBA 得分研究室
+						219 container
+							220 button Fork
+							221 button source
+							222 pop up button (collapsed) Description: Main menu, Secondary Actions: Expand
+						223 container stMain
+							224 container
+								225 text 模型比較 / 模型評估 COURT NOTES · NBA ANALYTICS
+							228 heading 模型比較, Value: 1, ID: c36146d0
+								229 text 模型比較
+								230 link Description: Link to heading, Value: nba-player-performance-prediction1.streamlit.app/~/+/comparison#c36146d0
+							231 container
+								232 combo box (collapsed, settable) Description: 球季, Value: 2025–26 例行賽, ID: react-aria6512392910-:ru4:, Secondary Actions: Expand
+								233 pop up button (collapsed) Description: Open, ID: react-aria6512392910-:ru0:, Secondary Actions: Expand
+							234 container
+								235 Description: 比較範圍, ID: react-aria6512392910-:rud:
+									236 container
+										237 radio button (settable, integer) Description: 切換方案與單模型, Value: 1
+										238 text 切換方案與單模型
+									239 container
+										240 radio button (settable, integer) Description: 原有模型（舊版基準）, Value: 0
+										241 text 原有模型（舊版基準）
+							242 text NBA 得分研究室 · 2025–26 例行賽
+							243 text 在同一批比賽比較25分切換方案、四個單模型與五場均值基準。
+							244 button (collapsed) 比較方式與資料說明, Secondary Actions: Expand
+								245 text 比較方式與資料說明
+							246 container
+								247 Description: 研究資料期間, ID: react-aria6512392910-:rul:
+									248 container
+										249 radio button (settable, integer) Description: 三月至季末｜已使用的測試資料, Value: 1
+										250 text 三月至季末｜已使用的測試資料
+									251 container
+										252 radio button (settable, integer) Description: 二月驗證｜開發資料, Value: 0
+										253 text 二月驗證｜開發資料
+									254 container
+										255 radio button (settable, integer) Description: CV｜三輪時間驗證, Value: 0
+										256 text CV｜三輪時間驗證
+							257 container
+								258 combo box (collapsed, settable) Description: 觀察場次, Value: 全部出賽, ID: react-aria6512392910-:rv3:, Secondary Actions: Expand
+								259 pop up button (collapsed) Description: Open, ID: react-aria6512392910-:ruv:, Secondary Actions: Expand
+							260 text 2026-03-01 至 2026-04-12 · 完整共同樣本 6,979 筆 · 模型固定訓練至 2026-01-31
+							261 text 這是在已使用過的2025–26測試資料上追加模型比較，不是新的獨立最終測試。原有模型的結果仍可切換「原有模型」查看。
+							262 text 此期間已用於測試或研究比較，不能再當作未使用的新資料，也不依此結果追加調參。
+							263 container
+								264 text 25分切換方案 MAE
+								265 text 4.767 分
+							266 container
+								267 text 原九項 MAE
+								268 text 4.747 分
+							269 container
+								270 text 原九項＋上季表現 MAE
+								271 text 4.725 分
+							272 container
+								273 text 1＋3＋同區＋上季表現＋2倍 MAE
+								274 text 4.750 分
+							275 container
+								276 text 增減模型＋上季表現＋高分2倍 MAE
+								277 text 4.803 分
+							278 container
+								279 text 樣本數
+								280 text 6,979
+							281 text 目前範圍：6,735 筆使用直接25項，244 筆使用五場均值增減25項；分流只看近5場均分。
+							282 text MAE是平均差幾分，RMSE更重視大誤差；兩者越低越好。表格維持固定模型順序，不按測試結果選模。
+							283 text 實際30分以上共 228 筆；五方案MAE依序為 13.75／13.44／11.99／11.77／11.64 分。這是賽後分組，高得分誤差仍需留意。
+							284 container
+								285 button Show data
+								286 button Download as PNG
+								287 button Fullscreen
+								288 container Vega visualization
+									289 image
+										290 container X-axis titled '分（越低越好）' for a linear scale with values from 0 to 5 Y-axis for a discrete scale with 6 values: 五場均值基準, 原九項, 原九項＋上季表現, 1＋3＋同區＋上季表現＋2倍, 增減模型＋上季表現＋高分2倍, 25分切換方案 分（越低越好）: 4.9443759851; 模型: 五場均值基準; 同樣本數: 6,979; mae: 4.944分（越低越好）: 4.74695822916; 模型: 原九項; 同樣本數: 6,979; mae: 4.747分（越低越好）: 4.72468750519; 模型: 原九項＋上季表現; 同樣本數: 6,979; mae: 4.725分（越低越好）: 4.74985724793; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; mae: 4.750分（越低越好）: 4.80300264348; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; mae: 4.803分（越低越好）: 4.76696015975; 模型: 25分切換方案; 同樣本數: 6,979; mae: 4.767 Title text '平均誤差 MAE'
+											291 axis X-axis titled '分（越低越好）' for a linear scale with values from 0 to 5
+											292 axis Y-axis for a discrete scale with 6 values: 五場均值基準, 原九項, 原九項＋上季表現, 1＋3＋同區＋上季表現＋2倍, 增減模型＋上季表現＋高分2倍, 25分切換方案
+											293 container 分（越低越好）: 4.9443759851; 模型: 五場均值基準; 同樣本數: 6,979; mae: 4.944分（越低越好）: 4.74695822916; 模型: 原九項; 同樣本數: 6,979; mae: 4.747分（越低越好）: 4.72468750519; 模型: 原九項＋上季表現; 同樣本數: 6,979; mae: 4.725分（越低越好）: 4.74985724793; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; mae: 4.750分（越低越好）: 4.80300264348; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; mae: 4.803分（越低越好）: 4.76696015975; 模型: 25分切換方案; 同樣本數: 6,979; mae: 4.767
+												294 container 分（越低越好）: 4.9443759851; 模型: 五場均值基準; 同樣本數: 6,979; mae: 4.944
+													295 container 分（越低越好）: 4.9443759851; 模型: 五場均值基準; 同樣本數: 6,979; mae: 4.944
+														296 bar 分（越低越好）: 4.9443759851; 模型: 五場均值基準; 同樣本數: 6,979; mae: 4.944
+												297 container 分（越低越好）: 4.74695822916; 模型: 原九項; 同樣本數: 6,979; mae: 4.747
+													298 container 分（越低越好）: 4.74695822916; 模型: 原九項; 同樣本數: 6,979; mae: 4.747
+														299 bar 分（越低越好）: 4.74695822916; 模型: 原九項; 同樣本數: 6,979; mae: 4.747
+												300 container 分（越低越好）: 4.72468750519; 模型: 原九項＋上季表現; 同樣本數: 6,979; mae: 4.725
+													301 container 分（越低越好）: 4.72468750519; 模型: 原九項＋上季表現; 同樣本數: 6,979; mae: 4.725
+														302 bar 分（越低越好）: 4.72468750519; 模型: 原九項＋上季表現; 同樣本數: 6,979; mae: 4.725
+												303 container 分（越低越好）: 4.74985724793; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; mae: 4.750
+													304 container 分（越低越好）: 4.74985724793; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; mae: 4.750
+														305 bar 分（越低越好）: 4.74985724793; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; mae: 4.750
+												306 container 分（越低越好）: 4.80300264348; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; mae: 4.803
+													307 container 分（越低越好）: 4.80300264348; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; mae: 4.803
+														308 bar 分（越低越好）: 4.80300264348; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; mae: 4.803
+												309 container 分（越低越好）: 4.76696015975; 模型: 25分切換方案; 同樣本數: 6,979; mae: 4.767
+													310 container 分（越低越好）: 4.76696015975; 模型: 25分切換方案; 同樣本數: 6,979; mae: 4.767
+														311 bar 分（越低越好）: 4.76696015975; 模型: 25分切換方案; 同樣本數: 6,979; mae: 4.767
+											312 title Title text '平均誤差 MAE'
+							313 container
+								314 button Show data
+								315 button Download as PNG
+								316 button Fullscreen
+								317 container Vega visualization
+									318 image
+										319 container X-axis titled '分（越低越好）' for a linear scale with values from 0 to 7 Y-axis for a discrete scale with 6 values: 五場均值基準, 原九項, 原九項＋上季表現, 1＋3＋同區＋上季表現＋2倍, 增減模型＋上季表現＋高分2倍, 25分切換方案 分（越低越好）: 6.50009313589; 模型: 五場均值基準; 同樣本數: 6,979; rmse: 6.500分（越低越好）: 6.21246891448; 模型: 原九項; 同樣本數: 6,979; rmse: 6.212分（越低越好）: 6.18790976375; 模型: 原九項＋上季表現; 同樣本數: 6,979; rmse: 6.188分（越低越好）: 6.20023217536; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; rmse: 6.200分（越低越好）: 6.27721847837; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; rmse: 6.277分（越低越好）: 6.22517581819; 模型: 25分切換方案; 同樣本數: 6,979; rmse: 6.225 Title text '大誤差指標 RMSE'
+											320 axis X-axis titled '分（越低越好）' for a linear scale with values from 0 to 7
+											321 axis Y-axis for a discrete scale with 6 values: 五場均值基準, 原九項, 原九項＋上季表現, 1＋3＋同區＋上季表現＋2倍, 增減模型＋上季表現＋高分2倍, 25分切換方案
+											322 container 分（越低越好）: 6.50009313589; 模型: 五場均值基準; 同樣本數: 6,979; rmse: 6.500分（越低越好）: 6.21246891448; 模型: 原九項; 同樣本數: 6,979; rmse: 6.212分（越低越好）: 6.18790976375; 模型: 原九項＋上季表現; 同樣本數: 6,979; rmse: 6.188分（越低越好）: 6.20023217536; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; rmse: 6.200分（越低越好）: 6.27721847837; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; rmse: 6.277分（越低越好）: 6.22517581819; 模型: 25分切換方案; 同樣本數: 6,979; rmse: 6.225
+												323 container 分（越低越好）: 6.50009313589; 模型: 五場均值基準; 同樣本數: 6,979; rmse: 6.500
+													324 container 分（越低越好）: 6.50009313589; 模型: 五場均值基準; 同樣本數: 6,979; rmse: 6.500
+														325 bar 分（越低越好）: 6.50009313589; 模型: 五場均值基準; 同樣本數: 6,979; rmse: 6.500
+												326 container 分（越低越好）: 6.21246891448; 模型: 原九項; 同樣本數: 6,979; rmse: 6.212
+													327 container 分（越低越好）: 6.21246891448; 模型: 原九項; 同樣本數: 6,979; rmse: 6.212
+														328 bar 分（越低越好）: 6.21246891448; 模型: 原九項; 同樣本數: 6,979; rmse: 6.212
+												329 container 分（越低越好）: 6.18790976375; 模型: 原九項＋上季表現; 同樣本數: 6,979; rmse: 6.188
+													330 container 分（越低越好）: 6.18790976375; 模型: 原九項＋上季表現; 同樣本數: 6,979; rmse: 6.188
+														331 bar 分（越低越好）: 6.18790976375; 模型: 原九項＋上季表現; 同樣本數: 6,979; rmse: 6.188
+												332 container 分（越低越好）: 6.20023217536; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; rmse: 6.200
+													333 container 分（越低越好）: 6.20023217536; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; rmse: 6.200
+														334 bar 分（越低越好）: 6.20023217536; 模型: 1＋3＋同區＋上季表現＋2倍; 同樣本數: 6,979; rmse: 6.200
+												335 container 分（越低越好）: 6.27721847837; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; rmse: 6.277
+													336 container 分（越低越好）: 6.27721847837; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; rmse: 6.277
+														337 bar 分（越低越好）: 6.27721847837; 模型: 增減模型＋上季表現＋高分2倍; 同樣本數: 6,979; rmse: 6.277
+												338 container 分（越低越好）: 6.22517581819; 模型: 25分切換方案; 同樣本數: 6,979; rmse: 6.225
+													339 container 分（越低越好）: 6.22517581819; 模型: 25分切換方案; 同樣本數: 6,979; rmse: 6.225
+														340 bar 分（越低越好）: 6.22517581819; 模型: 25分切換方案; 同樣本數: 6,979; rmse: 6.225
+											341 title Title text '大誤差指標 RMSE'
+							342 container
+								343 button Show/hide columns
+								344 button Download as CSV
+								345 button Search
+								346 button Fullscreen
+								347 image
+									348 table
+										349 row 模型 樣本數 MAE RMSE 平均低估分數
+											350 cell (selectable) 模型
+											351 cell (selectable) 樣本數
+											352 cell (selectable) MAE
+											353 cell (selectable) RMSE
+											354 cell (selectable) 平均低估分數
+										355 container
+											356 row (selectable) 五場均值基準 6979 4.944375985098152 6.500093135885262 0.28084252758274825
+												357 cell (selectable) Value: 五場均值基準, ID: glide-cell-0-0
+												358 cell (selectable) Value: 6979, ID: glide-cell-1-0
+												359 cell (selectable) Value: 4.944375985098152, ID: glide-cell-2-0
+												360 cell (selectable) Value: 6.500093135885262, ID: glide-cell-3-0
+												361 cell (selectable) Value: 0.28084252758274825, ID: glide-cell-4-0
+											362 row (selectable) 原九項 6979 4.746958229155403 6.212468914480431 0.23979240776321098
+												363 cell (selectable) Value: 原九項, ID: glide-cell-0-1
+												364 cell (selectable) Value: 6979, ID: glide-cell-1-1
+												365 cell (selectable) Value: 4.746958229155403, ID: glide-cell-2-1
+												366 cell (selectable) Value: 6.212468914480431, ID: glide-cell-3-1
+												367 cell (selectable) Value: 0.23979240776321098, ID: glide-cell-4-1
+											368 row (selectable) 原九項＋上季表現 6979 4.724687505185152 6.187909763754561 0.28020381977025544
+												369 cell (selectable) Value: 原九項＋上季表現, ID: glide-cell-0-2
+												370 cell (selectable) Value: 6979, ID: glide-cell-1-2
+												371 cell (selectable) Value: 4.724687505185152, ID: glide-cell-2-2
+												372 cell (selectable) Value: 6.187909763754561, ID: glide-cell-3-2
+												373 cell (selectable) Value: 0.28020381977025544, ID: glide-cell-4-2
+											374 row (selectable) 1＋3＋同區＋上季表現＋2倍 6979 4.749857247926253 6.200232175363949 -0.08608570543328266
+												375 cell (selectable) Value: 1＋3＋同區＋上季表現＋2倍, ID: glide-cell-0-3
+												376 cell (selectable) Value: 6979, ID: glide-cell-1-3
+												377 cell (selectable) Value: 4.749857247926253, ID: glide-cell-2-3
+												378 cell (selectable) Value: 6.200232175363949, ID: glide-cell-3-3
+												379 cell (selectable) Value: -0.08608570543328266, ID: glide-cell-4-3
+											380 row (selectable) 增減模型＋上季表現＋高分2倍 6979 4.803002643475352 6.277218478366253 -0.11563573037815306
+												381 cell (selectable) Value: 增減模型＋上季表現＋高分2倍, ID: glide-cell-0-4
+												382 cell (selectable) Value: 6979, ID: glide-cell-1-4
+												383 cell (selectable) Value: 4.803002643475352, ID: glide-cell-2-4
+												384 cell (selectable) Value: 6.277218478366253, ID: glide-cell-3-4
+												385 cell (selectable) Value: -0.11563573037815306, ID: glide-cell-4-4
+											386 row (selectable) 25分切換方案 6979 4.76696015974665 6.225175818193142 -0.13808538214721106
+												387 cell (selectable) Value: 25分切換方案, ID: glide-cell-0-5
+												388 cell (selectable) Value: 6979, ID: glide-cell-1-5
+												389 cell (selectable) Value: 4.76696015974665, ID: glide-cell-2-5
+												390 cell (selectable) Value: 6.225175818193142, ID: glide-cell-3-5
+												391 cell (selectable) Value: -0.13808538214721106, ID: glide-cell-4-5
+							392 button 下載目前研究比較表
+								393 text 下載目前研究比較表
+							394 button (collapsed) 模型用了什麼資料？, Secondary Actions: Expand
+								395 text 模型用了什麼資料？
+							396 button (collapsed) 五方案逐場預測與下載, Secondary Actions: Expand
+								397 text 五方案逐場預測與下載
+							398 text 所有切換都只讀取已完成的預測，不重新訓練或產生新的測試結果。
+		201 link streamlit.io/cloud
+		202 link (collapsed) Description: App Creator Avatar, Value: share.streamlit.io/user/syun1031, Secondary Actions: Expand
+
+The focused UI element is 3 AXWebArea court notes · NBA 得分研究室, URL: nba-player-performance-prediction1.streamlit.app/~/+/comparison
