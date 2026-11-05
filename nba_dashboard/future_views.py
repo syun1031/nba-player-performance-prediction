@@ -9,7 +9,7 @@ from .future_data import load_future,history_issues,HISTORY_REASONS
 from .future_source import utc_now,aware,query_schedule,query_context,assess_context,SourceIssue,REASONS
 from .future_inference import build_features,load_models,make_prediction,prediction_csv_row
 from .routing_data import SOURCE_NAMES,RULE
-from .views import _line_chart
+from .journal_theme import journal_line_chart as _line_chart
 
 ROOT=Path(__file__).resolve().parents[1]
 TAIPEI=ZoneInfo('Asia/Taipei')
@@ -58,8 +58,10 @@ def render_future():
     st.caption('NBA 得分研究室 · 2026–27 例行賽')
     st.title('未來預測')
     st.write('先查詢NBA官網正式先發，資料與資格通過後，在開賽前30分鐘內產生球員得分預測。')
-    st.caption(RULE)
     st.caption('以球員會出賽為前提。使用訓練至2026-01-31的既有模型，本季前瞻準確率尚未建立。')
+    with st.expander('預測方式與資料條件'):
+        st.caption(RULE)
+        st.caption('個人、球隊與對手各至少五場；正式先發與資料核對通過後，在開賽前30分鐘內提供預測。')
     try:bundle=load_future(ROOT)
     except DataIssue as exc:st.error(str(exc));st.stop()
     m=bundle['manifest'];now=utc_now()
@@ -107,7 +109,7 @@ def render_future():
         for p in t['players']:
             if p['active']:options[p['nba_player_id']]=team+' · '+p['name']+('（先發）' if p['nba_player_id'] in t['starters'] else '（替補）')
     if not options:
-        st.button('產生預測',key='fp_predict',disabled=True);return
+        st.button('產生預測',key='fp_predict',disabled=True,type='primary');return
     playerkey='fp_player_'+day+'_'+gid
     if st.session_state.get(playerkey) not in options:st.session_state.pop(playerkey,None)
     pid=st.selectbox('球員',list(options),format_func=options.get,key=playerkey)
@@ -118,7 +120,7 @@ def render_future():
     for col,key,label in zip(metrics,['history_count','team_history_count','opponent_history_count'],['球員歷史出賽','球隊歷史完賽','對手歷史完賽']):
         col.metric(label,str(f.get(key,0))+' 場')
     st.caption('三項均至少五場；只計NBA目標日期之前的同季紀錄。')
-    if st.button('產生預測',key='fp_predict',disabled=not f['eligible']):
+    if st.button('產生預測',key='fp_predict',disabled=not f['eligible'],type='primary'):
         clear_result()
         try:
             with st.spinner('重新確認先發與賽程，再計算預測…'):

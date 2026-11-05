@@ -8,34 +8,37 @@ from .current_season import load_current
 from .future_data import load_future
 from .future_source import aware
 from .routing_data import RULE,SOURCE_NAMES
-from .views import _line_chart
+from .journal_theme import journal_line_chart as _line_chart
 
 ROOT=Path(__file__).resolve().parents[1]
 
 
 def render_current_history():
     st.caption('NBA 得分研究室 · 2026–27 例行賽')
-    st.title('歷史回測')
+    heading=st.empty();heading.title('歷史回測')
     st.write('本季開季至今，對已完賽且符合五場門檻的球員出賽回算。')
     st.caption('日期隔離的假設性回測：只使用比賽日期前的歷史，但本場先發來自賽後資料；並非當時留存的賽前預測。')
-    st.caption(RULE+'；兩個固定模型均訓練至2026-01-31，沒有每日重訓。')
+    with st.expander('資料與模型說明'):
+        st.caption(RULE+'；兩個固定模型均訓練至2026-01-31，沒有每日重訓。')
+        st.caption('每日台灣17:00由GitHub Actions開始更新；實際發布時間依執行狀況而定。未納入者包含五場不足或較早比賽尚待釐清。')
     try:
         data=load_current(ROOT)
     except DataIssue as exc:st.error(str(exc));return
     m=data['manifest'];frame=data['frame']
     stamp=aware(m['collected_at_utc']).astimezone(ZoneInfo('Asia/Taipei')).strftime('%Y-%m-%d %H:%M')
     st.caption(f"資料取得 {stamp}（台灣） · 最近完賽 {m['last_completed_date'] or '尚無'} · 合格 {m['eligible_rows']:,} 筆 · 未納入 {m['excluded_rows']:,} 筆")
-    st.caption('每日台灣17:00由GitHub Actions開始更新；實際發布時間依執行狀況而定。未納入者包含五場不足或較早比賽尚待釐清。')
     if frame.empty:st.info('本季尚無符合預測資格的已完賽出賽，等待資料累積。');return
     try:history=load_future(ROOT)
     except DataIssue as exc:st.error(str(exc));return
     players=sorted(frame.player_id.unique().tolist());pkey='current_history_player'
     if st.session_state.get(pkey) not in players:st.session_state.pop(pkey,None)
-    player=st.selectbox('球員',players,key=pkey)
+    left,right=st.columns([1,1.5])
+    player=left.selectbox('球員',players,key=pkey)
+    heading.title(player)
     games=frame.loc[frame.player_id.eq(player)].sort_values(['GAMEDATE','game_id'],ascending=False)
     ids=games.game_id.tolist();gkey='current_history_game_'+player
     if st.session_state.get(gkey) not in ids:st.session_state.pop(gkey,None)
-    gid=st.selectbox('比賽',ids,key=gkey,format_func=lambda v:v.rsplit('|',1)[1]+' · '+v.rsplit('|',1)[0])
+    gid=right.selectbox('比賽',ids,key=gkey,format_func=lambda v:v.rsplit('|',1)[1]+' · '+v.rsplit('|',1)[0])
     r=games.loc[games.game_id.eq(gid)].iloc[0]
     st.info('本場使用：'+SOURCE_NAMES[r.route25_model])
     cols=st.columns(5)

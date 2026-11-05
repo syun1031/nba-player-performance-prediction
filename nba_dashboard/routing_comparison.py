@@ -19,24 +19,28 @@ def csv(frame):return frame.to_csv(index=False).encode('utf-8-sig')
 
 
 def render_comparison():
-    season=st.selectbox('球季',['2025-26','2024-25'],format_func=lambda s:s.replace('-','–')+' 例行賽',key='comparison_season')
+    heading=st.empty();heading.title('模型比較')
+    season_col,scope_col=st.columns([1,2])
+    season=season_col.selectbox('球季',['2025-26','2024-25'],format_func=lambda s:s.replace('-','–')+' 例行賽',key='comparison_season')
     options=['research','classic'] if season=='2025-26' else ['research']
     if st.session_state.get('comparison_scope') not in options:st.session_state.pop('comparison_scope',None)
-    scope=st.radio('比較範圍',options,format_func=lambda v:'原有模型（舊版基準）' if v=='classic' else '切換方案與單模型',horizontal=True,key='comparison_scope')
+    scope=scope_col.radio('比較範圍',options,format_func=lambda v:'原有模型（舊版基準）' if v=='classic' else '切換方案與單模型',horizontal=True,key='comparison_scope')
     if scope=='classic':
+        heading.empty()
         st.caption('以下是原九項等舊版鎖定模型對照；目前歷史回測使用25分切換方案。')
         classic_comparison();return
     try:bundle=cached_research(str(ROOT),revision(ROOT))
     except DataIssue as exc:st.error(str(exc));st.stop()
     st.caption('NBA 得分研究室 · '+season.replace('-','–')+' 例行賽')
-    st.title('模型比較')
     st.write('在同一批比賽比較25分切換方案、四個單模型與五場均值基準。')
-    st.caption('歷史回測預設使用25分切換方案；四個單模型與原九項凍結成果仍保留對照。切換規則依使用者指定，不宣稱穩定優於單模型。')
-    st.caption(RULE)
+    with st.expander('比較方式與資料說明'):
+        st.caption('歷史回測預設使用25分切換方案；四個單模型與原九項凍結成果仍保留對照。切換規則依使用者指定，不宣稱穩定優於單模型。')
+        st.caption(RULE)
     periods=['test','validation','CV']
     if st.session_state.get('research_period') not in periods:st.session_state.pop('research_period',None)
-    period=st.radio('研究資料期間',periods,format_func=PERIOD_LABELS.get,horizontal=True,key='research_period')
-    threshold=st.selectbox('觀察場次',[None,20,30],format_func=lambda n:'全部出賽' if n is None else f'實際得分 {n} 分以上',key='research_threshold')
+    period_col,threshold_col=st.columns([2,1])
+    period=period_col.radio('研究資料期間',periods,format_func=PERIOD_LABELS.get,horizontal=True,key='research_period')
+    threshold=threshold_col.selectbox('觀察場次',[None,20,30],format_func=lambda n:'全部出賽' if n is None else f'實際得分 {n} 分以上',key='research_threshold')
     frame=bundle.predictions[season][period];start,end,n=EXPECTED[season][period]
     if period=='CV':
         year=int(season[:4]);training_note=f'三輪訓練截止：{year}-11-30、{year}-12-31、{year+1}-01-15，各輪只使用更早資料'
@@ -48,12 +52,10 @@ def render_comparison():
     if threshold is not None:st.info('高分分組依賽後實際得分觀察，預測前不知道哪些比賽會高分。20+與30+互相重疊，不能相加。')
     stats=research_metrics(frame,['baseline']+MODELS,threshold)
     if stats.empty:st.info('目前範圍沒有合格比賽。');return
-    route_stat=stats.loc[stats['model_variant']=='route25'].iloc[0]
-    st.metric('25分切換方案 MAE',f'{route_stat["mae"]:.3f} 分')
-    cards=st.columns(len(MODELS)-1)
-    for col,v in zip(cards,[v for v in MODELS if v!='route25']):
+    cards=st.columns(len(MODELS)+1)
+    for col,v in zip(cards,['route25']+[v for v in MODELS if v!='route25']):
         r=stats.loc[stats['model_variant']==v].iloc[0];col.metric(NAMES[v]+' MAE',f'{r["mae"]:.3f} 分')
-    st.metric('樣本數',f'{int(stats.iloc[0]["n"]):,}')
+    cards[-1].metric('樣本數',f'{int(stats.iloc[0]["n"]):,}')
     selected_frame=frame if threshold is None else frame.loc[frame.target_pts>=threshold]
     switches=int(selected_frame.route25_model.eq('residual25_w2').sum())
     st.caption(f'目前範圍：{len(selected_frame)-switches:,} 筆使用直接25項，{switches:,} 筆使用五場均值增減25項；分流只看近5場均分。')
@@ -67,7 +69,7 @@ def render_comparison():
     for col,metric,title in [(cols[0],'mae','平均誤差 MAE'),(cols[1],'rmse','大誤差指標 RMSE')]:
         chart=alt.Chart(plot).mark_bar(cornerRadiusEnd=3).encode(
             x=alt.X(metric+':Q',title='分（越低越好）'),y=alt.Y('模型:N',sort=[NAMES[v] for v in ['baseline']+MODELS],title=None,axis=alt.Axis(labelLimit=300)),
-            color=alt.condition(alt.datum.model_variant=='route25',alt.value('#C85D32'),alt.value('#243C60')),tooltip=['模型:N',alt.Tooltip('n:Q',title='同樣本數',format=','),alt.Tooltip(metric+':Q',format='.3f')]).properties(height=340,title=title)
+            color=alt.condition(alt.datum.model_variant=='route25',alt.value('#557366'),alt.value('#7B929E')),tooltip=['模型:N',alt.Tooltip('n:Q',title='同樣本數',format=','),alt.Tooltip(metric+':Q',format='.3f')]).properties(height=340,title=title)
         col.altair_chart(chart,width='stretch')
     table=stats.rename(columns={'n':'樣本數','mae':'MAE','rmse':'RMSE','mean_residual':'平均低估分數'}).copy()
     table.insert(0,'模型',table['model_variant'].map(NAMES));table=table.drop(columns='model_variant')

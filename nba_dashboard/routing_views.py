@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 from .data import DataIssue
 from .routing_data import load_routing,revision,recent_games,comparison_metrics,SOURCE_NAMES,RULE,ROUTE,NAMES
-from .views import _line_chart
+from .journal_theme import journal_line_chart as _line_chart
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -34,11 +34,13 @@ def render_history():
     period='test'
     frame=bundle.predictions[season][period]
     st.caption('NBA 得分研究室 · '+season.replace('-','–')+' 例行賽')
-    st.title('歷史回測')
+    heading=st.empty();heading.title('歷史回測')
     st.write('依賽前近5場平均得分，切換直接得分模型或五場均值增減模型。')
-    st.caption(RULE)
-    st.caption('兩分支均使用25項特徵（已含上季表現），訓練時實際30+場次給2倍權重。以出賽為前提；歷史先發來自賽後快照，屬日期隔離的假設性回測。')
-    st.caption('固定顯示3月至季末。此期間已用於測試或追加研究，不能當作未使用的新資料；25分門檻依使用者指定固定，不代表已證明優於單一模型。')
+    st.caption('歷史先發來自賽後快照，屬日期隔離的假設性回測。以出賽為前提。')
+    with st.expander('資料與模型說明'):
+        st.caption(RULE)
+        st.caption('兩分支均使用25項特徵（已含上季表現），訓練時實際30+場次給2倍權重。以出賽為前提；歷史先發來自賽後快照，屬日期隔離的假設性回測。')
+        st.caption('固定顯示3月至季末。此期間已用於測試或追加研究，不能當作未使用的新資料；25分門檻依使用者指定固定，不代表已證明優於單一模型。')
     if season=='2024-25':st.caption('2024–25沿用後續球季研究設定作較早球季重現；本次套用相同25分規則，沒有依此球季再挑門檻。')
     players=sorted(frame.player_id.unique().tolist())
     player_key=f'history_player_{season}_{period}'
@@ -46,6 +48,7 @@ def render_history():
     preferred=st.session_state.get('last_history_player')
     initial=players.index(preferred) if preferred in players else 0
     left,right=st.columns([1,1.5]);player=left.selectbox('球員',players,index=initial,key=player_key)
+    heading.title(player)
     st.session_state['last_history_player']=player
     games=frame.loc[frame.player_id.eq(player)].sort_values(['GAMEDATE','game_id'],ascending=False)
     ids=games.game_id.tolist();game_key=f'history_game_{season}_{period}_{player}';ensure_option(game_key,ids)

@@ -1,0 +1,50 @@
+/* Shared journal presentation. Never hides warnings, tables or app controls. */
+[data-testid="stAppViewContainer"] { color:#25392F; background:#FFFFFF; }
+[data-testid="stMainBlockContainer"] { max-width:1200px; padding:4.4rem 2.8rem 3.5rem; }
+[data-testid="stSidebar"] { background:#F7F8F5; border-right:1px solid #E5EAE3; }
+[data-testid="stSidebarUserContent"] { padding:.7rem 1.15rem 2rem; }
+.journal-brand { font-family:Georgia,serif; font-size:2rem; font-weight:600; letter-spacing:-1.6px; color:#263C31; line-height:1.2; margin-bottom:.45rem; }
+.journal-brand span { font-style:italic; font-weight:400; }
+.journal-brand-caption { color:#7C887E; font-size:.72rem; letter-spacing:.05em; margin-bottom:2.2rem; }
+[data-testid="stSidebar"] [data-testid="stPageLink"] { padding:.25rem .35rem; }
+[data-testid="stSidebar"] [data-testid="stPageLink"] a { padding:.7rem .55rem; border-radius:9px; }
+[data-testid="stSidebar"] [data-testid="stPageLink"] p { font-size:.88rem; }
+.st-key-journal-nav-active { background:#FFFFFF; border-radius:10px; box-shadow:0 2px 8px #263C3105; }
+.journal-season-summary { border-top:1px solid #E2E8DF; margin-top:2.2rem; padding:1.6rem .6rem; display:flex; flex-direction:column; gap:.5rem; }
+.journal-season-summary span { color:#7D887E; font-size:.74rem; }
+.journal-season-summary strong { color:#2B4034; font-family:Georgia,serif; font-size:1.65rem; font-weight:400; letter-spacing:-.4px; }
+.journal-sidebar-footer { color:#78867B; font-size:.77rem; line-height:2; padding:.5rem .6rem; margin-top:4rem; }
+.journal-sidebar-footer span { color:#919B91; font-size:.69rem; }
+.journal-breadcrumb { display:flex; align-items:center; justify-content:space-between; gap:1rem; border-bottom:1px solid #E8ECE6; padding:.2rem 0 1.1rem; margin-bottom:.65rem; font-size:.75rem; color:#7D887F; }
+.journal-breadcrumb b { font-weight:400; color:#BBC2B9; padding:0 .8rem; }
+.journal-edition { letter-spacing:.09em; font-size:.65rem; color:#8E9A90; }
+[data-testid="stMain"] h1 { font-family:Georgia,"Noto Serif TC","Microsoft JhengHei",serif; font-weight:400; letter-spacing:-1.1px; color:#24392D; font-size:2.65rem; line-height:1.22; padding-top:.35rem; padding-bottom:.7rem; }
+[data-testid="stMain"] h2, [data-testid="stMain"] h3 { color:#314A3B; font-weight:550; letter-spacing:-.2px; }
+[data-testid="stMain"] h2 { font-size:1.2rem; }
+[data-testid="stMain"] h3 { font-size:1.05rem; }
+[data-testid="stCaptionContainer"] { color:#7B877E; font-size:.76rem; line-height:1.7; }
+[data-testid="stCaptionContainer"] p { color:#6F7E73; opacity:1; }
+[data-testid="stWidgetLabel"] p { color:#6F7F73; font-size:.79rem; }
+[data-baseweb="select"] > div { background:#FAFBF8; border-color:#E5EAE0; border-radius:7px; }
+[data-testid="stDateInput"] input { background:#FAFBF8; }
+[data-testid="stMetric"] { padding:.9rem 0 1.15rem; background:transparent; border:0; border-bottom:1px solid #E5EBE1; }
+[data-testid="stMetricLabel"] { height:auto; min-height:1.5rem; }
+[data-testid="stMetricLabel"] p { color:#7D887E; font-size:.77rem; white-space:normal; overflow:visible; }
+[data-testid="stMetricValue"] { font-family:Georgia,serif; font-weight:400; color:#2E4635; font-size:2.05rem; line-height:1.3; letter-spacing:-.7px; }
+[data-testid="stButton"] button, [data-testid="stDownloadButton"] button { border-radius:7px; border-color:#DDE5D9; font-weight:400; }
+[data-testid="stButton"] button[kind="secondary"], [data-testid="stDownloadButton"] button[kind="secondary"] { color:#47604D; background:#FAFBF8; }
+[data-testid="stButton"] button[kind="primary"] { color:#FFFFFF; background:#557366; border-color:#557366; }
+[data-testid="stButton"] button:disabled, [data-testid="stDownloadButton"] button:disabled { opacity:.45; }
+[data-testid="stExpander"] details { border:1px solid #E7EBE3; border-radius:8px; background:#FCFDFB; }
+[data-testid="stExpander"] summary p { color:#627763; font-size:.82rem; }
+[data-testid="stAlert"] { border-radius:8px; }
+[data-testid="stAlertContainer"]:has([data-testid="stAlertContentInfo"]) { background:#F2F5EF; color:#49634F; }
+[data-testid="stAlertContentInfo"] p { color:#49634F; }
+[data-testid="stDataFrame"] { border-radius:6px; }
+@media (min-width:850px) { [data-testid="stSidebar"] { width:235px!important; min-width:235px!important; } }
+@media (max-width:849px) { [data-testid="stMainBlockContainer"] { padding:4rem 1.2rem 2.5rem; } .journal-edition { display:none; } [data-testid="stMain"] h1 { font-size:2.1rem; } [data-testid="stMetricValue"] { font-size:1.75rem; } }
+@media (max-width:640px) {
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"]:first-child [data-testid="stMetric"]) { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.5rem 1rem; }
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"]:first-child [data-testid="stMetric"]) > [data-testid="stColumn"] { width:100%!important; min-width:0!important; }
+}
+@media (prefers-reduced-motion:reduce) { [data-testid="stAppViewContainer"] * { scroll-behavior:auto; } }
