@@ -27,12 +27,12 @@ class StreamlitPageTests(unittest.TestCase):
         self.assertEqual(len(app.exception),0)
         for player in ['Luka Dončić','Jarrett Allen']:
             next(x for x in app.selectbox if x.label=='球員').set_value(player).run()
-            game=next(x for x in app.selectbox if x.label=='比賽').value
+            game=next(x for x in app.selectbox if x.label=='比賽（美東日期）').value
             data=self.routing.predictions['2025-26']['test']
             expected=data.loc[(data['player_id']==player)&(data['game_id']==game)].iloc[0]
             self.assertEqual(self.metric(app,'模型預測'),f'{expected["pred_route25"]:.2f} 分')
             other=data.loc[data['player_id']==player].iloc[0]['game_id']
-            next(x for x in app.selectbox if x.label=='比賽').set_value(other).run()
+            next(x for x in app.selectbox if x.label=='比賽（美東日期）').set_value(other).run()
             expected=data.loc[(data['player_id']==player)&(data['game_id']==other)].iloc[0]
             self.assertEqual(self.metric(app,'實際得分'),f'{expected["target_pts"]:.0f} 分')
             raw=self.bundle.history
@@ -42,7 +42,7 @@ class StreamlitPageTests(unittest.TestCase):
             labels=[m.label for m in app.metric]
             self.assertEqual(labels.index('實際上場時間')+1,labels.index('實際得分'))
             table=app.dataframe[1].value
-            selected=table.loc[(table['比賽日期']==day)&(table['對戰']==matchup)].iloc[0]
+            selected=table.loc[(table['比賽日期（美東）']==day)&(table['對戰']==matchup)].iloc[0]
             self.assertEqual(selected['實際上場時間（分鐘）'],minutes)
             columns=table.columns.tolist()
             self.assertEqual(columns.index('實際上場時間（分鐘）')+1,columns.index('實際得分'))

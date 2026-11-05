@@ -52,7 +52,7 @@ def render_history():
     st.session_state['last_history_player']=player
     games=frame.loc[frame.player_id.eq(player)].sort_values(['GAMEDATE','game_id'],ascending=False)
     ids=games.game_id.tolist();game_key=f'history_game_{season}_{period}_{player}';ensure_option(game_key,ids)
-    game=right.selectbox('比賽',ids,format_func=lambda key:key.rsplit('|',1)[1]+' · '+key.rsplit('|',1)[0],key=game_key)
+    game=right.selectbox('比賽（美東日期）',ids,format_func=lambda key:key.rsplit('|',1)[1]+' · '+key.rsplit('|',1)[0],key=game_key)
     r=games.loc[games.game_id.eq(game)].iloc[0];pred=float(r['pred_'+ROUTE]);actual=float(r.target_pts);residual=actual-pred
     st.info(f'本場使用：{SOURCE_NAMES[r.route25_model]} · 近5場平均 {r.pred_baseline:.2f} 分'+('（達25分門檻）' if r.pred_baseline>=25 else '（低於25分門檻）'))
     cards=st.columns(5)
@@ -67,23 +67,23 @@ def render_history():
         st.subheader('本場之前的近10場出賽')
         if history.empty:st.info('沒有可用的前日歷史。')
         else:
-            trend=pd.DataFrame({'比賽日期':pd.to_datetime(history.GAMEDATE),'歷史實際得分':history.PTS})
-            st.altair_chart(_line_chart(trend,'比賽日期',['歷史實際得分']),width='stretch')
+            trend=pd.DataFrame({'比賽日期（美東）':pd.to_datetime(history.GAMEDATE),'歷史實際得分':history.PTS})
+            st.altair_chart(_line_chart(trend,'比賽日期（美東）',['歷史實際得分']),width='stretch')
             st.caption(f'共 {len(history)} 場同季正分鐘紀錄，不含本場、同日或後續比賽；包含當時尚未達預測資格的歷史場次。')
     with col2:
         st.subheader('這位球員的完整三月至季末')
         stats=comparison_metrics(games,['baseline',ROUTE]);st.metric('本球員平均誤差',f'{stats.iloc[1]["mae"]:.2f} 分')
         st.write(f'合格出賽 **{len(games)} 場** · 五場均值基準MAE **{stats.iloc[0]["mae"]:.2f} 分**')
         st.caption('這裡包含整段三月至季末，可能有目前比賽之後的紀錄；下方完整曲線亦同。')
-    recent=pd.DataFrame({'比賽日期':history.GAMEDATE,'對戰':history.MATCHUP,'實際上場時間（分鐘）':history.actual_minutes,'實際得分':history.PTS})
+    recent=pd.DataFrame({'比賽日期（美東）':history.GAMEDATE,'對戰':history.MATCHUP,'實際上場時間（分鐘）':history.actual_minutes,'實際得分':history.PTS})
     st.dataframe(recent,width='stretch',hide_index=True,column_config={'實際上場時間（分鐘）':st.column_config.NumberColumn(format='%.2f')})
     with st.expander('本場兩個分支各預測多少？'):
         st.write(f'直接25項：{r.pred_combined_prior25_w2:.2f} 分；五場均值增減25項：{r.pred_residual25_w2:.2f} 分。門檻只決定選哪一個，不混合平均。')
     with st.expander('查看三月至季末曲線與逐場紀錄',expanded=True):
         chronological=games.sort_values(['GAMEDATE','game_id'])
-        trend=pd.DataFrame({'比賽日期':pd.to_datetime(chronological.GAMEDATE),'切換方案預測':chronological['pred_'+ROUTE],'實際得分':chronological.target_pts,'五場均值':chronological.pred_baseline})
-        st.altair_chart(_line_chart(trend,'比賽日期',['切換方案預測','實際得分','五場均值']),width='stretch')
-        table=pd.DataFrame({'比賽日期':chronological.GAMEDATE,'對戰':chronological.game_id.str.rsplit('|',n=1).str[0],
+        trend=pd.DataFrame({'比賽日期（美東）':pd.to_datetime(chronological.GAMEDATE),'切換方案預測':chronological['pred_'+ROUTE],'實際得分':chronological.target_pts,'五場均值':chronological.pred_baseline})
+        st.altair_chart(_line_chart(trend,'比賽日期（美東）',['切換方案預測','實際得分','五場均值']),width='stretch')
+        table=pd.DataFrame({'比賽日期（美東）':chronological.GAMEDATE,'對戰':chronological.game_id.str.rsplit('|',n=1).str[0],
             '實際上場時間（分鐘）':chronological.actual_minutes,'實際得分':chronological.target_pts,'模型預測':chronological['pred_'+ROUTE],
             '近5場平均得分':chronological.pred_baseline,'本場選用模型':chronological.route25_model.map(SOURCE_NAMES),
             '直接25項預測':chronological.pred_combined_prior25_w2,'五場均值增減25項預測':chronological.pred_residual25_w2,

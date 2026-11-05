@@ -29,7 +29,12 @@ def journal_line_chart(data,x,series):
     palette=[]
     for name in series:
         palette.append('#607D8B' if '實際' in name else '#A6B0A7' if '均值' in name else '#557366')
-    return (original_line_chart(data,x,series)
+    chart=original_line_chart(data,x,series)
+    if x=='比賽日期（美東）':
+        chart=chart.encode(
+            x=alt.X(x+':T',title=x,axis=alt.Axis(format='%m/%d')),
+            tooltip=[alt.Tooltip(x+':T',title=x,format='%Y-%m-%d'),'曲線:N',alt.Tooltip('得分:Q',format='.2f')])
+    return (chart
         .encode(color=alt.Color('曲線:N',scale=alt.Scale(domain=series,range=palette),legend=alt.Legend(title=None,orient='bottom')))
         .properties(height=260)
         .configure_view(stroke=None)
