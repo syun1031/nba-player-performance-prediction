@@ -1,27 +1,27 @@
 {
   "schema": 1,
   "season": "2026-27",
-  "version": "20261107T093923172309Z",
-  "through": "2026-11-07",
-  "collected_at_utc": "2026-11-07T09:40:01.585097+00:00",
-  "player_rows": 2981,
-  "team_rows": 264,
-  "completed_games": 132,
-  "last_completed_date": "2026-11-06",
+  "version": "20261108T093916953333Z",
+  "through": "2026-11-08",
+  "collected_at_utc": "2026-11-08T09:40:07.398063+00:00",
+  "player_rows": 3133,
+  "team_rows": 278,
+  "completed_games": 139,
+  "last_completed_date": "2026-11-07",
   "reconciled_game_ids": [],
   "unresolved_game_dates": [
-    "2026-11-07"
+    "2026-11-08"
   ],
-  "source_manifest_sha256": "6e23c78a30273892f974f7d103d378b77a5f01611767a51ee87334b6a90fd882",
+  "source_manifest_sha256": "ce358b3235f284477a87ca68580298a26a9cb8d7661f41464db3a303da813086",
   "minute_feature_policy": "nearest integer minute, half-up; rounded-zero excluded from personal model history",
   "files": {
-    "conferences_2026_27.json": "46cf4df004c8e355db7a1fccf9a92878ca50e0d2cebb739bf6414ba97dd1e091",
-    "daily_index.json": "ef34f983b2dc97b1cc6fb8fa2a8e8ceb46a4967f635e78212711ee9317579e5a",
-    "pending_schedule.csv": "6d7f9aed0e72220c948738c55250b3e41be66a56ad8e934fa33fa76cab3568d2",
-    "player_games.csv": "ab6bfb07fa2b7f3700e27ec92f7fc44ded53057a97d0641d09381a9acd4af58a",
+    "conferences_2026_27.json": "07720857f23cc4d1f80444c2bddf2a97c5e557d878bd9fb61b572aec685efe97",
+    "daily_index.json": "626abb28d64c775fae0534f4fd604f97e568624698899f8f6763733e5a61fc84",
+    "pending_schedule.csv": "e8571fca9f014ec5e1bc9dfc3d01a00323254db0ca91729007d8de8689f41cd1",
+    "player_games.csv": "d69c4f5411dd6bbfb0843fe79291d807b48a507973e1f79497fcbbeb02131215",
     "previous_season_profiles.csv": "936bc71562291ffb89ef4f9daf455c0654a4fc6f6bd29f82ab6bd20fb433b969",
     "status_resolution.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-    "team_games.csv": "22ea4b65b44ac3552c9691548a81937a6206cc9152cdae87d61192f3aa7e8d72"
+    "team_games.csv": "1685fd099b82d4b33af28691f3a9e1722da49408ec726b432e83c6a1f774f800"
   },
   "models": {
     "combined_prior25_w2": {
