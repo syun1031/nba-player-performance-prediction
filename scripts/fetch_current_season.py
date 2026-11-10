@@ -12,9 +12,11 @@ import hashlib
 import json
 import math
 import re
+import time
 import urllib.request
 from pathlib import Path
 
+from scripts.actions_report import report_error
 from scripts.fetch_historical_seasons import page, minutes_seconds, dump
 from scripts.merge_game_rosters import ALIASES
 
@@ -22,6 +24,36 @@ ROOT=Path(__file__).resolve().parents[1]
 SEASON='2026-27'
 # Verified against the official personId in the saved 2025-26 source rows.
 CURRENT_NAME_KEYS={1630619:'Moussa Cisse'}
+
+
+BOX_RETRY_WAITS=(5,15,30)
+
+
+def box_url(gid):return f'https://www.nba.com/game/{gid}/box-score'
+
+
+def box_page(gid,*,fetch=page,sleep=time.sleep,waits=BOX_RETRY_WAITS):
+    """Official box score page that actually carries game data.
+
+    The site occasionally serves a valid page shell without `game` (observed
+    2026-11-09 for 0022600197). Retry only that case; still fail if it persists.
+    Every other validation stays strict and is not retried.
+    """
+    url=box_url(gid)
+    for attempt,wait in enumerate((*waits,None),1):
+        props,evidence=fetch(url)
+        g=props.get('game') if isinstance(props,dict) else None
+        if isinstance(g,dict) and g:
+            if attempt>1:evidence=dict(evidence,box_page_attempts=attempt)
+            return g,evidence
+        if wait is not None:sleep(wait)
+    raise ValueError(f'Box score page had no game data after {attempt} tries ({url})')
+
+
+def describe_error(exc):
+    """Readable error text; a bare KeyError would otherwise print only "'game'"."""
+    if isinstance(exc,KeyError):return f'KeyError: missing field {exc}'
+    return f'{type(exc).__name__}: {exc}'
 
 
 def regular(c):
@@ -166,7 +198,7 @@ def reconcile_overdue_cards(cards,now,out):
         if start>=now:continue
         attempt=dict(nba_game_id=gid,daily_numeric_status=c['gameStatus'],resolved=False)
         try:
-            props,box_evidence=page(f'https://www.nba.com/game/{gid}/box-score');g=props['game']
+            g,box_evidence=box_page(gid)
             if g['gameId']!=gid or g['gameEt'][:10]!=c['gameTimeEastern'][:10]:raise ValueError('Reconciliation date/ID mismatch')
             for side in ['homeTeam','awayTeam']:
                 if g[side]['teamId']!=c[side]['teamId'] or g[side]['teamTricode']!=c[side]['teamTricode']:
@@ -190,7 +222,7 @@ def reconcile_overdue_cards(cards,now,out):
             for side in ['homeTeam','awayTeam']:derived[side]=dict(c[side],score=fixed[side]['score'])
             attempt['resolved']=True
             resolved[gid]=dict(card=derived,game=fixed,box_evidence=box_evidence,resolution=attempt)
-        except (ValueError,KeyError,TypeError,OSError) as exc:attempt['reason']=str(exc)
+        except (ValueError,KeyError,TypeError,OSError) as exc:attempt['reason']=describe_error(exc)
         attempts.append(attempt)
     dump(out/'status_resolution.json',attempts)
     return resolved
@@ -280,8 +312,7 @@ def main():
         try:
             resolution=reconciled.get(gid)
             if resolution:g=resolution['game'];e=resolution['box_evidence']
-            else:
-                p,e=page(f'https://www.nba.com/game/{gid}/box-score');g=p['game']
+            else:g,e=box_page(gid)
             if g['gameId']!=gid or g['gameEt'][:10]!=c['gameTimeEastern'][:10]:raise ValueError('Box/index mismatch')
             for side in ['homeTeam','awayTeam']:
                 if g[side]['teamTricode']!=c[side]['teamTricode'] or stat(g[side]['score'])!=stat(c[side]['score']):
@@ -291,7 +322,7 @@ def main():
             resolution_info=resolution['resolution'] if resolution else None
             dump(out/'evidence'/f'{gid}.json',dict(players=rows,teams=t,excluded=ex,status_resolution=resolution_info,**e))
             return rows,t,ex,dict(nba_game_id=gid,status_resolution=resolution_info,**e),None
-        except Exception as exc:return [],[],[],None,dict(nba_game_id=gid,error=str(exc))
+        except Exception as exc:return [],[],[],None,dict(nba_game_id=gid,error=describe_error(exc),source_url=box_url(gid))
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         for i,(ps,ts,ex,ev,err) in enumerate(pool.map(box,sorted(finals.items())),1):
             players.extend(ps);teams.extend(ts);excluded.extend(ex)
@@ -326,7 +357,12 @@ def main():
     if not errors:
         dump(out.parent/'latest_success.json',dict(snapshot=stamp,manifest=str((out/'manifest.json').relative_to(ROOT))))
     print(json.dumps(dict(directory=str(out),**summary),ensure_ascii=False,indent=2),flush=True)
-    if errors:raise SystemExit(1)
+    if errors:
+        for err in errors:report_error(f"Box score {err['nba_game_id']}",f"{err['error']} ({err['source_url']})")
+        raise SystemExit(1)
 
 
-if __name__=='__main__':main()
+if __name__=='__main__':
+    try:main()
+    except Exception as exc:
+        report_error('Collection stopped',describe_error(exc));raise

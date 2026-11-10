@@ -1,6 +1,10 @@
 import copy
+import io
+import tempfile
 import unittest
-from scripts.fetch_current_season import completed_rows, schedule_rows, prior_profiles, conference_teams
+from pathlib import Path
+from scripts.actions_report import annotation, report_error
+from scripts.fetch_current_season import completed_rows, schedule_rows, prior_profiles, conference_teams, box_page, describe_error
 
 
 class CurrentSeasonTests(unittest.TestCase):
@@ -97,6 +101,64 @@ class CurrentSeasonTests(unittest.TestCase):
         self.assertEqual(teams['AAA'],'East')
         self.assertEqual(teams['FAA'],'West')
         with self.assertRaises(ValueError):conference_teams(html.replace('Atlantic','Unknown'))
+
+
+class BoxPageRetryTest(unittest.TestCase):
+    def fetcher(self,responses):
+        calls=[]
+        def fetch(url):
+            calls.append(url);r=responses[len(calls)-1]
+            if isinstance(r,Exception):raise r
+            return r,dict(source_url=url)
+        return fetch,calls
+
+    def test_retries_page_without_game_then_records_attempts(self):
+        fetch,calls=self.fetcher([{},{'game':None},{'game':{'gameId':'0022600197'}}])
+        waits=[]
+        g,e=box_page('0022600197',fetch=fetch,sleep=waits.append,waits=(1,2,3))
+        self.assertEqual(g['gameId'],'0022600197')
+        self.assertEqual(e['box_page_attempts'],3)
+        self.assertEqual(waits,[1,2])
+        self.assertEqual(calls,['https://www.nba.com/game/0022600197/box-score']*3)
+
+    def test_first_good_page_keeps_evidence_unchanged(self):
+        fetch,_=self.fetcher([{'game':{'gameId':'1'}}])
+        _,e=box_page('1',fetch=fetch,sleep=self.fail)
+        self.assertNotIn('box_page_attempts',e)
+
+    def test_persistent_missing_game_still_fails_with_url(self):
+        fetch,calls=self.fetcher([{}]*4)
+        with self.assertRaisesRegex(ValueError,r'no game data after 4 tries \(https://www\.nba\.com/game/9/box-score\)'):
+            box_page('9',fetch=fetch,sleep=lambda s:None,waits=(1,1,1))
+        self.assertEqual(len(calls),4)
+
+    def test_fetch_errors_are_not_swallowed(self):
+        fetch,calls=self.fetcher([OSError('timeout')])
+        with self.assertRaises(OSError):box_page('9',fetch=fetch,sleep=self.fail)
+        self.assertEqual(len(calls),1)
+
+    def test_describe_error_names_missing_field(self):
+        self.assertEqual(describe_error(KeyError('game')),"KeyError: missing field 'game'")
+        self.assertEqual(describe_error(ValueError('Game clock is not zero')),'ValueError: Game clock is not zero')
+
+
+class ActionsReportTest(unittest.TestCase):
+    def test_annotation_escapes_workflow_command_characters(self):
+        self.assertEqual(annotation('Box score 1, a:b','50% done\nnext'),
+                         '::error title=Box score 1%2C a%3Ab::50%25 done%0Anext')
+
+    def test_silent_outside_actions(self):
+        out=io.StringIO()
+        self.assertFalse(report_error('t','m',env={},stream=out))
+        self.assertEqual(out.getvalue(),'')
+
+    def test_actions_annotation_and_step_summary(self):
+        with tempfile.TemporaryDirectory() as d:
+            summary=Path(d)/'summary.md';out=io.StringIO()
+            self.assertTrue(report_error('Box score 0022600197',"KeyError: missing field 'game'",
+                env={'GITHUB_ACTIONS':'true','GITHUB_STEP_SUMMARY':str(summary)},stream=out))
+            self.assertEqual(out.getvalue(),"::error title=Box score 0022600197::KeyError: missing field 'game'\n")
+            self.assertIn('0022600197',summary.read_text(encoding='utf-8'))
 
 
 if __name__=='__main__':unittest.main()

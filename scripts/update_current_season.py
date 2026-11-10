@@ -6,6 +6,7 @@ import json
 import csv
 import subprocess
 import sys
+from scripts.actions_report import report_error
 from scripts.build_future_prediction_bundle import build as build_future
 from scripts.build_current_season_backtest import build as build_backtest
 from nba_dashboard.future_data import load_future
@@ -46,4 +47,8 @@ def update(root,*,now=None):
     return summary
 
 
-if __name__=='__main__':update(Path(__file__).resolve().parents[1])
+if __name__=='__main__':
+    try:update(Path(__file__).resolve().parents[1])
+    except subprocess.CalledProcessError:raise  # the collector already reported its own errors
+    except Exception as exc:
+        report_error('Daily update stopped',f'{type(exc).__name__}: {exc}');raise
