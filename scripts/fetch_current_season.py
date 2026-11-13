@@ -137,12 +137,29 @@ def completed_rows(g):
     return players,teams,excluded
 
 
+FINAL_LABEL=re.compile(r'Final(?:/(?:([1-9]\d*)?OT|OT([1-9]\d*)?))?')
+
+
+def final_overtimes(text):
+    """Overtimes stated by an official Final label, or None when it is not one.
+
+    nba.com writes multiple overtimes as "Final/OT2" (seen 2026-11-12,
+    0022600228); "Final/2OT" is accepted too. A bare "OT" means one.
+    """
+    m=FINAL_LABEL.fullmatch(str(text or '').strip())
+    if not m:return None
+    if '/' not in m[0]:return 0
+    n=m[1] or m[2]
+    return int(n) if n else 1
+
+
 def validate_final_box(g,now):
     """Historical final evidence, never a pregame-confirmation shortcut."""
-    text=g.get('gameStatusText','').strip()
-    if not re.fullmatch(r'Final(?:/(?:\d*OT))?',text):raise ValueError('No explicit Final label')
+    overtimes=final_overtimes(g.get('gameStatusText',''))
+    if overtimes is None:raise ValueError('No explicit Final label')
     period=g.get('period')
     if isinstance(period,bool) or not isinstance(period,int) or period<4:raise ValueError('Incomplete regulation periods')
+    if period!=4+overtimes:raise ValueError('Final label overtime count disagrees with period')
     if played_seconds(g.get('gameClock'))!=0:raise ValueError('Game clock is not zero')
     start=datetime.fromisoformat(g['gameTimeUTC'].replace('Z','+00:00'))
     if start.utcoffset() is None or now.utcoffset() is None or now-start<timedelta(minutes=48+5*(period-4)):
@@ -206,7 +223,7 @@ def reconcile_overdue_cards(cards,now,out):
             attempt.update(box_numeric_status=g['gameStatus'],box_status_text=g.get('gameStatusText'),box_evidence=box_evidence)
             if g['gameStatus']==3:
                 validate_final_box(g,now);fixed=g;attempt['method']='official_box_final'
-            elif re.fullmatch(r'Final(?:/(?:\d*OT))?',g.get('gameStatusText','').strip()):
+            elif final_overtimes(g.get('gameStatusText')) is not None:
                 day=g['gameEt'][:10];url='https://stats.nba.com/js/data/leaders/00_daily_lineups_'+day.replace('-','')+'.json'
                 raw=urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0','Referer':'https://www.nba.com/'}),timeout=15).read()
                 refs=[x for x in json.loads(raw)['games'] if x['gameId']==gid]
