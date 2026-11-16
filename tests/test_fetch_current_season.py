@@ -4,7 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path
 from scripts.actions_report import annotation, report_error
-from scripts.fetch_current_season import completed_rows, schedule_rows, prior_profiles, conference_teams, box_page, describe_error
+from scripts.fetch_current_season import completed_rows, schedule_rows, prior_profiles, conference_teams, box_page, daily_games_page, describe_error
 
 
 class CurrentSeasonTests(unittest.TestCase):
@@ -140,6 +140,24 @@ class BoxPageRetryTest(unittest.TestCase):
     def test_describe_error_names_missing_field(self):
         self.assertEqual(describe_error(KeyError('game')),"KeyError: missing field 'game'")
         self.assertEqual(describe_error(ValueError('Game clock is not zero')),'ValueError: Game clock is not zero')
+
+    def test_daily_page_retries_missing_modules(self):
+        d='2026-11-15';good={'selectedDate':d,'gameCardFeed':{'modules':[]}}
+        fetch,calls=self.fetcher([{'selectedDate':d,'gameCardFeed':{}},{'selectedDate':d},good]);waits=[]
+        p,e=daily_games_page(d,fetch=fetch,sleep=waits.append,waits=(1,2,3))
+        self.assertIs(p,good);self.assertEqual(e['daily_page_attempts'],3);self.assertEqual(waits,[1,2])
+        self.assertEqual(calls,['https://www.nba.com/games?date='+d]*3)
+        fetch,_=self.fetcher([good]);_,e=daily_games_page(d,fetch=fetch,sleep=self.fail)
+        self.assertNotIn('daily_page_attempts',e)
+
+    def test_daily_page_date_mismatch_and_persistent_missing_still_fail(self):
+        fetch,calls=self.fetcher([{'selectedDate':'2026-11-14','gameCardFeed':{'modules':[]}}])
+        with self.assertRaisesRegex(ValueError,'date mismatch'):daily_games_page('2026-11-15',fetch=fetch,sleep=self.fail)
+        self.assertEqual(len(calls),1)
+        fetch,calls=self.fetcher([{'selectedDate':'2026-11-15'}]*4)
+        with self.assertRaisesRegex(ValueError,'no card modules after 4 tries'):
+            daily_games_page('2026-11-15',fetch=fetch,sleep=lambda s:None,waits=(1,1,1))
+        self.assertEqual(len(calls),4)
 
 
 class ActionsReportTest(unittest.TestCase):

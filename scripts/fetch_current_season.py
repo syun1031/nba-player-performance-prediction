@@ -50,6 +50,25 @@ def box_page(gid,*,fetch=page,sleep=time.sleep,waits=BOX_RETRY_WAITS):
     raise ValueError(f'Box score page had no game data after {attempt} tries ({url})')
 
 
+def daily_games_page(d,*,fetch=page,sleep=time.sleep,waits=BOX_RETRY_WAITS):
+    """Daily games page that actually carries the card feed modules.
+
+    Like box pages, the site occasionally serves a shell without
+    `gameCardFeed.modules` (observed 2026-11-16 under parallel fetches).
+    Retry only that case; a date mismatch still fails immediately.
+    """
+    url='https://www.nba.com/games?date='+d
+    for attempt,wait in enumerate((*waits,None),1):
+        p,e=fetch(url)
+        if p.get('selectedDate')!=d:raise ValueError('Daily page date mismatch')
+        modules=(p.get('gameCardFeed') or {}).get('modules')
+        if isinstance(modules,list):
+            if attempt>1:e=dict(e,daily_page_attempts=attempt)
+            return p,e
+        if wait is not None:sleep(wait)
+    raise ValueError(f'Daily games page had no card modules after {attempt} tries ({url})')
+
+
 def describe_error(exc):
     """Readable error text; a bare KeyError would otherwise print only "'game'"."""
     if isinstance(exc,KeyError):return f'KeyError: missing field {exc}'
@@ -153,8 +172,15 @@ def final_overtimes(text):
     return int(n) if n else 1
 
 
+TEAM_TOTAL_STATS=('points','reboundsTotal','assists','fieldGoalsMade')
+
+
 def validate_final_box(g,now):
-    """Historical final evidence, never a pregame-confirmation shortcut."""
+    """Historical final evidence, never a pregame-confirmation shortcut.
+
+    Returns notes about tolerated source inconsistencies (empty when clean).
+    """
+    notes=[]
     overtimes=final_overtimes(g.get('gameStatusText',''))
     if overtimes is None:raise ValueError('No explicit Final label')
     period=g.get('period')
@@ -171,9 +197,20 @@ def validate_final_box(g,now):
         # team drift). Bound the accumulated error by 1s per appeared player.
         tolerance=max(2,sum(s>0 for s in seconds))
         total_minutes=(g[side].get('statistics') or {}).get('minutes')
-        if total_minutes is not None and played_seconds(total_minutes)!=expected:raise ValueError('Official team minutes disagree')
         if not math.isclose(sum(seconds),expected,rel_tol=0,abs_tol=tolerance):raise ValueError('Final team minutes incomplete')
+        if total_minutes is not None and played_seconds(total_minutes)!=expected:
+            # nba.com has published a wrong team minutes field (0022600231 DEN:
+            # 168:00) while every player line was complete. Accept only when the
+            # player minutes sum and the other team totals agree with the players.
+            team_stats=g[side].get('statistics') or {}
+            for key in TEAM_TOTAL_STATS:
+                if key in team_stats and stat(team_stats[key])!=sum(stat((p.get('statistics') or {}).get(key) or 0) for p in g[side]['players']):
+                    raise ValueError('Official team minutes disagree')
+            notes.append(dict(check='official_team_minutes',team=g[side].get('teamTricode'),official=total_minutes,
+                expected_seconds=expected,player_sum_seconds=sum(seconds),
+                accepted_by='player minutes sum and team totals agree'))
     completed_rows(g)
+    return notes
 
 
 def resolve_final_status(g,reference,now):
@@ -307,8 +344,7 @@ def main():
     dates=[(date(2026,10,1)+timedelta(days=i)).isoformat() for i in range((last-date(2026,10,1)).days+1)]
     cards={};daily=[];errors=[]
     def daily_page(d):
-        p,e=page('https://www.nba.com/games?date='+d)
-        if p.get('selectedDate')!=d:raise ValueError('Daily page date mismatch')
+        p,e=daily_games_page(d)
         cs=[c.get('cardData',{}) for m in p['gameCardFeed']['modules'] for c in m.get('cards',[])]
         return d,[c for c in cs if regular(c)],e
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
@@ -334,7 +370,8 @@ def main():
             for side in ['homeTeam','awayTeam']:
                 if g[side]['teamTricode']!=c[side]['teamTricode'] or stat(g[side]['score'])!=stat(c[side]['score']):
                     raise ValueError('Box/index team or score mismatch')
-            validate_final_box(g,datetime.now(timezone.utc))
+            notes=validate_final_box(g,datetime.now(timezone.utc))
+            if notes:e=dict(e,validation_notes=notes)
             rows,t,ex=completed_rows(g)
             resolution_info=resolution['resolution'] if resolution else None
             dump(out/'evidence'/f'{gid}.json',dict(players=rows,teams=t,excluded=ex,status_resolution=resolution_info,**e))
@@ -365,6 +402,7 @@ def main():
         completed_games_indexed=len(finals),completed_games_collected=len(evidence),player_rows=len(players),team_rows=len(teams),
         excluded_rows=len(excluded),pending_games=len(pending)//2,errors=errors,complete=not errors,
         reconciled_games=sorted(reconciled),
+        validation_notes=[dict(nba_game_id=ev['nba_game_id'],**n) for ev in evidence for n in ev.get('validation_notes',[])],
         first_game_date=min((r['GAMEDATE'] for r in players),default=None),last_game_date=max((r['GAMEDATE'] for r in players),default=None),
         source_publication_time=None,pregame_lineups_collected=False,prediction_ready=False,
         previous_season_profiles=len(profiles),previous_season_source=str(prior_source.relative_to(ROOT)),

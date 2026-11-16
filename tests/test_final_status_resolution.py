@@ -78,5 +78,35 @@ class FinalResolutionTests(unittest.TestCase):
             g,now=self.double_overtime_box();g.update(gameStatusText=text,period=period)
             with self.subTest(text=text,period=period),self.assertRaisesRegex(ValueError,'overtime count disagrees|team minutes'):validate_final_box(g,now)
 
+    def team_totals_box(self):
+        g,_,now=self.fixture();g['gameStatus']=3
+        for side in ['homeTeam','awayTeam']:
+            ps=[p['statistics'] for p in g[side]['players']]
+            g[side]['statistics']={k:sum(s.get(k) or 0 for s in ps) for k in ['points','reboundsTotal','assists','fieldGoalsMade']}
+            g[side]['statistics']['minutes']='240:00'
+        return g,now
+
+    def test_clean_box_has_no_validation_notes(self):
+        g,now=self.team_totals_box()
+        self.assertEqual(validate_final_box(g,now),[])
+
+    def test_wrong_official_team_minutes_accepted_when_players_agree(self):
+        # 0022600231 (2026-11-14): DEN team minutes 168:00, player lines sum to 240:00.
+        g,now=self.team_totals_box();g['awayTeam']['statistics']['minutes']='168:00'
+        notes=validate_final_box(g,now)
+        self.assertEqual(len(notes),1)
+        self.assertEqual(notes[0]['team'],g['awayTeam']['teamTricode'])
+        self.assertEqual(notes[0]['official'],'168:00')
+        self.assertEqual(notes[0]['player_sum_seconds'],notes[0]['expected_seconds'])
+
+    def test_wrong_official_team_minutes_rejected_when_totals_disagree(self):
+        g,now=self.team_totals_box();t=g['awayTeam']['statistics'];t['minutes']='168:00';t['reboundsTotal']+=1
+        with self.assertRaisesRegex(ValueError,'Official team minutes disagree'):validate_final_box(g,now)
+
+    def test_wrong_official_team_minutes_rejected_when_player_sum_short(self):
+        g,now=self.team_totals_box();g['awayTeam']['statistics']['minutes']='168:00'
+        g['awayTeam']['players'][0]['statistics']['minutes']='40:00'
+        with self.assertRaisesRegex(ValueError,'team minutes incomplete'):validate_final_box(g,now)
+
 
 if __name__=='__main__':unittest.main()
