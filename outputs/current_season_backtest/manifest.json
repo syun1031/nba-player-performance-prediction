@@ -2,12 +2,12 @@
   "schema": 1,
   "season": "2026-27",
   "kind": "date_isolated_hypothetical_backtest",
-  "history_version": "20261119T095648474600Z",
-  "history_manifest_sha256": "156d21b6e0e0f5ac793168eeab1c7353bcfba237485ddf3b1b77a8254bcb24fb",
-  "through": "2026-11-19",
-  "last_completed_date": "2026-11-18",
-  "collected_at_utc": "2026-11-19T09:57:50.538982+00:00",
-  "generated_at_utc": "2026-11-19T09:57:52.125874+00:00",
+  "history_version": "20261120T130834297373Z",
+  "history_manifest_sha256": "67e68f563ca682d457165643de325272076f235922c6dcf4cff9bb35e8e3ae14",
+  "through": "2026-11-20",
+  "last_completed_date": "2026-11-19",
+  "collected_at_utc": "2026-11-20T13:09:47.863435+00:00",
+  "generated_at_utc": "2026-11-20T13:09:49.508709+00:00",
   "models": {
     "combined_prior25_w2": {
       "path": "outputs/week2/prior_season_profile_v9/models/February_combined_prior25_w2.joblib",
@@ -20,13 +20,13 @@
       "trained_through": "2026-01-31"
     }
   },
-  "eligible_rows": 2725,
-  "excluded_rows": 2275,
-  "source_rows": 5000,
+  "eligible_rows": 2810,
+  "excluded_rows": 2279,
+  "source_rows": 5089,
   "lineup_source_kind": "historical_postgame",
   "pregame_verified": false,
   "files": {
-    "predictions.csv": "14a3ea9ac948a2dde8b6398fa33bd94e19a12b6698e86fae6d0a364b46a5601f",
-    "excluded.csv": "0ed0c6206105ce7cd7779165882d39dbc98282cf060c841efa1139b0f1801f08"
+    "predictions.csv": "6a9927552f9c43c7f0b41c95a9fbd2e95d08ba683b4b36da9709b529b9641a12",
+    "excluded.csv": "61b0411ecc6ea087d124754fee3b4506a6593594b4320568570807823001f901"
   }
 }
