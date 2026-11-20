@@ -173,6 +173,24 @@ def final_overtimes(text):
 
 
 TEAM_TOTAL_STATS=('points','reboundsTotal','assists','fieldGoalsMade')
+REGULATION_SECONDS=48*60*5
+
+
+def regulation_only(g):
+    """True when every non-label source says the game ended in regulation.
+
+    Both teams need exactly four REGULAR line scores summing to the final
+    score, official team minutes of 240:00 and player minutes summing to it.
+    """
+    for side in ['homeTeam','awayTeam']:
+        t=g[side];periods=t.get('periods')
+        if not isinstance(periods,list) or [p.get('period') for p in periods]!=[1,2,3,4]:return False
+        if any(p.get('periodType')!='REGULAR' for p in periods):return False
+        if sum(stat(p.get('score')) for p in periods)!=stat(t.get('score')):return False
+        if played_seconds((t.get('statistics') or {}).get('minutes'))!=REGULATION_SECONDS:return False
+        seconds=[played_seconds((p.get('statistics') or {}).get('minutes')) or 0 for p in t['players']]
+        if abs(sum(seconds)-REGULATION_SECONDS)>max(2,sum(s>0 for s in seconds)):return False
+    return True
 
 
 def validate_final_box(g,now):
@@ -187,6 +205,13 @@ def validate_final_box(g,now):
     if isinstance(period,bool) or not isinstance(period,int) or period<4:raise ValueError('Incomplete regulation periods')
     if period!=4+overtimes:raise ValueError('Final label overtime count disagrees with period')
     if played_seconds(g.get('gameClock'))!=0:raise ValueError('Game clock is not zero')
+    if overtimes and regulation_only(g):
+        # nba.com relabelled 0022600111 (2026-10-24) as "Final/OT", period 5,
+        # weeks later while line scores, team and player minutes all stayed at
+        # regulation. Treat it as regulation only when all three agree.
+        notes.append(dict(check='overtime_label',official_label=g.get('gameStatusText'),official_period=period,
+            used_period=4,accepted_by='four regulation line scores and regulation team and player minutes agree'))
+        period=4
     start=datetime.fromisoformat(g['gameTimeUTC'].replace('Z','+00:00'))
     if start.utcoffset() is None or now.utcoffset() is None or now-start<timedelta(minutes=48+5*(period-4)):
         raise ValueError('Final before minimum elapsed regulation time')

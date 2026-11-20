@@ -108,5 +108,33 @@ class FinalResolutionTests(unittest.TestCase):
         g['awayTeam']['players'][0]['statistics']['minutes']='40:00'
         with self.assertRaisesRegex(ValueError,'team minutes incomplete'):validate_final_box(g,now)
 
+    def relabelled_overtime_box(self):
+        # 0022600111 (2026-10-24): later shown as "Final/OT", period 5, with only
+        # four regulation line scores and 240:00 team and player minutes.
+        g,now=self.team_totals_box();g.update(gameStatusText='Final/OT',period=5)
+        for side in ['homeTeam','awayTeam']:
+            s=g[side]['score'];q=[s//4]*3+[s-3*(s//4)]
+            g[side]['periods']=[dict(period=i+1,periodType='REGULAR',score=v) for i,v in enumerate(q)]
+        return g,now
+
+    def test_overtime_label_with_regulation_evidence_is_regulation(self):
+        g,now=self.relabelled_overtime_box()
+        notes=validate_final_box(g,now)
+        self.assertEqual([n['check'] for n in notes],['overtime_label'])
+        self.assertEqual((notes[0]['official_label'],notes[0]['official_period'],notes[0]['used_period']),('Final/OT',5,4))
+
+    def test_overtime_label_needs_every_regulation_signal(self):
+        for bad in ['fifth_period','line_sum','team_minutes','no_periods']:
+            g,now=self.relabelled_overtime_box();t=g['awayTeam']
+            if bad=='fifth_period':t['periods'].append(dict(period=5,periodType='OVERTIME',score=0))
+            if bad=='line_sum':t['periods'][0]['score']+=1
+            if bad=='team_minutes':t['statistics']['minutes']='265:00'
+            if bad=='no_periods':del t['periods']
+            with self.subTest(bad=bad),self.assertRaisesRegex(ValueError,'team minutes'):validate_final_box(g,now)
+
+    def test_real_overtime_box_unaffected(self):
+        g,now=self.double_overtime_box()
+        self.assertEqual(validate_final_box(g,now),[])
+
 
 if __name__=='__main__':unittest.main()
